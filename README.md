@@ -19,7 +19,7 @@ wuhan hubei china
  
 # 校友
 
-([杨烽](https://faculty.cqupt.edu.cn/yangfeng/zh_CN/index.htm))
+[杨烽](https://faculty.cqupt.edu.cn/yangfeng/zh_CN/index.htm)
 
 [郭伟超](https://mri.sjtu.edu.cn/sz_qzjs/345.html)
 
