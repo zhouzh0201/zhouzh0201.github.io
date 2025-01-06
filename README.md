@@ -1,4 +1,6 @@
- #                                           周忠红的主页
+ #                                        周忠红（zhouzhonghong) 
+
+![mmexport1645539461204](https://github.com/user-attachments/assets/b4464adb-922d-4d89-8604-9a0507b81d4c)
 
 ## wuhan university
 
@@ -7,12 +9,11 @@ wuhan hubei china
 邮箱 zhouzh@whu.edu.cn
 
 网址 ：https://zhouzh0201.github.io/
+ 
 
-![IMG_20240208_195110](https://github.com/user-attachments/assets/14be21dd-b3e0-4acd-b052-c2fbda0ba99e)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++
                                                                          
-   #                          欢迎访问我的主页                                                      
+   #          welcome to visit                                                                
                                                                           
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++=+++
++++++++++++++++++++++++++++++++++++++
  
