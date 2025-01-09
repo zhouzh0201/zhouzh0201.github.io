@@ -15,17 +15,17 @@
 
 <div class="profile-table">
   <div class="profile-text">
-    <h2>Sifeng SHANG </h2>
+    <h2>zhouzhonghong</h2>
     <p>
       PhD Student <br>
       Department of Computer Science <br>
-      Hong Kong Baptist University
+      Wuhan University
     </p>
     <p>
       
       <a href="zhouzh@whu.edu.cn">Email</a> |
-      <a href="https://github.com/zhouzh0201.github.io">Github</a> |
-     # <a href="https://x.com/SifengS99450">Twitter</a> 
+      # <a href="https://github.com/zhouzh0201.github.io">Github</a> |
+      # <a href="https://x.com/SifengS99450">Twitter</a> 
     </p>
   </div>
 </div>
@@ -33,8 +33,7 @@
 <hr noshade="">
 
 <p>
-zhonghong is currently a third year student of the <a href="https://www.whu.edu.cn/">Department of Computer Science,  </a>,  </a>. He received both his Master's Degree (2021-2024) in Pattern Recognition and Intelligent Systems and Bachelor's Degree (2017-2021) of Intelligence Science and Technology from the <a href="https://cs.njust.edu.cn/">School of Computer Science and Engineering, Nanjing University of Science and Technology</a>, under the supervision of <a href=""https://liminxian.github.io/> Prof. Minxian Li</a>.
-</p>
+zhonghong is currently a third year student of the <a href="https://www.whu.edu.cn/"</a>
 
 
 <h3> Research Interests </h3>
