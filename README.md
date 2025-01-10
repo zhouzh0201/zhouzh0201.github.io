@@ -31,12 +31,12 @@
         <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto:yuhuai@whu.edu.cn" target="_top">
                             <i class="fa fa-envelope"></i>
-                        </a>|
+                        </a>
                     </li>                    
          <li>
                          <i class="fa fa-envelope" style="color:black;" data-toggle="tooltip" data- 
                                     placement="left" title="Email"></i>
-                         <span class="sr-only">Email:</span>zhuzh[at] whu [dot] edu [dot] cn</a>
+                         <span class="sr-only">Email:</span>Email:zhuzh[at] whu [dot] edu [dot] cn</a>
                       </li>             
                    
       <a href="https://github.com/zhouzh0201">Github</a> |
