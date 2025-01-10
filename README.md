@@ -24,7 +24,7 @@
     <p>
       
       <a href="zhouzh@whu.edu.cn">Email</a> |
-      # <a href="https://github.com/zhouzh0201.github.io">Github</a> |
+     <a href="https://github.com/zhouzh0201">Github</a> |
       # <a href="https://x.com/SifengS99450">Twitter</a> 
     </p>
   </div>
@@ -33,7 +33,7 @@
 <hr noshade="">
 
 <p>
-zhonghong is currently a third year student of the <a href="https://www.whu.edu.cn/"</a>
+zhonghong is currently a third year student of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 
 
 <h3> Research Interests </h3>
