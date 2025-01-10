@@ -20,8 +20,7 @@
       Retiree <br>
         
       Engineering faculty <br>
-      
-      Wuhan University
+      Wuhan University <br>
     </p>
     <p>
       
@@ -36,7 +35,7 @@
 
 <p>
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
-
+<p/>
 
 <h3> Research Interests </h3>
 
