@@ -36,7 +36,7 @@
          <li>
                          <i class="fa fa-envelope" style="color:black;" data-toggle="tooltip" data- 
                                     placement="left" title="Email"></i>
-                         <span class="sr-only">Email:</span>Email:zhuzh[at] whu [dot] edu [dot] cn</a>
+                         <span class="sr-only">Email:</span> <a Email:zhuzh[at] whu [dot] edu [dot] cn></a>
                       </li>             
                    
       <a href="https://github.com/zhouzh0201">Github</a> |
@@ -60,5 +60,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
     <li>  Person Re-identification </li>
 </ul>
 
-</body></html>
+</body>   
+
+</html>
 
