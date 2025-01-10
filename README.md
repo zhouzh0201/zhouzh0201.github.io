@@ -6,7 +6,7 @@
     <meta name="description" content="zhouzhonghong&#39;s Home Page">
     <meta name="keywords" content="zhouzhonghong">
     <meta name="author" content="zhouzhonghong">
-    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
@@ -20,7 +20,9 @@
       Retiree <br>
         
       Engineering faculty <br>
+      
       Wuhan University <br>
+      
     </p>
     <p>
       
@@ -46,5 +48,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
     <li>  Person Re-identification </li>
 </ul>
 
-</body></html>
+</body>
+
+</html>
 
