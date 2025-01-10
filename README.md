@@ -16,9 +16,9 @@
 <div class="profile-table">
   <div class="profile-text">
     <h2>zhouzhonghong</h2>
-    <p>
-      PhD Student <br>
-      Department of Computer Science <br>
+    <p>p
+      Retiree <br>
+      Engineering faculty <br>p
       Wuhan University
     </p>
     <p>
@@ -33,7 +33,7 @@
 <hr noshade="">
 
 <p>
-zhonghong is currently a third year student of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
+zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 
 
 <h3> Research Interests </h3>
