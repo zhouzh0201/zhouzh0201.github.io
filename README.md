@@ -16,6 +16,12 @@
 <div class="profile-table">
   <div class="profile-text">
     <h2>zhouzhonghong</h2>
+      
+ <a class="col-md-4 col-sm-4 col-xs-12" href="javascript:void(0)">
+     <img class="img-responsive project-image" src="xiaohong1.png" alt="">
+     </a>
+
+      
     <p>
       Retiree <br>
         
