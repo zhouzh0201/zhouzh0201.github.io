@@ -24,9 +24,13 @@
       Wuhan University <br>
       
     </p>
+    
     <p>
       
-      <a href="https://zhouzh@whu.edu.cn">Email</a> |
+      <a  href="mailto:zhouzh@whu.edu.cn" > </a>|
+                           
+                       
+                   
       <a href="https://github.com/zhouzh0201">Github</a> |
       <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a> 
     </p>
