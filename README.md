@@ -16,9 +16,11 @@
 <div class="profile-table">
   <div class="profile-text">
     <h2>zhouzhonghong</h2>
-    <p>p
+    <p>
       Retiree <br>
-      Engineering faculty <br>p
+        
+      Engineering faculty <br>
+      
       Wuhan University
     </p>
     <p>
