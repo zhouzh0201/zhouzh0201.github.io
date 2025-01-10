@@ -6,7 +6,7 @@
     <meta name="description" content="zhouzhonghong&#39;s Home Page">
     <meta name="keywords" content="zhouzhonghong">
     <meta name="author" content="zhouzhonghong">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
 </head>
 
 <body>
