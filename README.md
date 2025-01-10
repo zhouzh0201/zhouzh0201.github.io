@@ -27,8 +27,8 @@
     <p>
       
       <a href="https://zhouzh@whu.edu.cn">Email</a> |
-     <a href="https://github.com/zhouzh0201">Github</a> |
-      # <a href="https://x.com/SifengS99450">Twitter</a> 
+      <a href="https://github.com/zhouzh0201">Github</a> |
+      <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a> 
     </p>
   </div>
 </div>
@@ -48,7 +48,5 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
     <li>  Person Re-identification </li>
 </ul>
 
-</body>
-
-</html>
+</body></html>
 
