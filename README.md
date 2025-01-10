@@ -31,7 +31,7 @@
         <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto:yuhuai@whu.edu.cn" target="_top">
                             <i class="fa fa-envelope"></i>
-                        </a>
+                        </a>|
                     </li>                    
                        
                    
