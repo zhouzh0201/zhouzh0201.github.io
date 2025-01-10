@@ -23,7 +23,7 @@
     </p>
     <p>
       
-      <a href="zhouzh@whu.edu.cn">Email</a> |
+      <a href="https://zhouzh@whu.edu.cn">Email</a> |
      <a href="https://github.com/zhouzh0201">Github</a> |
       # <a href="https://x.com/SifengS99450">Twitter</a> 
     </p>
