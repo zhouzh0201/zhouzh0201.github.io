@@ -58,7 +58,7 @@
 <p>
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 <p/>
-
+<hr noshade="">
 <h3> Research Interests </h3>
 
 <ul>
@@ -67,6 +67,6 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
     <li>  Continual Learning </li>
     <li>  Person Re-identification </li>
 </ul>
-
+<hr noshade="">
 </body>   </html>
 
