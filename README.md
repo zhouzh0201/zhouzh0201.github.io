@@ -20,7 +20,9 @@
      </a>
      
     <h2>zhouzhonghong</h2>
-     <hr width="90%"size="1"color"red"/>
+    </div>
+    <hr noshade="">
+     <hr width="90%"size="1"color"red">
     <p>
       Retiree <br>
       Engineering faculty <br>
@@ -45,6 +47,7 @@
    
   </div>
 </div>
+ 
 
 <hr noshade="">
 
