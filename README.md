@@ -46,7 +46,7 @@
                                     placement="left" title="Email"></i>
                          <span class="sr-only">Email:</span>  Email:zhuzh[at] whu [dot] edu [dot] cn>
                       </li>             
-                   
+      <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/>|         
       <a href="https://github.com/zhouzh0201">Github</a> |
       <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a> 
     </p>
