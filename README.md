@@ -20,15 +20,17 @@
      </a>
      
     <h2>zhouzhonghong</h2>
-    </div>
-    <hr noshade="">
-     <hr width="90%"size="1"color"red">
+    </div> 
+
+    
+     <hr noshade="">
+     <hr width="90%" size="1" color"red">
     <p>
-      Retiree <br>
+      Retiree<br>
       
-      Engineering faculty <br>
+      Engineering faculty<br>
       
-      Wuhan University <br> 
+      Wuhan University<br> 
     </p>
     <p>
       <a  href="mailto:zhouzh@whu.edu.cn"></a>
