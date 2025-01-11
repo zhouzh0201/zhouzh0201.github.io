@@ -21,8 +21,6 @@
      
     <h2>zhouzhonghong</h2>
     </div> 
-
-    
      <hr noshade="">
      <hr width="100%" size="1" color="red">
     <p>
@@ -44,8 +42,8 @@
                                     placement="left" title="Email"></i>
                          <span class="sr-only">Email:</span>Email:zhuzh[at] whu [dot] edu [dot] cn
                       </li>             
-      <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/>|         
-      <a href="https://github.com/zhouzh0201">Github</a> |
+      <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/>        
+      <a href="https://github.com/zhouzh0201">Github</a> 
       <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a> 
     </p>
    
@@ -56,6 +54,7 @@
 <hr noshade="">
 
 <p>
+<h1>about me</h1>   
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 <p/>
 <hr noshade="">
