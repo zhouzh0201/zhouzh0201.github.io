@@ -19,14 +19,14 @@
      <img class="img-responsive project-image" src="xiaohong2.png" alt="">
      </a>
      
-    <h3>Zhou-Zonghong</h3>
+    <h>Read :Zhou-Zhonghong</h3>
     </div> 
      <hr noshade="">
      <hr width="100%" size="1" color="red">
     <p>
     Retiree<br>
       
-    Engineering faculty<br>
+    Engineering Faculty<br>
       
     Wuhan University<br> 
     </p>
