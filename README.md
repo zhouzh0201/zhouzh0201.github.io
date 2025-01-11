@@ -24,7 +24,7 @@
 
     
      <hr noshade="">
-     <hr width="90%" size="1" color"red">
+     <hr width="90%" size="1" color="red">
     <p>
       Retiree<br>
       
