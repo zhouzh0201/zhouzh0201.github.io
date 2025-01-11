@@ -12,29 +12,21 @@
 <body>
 
 <div id="contents">
-
-<div class="profile-table">
-  <div class="profile-text">
-  
-      
- <a class="col-md-4 col-sm-4 col-xs-12" href="javascript:void(0)">
+   <div class="profile-table">
+     <div class="profile-text">
+        
+     <a class="col-md-4 col-sm-4 col-xs-12" href="javascript:void(0)">
      <img class="img-responsive project-image" src="xiaohong1.png" alt="">
      </a>
-  <h2>zhouzhonghong</h2>
+     
+    <h2>zhouzhonghong</h2>
       
     <p>
       Retiree <br>
-    
-    
       Engineering faculty <br>
-
-      
-      Wuhan University <br>
-      
+      Wuhan University <br> 
     </p>
-    
     <p>
-      
       <a  href="mailto:zhouzh@whu.edu.cn"></a>
         <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto:yuhuai@whu.edu.cn" target="_top">
@@ -44,12 +36,13 @@
          <li>
                          <i class="fa fa-envelope" style="color:black;" data-toggle="tooltip" data- 
                                     placement="left" title="Email"></i>
-                         <span class="sr-only">Email:</span>  Email:zhuzh[at] whu [dot] edu [dot] cn>
+                         <span class="sr-only">Email:</span>Email:zhuzh[at] whu [dot] edu [dot] cn
                       </li>             
       <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/>|         
       <a href="https://github.com/zhouzh0201">Github</a> |
       <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a> 
     </p>
+   
   </div>
 </div>
 
