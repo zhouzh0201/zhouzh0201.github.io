@@ -19,7 +19,7 @@
      <img class="img-responsive project-image" src="xiaohong2.png" alt="">
      </a>
      
-    <h2>zhouzhonghong</h2>
+    <h3>Zhou-Zonghong</h3>
     </div> 
      <hr noshade="">
      <hr width="100%" size="1" color="red">
@@ -54,7 +54,7 @@
 <hr noshade="">
 
 <p>
-<h1>about me</h1>   
+<h3>about me</h3>   
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 <p/>
 <hr noshade="">
