@@ -24,11 +24,11 @@
      <hr noshade="">
      <hr width="100%" size="1" color="red">
     <p>
-      Retiree<br>
+    Retiree<br>
       
-      Engineering faculty<br>
+    Engineering faculty<br>
       
-      Wuhan University<br> 
+    Wuhan University<br> 
     </p>
     <p>
       <a  href="mailto:zhouzh@whu.edu.cn"></a>
@@ -42,9 +42,12 @@
                                     placement="left" title="Email"></i>
                          <span class="sr-only">Email:</span>Email:zhuzh[at] whu [dot] edu [dot] cn
                       </li>             
-      <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/>        
-      <a href="https://github.com/zhouzh0201">Github</a> 
-      <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a> 
+      <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/><br>
+      
+      <a href="https://github.com/zhouzh0201">Github</a><br>
+      
+      <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a><br>
+      
     </p>
    
   </div>
