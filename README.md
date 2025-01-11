@@ -15,7 +15,7 @@
    <div class="profile-table">
      <div class="profile-text">
         
-     <a class="col-md-4 col-sm-4 col-xs-12" href="javascript:void(0)">
+     <a class="col-md-4 col-sm-4 col-xs-8" href="javascript:void(0)">
      <img class="img-responsive project-image" src="xiaohong2.png" alt="">
      </a>
      
