@@ -77,7 +77,7 @@
       
            <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a><br>
          <p/>
-        </div>
+   
         
    
  
@@ -100,6 +100,6 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
     <li>  Person Re-identification </li>
 </ul>
 <hr noshade="">
-</div>
-</body>   </html>
+ 
+ 
 
