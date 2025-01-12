@@ -30,6 +30,8 @@
       
     Wuhan University<br> 
     </p>
+     
+    <div class="profile-content pull-center" align="center">
     <p>
      <ul class="social list-inline">
                     <li data-toggle="tooltip" data-placement="bottom" title="CV">
@@ -48,6 +50,7 @@
                         </a>
                     </li>
                 </ul>
+             </div>
       <a  href="mailto:zhouzh@whu.edu.cn"></a>
         <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto:yuhuai@whu.edu.cn" target="_top">
