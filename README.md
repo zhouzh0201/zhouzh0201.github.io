@@ -69,14 +69,16 @@
                         </a>
                     </li>
                 </ul>
+        <div class="profile-content pull-left" align="left">     
+          <P>
+           <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/><br>
       
-   <P>
-      <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/><br>
+           <a href="https://github.com/zhouzh0201">Github</a><br>
       
-      <a href="https://github.com/zhouzh0201">Github</a><br>
-      
-      <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a><br>
-      
+           <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a><br>
+         <p/>
+        </div>
+        
    
  
 
