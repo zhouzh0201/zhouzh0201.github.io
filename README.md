@@ -45,7 +45,7 @@
     <h3></h3>
     
      <hr noshade="">
-     <hr width="100%" size="5" color="red">
+     <hr width="300%" size="10" color="red">
     <p>
     Retiree<br>
       
