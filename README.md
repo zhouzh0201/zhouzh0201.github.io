@@ -81,11 +81,11 @@
       
    </P>
   </div>
-</div>
+
  
 
 <hr noshade="">
-
+ <div class="profile-content pull-left" align="left">  
 <p>
 <h3>About Me</h3>   
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
@@ -100,5 +100,6 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
     <li>  Person Re-identification </li>
 </ul>
 <hr noshade="">
+</div>
 </body>   </html>
 
