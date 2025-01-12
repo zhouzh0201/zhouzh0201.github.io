@@ -43,17 +43,13 @@
  <!-- <div class="profile-content pull-center"> -->    
  <div class="profile-content pull-center" align="center">  
     <h1 class="name">ZhouZhonghong (周忠红)</h1>  
-    <h2 class="desc">,  Retiree, Wuhan University</h2>
+    <h2 class="desc"> Retiree, Wuhan University</h2>
     <ul class="social list-inline"> 
      
-    <p>
-    Retiree<br>
-      
+    <p>  
     Engineering Faculty<br>
-      
-    Wuhan University<br> 
     </p>
- 
+ <hr noshade="">
    
      
        <ul class="social list-inline">
