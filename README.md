@@ -51,20 +51,16 @@
                     </li>
                 </ul>
              </div>
-      <a  href="mailto:zhouzh@whu.edu.cn"></a>
-        <li data-toggle="tooltip" data-placement="bottom" title="Email">
-                        <a class="email-btn" href="mailto:yuhuai@whu.edu.cn" target="_top">
-                            <i class="fa fa-envelope"></i>
-                        </a>
-                    </li>                    
-   
+      
+      
+   <P>
       <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/><br>
       
       <a href="https://github.com/zhouzh0201">Github</a><br>
       
       <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a><br>
       
-   
+   </P>
   </div>
 </div>
  
