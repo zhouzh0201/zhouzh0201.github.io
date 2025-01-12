@@ -55,6 +55,12 @@
                      <i class="fa fa-github-alt">  </i>
                  </a>
              </li>
+             <li data-toggle="tooltip" data-placement="bottom" title="HomePage">
+                 <a href="https://https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm" target="_blank">
+                     <i class="fa fa-hmepage-alt">  </i>
+                 </a>
+             </li>
+              
              <li data-toggle="tooltip" data-placement="bottom" title="Email">
                <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
                   <i class="fa fa-envelope"></i>
@@ -81,7 +87,7 @@
            <a href="https://github.com/zhouzh0201">Github</a><br>
       
            <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a><br>
-           <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm">Personal homepape</a><br>
+           <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm">Personal homepage</a><br>
      
  
 
