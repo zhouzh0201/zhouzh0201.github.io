@@ -32,7 +32,7 @@
     </p>
      
     <div class="profile-content pull-center" align="center">
-    <p>
+
      <ul class="social list-inline">
                     <li data-toggle="tooltip" data-placement="bottom" title="CV">
                         <a href=" " target="_blank">
@@ -64,7 +64,6 @@
       
       <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a><br>
       
-    </p>
    
   </div>
 </div>
