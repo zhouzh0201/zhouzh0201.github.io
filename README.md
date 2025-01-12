@@ -69,8 +69,6 @@
                         </a>
                     </li>
                 </ul>
-             
-       </div>
       
    <P>
       <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/><br>
@@ -79,8 +77,8 @@
       
       <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a><br>
       
-   </P>
-  </div>
+   
+ 
 
  
 
