@@ -51,7 +51,7 @@
     </p>
  <hr noshade="">
     <div class="container"> 
-     <P>
+ <div class="profile-content pull-left" align="left">     
        <ul class="social list-inline">
                     <li data-toggle="tooltip" data-placement="bottom" title="CV">
                         <a href=" " target="_blank">
@@ -69,15 +69,15 @@
                         </a>
                     </li>
                 </ul>
-             </P> 
+         </div>     
         <div class="profile-content pull-left" align="left">     
-          <P>
+
            <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/><br>
       
            <a href="https://github.com/zhouzh0201">Github</a><br>
       
            <a href="https://researchgate.net/profile/zhou-zhonghong">Researchgate</a><br>
-         <p/>
+    
    </div>
  </div>       
  </header>    
