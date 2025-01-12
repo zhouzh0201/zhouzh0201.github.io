@@ -51,7 +51,7 @@
     </p>
  <hr noshade="">
     <div class="container"> 
-     
+     <P>
        <ul class="social list-inline">
                     <li data-toggle="tooltip" data-placement="bottom" title="CV">
                         <a href=" " target="_blank">
@@ -69,7 +69,7 @@
                         </a>
                     </li>
                 </ul>
-          </drv>      
+             </P> 
         <div class="profile-content pull-left" align="left">     
           <P>
            <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/><br>
