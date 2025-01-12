@@ -60,6 +60,12 @@
                   <i class="fa fa-envelope"></i>
                 </a>
               </li>
+               </li>
+             <li data-toggle="tooltip" data-placement="bottom" title="WeChat">
+               <a class="wechat-btn" href=" WeChat.png" target="_top">
+                  <i class="fa fa-envelope"></i>
+                </a>
+              </li>
           </ul>
       </div> 
   
