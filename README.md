@@ -36,16 +36,16 @@
 </head>
 
 <body>
-
- 
+ <!-- ******HEADER****** -->
+  <header class="header">
   <div class="container"> 
     <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
+ <!-- <div class="profile-content pull-center"> -->    
+ <div class="profile-content pull-center" align="center">  
+    <h1 class="name">ZhouZhonghong (周忠红)</h1>  
+    <h2 class="desc">,  Retiree, Wuhan University</h2>
+    <ul class="social list-inline"> 
      
-  
-    <h3></h3>
-    
-     <hr noshade="">
-     <hr width="300%" size="10" color="red">
     <p>
     Retiree<br>
       
@@ -53,9 +53,9 @@
       
     Wuhan University<br> 
     </p>
- <div class="container">
-    <div class="profile-content pull-center" align="center">
-     <P>
+ 
+   
+     
        <ul class="social list-inline">
                     <li data-toggle="tooltip" data-placement="bottom" title="CV">
                         <a href=" " target="_blank">
@@ -73,8 +73,7 @@
                         </a>
                     </li>
                 </ul>
-              </P>
-          
+             
        </div>
       
    <P>
