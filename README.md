@@ -2,32 +2,32 @@
     <title>zhouzhonghong's Home Page</title>
 
     <link rel="stylesheet" href="style.css">
-    
+   <html lang="en"> 
     <meta name="description" content="zhouzhonghong&#39;s Home Page">
     <meta name="keywords" content="zhouzhonghong">
     <meta name="author" content="zhouzhonghong">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
 
+<head>
+<title>ZhouZhonghong</title>
 
+ <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="Huai Yu's Homepage">
+    <meta name="author" content="Huai Yu">
+ <link rel="shortcut icon" href="favicon.ico">
+ <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
+ <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
 
+  <link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ <link id="theme-style" rel="stylesheet" href="styles.min.css">
 
 
 
@@ -38,38 +38,37 @@
 <body>
  <!-- ******HEADER****** -->
   <header class="header">
-  <div class="container"> 
-    <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
- <!-- <div class="profile-content pull-center"> -->    
- <div class="profile-content pull-center" align="center">  
-    <h1 class="name">ZhouZhonghong (周忠红)</h1>  
-    <h2 class="desc"> Retiree, Wuhan University</h2>
-    <ul class="social list-inline"> 
+     <div class="container"> 
+        <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
+       <!-- <div class="profile-content pull-center"> -->    
+      <div class="profile-content pull-center" align="center">  
+          <h1 class="name">ZhouZhonghong (周忠红)</h1>  
+          <h2 class="desc"> Retiree, Wuhan University</h2>
+          <ul class="social list-inline">   
+              <li data-toggle="tooltip" data-placement="bottom" title="CV">
+                  <a href=" " target="_blank">
+                     <i class="fa fa-paper-plane"></i>
+                  </a>
+             </li>
+             <li data-toggle="tooltip" data-placement="bottom" title="Github">
+                 <a href="https://github.com/zhouzh0201" target="_blank">
+                     <i class="fa fa-github-alt">  </i>
+                 </a>
+             </li>
+             <li data-toggle="tooltip" data-placement="bottom" title="Email">
+               <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
+                  <i class="fa fa-envelope"></i>
+                </a>
+              </li>
+          </ul>
+      </div> 
+  
+
+   </div>  
+
+ 
+  </header>    
      
-    <p>  
-    Engineering Faculty<br>
-    </p>
- <hr noshade="">
-    <div class="container"> 
- <div class="profile-content pull-left" align="left">     
-       <ul class="social list-inline">
-                    <li data-toggle="tooltip" data-placement="bottom" title="CV">
-                        <a href=" " target="_blank">
-                            <i class="fa fa-paper-plane"></i>
-                        </a>
-                    </li>
-                    <li data-toggle="tooltip" data-placement="bottom" title="Github">
-                        <a href="https://github.com/zhouzh0201" target="_blank">
-                            <i class="fa fa-github-alt"></i>
-                        </a>
-                    </li>
-                    <li data-toggle="tooltip" data-placement="bottom" title="Email">
-                        <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
-                            <i class="fa fa-envelope"></i>
-                        </a>
-                    </li>
-                </ul>
-         </div>     
         <div class="profile-content pull-left" align="left">     
 
            <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/><br>
