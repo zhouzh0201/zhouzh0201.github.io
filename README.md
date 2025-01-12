@@ -31,6 +31,23 @@
     Wuhan University<br> 
     </p>
     <p>
+     <ul class="social list-inline">
+                    <li data-toggle="tooltip" data-placement="bottom" title="CV">
+                        <a href=" " target="_blank">
+                            <i class="fa fa-paper-plane"></i>
+                        </a>
+                    </li>
+                    <li data-toggle="tooltip" data-placement="bottom" title="Github">
+                        <a href="https://github.com/levenberg" target="_blank">
+                            <i class="fa fa-github-alt"></i>
+                        </a>
+                    </li>
+                    <li data-toggle="tooltip" data-placement="bottom" title="Email">
+                        <a class="email-btn" href="mailto:yuhuai@whu.edu.cn" target="_top">
+                            <i class="fa fa-envelope"></i>
+                        </a>
+                    </li>
+                </ul>
       <a  href="mailto:zhouzh@whu.edu.cn"></a>
         <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto:yuhuai@whu.edu.cn" target="_top">
