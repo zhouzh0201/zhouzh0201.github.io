@@ -7,20 +7,43 @@
     <meta name="keywords" content="zhouzhonghong">
     <meta name="author" content="zhouzhonghong">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </head>
 
 <body>
 
-<div id="contents">
-   <div class="profile-table">
-     <div class="profile-text">
-        
-     <a class="col-md-4 col-sm-4 col-xs-8" href="javascript:void(0)">
-     <img class="img-responsive project-image" src="xiaohong2.png" alt="">
-     </a>
+ 
+  <div class="container"> 
+    <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
      
+  
     <h3></h3>
-    </div> 
+    
      <hr noshade="">
      <hr width="100%" size="5" color="red">
     <p>
@@ -30,10 +53,10 @@
       
     Wuhan University<br> 
     </p>
-     
+ <div class="container">
     <div class="profile-content pull-center" align="center">
-
-     <ul class="social list-inline">
+     <P>
+       <ul class="social list-inline">
                     <li data-toggle="tooltip" data-placement="bottom" title="CV">
                         <a href=" " target="_blank">
                             <i class="fa fa-paper-plane"></i>
@@ -50,8 +73,9 @@
                         </a>
                     </li>
                 </ul>
-             </div>
-      
+              </P>
+          
+       </div>
       
    <P>
       <a href="https://orcid.org/0009-0006-0788-1842">ORCID<a/><br>
