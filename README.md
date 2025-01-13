@@ -60,7 +60,7 @@
               
              <li data-toggle="tooltip" data-placement="bottom" title="主页">
                  <a href="https://jszy.whu.edu.cn/zhouzh" target="_red">
-                     <i class="fa fa-website-alt" style="color👱;">  </i>
+                     <i class="fa fa-website-alt" style="color:🧑‍🦰;">  </i>
                  </a>
              </li>
               
