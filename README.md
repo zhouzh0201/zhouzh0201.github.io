@@ -58,20 +58,20 @@
              </li>
               
              <li data-toggle="tooltip" data-placement="bottom" title="Website">
-                 <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm" target="_blue">
-                     <i class="fa fa-website-alt">  </i>
+                 <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm" target="_red">
+                     <i class="fa fa-website-alt" style="color:red;">  </i>
                  </a>
              </li>
               
              <li data-toggle="tooltip" data-placement="bottom" title="Email">
                <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
-                  <i class="fa fa-envelope"></i>
+                  <i class="fa fa-envelope"style="color:🟥;"></i>
                 </a>
              </li>
              
              <li data-toggle="tooltip" data-placement="bottom" title="researchgate">
                  <a href="https://researchgate.net/profile/zhou-zhonghong" target="_blue">
-                     <i class="fa fa-researchgate-alt">  </i>
+                     <i class="fa fa-researchgate-alt" style="color🟦;">  </i>
                  </a>
              </li>
              
