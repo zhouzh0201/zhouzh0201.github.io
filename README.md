@@ -45,6 +45,7 @@
           <h1 class="name">ZhouZhonghong (周忠红)</h1>  
           <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
           <ul class="social list-inline">   
+              
               <li data-toggle="tooltip" data-placement="bottom" title="CV">
                   <a href=" " target="_blank">
                      <i class="fa fa-paper-plane"></i>
@@ -57,9 +58,9 @@
                  </a>
              </li>
               
-             <li data-toggle="tooltip" data-placement="bottom" title="Website">
+             <li data-toggle="tooltip" data-placement="bottom" title="主页">
                  <a href="https://jszy.whu.edu.cn/zhouzh" target="_red">
-                     <i class="fa fa-website-alt" style="color:red;">  </i>
+                     <i class="fa fa-website-alt" style="color🚗;">  </i>
                  </a>
              </li>
               
@@ -71,13 +72,13 @@
              
              <li data-toggle="tooltip" data-placement="bottom" title="researchgate">
                  <a href="https://researchgate.net/profile/zhou-zhonghong" target="_blue">
-                     <i class="fa fa-researchgate-alt" style="color🟦;">  </i>
+                     <i class="fa fa-researchgate-alt" style="color:blue;">  </i>
                  </a>
              </li>
              
               <li data-toggle="tooltip" data-placement="bottom" title="ORCID">
                  <a href="https://orcid.org/0009-0006-0788-1842 " target="_red">
-                     <i class="fa fa-ORCID-alt">  </i>
+                     <i class="fa fa-ORCID-alt"style="color:red;">  </i>
                  </a>
              </li>
                 
