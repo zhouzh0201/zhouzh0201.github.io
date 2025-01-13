@@ -56,7 +56,7 @@
                  </a>
              </li>
              <li data-toggle="tooltip" data-placement="bottom" title="WebPage">
-                 <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm" target="_blue">
+                 <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"target="_blue">
                      <i class="fa fa-webpage-alt">  </i>
                  </a>
              </li>
@@ -65,6 +65,13 @@
                <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
                   <i class="fa fa-envelope"></i>
                 </a>
+             <li data-toggle="tooltip" data-placement="bottom" title="WebPage">
+                 <a href="https://researchgate.net/profile/zhou-zhonghong" target="_blue">
+                     <i class="fa fa-researchgate-alt">  </i>
+                 </a>
+             </li>
+
+                
               </li>
              <li data-toggle="tooltip" data-placement="bottom" title="WeChat">
                <a class="wechat-btn" href=" WeChat.png" target="_top">
