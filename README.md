@@ -65,7 +65,7 @@
               
              <li data-toggle="tooltip" data-placement="bottom" title="Email">
                <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
-                  <i class="fa fa-envelope"style="color:🟥;"></i>
+                  🟥 
                 </a>
              </li>
              
