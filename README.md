@@ -78,7 +78,7 @@
              
               <li data-toggle="tooltip" data-placement="bottom" title="ORCID">
                  <a href="https://orcid.org/0009-0006-0788-1842 " target="_red">
-                     <i class="fa fa-ORCID-alt"style="color:🏁;">  </i>
+                     🏁
                  </a>
              </li>
                 
