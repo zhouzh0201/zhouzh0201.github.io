@@ -105,11 +105,7 @@
       
            <a href="https://researchgate.net/profile/zhou-zhonghong">researchgate:<img src="RG.png" height="30px" style="margin-bottom:-3px"></a><br>
            <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm">Personal homepage:<img src="www.jpg" height="30px" style="margin-bottom:-3px"></a><br>
-     </td>
-    
-
  
-
 <hr noshade="">
  <div class="profile-content pull-left" align="left">  
 <p>
