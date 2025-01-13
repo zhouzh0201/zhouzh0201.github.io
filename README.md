@@ -56,7 +56,7 @@
                  </a>
              </li>
              <li data-toggle="tooltip" data-placement="bottom" title="WebPage">
-                 <a href="https://https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm" target="_blue">
+                 <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm" target="_blue">
                      <i class="fa fa-webpage-alt">  </i>
                  </a>
              </li>
