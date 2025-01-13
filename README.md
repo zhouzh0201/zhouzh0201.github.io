@@ -17,8 +17,8 @@
  <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="description" content="Huai Yu's Homepage">
-    <meta name="author" content="Huai Yu">
+    <meta name="description" content="zhouzhonghong's Homepage">
+    <meta name="author" content="zhouzhonghong">
  <link rel="shortcut icon" href="favicon.ico">
  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -43,7 +43,7 @@
        <!-- <div class="profile-content pull-center"> -->    
       <div class="profile-content pull-center" align="center">  
           <h1 class="name">ZhouZhonghong (周忠红)</h1>  
-          <h2 class="desc"> Retiree, Wuhan University</h2>
+          <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
           <ul class="social list-inline">   
               <li data-toggle="tooltip" data-placement="bottom" title="CV">
                   <a href=" " target="_blank">
@@ -55,9 +55,9 @@
                      <i class="fa fa-github-alt">  </i>
                  </a>
              </li>
-             <li data-toggle="tooltip" data-placement="bottom" title="HomePage">
-                 <a href="https://https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm" target="_blank">
-                     <i class="fa fa-hmepage-alt">  </i>
+             <li data-toggle="tooltip" data-placement="bottom" title="WebPage">
+                 <a href="https://https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm" target="_blue">
+                     <i class="fa fa-webpage-alt">  </i>
                  </a>
              </li>
               
