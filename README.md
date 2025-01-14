@@ -72,7 +72,7 @@
              
              <li data-toggle="tooltip" data-placement="bottom" title="researchgate">
                  <a href="https://researchgate.net/profile/zhou-zhonghong" target="_blue">
-                     <i class="fa fa-researchgate-alt" style="color:blue;">  </i>
+                     <i class="fa fa-researchgate-alt" style="color:🅱️blue;">  </i>
                  </a>
              </li>
              
