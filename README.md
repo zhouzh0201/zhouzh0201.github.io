@@ -1,11 +1,11 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Homepage-zhouzhonghong's Home Page, 主页建造中....... </title>
+    <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
 
     <link rel="stylesheet" href="style.css">
    <html lang="en"> 
-    <meta name="description" content="zhouzhonghong&#20;s Home Page">
-    <meta name="keywords" content="zhouzhonghong">
-    <meta name="author" content="zhouzhonghong">
+    <meta name="description" content="ZhouZhonghong&#20;s Home Page">
+    <meta name="keywords" content="ZhouZhonghong">
+    <meta name="author" content="ZhouZhonghong">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -17,8 +17,8 @@
  <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="description" content="zhouzhonghong's Homepage">
-    <meta name="author" content="zhouzhonghong">
+    <meta name="description" content="ZhouZhonghong's Home Page">
+    <meta name="author" content="ZhouZhonghong">
  <link rel="shortcut icon" href="favicon.ico">
  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
