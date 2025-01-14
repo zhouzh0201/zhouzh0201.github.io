@@ -58,9 +58,9 @@
                  </a>
              </li>
               
-             <li data-toggle="tooltip" data-placement="bottom" title="主页">
-                 <a href="https://jszy.whu.edu.cn/zhouzh" target="_red">
-                     <i class="fa fa-website-alt" style="color:🤟;"> </i>
+             <li data-toggle="tooltip" data-placement="bottom" title="jszy">
+                 <a href="https://jszy.whu.edu.cn/zhouzh" target="_blank">
+                     <i class="fa fa-jszy.whu.edu.cn-alt"  </i>
                  </a>
              </li>
               
@@ -72,11 +72,11 @@
              
              <li data-toggle="tooltip" data-placement="bottom" title="researchgate">
                  <a href="https://researchgate.net/profile/zhou-zhonghong" target="_blue">
-                     <i class="fa fa-researchgate-alt" style="color:☑️;">  </i>
+                     <i class="fa fa-researchgate-alt" style="color:blue;">  </i>
                  </a>
              </li>
              
-              <li data-toggle="tooltip" data-placement="bottom" title="ORCID">
+              <li data-toggle="tooltip" data-placement="bottom" title="Orcid">
                  <a href="https://orcid.org/0009-0006-0788-1842 " target="_red">
                      🏁
                  </a>
