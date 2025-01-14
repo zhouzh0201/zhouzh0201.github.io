@@ -72,7 +72,7 @@
              
              <li data-toggle="tooltip" data-placement="bottom" title="researchgate">
                  <a href="https://www.researchgate.net/profile/zhou-zhonghong" target="_blue">
-                     <i class="fa fa-researchgate-alt" style="color:🖤blue;">  </i>
+                     <i class="fa fa-researchgate-alt" style="color:blue;">  </i>
                  </a>
              </li>
              
@@ -104,10 +104,17 @@
       
            <a href="https://github.com/zhouzh0201"><img src="github3.png" height="30px" style="margin-bottom:-10px"></a><br>
       
-           <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="30px" style="margin-bottom:-3px"></a><br>
-           <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:-3px"></a><br>
-            <a href="https://WeChat.png"><img src="wexin1.png" height="30px" style="margin-bottom:-3px"></a><br>
+           <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="30px" style="margin-bottom:-10px"></a><br>
            
+           <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:-3px"></a><br>
+           
+            <a href="https://WeChat.png"><img src="wexin1.png" height="30px" style="margin-bottom:-10px"></a><br>
+           
+
+
+
+
+
  
 <hr noshade="">
  <div class="profile-content pull-left" align="left">  
