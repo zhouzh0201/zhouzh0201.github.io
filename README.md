@@ -105,6 +105,8 @@
       
            <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="30px" style="margin-bottom:-3px"></a><br>
            <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"><img src="www.jpg" height="30px" style="margin-bottom:-3px"></a><br>
+            <a href="https://WeChat.png"><wexin1.png" height="20px" style="margin-bottom:-3px"></a><br>
+           
  
 <hr noshade="">
  <div class="profile-content pull-left" align="left">  
