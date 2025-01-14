@@ -43,7 +43,7 @@
         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
        <!-- <div class="profile-content pull-center"> -->    
       <div class="profile-content pull-center" align="center">  
-          <h1 class="name">ZhouZhonghong (周忠红)主页建造中.......  </h1>  
+          <h1 class="name">ZhouZhonghong 主页建造中.......  </h1>  
           <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
           <ul class="social list-inline">   
               
