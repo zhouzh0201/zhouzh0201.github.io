@@ -78,14 +78,15 @@
              
               <li data-toggle="tooltip" data-placement="bottom" title="Orcid">
                  <a href="https://orcid.org/0009-0006-0788-1842 " target="_red">
-                    🅱️
+                   ![image](https://github.com/user-attachments/assets/cdb56579-d80a-4560-a69b-6531b7a9a098)
+
                  </a>
              </li>
                 
              
              <li data-toggle="tooltip" data-placement="bottom" title="WeChat">
                <a class="wechat-btn" href=" WeChat.png" target="_top">
-                  <i class="fa fa-envelope"></i>
+                  <i class="fa fa-envelope"> 🅱️</i>
                 </a>
               </li>
           </ul>
