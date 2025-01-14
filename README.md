@@ -60,7 +60,7 @@
               
              <li data-toggle="tooltip" data-placement="bottom" title="jszy">
                  <a href="https://jszy.whu.edu.cn/zhouzh" target="_blank">
-                     <i class="fa fa-jszy.whu.edu.cn-alt"  </i>
+                     <i class="fa fa-www.jpg-alt"  </i>
                  </a>
              </li>
               
