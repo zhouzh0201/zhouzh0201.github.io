@@ -1,5 +1,5 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
+    <title>Homepage-ZhouZhonghong's Home Page, ....... </title>
 
     <link rel="stylesheet" href="style.css">
    <html lang="en"> 
@@ -43,7 +43,7 @@
         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
        <!-- <div class="profile-content pull-center"> -->    
       <div class="profile-content pull-center" align="center">  
-          <h1 class="name">ZhouZhonghong 主页建造中.......  </h1>  
+          <h1 class="name">ZhouZhonghong's the page is under construction.......  </h1>  
           <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
           <ul class="social list-inline">   
               
