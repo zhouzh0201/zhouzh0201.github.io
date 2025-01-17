@@ -169,4 +169,8 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 <hr noshade="">
  </div>
  
-
+<div align="center">
+      <small>Copyright &copy 2024 <a href="https://marswhu.github.io/">Multimedia Analysis & Reasoning (MARS) Lab</a></small>
+      <br>
+      <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
+  </div>
