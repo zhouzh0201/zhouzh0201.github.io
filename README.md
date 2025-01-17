@@ -37,6 +37,36 @@
  <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
 <body>
  <!-- ******HEADER****** -->
+
+ <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+
+        </button>
+        <span class="navbar-brand">
+          <font color="#ffffff"> MARS </a></font>
+        </span>
+      </div>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="index.html">Home</a></li>
+          <li><a href="publications/index.htm">Publications</a></li>
+          <li><a href="projects/index.htm">Projects</a></li>
+          <li><a href="team/index.htm">Team</a></li>
+          <li><a href="teaching/index.htm">Teaching</a></li>
+          <li><a href="service/index.htm">Service</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+    
      <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
   <header class="header">
      <div class="container"> 
