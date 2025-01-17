@@ -144,7 +144,7 @@
       
            <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a>
       
-
+</div>
 
 
 
@@ -167,6 +167,6 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
     <li>  Person Re-identification </li>
 </ul>
 <hr noshade="">
- 
+ </div>
  
 
