@@ -129,10 +129,9 @@
  
   </header>    
      <td width="500">
-        <div class="profile-content pull-left" align="left">     
+      
 
-
-
+<div>
          
            <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"></a>
            
