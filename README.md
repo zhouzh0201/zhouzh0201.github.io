@@ -48,7 +48,7 @@
 
         </button>
         <span class="navbar-brand">
-          <font color="#ffffff"> MARS </a></font>
+          <font color="#ff0000"> Homepage </a></font>
         </span>
       </div>
       <div class="navbar-collapse collapse">
