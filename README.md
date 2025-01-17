@@ -166,11 +166,16 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
     <li>  Continual Learning </li>
     <li>  Person Re-identification </li>
 </ul>
+</div>
 <hr noshade="">
- </div>
+
  
 <div align="center">
-      <small>Copyright &copy 2024 <a href="https://zhouzh0201.github.io/">Multimedia Analysis & Reasoning (MARS) Lab</a></small>
+      <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong persenol homepage</a></small>
       <br>
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
   </div>
+
+
+</body>
+</html>
