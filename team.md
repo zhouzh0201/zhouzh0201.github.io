@@ -101,7 +101,7 @@
                 </div>
                 <div class="student">
                     <div>
-                        <img src="member_photo/LiuFangYi.jpg">
+                        <img src="xiaohong2.png">
                     </div>
                     <div>
                         <a href="https://scholar.google.com.hk/citations?user=sW4XMmUAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Fangyi Liu </a><br>
@@ -110,7 +110,7 @@
                 </div>
                 <div class="student">
                     <div>
-                        <img src="member_photo/YangBin.jpg">
+                        <img src="xiaohong2.png">
                     </div>
                     <div>
                         <a href="https://scholar.google.com/citations?user=A_k-XFkAAAAJ" target="_blank"> Bin Yang </a><br>
