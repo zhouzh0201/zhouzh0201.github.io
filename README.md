@@ -56,7 +56,7 @@
           <li class="active"><a href="index.html">Home</a></li>
           <li><a href="publications">Publications</a></li>
           <li><a href="projects/index.htm">Projects</a></li>
-          <li><a href="team/index.htm">Team</a></li>
+          <li><a href="team.md">Team</a></li>
           <li><a href="teaching/index.htm">Teaching</a></li>
           <li><a href="service">Service</a></li>
         </ul>
