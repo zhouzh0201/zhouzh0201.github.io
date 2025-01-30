@@ -9,8 +9,8 @@
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="周忠红" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://zhouzh0201.github.io/service/" />
-<meta property="og:url" content="https://zhouzh0201.github.io/service/" />
+<link rel="canonical" href="https://zhouzh0201.github.io/team.md/" />
+<meta property="og:url" content="https://zhouzh0201.github.io/team.md/" />
 <meta property="og:site_name" content="周忠红" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
