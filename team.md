@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -55,7 +56,7 @@
     <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet"/>
     <link href="../static/xin.css" rel="stylesheet"/>
 
-    <link rel="stylesheet" id="responsive-style-css" href="../static/style.css" type="text/css" media="all">
+    
 </head>
 
 <body>
@@ -75,8 +76,8 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="../index.html">Home</a></li>
-                    <li><a href="../publications/index.htm">Publications</a>
-                    <li><a href="../projects/index.htm">Projects</a>
+                    <li><a href="../publications/index.htm">Publications</a></li>
+                    <li><a href="../projects/index.htm">Projects</a></li>
                     <li class="active"><a href="index.htm">Team</a></li>
                     <li><a href="../teaching/index.htm">Teaching</a></li>
                     <li><a href="../service/index.htm">Service</a></li>
@@ -138,11 +139,13 @@
 
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
-</body>
+
 <!-- <div align="center">
     <small>
         Copyright 2025 hong personal homepage
     </small>
   </div> -->
+
+  </body>
 </html>
             
