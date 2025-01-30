@@ -92,7 +92,7 @@
             <div class="student-container">
                 <div class="student">
                     <div>
-                        <img src="member_photo/ChenCuiQun.jpg">
+                        <img src="xiaoxuo9.JPG">
                     </div>
                     <div>
                         <a href="https://scholar.google.com.hk/citations?user=fXGIQ0EAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Cuiqun Chen </a><br>
@@ -101,7 +101,7 @@
                 </div>
                 <div class="student">
                     <div>
-                        <img src="xiaohong2.png">
+                        <img src="xiaoxuo9.JPG">
                     </div>
                     <div>
                         <a href="https://scholar.google.com.hk/citations?user=sW4XMmUAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Fangyi Liu </a><br>
