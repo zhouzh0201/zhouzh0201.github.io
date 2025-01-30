@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta name="author" content="persinal homepage">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name=keywords content= "zhouzhonghong", "周忠红", "WHU", "Wuhan University", "武汉大学", "personal", >
+  
 
   <title>Service</title>
 
@@ -25,7 +25,7 @@
 
         </button>
         <span class="navbar-brand">
-          <font color="#fff0000">Homepage</a></font>
+          <font color="#fff0000">Homepage</font>
         </span>
       </div>
       <div class="navbar-collapse collapse">
