@@ -110,7 +110,7 @@
                 </div>
                 <div class="student">
                     <div>
-                        <img src="xiaohong2.png">
+                        <img src="xiaoxuo9.JPG">
                     </div>
                     <div>
                         <a href="https://scholar.google.com/citations?user=A_k-XFkAAAAJ" target="_blank"> Bin Yang </a><br>
@@ -135,10 +135,10 @@
         </div>
     </div>
     
-</body>
+
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
-
+</body>
 <!-- <div align="center">
     <small>
         Copyright 2025 hong personal homepage
