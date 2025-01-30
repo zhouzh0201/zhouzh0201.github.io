@@ -1,14 +1,59 @@
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>周忠红</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="周忠红" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://zhouzh0201.github.io/service/" />
+<meta property="og:url" content="https://zhouzh0201.github.io/service/" />
+<meta property="og:site_name" content="周忠红" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="周忠红" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"周忠红","url":"https://zhouzh0201.github.io/service/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=cda6a71e7dbafd374e1a20c9e466609484071de6">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://zhouzh0201.github.io/">            周忠红</a></h1>
+      
+
+    
+
+
+
+
 <html>
 <head>
-    <meta charset="utf-8">
-    <meta name="author" content="persinal homepage">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name=keywords content="Mang Ye", "Ye Mang", "叶茫", "WHU", "Wuhan University", "武汉大学", "MARS", "marswhu", "MARS WHU">
+    <meta charset="utf-8" />
+    <meta name="author" content="persinal homepage"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     
 
     <title>Team</title>
 
-    <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
-    <link href="../static/xin.css" rel="stylesheet">
+    <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet"/>
+    <link href="../static/xin.css" rel="stylesheet"/>
 
     <link rel="stylesheet" id="responsive-style-css" href="../static/style.css" type="text/css" media="all">
 </head>
@@ -24,7 +69,7 @@
 
                 </button>
                 <span class="navbar-brand">
-                    <font color="#ff0000">persinal homepage</a></font>
+                    <font color="#ff0000"> Homepage</font>
                 </span>
             </div>
             <div class="navbar-collapse collapse">
@@ -83,7 +128,7 @@
 
 
   <div align="center">
-                <small>Copyright &copy 2024 <a href="https://zhouzh0201.github.io/">zhouzhong</a></small>
+                <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">zhong personal homepage</a></small>
                 <br>
                 <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
             </div>
@@ -96,7 +141,7 @@
 
 <!-- <div align="center">
     <small>
-        Copyright 2021 Multimedia Analysis & Reasoning Lab
+        Copyright 2025 hong personal homepage
     </small>
   </div> -->
 </html>
