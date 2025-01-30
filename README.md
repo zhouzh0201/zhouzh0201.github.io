@@ -58,7 +58,7 @@
           <li><a href="projects/index.htm">Projects</a></li>
           <li><a href="team/index.htm">Team</a></li>
           <li><a href="teaching/index.htm">Teaching</a></li>
-          <li><a href="service/index.htm">Service</a></li>
+          <li><a href="service">Service</a></li>
         </ul>
       </div>
     </div>
