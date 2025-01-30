@@ -16,7 +16,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="周忠红" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","headline":"周忠红","url":"https://zhouzh0201.github.io/service/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","headline":"周忠红","url":"https://zhouzh0201.github.io/team.md/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=cda6a71e7dbafd374e1a20c9e466609484071de6">
