@@ -1,0 +1,77 @@
+<htem>
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Persinal Homepage">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name=keywords content="Mang Ye", "Ye Mang", "叶茫", "WHU", "Wuhan University", "武汉大学", "MARS", "marswhu", "MARS WHU">
+
+    <title>Publications</title>
+
+    <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="../static/xin.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../static/pixyll.css" type="text/css">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <span class="navbar-brand">
+                    <font color="#ff0000">Persinal Homepage</a></font>
+                </span>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="../index.html">Home</a></li>
+                    <li class="active"><a href="index.htm">Publications</a></li>
+                    <li><a href="../projects/index.htm">Projects</a></li>
+                    <li><a href="../team/index.htm">Team</a></li>
+                    <li><a href="../teaching/index.htm">Teaching</a></li>
+                    <li><a href="../service/index.htm">Service</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container" style="margin-top: 50px;">
+
+        <div class="post p2 p-responsive wrap" role="main">
+            <div class="measure">
+                <div class="post">
+                    <header class="post-header">
+                        <h2>Selected Publications 
+                        </h2>
+                    </header>
+
+
+
+  <div align="center">
+                                <small>Copyright &copy 2024 <a href="https://zhouzh0201.github.io/">persinal homepage</a></small>
+                                <br>
+                                <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
+                            </div>
+
+                        </div>
+                        <!-- /.container -->
+
+
+                    </article>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../static/jquery.js"></script>
+    <script src="../static/bootstrap/js/bootstrap.js"></script>
+</body>
+
+
+
+                    
