@@ -58,7 +58,7 @@
           <li><a href="projects/index.htm">Projects</a></li>
           <li><a href="team/index.htm">Team</a></li>
           <li><a href="teaching/index.htm">Teaching</a></li>
-          <li><a href="service/index.htm">Service</a></li>
+          <li><a href="service">Service</a></li>
         </ul>
       </div>
     </div>
@@ -143,7 +143,7 @@
       
            <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a>
       
-</div>
+
 
 
 
@@ -165,16 +165,12 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
     <li>  Continual Learning </li>
     <li>  Person Re-identification </li>
 </ul>
-</div>
+ 
 <hr noshade="">
 
  
 <div align="center">
-      <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong persenol homepage</a></small>
+      <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong personal homepage</a></small>
       <br>
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
-  </div>
-
-
- 
  
