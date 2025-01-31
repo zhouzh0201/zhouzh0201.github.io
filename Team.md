@@ -1,55 +1,14 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>周忠红</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="周忠红" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://zhouzh0201.github.io/team/" />
-<meta property="og:url" content="https://zhouzh0201.github.io/team/" />
-<meta property="og:site_name" content="周忠红" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="周忠红" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","headline":"周忠红","url":"https://zhouzh0201.github.io/team/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=ef49c14248f41f65fee6219535758e3c3ded2a2f">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://zhouzh0201.github.io/">            周忠红</a></h1>
-      
-
-      <html>
+  <html>
  <head>
-  <meta charset="utf-8" />
-  <meta name="author" content="persinal homepage" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8">
+  <meta name="author" content="persinal homepage">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
 
-  <title>Service</title>
+  <title>Team</title>
 
-  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-  <link href="../static/xin.css" rel="stylesheet" />
+  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
+  <link href="../static/xin.css" rel="stylesheet">
 
 
 </head>
@@ -74,9 +33,9 @@
           <li><a href="../index.html">Home</a></li>
           <li><a href="../publications/index.htm">Publications</a></li>
           <li><a href="../projects/index.htm">Projects</a></li>
-          <li class="active"><a href="index.htm">Team</a></li>
+          <li><a href="../service/index.htm">Team</a></li>
           <li><a href="../teaching/index.htm">Teaching</a></li>
-          <li><a href="../Service/index.htm">Service</a></li>
+          <li class="active"><a href="index.htm">Team</a></li>
         </ul>
       </div>
     </div>
@@ -84,7 +43,7 @@
 
   <div class="container" style="margin-top: 50px;">
 
-    <h2>team</h2>
+    <h2>Professional Team</h2>
 
     <h4>
       Associate Editor: </h4>
@@ -116,11 +75,11 @@
     
     
    
- <hr /> 
+ <hr> 
  
 <div align="center">
-      <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong personal homepage</a></small>
-      <br />
+      <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong personal homepage</a></small>
+      <br>
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
   </div>
 
@@ -129,12 +88,23 @@
 <script src="../static/bootstrap/js/bootstrap.js"></script>
 
  
-</div></body></html>
+
+   
+ 
+    
+ 
+ 
+
+      
+    
+
+
+
+    
+    
+   
+ 
 
 
       
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
+    
