@@ -117,7 +117,7 @@
 <script src="../static/bootstrap/js/bootstrap.js"></script>
 
  
-</div></body></html>
+</div></body> 
 
 
       
