@@ -1,12 +1,11 @@
-<!DOCTYPE html>
+ 
 <html>
 
 <head>
     <meta charset="utf-8">
     <meta name="author" content="presinal homepage">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name=keywords content= "WHU" , "Wuhan University" , "武汉大学" , "homepage" , >
-
+    
     <title>Projects</title>
 
     <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,7 +24,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <span class="navbar-brand">
-                    <font color="#ff0000">presinal homepage</a></font>
+                    <font color="#ff0000">homepage</font>
                 </span>
             </div>
             <div class="navbar-collapse collapse">
@@ -43,6 +42,14 @@
 
     <div class="container" style="margin-top: 50px;">
         <h2> Projects</h2>
+        <h3> 2022</h3>
+        
+        <h3> 2023</h3>
+        
+        <h3> 2024</h3>
+        
+        <h3> 2025</h3>
+        
         <div class="row-project">
 
             <div class="span12">
