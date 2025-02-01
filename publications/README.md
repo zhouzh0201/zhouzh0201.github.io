@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ 
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -36,7 +36,6 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://zhouzh0201.github.io/">            周忠红</a></h1>
       
 
       <html>
