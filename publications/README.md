@@ -84,10 +84,9 @@
 
   <div class="container" style="margin-top: 50px;">
 
-    <h2>Professional Service</h2>
+    <h2>Publications</h2>
 
-    <h4>
-      Associate Editor: </h4>
+    <h4>茶港花苑</h4>
     <ul>
       <li>
         <p> IEEE Transactions on Image Processing, 2024 - Now</p>
