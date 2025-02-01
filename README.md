@@ -54,7 +54,7 @@
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
           <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="service">Publications</a></li>
+          <li><a href="publications">Publications</a></li>
           <li><a href="service">Projects</a></li>
           <li><a href="service">Team</a></li>
           <li><a href="service">Teaching</a></li>
