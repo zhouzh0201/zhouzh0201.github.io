@@ -60,8 +60,7 @@
       
         <hr>
         <div align="center">
-            <small>Copyright &copy 2024 <a href="https://marswhu.github.io/">Multimedia Analysis & Reasoning (MARS)
-                    Lab</a></small>
+            <small>Copyright &copy 2024 <a href="https://zhouz0201.github.io/">zhonghong personal homepage</a></small>
             <br>
             <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
         </div>
