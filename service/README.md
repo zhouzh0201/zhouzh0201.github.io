@@ -1,5 +1,5 @@
- <html>
- <head>
+<html>
+<head>
   <meta charset="utf-8">
   <meta name="author" content="persinal homepage">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -63,16 +63,16 @@
       
     </ul>
    
- <hr> 
+    <hr> 
  
-<div align="center">
+    <div align="center">
       <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong personal homepage</a></small>
       <br>
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
-  </div>
-
- 
+    </div>
+   </div>
+</body> 
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
 
- 
+</html> 
