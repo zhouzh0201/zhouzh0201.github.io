@@ -36,7 +36,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://zhouzh0201.github.io/"> 周忠红</a></h1>
+      <h1><a href="https://zhouzh0201.github.io/"></h1>
       
 
       <html>
