@@ -58,7 +58,7 @@
           <li><a href="service">Projects</a></li>
           <li><a href="service/Service.md">Team</a></li>
           <li><a href="service/Service.md">Teaching</a></li>
-          <li><a href="service/Service.md">Service</a></li>
+          <li><a href="service">Service</a></li>
         </ul>
       </div>
     </div>
