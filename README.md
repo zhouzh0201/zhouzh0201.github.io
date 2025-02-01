@@ -56,9 +56,9 @@
           <li class="active"><a href="index.html">Home</a></li>
           <li><a href="service">Publications</a></li>
           <li><a href="service">Projects</a></li>
-          <li><a href="service">Team</a></li>
-          <li><a href="service">Teaching</a></li>
-          <li><a href="service">Service</a></li>
+          <li><a href="service/Service.md">Team</a></li>
+          <li><a href="service/Service.md">Teaching</a></li>
+          <li><a href="service/Service.md">Service</a></li>
         </ul>
       </div>
     </div>
