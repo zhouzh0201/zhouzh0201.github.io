@@ -46,25 +46,8 @@
  <span class="navbar-brand">
           <font color="#fff0000">Service</font>
         </span>
-    <h2>Service</h2>
-
-    <h4>
-      Associate Editor: </h4>
-    <ul>
-      <li>
-        <p> IEEE Transactions on Image Processing, 2024 - Now</p>
-      </li>
-      <li>
-        <p> IEEE Transactions on Information Forensics and Security, 2024 - Now</p>
-      </li>
-      <li>
-        <p> CAAI Transactions on Intelligence Technology, 2022 - Now </p>
-      </li>
-      <li>
-        <p> Journal of Electronic Imaging, 2021 - Now</p>
-      </li>
-      
-    </ul>
+    
+  
    
     <hr> 
  
