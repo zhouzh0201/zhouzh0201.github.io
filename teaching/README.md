@@ -41,7 +41,7 @@
   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
   <link href="../static/xin.css" rel="stylesheet">
 
-</head>
+<!--/head-->
 
 <body>
 
@@ -101,4 +101,4 @@
   </small>
 </div> -->
 
-</html>
+<!--/html-->
