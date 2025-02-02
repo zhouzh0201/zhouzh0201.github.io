@@ -37,7 +37,7 @@
 <body>
  <!-- ******HEADER****** -->
 
-  </head>
+  <!--/head-->
   <body>
    <div class="container-lg px-3 my-5 markdown-body">
    </div> 
