@@ -12,7 +12,7 @@
  
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-
+<body bgcolor="#f0f000"></body>
 
 
 <title>ZhouZhonghong's主页建造中.......  </title>
@@ -46,7 +46,7 @@
  <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
 <body>
  <!-- ******HEADER****** -->
-<body bgcolor="#f0f000"></body>
+
     
  <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
