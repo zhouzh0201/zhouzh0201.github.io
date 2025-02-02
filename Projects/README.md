@@ -61,11 +61,11 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="../index.html">Home</a></li>
-                    <li><a href="../publications/index.htm"> Publications </a></li>
+                    <li><a href="../publications"> Publications </a></li>
                     <li class="active"><a href="index.htm"> Projects </a></li>
-                    <li><a href="../team/index.htm">Team</a></li>
-                    <li><a href="../teaching/index.htm">Teaching</a></li>
-                    <li><a href="../service/index.htm">Service</a></li>
+                    <li><a href="../team">Team</a></li>
+                    <li><a href="../teaching">Teaching</a></li>
+                    <li><a href="../service">Service</a></li>
                 </ul>
             </div>
         </div>
