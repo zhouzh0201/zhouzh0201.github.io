@@ -45,7 +45,7 @@
   <link href="../static/xin.css" rel="stylesheet">
 
 
-</head>
+<!--/head-->
 
 <body>
 
@@ -94,4 +94,4 @@
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
 
-</html> 
+<!--/html--> 
