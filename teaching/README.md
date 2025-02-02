@@ -41,35 +41,17 @@
   </nav>
 
   <div class="container" style="margin-top: 100px;">
-
-    <h2 id="teaching">Teaching</h2>
-    <ul>
-      <li>人工智能引论, 2023秋.</li>
-      <li>人工智能引论, 2022秋.</li>
-      <li>认知过程的信息处理, 2021秋.</li>
-    </ul>
+ <span class="navbar-brand">
+          <font color="#ff0000">teaching</font>
+        </span>
+   
 
     <hr>
 
-    <h2 id="teaching">Teaching Assistant</h2>
-    <ul>
-      <li>
-        <p> COMP7870, IT Innovation Management and Entrepreneurship [2018-19 S2] </p>
-      </li>
-      <li>
-        <p> COMP4005, Information Systems Theory, Methodology and Architecture [2017-18 S1] </p>
-      </li>
-      <li>
-        <p> COMP7400, Financial Analysis and Decision Making [2016-17-18 S2]</p>
-      </li>
-      <li>
-        <p> COMP7800, Analytic Models in IT Management [2016-17 S1]</p>
-      </li>
-      <li>
-        <p> COMP2005, Business in the IT Context [2016-17 S1] </p>
-
-      </li>
-    </ul>
+   
+     
+      
+   
 
     <hr>
     <div align="center">
