@@ -86,26 +86,12 @@
     <h2>Team</h2>
 
     <h4>Childhood </h4>
-    <ul>
-      <li>
-        <p> IEEE Transactions on Image Processing, 2024 - Now</p>
-      </li>
-      <li>
-        <p> IEEE Transactions on Information Forensics and Security, 2024 - Now</p>
-      </li>
-      <li>
-        <p> CAAI Transactions on Intelligence Technology, 2022 - Now </p>
-      </li>
-      <li>
-        <p> Journal of Electronic Imaging, 2021 - Now</p>
-      </li>
-      
-    </ul> 
-    
+  
+  
    
  <hr/> 
  
-<div align="center">
+  <div align="center">
       <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong personal homepage</a></small>
       <br />
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
@@ -120,8 +106,8 @@
 
 
       
-    </div>
+    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-  </body>
+</body>
 </html>
