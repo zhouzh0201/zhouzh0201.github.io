@@ -77,7 +77,7 @@
   <header class="header">
      <div class="container"> 
         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
-       <!-- <div class="profile-content pull-center"> -->    
+        <div class="profile-content pull-center">   
       <div class="profile-content pull-center" align="center">  
           <h1 class="name">ZhouZhonghong's the page is under construction.......  </h1>  
           <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
