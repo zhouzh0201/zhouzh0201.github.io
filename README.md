@@ -46,7 +46,8 @@
  <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
 <body>
  <!-- ******HEADER****** -->
-
+<body bgcolor=yellow></body>
+    
  <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
