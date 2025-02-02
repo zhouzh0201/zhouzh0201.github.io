@@ -4,8 +4,7 @@
   <meta charset="utf-8">
   <meta name="author" content="persinal homepage">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name=keywords content="zhonghong", "zhouzhonghong", "周忠红", "WHU", "Wuhan University", "武汉大学", "persinal homepage">
-
+ 
 
   <title>Service</title>
 
@@ -44,8 +43,10 @@
   </nav>
 
   <div class="container" style="margin-top: 50px;">
-
-    <h2>Professional Service</h2>
+ <span class="navbar-brand">
+          <font color="#fff0000">Service</font>
+        </span>
+    <h2>Service</h2>
 
     <h4>
       Associate Editor: </h4>
