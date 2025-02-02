@@ -156,7 +156,7 @@
 
  
 <hr noshade="">
- <div class="profile-content pull-center" align="center">  
+ <div class="profile-content pull-right" align="right">  
 <p>
 <h3>About Me</h3>   
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
@@ -164,13 +164,10 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
     
    
 <hr noshade="">
-<h3> Research Interests </h3>
+<h3> CV</h3>
 
 <ul>
-    <li>  Memory-efficient Learning </li>
-    <li>  Multimodal Models </li>
-    <li>  Continual Learning </li>
-    <li>  Person Re-identification </li>
+    
 </ul>
  
 <hr noshade="">
