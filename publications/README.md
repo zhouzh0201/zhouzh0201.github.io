@@ -82,25 +82,18 @@
   </nav>
 
   <div class="container" style="margin-top: 50px;">
-
-    <h2>Publications</h2>
-
-    <h4>茶港花苑</h4>
-    <ul>
-      <li>
-        <p> IEEE Transactions on Image Processing, 2024 - Now</p>
-      </li>
-      <li>
-        <p> IEEE Transactions on Information Forensics and Security, 2024 - Now</p>
-      </li>
-      <li>
-        <p> CAAI Transactions on Intelligence Technology, 2022 - Now </p>
-      </li>
-      <li>
-        <p> Journal of Electronic Imaging, 2021 - Now</p>
-      </li>
+ <span class="navbar-brand">
+          <font color="#ff0000">publications</font>
+        </span>
+  
+ <span class="navbar-brand">
+          <font color="#3bdddd">茶港花苑</font>
+        </span>
+    
+    
+    
       
-    </ul>
+    
    
  <hr /> 
  
