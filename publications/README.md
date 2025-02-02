@@ -127,7 +127,7 @@
       
     
    
- <hr width=80% size=5 color="#5151A2" align="left" > 
+ <hr> 
  
 <div align="center">
       <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong personal homepage</a></small>
