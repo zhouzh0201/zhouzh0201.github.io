@@ -136,7 +136,7 @@
 
  
   
-     <td width="500">
+     <!--td width="500"-->
       
 
 <div>
@@ -161,7 +161,7 @@
 
 
  
-<hr noshade="">
+<!--hr noshade=""-->
  <div class="profile-content pull-right" align="right">  
 <p>
 <h3>About Me</h3>   
