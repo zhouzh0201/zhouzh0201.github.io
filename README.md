@@ -9,7 +9,7 @@
     <!--meta name="keywords" content="ZhouZhonghong"-->
     <!--meta name="author" content="ZhouZhonghong"-->
     <!--meta name="viewport" content="width=device-width, initial-scale=1.0"-->
-</head>
+ 
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
@@ -41,7 +41,7 @@
 
  <link rel="stylesheet" href="../static/pixyll.css" type="text/css">
 </head>
- <!--title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
+ <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
 <body>
  <!-- ******HEADER****** -->
 
