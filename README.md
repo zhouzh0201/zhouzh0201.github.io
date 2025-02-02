@@ -9,11 +9,12 @@
     <!--meta name="keywords" content="ZhouZhonghong"-->
     <!--meta name="author" content="ZhouZhonghong"-->
     <!--meta name="viewport" content="width=device-width, initial-scale=1.0"-->
-
-<--!meta http-equiv="content-type" content="text/html;charset=utf-8" /-->
-
-
+</head>
 <head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+
+
 <!--title>ZhouZhonghong's主页建造中.......  </title>
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
