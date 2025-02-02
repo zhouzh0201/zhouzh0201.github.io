@@ -141,10 +141,10 @@
 
 <div>
          <br>
-           <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px">|  <h5>Researchgate </h5></a>
+           <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px">"esearchgate" </a>
         
            <br>
-           <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:+5px">| <h5> jszywhu</h5></a>
+           <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:+5px">"jszywhu"</a>
            
            <br>
             <a href="https://WeChat.png"><img src="wexin1.png" height="20px" style="margin-bottom:+5px">| <h5>Wechat</h5></a>
