@@ -116,7 +116,8 @@
  <span class="navbar-brand">
           <font color="#ff0000">publications</font>
         </span>
-  <!--hr-->
+   
+  <hr>
  <span class="navbar-brand">
           <font color="#3bdddd">《茶港花苑》</font>
         </span>
@@ -126,7 +127,7 @@
       
     
    
- <hr width=300 size=5 color=#5151A2 align=left noshade/> 
+ <hr width=80% size=5 color="#5151A2" align="left" > 
  
 <div align="center">
       <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong personal homepage</a></small>
