@@ -141,7 +141,7 @@
 
 <div>
          <br>
-           <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px">"SEARCHGATE" </a>
+           <a RESEARCHGATE:href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
         
            <br>
            <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:+5px">"JSZYWHU"</a>
