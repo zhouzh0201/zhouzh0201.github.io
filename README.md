@@ -1,14 +1,6 @@
 <!--html-->
 <!--head-->
-    <!--meta http-equiv="Content-Type" content="text/html; charset=UTF-8"-->
-    <!--title>Homepage-ZhouZhonghong's Home Page, ....... </title-->
-
-    <!--link rel="stylesheet" href="style.css"-->
-   <!--html lang="en"--> 
-    <!--meta name="description" content="ZhouZhonghong&#20;s Home Page"-->
-    <!--meta name="keywords" content="ZhouZhonghong"-->
-    <!--meta name="author" content="ZhouZhonghong"-->
-    <!--meta name="viewport" content="width=device-width, initial-scale=1.0"-->
+  
  
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
