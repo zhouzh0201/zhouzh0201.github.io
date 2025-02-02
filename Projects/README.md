@@ -42,7 +42,7 @@
     <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="../static/xin.css" rel="stylesheet">
 
-</head>
+<!--/head-->
 
 <body>
 
@@ -110,4 +110,4 @@
     <script src="../static/bootstrap/js/bootstrap.js"></script>
 </body>
 
-</html>
+<!--/html-->
