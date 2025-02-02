@@ -141,19 +141,19 @@
 
 <div>
          <br>
-          RESEARCHGATE: <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
+          RESEARCHGATE:<a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
         
            <br>
-           <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:+5px">JSZYWHU</a>
+          JSZYWHU:     <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:+5px"></a>
            
            <br>
-            <a href="https://WeChat.png"><img src="wexin1.png" height="20px" style="margin-bottom:+5px">WECHAT</a>
+           WECHAT:      <a href="https://WeChat.png"><img src="wexin1.png" height="20px" style="margin-bottom:+5px"></a>
             
            <br>
-           <a href="https://orcid.org/0009-0006-0788-1842"> <img src="iD.png" height="30px" style="margin-bottom:+5px">ORCID<a/>
+           ORCID:      <a href="https://orcid.org/0009-0006-0788-1842"> <img src="iD.png" height="30px" style="margin-bottom:+5px"><a/>
            
            <br>
-           <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px">GITHUB</a>  
+           GITHUB:     <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a>  
           
           <br>
 
