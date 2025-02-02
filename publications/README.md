@@ -76,7 +76,7 @@
  <!-- ******HEADER****** -->
 
 
-  <title>Service</title>
+   <title>Publications</title>
 
   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="../static/xin.css" rel="stylesheet" />
@@ -116,7 +116,7 @@
  <span class="navbar-brand">
           <font color="#ff0000">publications</font>
         </span>
-  <hr>
+  <!--hr-->
  <span class="navbar-brand">
           <font color="#3bdddd">《茶港花苑》</font>
         </span>
@@ -126,7 +126,7 @@
       
     
    
- <hr /> 
+ <hr width=300 size=5 color=#5151A2 align=left noshade/> 
  
 <div align="center">
       <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong personal homepage</a></small>
@@ -139,12 +139,12 @@
 <script src="../static/bootstrap/js/bootstrap.js"></script>
 
  
- </body></html>
+ <!--/body--><!--/html-->
 
 
       
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-  </body>
+  <!--/body-->
  
