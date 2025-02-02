@@ -139,7 +139,7 @@
           ResearchGate:  <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
         
          <br>
-          JSZYWHU:<a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:+5px"></a>
+          JSZYWHU:<a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="5px" style="margin-bottom:-2px"></a>
            
            <br>
            WeChat:            <a href="https://WeChat.png"><img src="wexin1.png" height="20px" style="margin-bottom:+5px"></a>
