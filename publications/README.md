@@ -85,9 +85,9 @@
  <span class="navbar-brand">
           <font color="#ff0000">publications</font>
         </span>
-  
+  <hr>
  <span class="navbar-brand">
-          <font color="#3bdddd">茶港花苑</font>
+          <font color="#3bdddd"><<茶港花苑>></font>
         </span>
     
     
