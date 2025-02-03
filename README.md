@@ -50,19 +50,19 @@
                 <div class="line"></div>
                 <div class="line"></div>
               
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
+                <!--span class="icon-bar"><--/span>
+                <!--span class="icon-bar"><--/span>
              </div>
            </div>
          </div> 
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
+          <!--span class="icon-bar"><--/span>
+          <!--span class="icon-bar"><--/span>
+          <!--span class="icon-bar"><--/span>
 
         </button>
         <span class="navbar-brand">
-          <font color="#ff0000"> Homepage </font>
+          <font color="#ff0000"> Homepage</font>
         </span>
       </div>
       <div class="nav-links" id="nav-links">
