@@ -62,16 +62,16 @@
 
         </button>
         <span class="navbar-brand">
-          <font color="#ff0000"> Homepage</font>
+          <font color="#ff0000"> Homepage,Home,Publications</font>
         </span>
       </div>
       <nav class="nav-links" id="nav-links">
-        <a href="#home">Home></a>
-        <a href="#publications">Publications></a>
-        <a href="#Projects">Projects></a>
-        <a href="#team">Team></a>
-        <a href="#teaching">Teaching></a>
-        <a href="#service">Service></a>
+        <a href="#home">Home</a>
+        <a href="#publications">Publications</a>
+        <a href="#Projects">Projects</a>
+        <a href="#team">Team</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#service">Service</a>
       </nav>
        
         <div class="navbar-collapse collapse">
