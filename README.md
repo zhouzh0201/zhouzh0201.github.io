@@ -159,6 +159,7 @@
 
  
 <!--hr noshade=""-->
+<ul>
  <div class="profile-content pull-right" align="right">  
 <p>
 <h3>About Me</h3>   
@@ -169,12 +170,12 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 <hr noshade="">
 <h3> CV</h3>
 
-<ul>
-    
+
+   </div>  
 </ul>
  
 
- </div>
+
  <hr noshade="">
  
 <div align="center">
