@@ -160,7 +160,7 @@
  
 <!--hr noshade=""-->
 
- <div class="profile-content pull-right" align="right">  
+ <div class="profile-content pull-center" align="center">  
 <p>
 <h3>About Me</h3>   
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
@@ -169,7 +169,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
    
 <hr noshade="">
 <h3> CV</h3>
- </div> 
+ <!--/div--> 
 <ul>
    
 </ul>
