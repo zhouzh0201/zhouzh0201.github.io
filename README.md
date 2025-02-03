@@ -65,7 +65,15 @@
           <font color="#ff0000"> Homepage</font>
         </span>
       </div>
-      <div class="nav-links" id="nav-links">
+      <nav class="nav-links" id="nav-links">
+        <a href="#home">Home></a>
+        <a href="#publications">Publications></a>
+        <a href="#Projects">Projects></a>
+        <a href="#team">Team></a>
+        <a href="#teaching">Teaching></a>
+        <a href="#service">Service></a>
+      </nav>
+       
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
