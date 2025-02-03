@@ -15,7 +15,7 @@
     <meta name="description" content="ZhouZhonghong's Home Page">
     <meta name="author" content="ZhouZhonghong">
 
-    <！--meta background-color="#62e4e4"-->
+     
  <link rel="shortcut icon" href="favicon.ico">
  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -41,7 +41,7 @@
 
    
  <nav class="navbar navbar-inverse navbar-fixed-top">
-     <！--nav style="background-color:#62e4e4"-->
+     
      <nav width=20px>
       
        
@@ -74,12 +74,12 @@
       </div>
      <nav class="nav-links" id="nav-links">
       <！--nav style="background-color:#62e4e4"-->
-        <a href="#home">Home</a>
-        <a href="#publications">Publications</a>
-        <a href="#Projects">Projects</a>
-        <a href="#team">Team</a>
-        <a href="#teaching">Teaching</a>
-        <a href="#service">Service</a>
+        <！--a href="#home">Home</a-->
+        <！--a href="#publications"-->Publications</a>
+        <！--a href="#Projects"-->Projects</a>
+        <！--a href="#team"-->Team</a>
+        <！--a href="#teaching"-->Teaching</a>
+        <！--a href="#service"-->Service</a>
       </nav>
        <nav style="background-color:#62e4e4">
         <div class="navbar-collapse collapse">
