@@ -44,7 +44,6 @@
         </button>
         <span class="navbar-brand">
         </span>
-      </div>
       <nav class="nav-links" id="nav-links">
       </nav>
        <nav style="background-color:#62e4e4">
@@ -59,14 +58,11 @@
          </ul>
        </div>
       </nav>
-     </div>
    </nav>
  </nav>
-</nav> 
 </body>
 
-<body>
-     <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
+<body>   
   <header class="header">
      <div class="container"> 
         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
