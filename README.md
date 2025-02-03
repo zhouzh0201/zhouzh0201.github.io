@@ -41,14 +41,14 @@
 
    
  <nav class="navbar navbar-inverse navbar-fixed-top">
-     <！--nav style="background-color:#62e4e4"-->
-     <nav width=“100px”>
+     <nav style="background-color:#62e4e4">
+     <nav width=100px>
       
        
      <div class="container">
        <div class="navbar">
           <div class="hamburger-menu" id="hamburger-menu">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <1--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
              <div class="navbar-header">
                 <div class="line"></div>
                 <div class="line"></div>
@@ -59,7 +59,7 @@
              </div>
            </div>
          </div> 
-        <!--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
