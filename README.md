@@ -50,8 +50,8 @@
                 <div class="line"></div>
                 <div class="line"></div>
               
-                <!--span class="icon-bar"><--/span>
-                <!--span class="icon-bar"><--/span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
              </div>
            </div>
          </div> 
