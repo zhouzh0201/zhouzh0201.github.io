@@ -4,7 +4,7 @@
  
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<！--body bgcolor="#f0f000"></body-->
+<body bgcolor="#f0f000"></body>
 
 
 <title>Hamburger Menu </title>
@@ -42,7 +42,7 @@
    
  <nav class="navbar navbar-inverse navbar-fixed-top">
      <nav style="background-color:#62e4e4">
-     <nav width=100px>
+     <nav width=50px>
       
        
      <div class="container">
