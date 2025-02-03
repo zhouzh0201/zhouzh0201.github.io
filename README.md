@@ -42,6 +42,9 @@
    
  <nav class="navbar navbar-inverse navbar-fixed-top">
      <nav style="background-color:#62e4e4">
+     nav {
+       width:500px;
+       }
      <div class="container">
        <div class="navbar">
           <div class="hamburger-menu" id="hamburger-menu">
@@ -84,7 +87,7 @@
            <li><a href="service">Service</a></li>
          </ul>
       </div>
-    </div>
+    <!--/div-->
   </nav>
 </nav>
 <script sre="script.js"></script>
