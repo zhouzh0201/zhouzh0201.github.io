@@ -1,4 +1,4 @@
-<!--html-->
+<html>
 <!--head-->
   
  
@@ -7,7 +7,7 @@
 <body bgcolor="#f0f000"></body>
 
 
-<title>ZhouZhonghong's主页建造中.......  </title>
+<title>Hamburger Menu </title>
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -32,18 +32,29 @@
 
 
 
-
+ <link rel="stylesheet" href="style.css">
  <link rel="stylesheet" href="../static/pixyll.css" type="text/css">
 </head>
  <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
 <body>
  <!-- ******HEADER****** -->
 
-    
+   
  <nav class="navbar navbar-inverse navbar-fixed-top">
      <nav style="background-color:#62e4e4">
      <div class="container">
-      <div class="navbar-header">
+       <div class="navbar">
+          <div class="hamburger-menu" id="hamburger-menu">
+            <div class="navbar-header">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+              
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+             </div>
+           </div>
+         </div> 
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -54,19 +65,21 @@
           <font color="#ff0000"> Homepage </font>
         </span>
       </div>
-      <div class="navbar-collapse collapse">
-        <ul class="nav navbar-nav">
-          <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="publications">Publications</a></li>
-          <li><a href="Projects">Projects</a></li>
-          <li><a href="team">Team</a></li>
-          <li><a href="teaching">Teaching</a></li>
-          <li><a href="service">Service</a></li>
-        </ul>
+      <div class="nav-links" id="nav-links">
+        <div class="navbar-collapse collapse">
+         <ul class="nav navbar-nav">
+           <li class="active"><a href="index.html">Home</a></li>
+           <li><a href="publications">Publications</a></li>
+           <li><a href="Projects">Projects</a></li>
+           <li><a href="team">Team</a></li>
+           <li><a href="teaching">Teaching</a></li>
+           <li><a href="service">Service</a></li>
+         </ul>
       </div>
     </div>
   </nav>
 </nav>
+<script sre="script.js"></script>
 </body>
 
 <body>
