@@ -4,7 +4,7 @@
  
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<！--body bgcolor="#f0f000"--></body-->
+ 
 
 
 <title>Hamburger Menu </title>
@@ -73,13 +73,7 @@
         </span>
       </div>
      <nav class="nav-links" id="nav-links">
-      <！--nav style="background-color:#62e4e4"-->
-        <！--a href="#home">Home</a-->
-        <！--a href="#publications"-->Publications</a>
-        <！--a href="#Projects"-->Projects</a>
-        <！--a href="#team"-->Team</a>
-        <！--a href="#teaching"-->Teaching</a>
-        <！--a href="#service"-->Service</a>
+     
       </nav>
        <nav style="background-color:#62e4e4">
         <div class="navbar-collapse collapse">
@@ -95,7 +89,7 @@
     <!--/div-->
   </nav>
 </nav>
-<script sre="script.js"></script>
+<！--script sre="script.js"></script-->
 </body>
 
 <body>
