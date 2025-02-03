@@ -1,10 +1,9 @@
 <html>
 <head>
   
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
     <nav style="background-color:#62e4e4">
-    <nav width=10px>
-
+    <nav width=5px>
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,23 +13,23 @@
   
  <link rel="shortcut icon" href="favicon.ico">
  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+ <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
  <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
-  <link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+ <link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
  <link id="theme-style" rel="stylesheet" href="styles.min.css">
-  <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
-  <link href="static/xin.css" rel="stylesheet">
+ <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
+ <link href="static/xin.css" rel="stylesheet">
  <link rel="stylesheet" href="style.css">
  <link rel="stylesheet" href="../static/pixyll.css" type="text/css">
-  </nav>
-   </nav>
+ </nav>
+ </nav>
 </head>
  
 <body>
  <!-- ******HEADER****** --> 
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#62e4e4">
-     <nav width=10px>   
+   <nav style="background-color:#ff6ec7">
+     <nav width=5px>   
       <div class="container">
        <div class="navbar">
            <span class="icon-bar"></span>
@@ -40,17 +39,17 @@
         </div>
         </nav>
       </nav>
+   
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <span class="navbar-brand">
-        </span>
-      <nav class="nav-links" id="nav-links">
-      </nav>
-       <nav style="background-color:#62e4e4">
-       <nav width=10px>
+        
+      <span class="navbar-brand"> </span>
+      <nav class="nav-links" id="nav-links"> </nav>
+       <nav style="background-color:#ff0000">
+       <nav width=5px>
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
