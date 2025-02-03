@@ -32,20 +32,11 @@
      <nav width=20px>   
       <div class="container">
        <div class="navbar">
-          <！--div class="hamburger-menu" id="hamburger-menu"-->
-             
-             <！--div class="navbar-header"-->
-             
-                <！--div class="line"></div-->
-                
-                <！--div class="line"></div-->
-                
-                <！--div class="line"></div-->
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-             </div>
-           </div>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+         </div>
+        </div>
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
