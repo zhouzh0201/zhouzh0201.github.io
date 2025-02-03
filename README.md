@@ -4,10 +4,10 @@
  
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <nav style="background-color:#62e4e4">
+
+
  
-
-
-<title>Hamburger Menu </title>
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,7 +25,7 @@
   <link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
  <link id="theme-style" rel="stylesheet" href="styles.min.css">
- <title>zhouzhonghong - Wuhan University</title>
+ 
 
   <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
   <link href="static/xin.css" rel="stylesheet">
@@ -34,8 +34,9 @@
 
  <link rel="stylesheet" href="style.css">
  <link rel="stylesheet" href="../static/pixyll.css" type="text/css">
+  </nav>
 </head>
- <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
+ 
 <body>
  <!-- ******HEADER****** -->
 
