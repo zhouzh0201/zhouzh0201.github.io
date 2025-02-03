@@ -4,7 +4,7 @@
  
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<body bgcolor="#f0f000"></body>
+<！--body bgcolor="#f0f000"--></body-->
 
 
 <title>Hamburger Menu </title>
@@ -41,17 +41,20 @@
 
    
  <nav class="navbar navbar-inverse navbar-fixed-top">
-     <nav style="background-color:#62e4e4">
-     <nav width=50px>
+     <！--nav style="background-color:#62e4e4"-->
+     <nav width=20px>
       
        
      <div class="container">
        <div class="navbar">
           <div class="hamburger-menu" id="hamburger-menu">
-            <！--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
+             
              <div class="navbar-header">
+             
                 <div class="line"></div>
+                
                 <div class="line"></div>
+                
                 <div class="line"></div>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -66,10 +69,11 @@
 
         </button>
         <span class="navbar-brand">
-          <font color="#ff0000"> Homepage,Home,Publications</font>
+          <！--font color="#ff0000"--> Homepage,Home,Publications</font-->
         </span>
       </div>
       <nav class="nav-links" id="nav-links">
+      <nav style="background-color:#62e4e4">
         <a href="#home">Home</a>
         <a href="#publications">Publications</a>
         <a href="#Projects">Projects</a>
