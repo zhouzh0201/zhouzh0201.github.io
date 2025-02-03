@@ -3,7 +3,7 @@
   
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
     <nav style="background-color:#62e4e4">
-    <nav width=20px>
+    <nav width=10px>
 
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
@@ -30,7 +30,7 @@
  <!-- ******HEADER****** --> 
  <nav class="navbar navbar-inverse navbar-fixed-top">
    <nav style="background-color:#62e4e4">
-     <nav width=20px>   
+     <nav width=10px>   
       <div class="container">
        <div class="navbar">
            <span class="icon-bar"></span>
@@ -50,7 +50,7 @@
       <nav class="nav-links" id="nav-links">
       </nav>
        <nav style="background-color:#62e4e4">
-       <nav width=20px>
+       <nav width=10px>
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
