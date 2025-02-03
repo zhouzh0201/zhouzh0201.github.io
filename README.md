@@ -69,11 +69,11 @@
 
         </button>
         <span class="navbar-brand">
-          <！--font color="#ff0000"--> Homepage,Home,Publications</font-->
+        
         </span>
       </div>
-      <nav class="nav-links" id="nav-links">
-      <nav style="background-color:#62e4e4">
+     <nav class="nav-links" id="nav-links">
+      <！--nav style="background-color:#62e4e4"-->
         <a href="#home">Home</a>
         <a href="#publications">Publications</a>
         <a href="#Projects">Projects</a>
@@ -81,7 +81,7 @@
         <a href="#teaching">Teaching</a>
         <a href="#service">Service</a>
       </nav>
-       
+       <nav style="background-color:#62e4e4">
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
