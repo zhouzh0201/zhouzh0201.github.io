@@ -15,7 +15,7 @@
     <meta name="description" content="ZhouZhonghong's Home Page">
     <meta name="author" content="ZhouZhonghong">
 
-    <meta background-color="#62e4e4">
+    <！--meta background-color="#62e4e4"-->
  <link rel="shortcut icon" href="favicon.ico">
  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -48,7 +48,7 @@
      <div class="container">
        <div class="navbar">
           <div class="hamburger-menu" id="hamburger-menu">
-            <1--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
+            <！--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
              <div class="navbar-header">
                 <div class="line"></div>
                 <div class="line"></div>
