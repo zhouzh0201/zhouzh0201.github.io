@@ -1,26 +1,34 @@
 <html>
 <head>
   
-    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-    <nav style="background-color:#62e4e4">
-    <nav width=100px>
+    <！--meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <！--nav style="background-color:#62e4e4">
+    <！--nav width=100px>
+    
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Homepage">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <meta name="description" content="ZhouZhonghong's Home Page">
-    <meta name="author" content="ZhouZhonghong">
-  
- <link rel="shortcut icon" href="favicon.ico">
- <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css">
- <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
- <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
- <link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
- <link id="theme-style" rel="stylesheet" href="styles.min.css">
+    <!--meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name=keywords content= "WHU", "Wuhan University","zhouzhonghong", "武汉大学", "homepage">
+    <!--meta name="description" content="ZhouZhonghong's Home Page">
+    <!--meta name="author" content="ZhouZhonghong">
+ 
+
+    <title>zhouzhonghong- Wuhan University</title>
+    
+ <!--link rel="shortcut icon" href="favicon.ico">
+ <!--link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css">
+ <!--link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+ <!--link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+ <!--link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+ <!--link id="theme-style" rel="stylesheet" href="styles.min.css">
+ 
  <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
  <link href="static/xin.css" rel="stylesheet">
- <link rel="stylesheet" href="style.css">
- <link rel="stylesheet" href="../static/pixyll.css" type="text/css">
+ 
+ <!--link rel="stylesheet" href="style.css">
+ <!--link rel="stylesheet" href="../static/pixyll.css" type="text/css">
  </nav>
  </nav>
 </head>
@@ -48,12 +56,13 @@
           
         </button>  
        <span class="navbar-brand">
-       <!--font color="#ff000">Homepage </font-->
+       <font color="#ffffff">Homepage </font>
        </span>
       </div>
       <!--nav class="nav-links" id="nav-links"> </nav-->
       <!--nav style="background-color:#62e4e4"-->
        <!--nav width=100px-->
+       
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
