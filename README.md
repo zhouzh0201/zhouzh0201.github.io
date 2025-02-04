@@ -26,14 +26,16 @@
  
  <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
  <link href="static/xin.css" rel="stylesheet">
+
+</head>
+
  
  <!--link rel="stylesheet" href="style.css">
  <!--link rel="stylesheet" href="../static/pixyll.css" type="text/css">
- </nav>
- </nav>
-</head>
+    </nav>
+   </nav>
+  </head>
  
-<body>
  <!-- ******HEADER****** --> 
  <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
    <!--nav style="background-color:#ff6ec7"-->
@@ -45,7 +47,7 @@
            <!--span class="icon-bar"></span-->
            <!--span class="icon-bar"></span-->
            <!--span class="icon-bar"></span-->
-
+<body>
    <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
