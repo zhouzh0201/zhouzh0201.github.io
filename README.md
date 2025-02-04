@@ -2,8 +2,8 @@
 <head>
   
     <!--meta http-equiv="content-type" content="text/html;charset=utf-8" /-->
-   <!--nav style="background-color:#62e4e4"-->
-     <!--nav width=100px-->
+   <nav style="background-color:#62e4e4">
+     <nav width=100px>
     
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
@@ -16,9 +16,7 @@
     <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="static/xin.css" rel="stylesheet">
 
-   </nav>
-  </nav>
-</head>
+ 
   
      
     <!--meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -51,6 +49,10 @@
            <!--span class="icon-bar"></span-->
            <!--span class="icon-bar"></span-->
            <!--span class="icon-bar"></span-->
+
+
+
+           
 <body>
    <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
@@ -68,6 +70,8 @@
       <!--nav class="nav-links" id="nav-links"> </nav-->
       <!--nav style="background-color:#62e4e4"-->
        <!--nav width=100px-->
+
+       
        
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
@@ -84,6 +88,10 @@
    
   </nav> 
 </body>
+
+  </nav>
+  </nav>
+</head>
 
 <body>   
   <header class="header">
