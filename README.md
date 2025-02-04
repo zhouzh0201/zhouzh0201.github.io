@@ -37,13 +37,7 @@
            <!--span class="icon-bar"></span-->
            <!--span class="icon-bar"></span-->
            <!--span class="icon-bar"></span-->
-</button--> 
-</div-->
-</div-->
-</div--> 
-</nav-->
-</nav-->
-</nav--> 
+
    <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
