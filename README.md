@@ -31,14 +31,18 @@
    <nav style="background-color:#ff6ec7">
      <nav width=5px>   
       <div class="container">
-       <div class="navbar">
+         <div class="navbar-header">
+              <div class="navbar">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
-         </div>
+        </button> 
         </div>
-        </nav>
-      </nav>
+       </div>
+      </div> 
+    </nav>
+   </nav>
    
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
