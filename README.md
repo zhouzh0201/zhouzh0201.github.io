@@ -64,10 +64,9 @@
            <li><a href="service">Service</a></li>
          </ul>
        </div>
-      </nav>
-     </nav>
+     
     </div> 
-   </div> 
+   
   </nav> 
 </body>
 
