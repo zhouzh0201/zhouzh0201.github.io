@@ -27,16 +27,16 @@
  
 <body>
  <!-- ******HEADER****** --> 
- <nav class="navbar navbar-inverse navbar-fixed-top">
+ <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
    <!--nav style="background-color:#ff6ec7"-->
-     <nav width=100px>   
-      <div class="container">
-         <div class="navbar-header">
-          <div class="navbar">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-           <span class="icon-bar"></span>
-           <span class="icon-bar"></span>
-           <span class="icon-bar"></span>
+     <!--nav width=100px-->   
+      <!--div class="container"-->
+         <!--div class="navbar-header"-->
+          <!--div class="navbar"-->
+          <!--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
+           <!--span class="icon-bar"></span-->
+           <!--span class="icon-bar"></span-->
+           <!--span class="icon-bar"></span-->
         </button> 
         </div>
        </div>
@@ -53,12 +53,13 @@
           <span class="icon-bar"></span>
           
         </button>  
-      <span class="navbar-brand">
+       <span class="navbar-brand">
        <!--font color="#ff000">Homepage </font-->
-      </span>
-      <nav class="nav-links" id="nav-links"> </nav>
+       </span>
+      </div>
+      <!--nav class="nav-links" id="nav-links"> </nav-->
       <!--nav style="background-color:#62e4e4"-->
-       <nav width=100px>
+       <!--nav width=100px-->
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
