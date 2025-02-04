@@ -40,8 +40,8 @@
  
  <!-- ******HEADER****** --> 
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#bc8f8f">
-     <nav width=10px>   
+   <nav style="background-color:#62e4e4">
+     <nav width=500px>   
       <div class="container">
          <div class="navbar-header">
           <div class="navbar">
@@ -61,8 +61,8 @@
     <div class="container">
       <div class="navbar-header">
        <div class="navbar">
-        <nav style="background-color:##ff6ec7">
-          <nav width=10px>
+        <nav style="background-color:#ff6e47">
+          <nav width=500px>
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -72,12 +72,12 @@
         </nav>
        </div> 
        <span class="navbar-brand">
-       <font color="#ffffff">Homepage </font>
+       <font color="#ff0000">Homepage </font>
        </span>
       </div>
       <!--nav class="nav-links" id="nav-links"> </nav-->
       <nav style="background-color:#00ff7f">
-       <nav width=10px>
+       <nav width=500px>
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
