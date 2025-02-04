@@ -1,9 +1,9 @@
 <html>
 <head>
   
-    <!--meta http-equiv="content-type" content="text/html;charset=utf-8" /-->
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
    <nav style="background-color:#ff0000">
-     <nav width=200px>
+     <nav width=50px>
     
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
@@ -41,7 +41,7 @@
  <!-- ******HEADER****** --> 
  <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
    <!--nav style="background-color:#ff6ec7"-->
-     <!--nav width=100px-->   
+     <!--nav width=20px-->   
       <!--div class="container"-->
          <!--div class="navbar-header"-->
           <!--div class="navbar"-->
@@ -58,7 +58,7 @@
     <div class="container">
       <div class="navbar-header">
         <nav style="background-color:##ff6ec7">
-          <nav width=10px>
+          <nav width=100px>
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -72,7 +72,7 @@
       </div>
       <!--nav class="nav-links" id="nav-links"> </nav-->
       <nav style="background-color:#00ff7f">
-       <nav width=10px>
+       <nav width=100px>
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
@@ -91,7 +91,7 @@
 </body>
 
   </nav>
-  </nav>
+ </nav>
 </head>
 
 <body>   
