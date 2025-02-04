@@ -2,8 +2,8 @@
 <head>
   
     <!--meta http-equiv="content-type" content="text/html;charset=utf-8" /-->
-   <!--nav style="background-color:#ff0000"-->
-     <!--nav width=200px-->
+   <nav style="background-color:#ff0000">
+     <nav width=200px>
     
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
@@ -57,7 +57,7 @@
    <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
-        <nav style="background-color:#00ff7f">
+        <nav style="background-color:##ff6ec7">
           <nav width=10px>
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
