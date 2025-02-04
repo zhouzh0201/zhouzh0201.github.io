@@ -54,7 +54,7 @@
           
         </button>  
       <span class="navbar-brand">
-       <font color="#ff000"> persinal homepage </a></font>
+       <font color="#ff000">persinal homepage </font>
       </span>
       <nav class="nav-links" id="nav-links"> </nav>
        <nav style="background-color:#62e4e4">
@@ -70,11 +70,11 @@
          </ul>
        </div>
       </nav>
-    </nav>
+     </nav>
+    </div> 
    </div> 
-  </div> 
- </nav> 
-</body>
+  </nav> 
+ </body>
 
 <body>   
   <header class="header">
