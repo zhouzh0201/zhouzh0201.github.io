@@ -71,7 +71,7 @@
       </div>
       <!--nav class="nav-links" id="nav-links"> </nav-->
       <nav style="background-color:#00ff7f">
-       <nav width=50px>
+       <nav width=10px>
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
