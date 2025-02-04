@@ -2,8 +2,8 @@
 <head>
   
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-    <nav style="background-color:#62e4e4">
-    <nav width=100px>
+   <nav style="background-color:#62e4e4">
+     <nav width=100px>
     
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
@@ -16,16 +16,16 @@
     <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="static/xin.css" rel="stylesheet">
 
-
-    
+   </nav>
+  </nav>
+</head>
+  
      
     <!--meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!--meta name="description" content="ZhouZhonghong's Home Page">
     <!--meta name="author" content="ZhouZhonghong">
  
-  </nav>
-  </nav>
-</head>
+ 
   
     
  <!--link rel="shortcut icon" href="favicon.ico">
