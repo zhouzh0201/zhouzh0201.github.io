@@ -40,7 +40,7 @@
  
  <!-- ******HEADER****** --> 
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#ff6ec7">
+   <nav style="background-color:#bc8f8f">
      <nav width=20px>   
       <div class="container">
          <div class="navbar-header">
@@ -60,6 +60,7 @@
    <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
+       <div class="navbar">
         <nav style="background-color:##ff6ec7">
           <nav width=100px>
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -69,6 +70,7 @@
         </button> 
          </nav>
         </nav>
+       </div> 
        <span class="navbar-brand">
        <font color="#ffffff">Homepage </font>
        </span>
