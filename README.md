@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="author" content="Homepage">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <meta name=keywords content="WHU","Wuhan University","zhouzhonghong","武汉大学","homepage">
+    <!--meta name=keywords content="WHU","Wuhan University","zhouzhonghong","武汉大学","homepage"-->
     
     <title>zhouzhonghong- Wuhan University</title>
 
