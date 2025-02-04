@@ -3,7 +3,7 @@
   
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
     <nav style="background-color:#62e4e4">
-    <nav width=5px>
+    <nav width=100px>
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
