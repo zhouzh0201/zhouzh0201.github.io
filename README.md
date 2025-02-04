@@ -39,20 +39,23 @@
 
  
  <!-- ******HEADER****** --> 
- <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
-   <!--nav style="background-color:#ff6ec7"-->
-     <!--nav width=20px-->   
-      <!--div class="container"-->
-         <!--div class="navbar-header"-->
-          <!--div class="navbar"-->
-          <!--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
+ <nav class="navbar navbar-inverse navbar-fixed-top">
+   <nav style="background-color:#ff6ec7">
+     <nav width=20px>   
+      <div class="container">
+         <div class="navbar-header">
+          <div class="navbar">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
            <!--span class="icon-bar"></span-->
            <!--span class="icon-bar"></span-->
            <!--span class="icon-bar"></span-->
-
-
-
-           
+           </button>
+           </div>
+          </div>
+         </div>  
+        </nav>
+       </nav>
+      </nav>  
 <body>
    <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
