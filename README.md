@@ -57,6 +57,8 @@
    <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
+
+        
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -68,11 +70,8 @@
        </span>
       </div>
       <!--nav class="nav-links" id="nav-links"> </nav-->
-      <!--nav style="background-color:#62e4e4"-->
-       <!--nav width=100px-->
-
-       
-       
+      <nav style="background-color:#00ff7f">
+       <nav width=50px>
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
@@ -83,7 +82,8 @@
            <li><a href="service">Service</a></li>
          </ul>
        </div>
-     
+      </nav> 
+     </nav> 
     </div> 
    
   </nav> 
