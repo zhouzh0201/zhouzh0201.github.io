@@ -1,15 +1,15 @@
 <html>
 <head>
   
-    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-   <nav style="background-color:#62e4e4">
-     <nav width=100px>
+    <!--meta http-equiv="content-type" content="text/html;charset=utf-8" /-->
+   <!--nav style="background-color:#62e4e4"-->
+     <!--nav width=100px-->
     
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
     <meta name="author" content="Homepage">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <meta name=keywords content= "WHU", "Wuhan University","zhouzhonghong", "武汉大学", "homepage">
+    <meta name=keywords content="WHU","Wuhan University","zhouzhonghong","武汉大学","homepage">
     
     <title>zhouzhonghong- Wuhan University</title>
 
