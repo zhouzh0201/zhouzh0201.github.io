@@ -28,7 +28,7 @@
 <body>
  <!-- ******HEADER****** --> 
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#ff6ec7">
+   <!--nav style="background-color:#ff6ec7"-->
      <nav width=5px>   
       <div class="container">
          <div class="navbar-header">
