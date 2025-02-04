@@ -54,7 +54,7 @@
           
         </button>  
       <span class="navbar-brand">
-       <font color="#ff000">Homepage </font>
+       <!--font color="#ff000">Homepage </font-->
       </span>
       <nav class="nav-links" id="nav-links"> </nav>
        <nav style="background-color:#62e4e4">
