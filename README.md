@@ -27,14 +27,11 @@
  <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
  <link href="static/xin.css" rel="stylesheet">
 
-</head>
-
- 
  <!--link rel="stylesheet" href="style.css">
  <!--link rel="stylesheet" href="../static/pixyll.css" type="text/css">
-    </nav>
-   </nav>
-  </head>
+  </nav>
+  </nav>
+</head>
  
  <!-- ******HEADER****** --> 
  <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
