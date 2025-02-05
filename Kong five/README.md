@@ -3,10 +3,16 @@
   <meta charset="utf-8">
   <meta name="author" content="persinal homepage">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
   <!--meta name=keywords content="Mang Ye", "Ye Mang", "叶茫", "WHU", "Wuhan University", "武汉大学", "MARS", "marswhu", "MARS WHU"-->
+  <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
+  <title>zhouzhonghong - Wuhan University</title>
+   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
+   <link href="../static/xin.css" rel="stylesheet" />
 
+</head>  
   <title>Kong Five</title>
-
+  
   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
   <link href="../static/xin.css" rel="stylesheet">
 
@@ -15,6 +21,7 @@
 <body>
 
   <nav class="navbar navbar-inverse navbar-fixed-top">
+   <nav style="background-color:#ff0000;hieght:50px;">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -24,26 +31,32 @@
 
         </button>
         <span class="navbar-brand">
-          <font color="#ff0000">persinal homepage</a></font>
+          <font color="#ffffff">persinal homepage</a></font>
         </span>
       </div>
+      
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li><a href="../index.html">Home</a></li>
-          <li><a href="../publications/index.htm">Publications</a></li>
-          <li><a href="../projects/index.htm">Projects</a></li>
-          <li><a href="../team/index.htm">Team</a></li>
-          <li><a href="../teaching/index.htm">Teaching</a></li>
-          <li class="active"><a href="index.htm">Service</a></li>
-          <li class="active"><a href="index.htm">Kong Five</a><li>
+           <li><a href="../index.html">Home</a></li>
+           <li class="active"><a href="index.html">Home</a></li>
+           <li><a href="publications">Publications</a></li>
+           <li><a href="Projects">Projects</a></li>
+           <li><a href="team">Team</a></li>
+           <li><a href="teaching">Teaching</a></li>
+           <li><a href="service">Service</a></li>
+           <li class="active"><a href="index.htm">Kong Five</a><li>
         </ul>
       </div>
     </div>
+   </nav>
   </nav>
 
+<body>
+
+  
   <div class="container" style="margin-top: 50px;">
 
-    <h2>kong</h2>
+    <h2>kong five</h2>
     <hr>
     <div align="center">
         <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">presinal Homepage </a></small>
