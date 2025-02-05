@@ -38,6 +38,7 @@
      <div class="container">
       <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;hieght:50px;"-->
+        
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
@@ -59,7 +60,7 @@
            <li><a href="teaching">Teaching</a></li>
            <li><a href="service">Service</a></li>
            <li><a href="Kong five">kong fine</a></li>
-          </ul>
+          </ul> 
          </div>
       </div>
     </nav>    
