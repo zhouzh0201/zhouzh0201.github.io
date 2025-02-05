@@ -35,7 +35,7 @@
 </head>  
  <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#bc8f8f;hieght:50px;">
+   <nav style="background-color:#ff0000;hieght:50px;">
      <div class="container">
       <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;hieght:50px;"-->
