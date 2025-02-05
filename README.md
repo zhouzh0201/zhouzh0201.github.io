@@ -23,16 +23,16 @@
 
  <!--ink rel="stylesheet" href="../static/pixyll.css" type="text/css" /-->
 
-</head>  
-<body> 
+
+<!--body--> 
  <!-- ******HEADER****** --> 
 
- <title>homepage</title>
+ <!--title>homepage</title-->
 
   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="../static/xin.css" rel="stylesheet" />
 
-
+</head>  
  <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
     <nav style="background-color:#006400">
