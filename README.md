@@ -41,7 +41,7 @@
 
  <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-    <nav style="background-color:#ff0000">
+    <nav style="background-color:#00008b">
     <div class="container">
       <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
