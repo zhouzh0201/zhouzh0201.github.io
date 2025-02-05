@@ -43,7 +43,6 @@
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
            </button> 
-         
            <span class="navbar-brand">
             <font color="#ffffff">persinal homepage</font>
           </span>
