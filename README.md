@@ -67,7 +67,6 @@
     </nav>    
   </nav>   
 
-   
 <body>   
   <header class="header">
      <div class="container"> 
