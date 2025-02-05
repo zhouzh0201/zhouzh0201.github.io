@@ -27,7 +27,7 @@
  <！--link rel="stylesheet" href="../static/pixyll.css" type="text/css" /-->
 
 
-<！--body--> 
+<body> 
  <!-- ******HEADER****** --> 
 
  <title>homepage</title>
