@@ -10,21 +10,21 @@
     <！--meta name="viewport" content="width=device-width,initial-scale=1.0" /-->
     <！--meta name="description" content="ZhouZhonghong's Home Page" /-->
     <！--meta name="author" content="ZhouZhonghong" /-->
- <！--link rel="shortcut icon" href="favicon.ico" /-->
- <！--link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css" /-->
-    <！--link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" /-->
+ <link rel="shortcut icon" href="favicon.ico" />
+ <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
 
- <！--link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" /-->
+ <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
 
-  <！--link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" /-->
+  <link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" />
 
- <！--link id="theme-style" rel="stylesheet" href="styles.min.css" /-->
+ <link id="theme-style" rel="stylesheet" href="styles.min.css" />
  <title>zhouzhonghong - Wuhan University</title>
 
   <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="static/xin.css" rel="stylesheet" />
 
- <！--link rel="stylesheet" href="../static/pixyll.css" type="text/css" /-->
+ <ink rel="stylesheet" href="../static/pixyll.css" type="text/css" />
 
 
 <body> 
