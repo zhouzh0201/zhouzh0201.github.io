@@ -35,7 +35,7 @@
 </head>  
  <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-    <nav style="background-color:#ff6ec7;hieght:100px;">
+    <nav style="background-color:#ff6ec7;hieght:50px;">
     <div class="container">
       <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
