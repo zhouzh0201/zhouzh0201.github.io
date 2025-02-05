@@ -2,7 +2,6 @@
 <head>
   
     <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
-    
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
     <meta name="author" content="Homepage">
@@ -13,16 +12,10 @@
 
     <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="static/xin.css" rel="stylesheet">
-
- 
-  
-     
+    
     <!--meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!--meta name="description" content="ZhouZhonghong's Home Page">
     <!--meta name="author" content="ZhouZhonghong">
- 
- 
-  
     
  <!--link rel="shortcut icon" href="favicon.ico">
  <!--link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css">
@@ -31,7 +24,6 @@
  <!--link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
  <!--link id="theme-style" rel="stylesheet" href="styles.min.css"-->
  
-
  <link rel="stylesheet" href="style.css">
  <link rel="stylesheet" href="../static/pixyll.css" type="text/css">
 
@@ -40,15 +32,15 @@
  <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
-        <div class="navbar">
-         <nav style="background-color:#62e4e4">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
            </button> 
-      <nav class="nav-links" id="nav-links"> 
-      </nav>
+           <span class="navbar-brand">
+          <font color="#fff0000">Homepage</font>
+          </span>
+         </div>
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
@@ -59,14 +51,10 @@
            <li><a href="service">Service</a></li>
          </ul>
         </div>
-       </nav> 
-      </div> 
      </div>
     </div> 
    </nav>     
   </body>   
- </nav> 
- </nav> 
 </head>
 
 <body>   
