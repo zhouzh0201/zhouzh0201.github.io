@@ -2,7 +2,7 @@
 <head>
   
     <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
-   <av style="background-color:#ff0000">
+    <nav style="background-color:#ff0000">
      
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8">
@@ -43,34 +43,13 @@
       <div class="navbar-header">
         <div class="navbar">
          <nav style="background-color:#62e4e4">
-          
-            
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
            </button> 
-          </nav>
-        </nav>
-        <nav style="background-color:#ff6e47">
-         
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button> 
-         </nav>
-        </nav>
-      </div>
-     </div> 
-        
-       <span class="navbar-brand">
-       <font color="#ff0000">Homepage </font>
-       </span>
-     </div>
-      <!--nav class="nav-links" id="nav-links"> </nav-->
-      <nav style="background-color:#00ff7f">
-      
+      <nav class="nav-links" id="nav-links"> 
+      </nav>
         <div class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
@@ -82,11 +61,12 @@
          </ul>
         </div>
        </nav> 
-      </nav>   
-     </div> 
- 
-  </nav>      
- </body>   
+      </div> 
+     </div>
+    </div> 
+   </nav>     
+  </body>   
+ </nav> 
 </head>
 
 <body>   
