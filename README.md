@@ -49,7 +49,7 @@
          </div>
         <div class="navbar-collapse collapse">
          <nav style="background-color:#000000;hieght:100px;width:13000px;">
-         !--<nav style="background-color:#ff0000"-->
+         <!--nav style="background-color:#ff0000"-->
           <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
            <li><a href="publications">Publications</a></li>
