@@ -48,14 +48,16 @@
           </span>
          </div>
         <div class="navbar-collapse collapse">
-         <ul class="nav navbar-nav">
+         <nav style="background-color:#ff0000">
+          <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
            <li><a href="publications">Publications</a></li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
            <li><a href="teaching">Teaching</a></li>
            <li><a href="service">Service</a></li>
-         </ul>
+          </ul>
+         </nav>   
         </div>
      </div>
    </nav>    
