@@ -26,9 +26,18 @@
  
  <link rel="stylesheet" href="style.css">
  <link rel="stylesheet" href="../static/pixyll.css" type="text/css">
-
+</head>
 <body> 
  <!-- ******HEADER****** --> 
+
+ <title>homepage</title>
+
+  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
+  <link href="../static/xin.css" rel="stylesheet" />
+
+
+
+ <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
@@ -170,4 +179,5 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
 </div> 
 
- 
+  </body>
+</html>
