@@ -35,20 +35,21 @@
 </head>  
  <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-    <nav style="background-color:#000000;hieght:50px;">
+    <!--nav style="background-color:#000000;hieght:50px;"-->
     <div class="container">
       <div class="navbar-header">
+        <nav style="background-color:#000000;hieght:50px;">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
            </button> 
-        
+          </nav>  
            <span class="navbar-brand">
             <font color="#ffffff">persinal homepage</font>
           </span>
          </div>
-        </nav>  
+       
         <div class="navbar-collapse collapse">
          <nav style="background-color:#ff0000;hieght:100px;width:2000px;">
          <!--nav style="background-color:#ff0000"-->
