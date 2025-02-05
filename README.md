@@ -51,7 +51,7 @@
          </div>
        
         <div class="navbar-collapse collapse">
-         <nav style="background-color:#ff0000;hieght:100px;width:2000px;">
+         <nav style="background-color:#ff0000;hieght:400px;width:2000px;">
          <!--nav style="background-color:#ff0000"-->
           <ul class="nav navbar-nav">
            <li class="active"><a href="index.html">Home</a></li>
