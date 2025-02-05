@@ -5,11 +5,7 @@
   <meta name="author" content="persinal homepage" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
-    <1--meta charset="utf-8" /-->
-    <！--meta http-equiv="X-UA-Compatible" content="IE=edge" /-->
-    <！--meta name="viewport" content="width=device-width,initial-scale=1.0" /-->
-    <！--meta name="description" content="ZhouZhonghong's Home Page" /-->
-    <！--meta name="author" content="ZhouZhonghong" /-->
+   
  <!--link rel="shortcut icon" href="favicon.ico" /-->
  <!--link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css" /-->
     <!--link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" /-->
@@ -26,7 +22,7 @@
 
  <!--ink rel="stylesheet" href="../static/pixyll.css" type="text/css" /-->
 
-
+</head>  
 <body> 
  <!-- ******HEADER****** --> 
 
@@ -34,7 +30,7 @@
 
   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="../static/xin.css" rel="stylesheet" />
-</head>  
+
 
  <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -177,6 +173,6 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
       <br>
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
 </div> 
-  </body>
+   
  </body>
 </html>
