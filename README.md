@@ -34,7 +34,7 @@
 
  <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-    <nav style="background-color:#00008b">
+    <!--nav style="background-color:#"-->
     <div class="container">
       <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -43,7 +43,7 @@
            <span class="icon-bar"></span>
            </button> 
            <span class="navbar-brand">
-            <font color="#fff0000">Homepage</font>
+            <font color="#ffffff">Homepage</font>
           </span>
          </div>
         <div class="navbar-collapse collapse">
@@ -174,5 +174,4 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
 </div> 
    
- </body>
-</html>
+ 
