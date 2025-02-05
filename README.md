@@ -52,7 +52,7 @@
          </ul>
         </div>
      </div>
-    </div> 
+    
    </nav>     
   </body>   
 </head>
