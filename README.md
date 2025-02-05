@@ -24,7 +24,7 @@
  <!--link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
  <!--link id="theme-style" rel="stylesheet" href="styles.min.css"-->
  
- <link rel="stylesheet" href="style.css">
+ 
  <link rel="stylesheet" href="../static/pixyll.css" type="text/css">
 </head>
 <body> 
@@ -34,7 +34,7 @@
 
   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="../static/xin.css" rel="stylesheet" />
-
+  <link rel="stylesheet" href="style.css"> 
 
 
  <body>
