@@ -56,7 +56,7 @@
     <h2>kong five</h2>
     <hr>
     <div align="center">
-        <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">presonal website </a></small>
+        <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
         <br>
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
     </div>
