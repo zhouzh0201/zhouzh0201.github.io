@@ -34,7 +34,7 @@
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
-         </input>
+       
        </label>
        
         <span class="navbar-brand">
