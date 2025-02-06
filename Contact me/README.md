@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--DOCTYPE html-->
 <html>
 <head>
   <meta charset="utf-8">
@@ -49,7 +49,7 @@
 </body>
   <div class="container" style="margin-top: 50px;">
 
-    <h2 id="Contact me</h2>
+    <h2>Contact me</h2>
     
       
 
