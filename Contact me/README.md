@@ -29,7 +29,7 @@
           <span class="icon-bar"></span>
         </button>
         <span class="navbar-brand">
-          <font color="#ff0000">personal websitefont>
+          <font color="#ff0000">personal website</font>
         </span>
       </div>
       <div class="navbar-collapse collapse">
@@ -61,7 +61,7 @@
 
     <hr>
     <div align="center">
-        <small>Copyright &copy 2024 <a href="https://zhouzh0201.github.io/">personal website</a></small>
+        <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">personal website</a></small>
         <br>
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
     </div>
