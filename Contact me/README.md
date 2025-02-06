@@ -29,7 +29,7 @@
           <span class="icon-bar"></span>
         </button>
         <span class="navbar-brand">
-          <font color="#ff0000">personal website</a></font>
+          <font color="#ff0000">personal websitefont>
         </span>
       </div>
       <div class="navbar-collapse collapse">
