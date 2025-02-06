@@ -60,6 +60,7 @@
            <li><a href="teaching">Teaching</a></li>
            <li><a href="service">Service</a></li>
            <li><a href="Kong five">kong fine</a></li>
+           <li><a href="Contact me">contact me</a></li>
           </ul> 
          </div>
       </div>
