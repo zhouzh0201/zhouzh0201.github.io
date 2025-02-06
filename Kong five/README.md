@@ -42,6 +42,7 @@
            <li><a href="../teaching">Teaching</a></li>
            <li><a href="../service">Service</a></li>
            <li class="active"><a href="index.htm">Kong Five</a></li>
+           <li><a href="../Contact me">Contact me</a></li>
       </ul>
     </div>
   </div>
