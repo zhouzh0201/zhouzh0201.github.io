@@ -10,16 +10,14 @@
    <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
    <link href="../static/xin.css" rel="stylesheet" />
 
-</head>  
+<!--/head-->  
   <title>Kong Five</title>
   
   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
   <link href="../static/xin.css" rel="stylesheet">
 
 </head>
-
 <body>
-
   <nav class="navbar navbar-inverse navbar-fixed-top">
    <nav style="background-color:#00ff00;hieght:10px;">
     <div class="container">
@@ -30,7 +28,7 @@
           <span class="icon-bar"></span>
         </button>
         <span class="navbar-brand">
-          <font color="#ffffff">persinal homepage</a></font>
+          <font color="#ffffff">persinal homepage</font>
         </span>
       </div>
       
@@ -44,10 +42,10 @@
            <li><a href="../service">Service</a></li>
            <li class="active"><a href="index.htm">Kong Five</a><li>
         </ul>
-      </div>
-    </div>
+       </div>
+     </div>
+    </nav>
    </nav>
-  </nav>
 
 </body>
 
