@@ -43,9 +43,9 @@
            <li><a href="../service">Service</a></li>
            <li class="active"><a href="index.htm">Kong Five</a><li>
         </ul>
-       </div>
-     </div>
-    </nav>
+      </div>
+    </div>
+  </nav>
   
 
  
