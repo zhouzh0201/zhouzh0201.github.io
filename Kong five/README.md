@@ -10,16 +10,17 @@
    <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
    <link href="../static/xin.css" rel="stylesheet" />
 
-<!--/head-->  
+</head>  
+<body>
   <title>Kong Five</title>
   
   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
   <link href="../static/xin.css" rel="stylesheet">
 
-</head>
+<!--/head-->
 <body>
   <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#00ff00;hieght:10px;">
+   <!--nav style="background-color:#00ff00;hieght:50px;"-->
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -28,7 +29,7 @@
           <span class="icon-bar"></span>
         </button>
         <span class="navbar-brand">
-          <font color="#ffffff">persinal homepage</font>
+          <font color="#ff0000">persinal homepage</font>
         </span>
       </div>
       
@@ -45,11 +46,11 @@
        </div>
      </div>
     </nav>
-   </nav>
+  
 
-</body>
+ 
 
- <body> 
+ 
   <div class="container" style="margin-top: 50px;">
 
     <h2>kong five</h2>
