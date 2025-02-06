@@ -57,7 +57,7 @@
       </div>
     </div>
   </nav>
-</body>
+<!--/body-->
   <div class="container" style="margin-top: 50px;">
 
     <h2>Contact me</h2>
