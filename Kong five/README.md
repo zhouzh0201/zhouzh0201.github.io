@@ -29,7 +29,7 @@
           <span class="icon-bar"></span>
         </button>
         <span class="navbar-brand">
-          <font color="#ff0000">persinal homepage</font>
+          <font color="#ff0000">personal website</font>
         </span>
       </div>
       
@@ -56,7 +56,7 @@
     <h2>kong five</h2>
     <hr>
     <div align="center">
-        <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">presinal Homepage </a></small>
+        <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">presonal website </a></small>
         <br>
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
     </div>
@@ -65,9 +65,7 @@
 </body>
 
 <!-- <div align="center">
-  <small>
-    Copyright 2021 Multimedia Analysis & Reasoning Lab
-  </small>
+  
 </div> -->
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
