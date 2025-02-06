@@ -5,21 +5,16 @@
   <meta name="author" content="personal website">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
+  
+ 
   <title>zhouzhonghong - Wuhan University</title>
+  
   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="../static/xin.css" rel="stylesheet" />
 
 </head>  
-<body>
-  <title>Contact me</title>
-
-  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
-  <link href="../static/xin.css" rel="stylesheet">
-
-<!--/head-->
 
 <body>
-
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
@@ -27,15 +22,16 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
+       
         </button>
 
-      <label class="burger" for="burger">
-        <input type="checkbox" id="burger">
-           <span class="icon-bar"></span>
-           <span class="icon-bar"></span>
-           <span class="icon-bar"></span>
+      <!--label class="burger" for="burger"-->
+        <!--input type="checkbox" id="burger"-->
+           <!--span class="icon-bar"></span-->
+           <!--span class="icon-bar"></span-->
+           <!--span class="icon-bar"></span-->
        
-       </label>
+       <!--/label-->
        
         <span class="navbar-brand">
           <font color="#ff0000">personal website</font>
@@ -43,10 +39,10 @@
       </div>
       <div class="navbar-collapse collapse">
 
-      <div class="nav">
-      <label for="toggle" id="ham-icon">三</label>
-      <input type="checkbox" id="label">
-      </div>
+      <!--div class="nav"-->
+      <!--label for="toggle" id="ham-icon">三</label-->
+      <!--input type="checkbox" id="label"-->
+      <!--/div-->
 
       <ul class="nav navbar-nav">
           <li><a href="../index.html">Home</a></li>
