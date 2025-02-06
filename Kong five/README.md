@@ -21,14 +21,13 @@
 <body>
 
   <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#ff0000;hieght:50px;">
+   <nav style="background-color:#00ff00;hieght:10px;">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
-
         </button>
         <span class="navbar-brand">
           <font color="#ffffff">persinal homepage</a></font>
@@ -38,12 +37,11 @@
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
            <li><a href="../index.html">Home</a></li>
-           <li class="active"><a href="index.html">Home</a></li>
-           <li><a href="publications">Publications</a></li>
-           <li><a href="Projects">Projects</a></li>
-           <li><a href="team">Team</a></li>
-           <li><a href="teaching">Teaching</a></li>
-           <li><a href="service">Service</a></li>
+           <li><a href="../publications">Publications</a></li>
+           <li><a href="../Projects">Projects</a></li>
+           <li><a href="../team">Team</a></li>
+           <li><a href="../teaching">Teaching</a></li>
+           <li><a href="../service">Service</a></li>
            <li class="active"><a href="index.htm">Kong Five</a><li>
         </ul>
       </div>
