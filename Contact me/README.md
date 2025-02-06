@@ -42,7 +42,13 @@
         </span>
       </div>
       <div class="navbar-collapse collapse">
-        <ul class="nav navbar-nav">
+
+      <div class="nav">
+      <label for="toggle" id="ham-icon">三</label>
+      <input type="checkbox" id="label">
+      </div>
+
+      <ul class="nav navbar-nav">
           <li><a href="../index.html">Home</a></li>
           <li><a href="../publications">Publications</a></li>
            <li><a href="../Projects">Projects</a></li>
