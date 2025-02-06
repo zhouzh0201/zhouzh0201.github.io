@@ -5,7 +5,7 @@
   <meta name="author" content="persinal website"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
-  <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","persinal homepage"/-->
+  <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","personal homepage"/-->
 
  <!--link rel="shortcut icon" href="favicon.ico" /-->
  <!--link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css" /-->
@@ -45,7 +45,7 @@
            <span class="icon-bar"></span>
            </button> 
            <span class="navbar-brand">
-            <font color="#ff0000">persinal website</font>
+            <font color="#ff0000">personal website</font>
           </span>
          </div>
        
@@ -174,9 +174,10 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
  <hr noshade="">
  
 <div align="center">
-      <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">Zhongzhonghong personal homepage</a></small>
+      <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">zhonghong personal website</a></small>
       <br>
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
+      <small>License ing......</small>
 </div> 
    
  
