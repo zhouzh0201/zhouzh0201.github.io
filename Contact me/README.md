@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <meta name="author" content="MARS">
+  <meta name="author" content="personal website">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>联系我</title>
@@ -32,9 +32,8 @@
           <li><a href="../publications/index.htm">Publications</a></li>
           <li><a href="../projects/index.htm">Projects</a></li>
           <li><a href="../team/index.htm">Team</a></li>
-          <li class="active"><a href="index.htm">Teaching</a></li>
           <li><a href="../service/index.htm">Service</a></li>
-
+          <li class="active"><a href="index.htm">Contact me</a></li>
         </ul>
       </div>
     </div>
