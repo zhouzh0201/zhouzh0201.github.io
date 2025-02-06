@@ -77,6 +77,7 @@
           <li><a href="../Projects">Projects</a></li>
           <li><a href="../service">Service</a></li>
           <li><a href="../teaching">Teaching</a></li>
+          <li><a href="../Kong five">kong five</a></li>
           <li class="active"><a href="index.htm">Team</a></li>
         </ul>
       </div>
