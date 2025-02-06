@@ -49,9 +49,9 @@
    </nav>
   </nav>
 
-<body>
+</body>
 
-  
+ <body> 
   <div class="container" style="margin-top: 50px;">
 
     <h2>kong five</h2>
