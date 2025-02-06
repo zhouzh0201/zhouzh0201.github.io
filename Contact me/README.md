@@ -28,6 +28,15 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
+
+      <label class="burger" for="burger">
+        <input type="checkbox" id="burger">
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+         </input>
+       </label>
+       
         <span class="navbar-brand">
           <font color="#ff0000">personal website</font>
         </span>
