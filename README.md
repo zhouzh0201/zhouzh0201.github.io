@@ -2,7 +2,7 @@
 <head>
   
   <meta charset="utf-8" />
-  <meta name="author" content="persinal homepage" />
+  <meta name="author" content="persinal website"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
   <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","persinal homepage"/-->
@@ -34,7 +34,7 @@
 </head>  
  <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#00ff00;hieght:50px;">
+   <nav style="background-color:#00ffff;hieght:50px;">
      <div class="container">
       <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;hieght:50px;"-->
@@ -45,7 +45,7 @@
            <span class="icon-bar"></span>
            </button> 
            <span class="navbar-brand">
-            <font color="#ffffff">persinal homepage</font>
+            <font color="#ff0000">persinal website</font>
           </span>
          </div>
        
