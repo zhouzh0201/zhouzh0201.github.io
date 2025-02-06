@@ -42,12 +42,12 @@
            <li><a href="../teaching">Teaching</a></li>
            <li><a href="../service">Service</a></li>
            <li class="active"><a href="index.htm">Kong Five</a><li>
-        </ul>
-      </div>
+      </ul>
     </div>
-  </nav>
+  </div>
+</nav>
   
-
+</body>
  
 
  
