@@ -33,7 +33,7 @@
 
 </head>  
  <body>
- <av class="navbar navbar-inverse navbar-fixed-top">
+ <nav class="navbar navbar-inverse navbar-fixed-top">
    <nav style="background-color:#00ffff;hieght:50px;">
      <div class="container">
       <div class="navbar-header">
