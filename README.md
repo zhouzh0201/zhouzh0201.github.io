@@ -57,7 +57,7 @@
 <script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script language="javascript" src="/system/resource/vue/vue.js"></script><script language="javascript" src="/system/resource/vue/bluebird.min.js"></script><script language="javascript" src="/system/resource/vue/axios.js"></script><script language="javascript" src="/system/resource/vue/polyfill.js"></script><script language="javascript" src="/system/resource/vue/token.js"></script><LINK href="/system/resource/vue/static/element/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/vue/static/element/index.js"></script><script language="javascript" src="/system/resource/vue/static/public.js"></script>
 <style>
    #appu1 .qwss{
-        height: 31px;
+        height: 30px;
         font-size: 12px;
         min-width: 190px;
         max-width: 600px;
@@ -76,7 +76,7 @@
         height: 32px;
         border: 0;
         border-radius: 2px;
-        background-color: #1890FF;
+        background-color: #ff0000;
         position: relative;
         top: 1px;
         width: 20%;
@@ -96,7 +96,7 @@
 
                  <div class="hezi">
                    
-        <!--div class="navbar-collapse collapse"-->
+         <!--div class="navbar-collapse collapse"-->
          <!--nav style="background-color:#000000;hieght:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
           <!--ul class="nav navbar-nav"-->
@@ -110,7 +110,7 @@
            <li><a href="service">Service</a></li>
            <li><a href="Kong five">kong fine</a></li>
            <li><a href="Contact me">Contact me</a></li>
-          </ul> 
+           </ul> 
                  </div>
                </div>   
              </div>  
