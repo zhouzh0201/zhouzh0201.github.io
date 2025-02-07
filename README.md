@@ -90,7 +90,7 @@
            <!--span class="icon-bar"></span-->
            <!--/button--> 
            <span class="navbar-brand">
-            <font color="#ff0000">personal website</font>
+            <!--font color="#ff0000">personal website</font-->
            </span>
                 </div>
 
@@ -118,7 +118,7 @@
          </div>
        </div>   
     </div>  
-  </nav> 
+  <!--/nav--> 
 </nav>   
  
 <!--/body-->
