@@ -32,7 +32,7 @@
   <!--link href="../static/xin.css" rel="stylesheet" /-->
 
 </head>  
- <body>
+<body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
    <nav style="background-color:#00ffff;hieght:50px;">
      <!--div class="container"-->
@@ -117,9 +117,8 @@
        </div>
      </div>   
    </div>     
-  </nav>   
+</nav>   
 </div>
-
 </body>
 <!--汉堡条-over->
 
