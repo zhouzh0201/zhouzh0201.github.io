@@ -95,12 +95,12 @@
                 </div>
 
                  <div class="hezi">
-                     <div>
-                        <ul class="daohang clearfix">
+                    <div>
+                        <!--ul class="daohang clearfix"-->
          <!--div class="navbar-collapse collapse"-->
          <!--nav style="background-color:#000000;height:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
-                        <!--ul class="nav navbar-nav"-->
+                      <ul class="nav navbar-nav">
 
            <!--ul class="daohang clearfix"-->
            <li class="active"><a href="index.html">Home</a></li>
@@ -111,8 +111,8 @@
            <li><a href="service">Service</a></li>
            <li><a href="Kong five">kong fine</a></li>
            <li><a href="Contact me">Contact me</a></li>
-                        </ul> 
-                     </div>
+                      </ul> 
+                    </div>
                  </div>
                </div>   
              </div>  
