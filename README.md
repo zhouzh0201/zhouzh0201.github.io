@@ -34,10 +34,10 @@
 </head>  
 <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <!--nav style="background-color:#00ffff;hieght:50px;"-->
-     <div class="container">
+   <!--nav style="background-color:#00ffff;height:50px;"-->
+     <div class="container;height:100px;">
       <div class="navbar-header">
-        <!--nav style="background-color:#00ff7f;hieght:50px;"-->
+        <!--nav style="background-color:#00ff7f;height:50px;"-->
         
         <!--汉堡条star-->
 
@@ -97,7 +97,7 @@
                  <div class="hezi">
                    
          <!--div class="navbar-collapse collapse"-->
-         <!--nav style="background-color:#000000;hieght:400px;width:2000px;"-->
+         <!--nav style="background-color:#000000;height:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
           <!--ul class="nav navbar-nav"-->
 
