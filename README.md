@@ -15,10 +15,10 @@
 
   <!--link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" /-->
  <!--link id="theme-style" rel="stylesheet" href="styles.min.css" /-->
- <title>zhouzhonghong - Wuhan University</title>
+ <title>zhouzhonghong —— Wuhan University</title>
 
-  <!--link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" /-->
-  <!--link href="static/xin.css" rel="stylesheet" /-->
+  <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" />
+  <link href="static/xin.css" rel="stylesheet" />
 
  <!--ink rel="stylesheet" href="../static/pixyll.css" type="text/css" /-->
 
@@ -28,8 +28,8 @@
 
  <!--title>homepage</title-->
 
-  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-  <link href="../static/xin.css" rel="stylesheet" />
+  <!--link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" /-->
+  <!--link href="../static/xin.css" rel="stylesheet" /-->
 
 </head>  
  <body>
@@ -149,10 +149,6 @@
            Github:       <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a>  
           
           <br>
-
-
-
-
  
 <!--hr noshade=""-->
 
@@ -161,17 +157,11 @@
 <h3>About Me</h3>   
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 <p/> 
-    
-   
+      
 <hr noshade="">
 <h3> CV</h3>
  <!--/div--> 
-<ul>
-   
-</ul>
  
-
-
  <hr noshade="">
  
 <div align="center">
@@ -180,5 +170,8 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
       <small>License ing......</small>
 </div> 
-   
+<script src="static/jquery.js"></script>
+<script src="static/bootstrap/js/bootstrap.js"></script>
+
+</html>   
  
