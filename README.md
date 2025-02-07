@@ -103,7 +103,7 @@
                       <ul class="nav navbar-nav">
 
            <!--ul class="daohang clearfix"-->
-           <li class="active"><a href="index.html">"background-color:#0000ff;"Home</a></li>
+           <li class="active"><a href="index.html"><background-color="#0000ff">Home</a></li>
            <li><a href="publications">Publications</a></li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
