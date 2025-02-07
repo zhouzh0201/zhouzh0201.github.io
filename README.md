@@ -33,13 +33,19 @@
 
 </head>  
  <body>
- <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#00ffff;hieght:50px;">
-     <div class="container">
-      <div class="navbar-header">
+ <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
+   <!--nav style="background-color:#00ffff;hieght:50px;"-->
+     <!--div class="container"-->
+      <!--div class="navbar-header"-->
         <!--nav style="background-color:#00ff7f;hieght:50px;"-->
         
         <!--汉堡条star-->
+
+ <div class="header">
+
+        <div class="container clearfix">
+
+        
             <button type="button" class="navbar-toggle">
                 <span class="icon-bar icon-bar1"></span>
                 <span class="icon-bar icon-bar2"></span>
@@ -80,7 +86,7 @@
 </style>   
 <div id="divu1"></div>
  
-<!--汉堡条-over->
+
 
                     
         
@@ -93,11 +99,18 @@
             <font color="#ff0000">personal website</font>
           </span>
          </div>
+
+        <div class="hezi">
+           <div>
+                     
+
        
         <div class="navbar-collapse collapse">
          <!--nav style="background-color:#000000;hieght:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
-          <ul class="nav navbar-nav">
+          <!--ul class="nav navbar-nav"-->
+
+           <ul class="daohang clearfix">
            <li class="active"><a href="index.html">Home</a></li>
            <li><a href="publications">Publications</a></li>
            <li><a href="Projects">Projects</a></li>
@@ -108,9 +121,15 @@
            <li><a href="Contact me">Contact me</a></li>
           </ul> 
          </div>
+        </div> 
       </div>
-    </nav>    
+     </div>
+    </div>   
+   </div>     
   </nav>   
+
+<!--汉堡条-over->
+
 
 <body>   
   <header class="header">
