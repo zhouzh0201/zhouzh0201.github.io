@@ -35,7 +35,7 @@
 <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
    <!--nav style="background-color:#00ffff;height:50px;"-->
-     <div class="container;height:30px;">
+     <div class="container;">
       <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;height:50px;"-->
         
@@ -90,7 +90,7 @@
            <!--span class="icon-bar"></span-->
            <!--/button--> 
            <span class="navbar-brand">
-            <!--font color="#ff0000">personal website</font-->
+            <font color="#ff0000">personal website</font>
            </span>
                 </div>
 
@@ -118,9 +118,9 @@
        </div>   
     </div>  
   <!--/nav--> 
-</nav>   
+<!--/nav-->   
  
-</body>
+<!--/body-->
 <!--汉堡条over-->
 
 
