@@ -57,7 +57,7 @@
 <script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script language="javascript" src="/system/resource/vue/vue.js"></script><script language="javascript" src="/system/resource/vue/bluebird.min.js"></script><script language="javascript" src="/system/resource/vue/axios.js"></script><script language="javascript" src="/system/resource/vue/polyfill.js"></script><script language="javascript" src="/system/resource/vue/token.js"></script><LINK href="/system/resource/vue/static/element/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/vue/static/element/index.js"></script><script language="javascript" src="/system/resource/vue/static/public.js"></script>
 <style>
    #appu1 .qwss{
-        height: 30px;
+        height: 200px;
         font-size: 12px;
         min-width: 190px;
         max-width: 600px;
@@ -66,7 +66,7 @@
         outline: none;
         padding-left: 10px;
         border-radius: 2px;
-        border: 1px solid #e4e7ed;}
+        border: 1px solid #00ffff;}
     #appu1 .tj{
         padding-left: 6px;
         letter-spacing: 5px;
