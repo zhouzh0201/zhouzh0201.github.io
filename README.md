@@ -34,7 +34,7 @@
 </head>  
 <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#00ffff;height:50px;">
+   <!--nav style="background-color:#00ffff;height:50px;"-->
      <div class="container">
       <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;height:50px;"-->
@@ -66,7 +66,7 @@
         outline: none;
         padding-left: 10px;
         border-radius: 2px;
-        border: 1px solid #00ffff;}
+        border: 1px solid #e4e7ed;}
     #appu1 .tj{
         padding-left: 6px;
         letter-spacing: 5px;
@@ -76,7 +76,7 @@
         height: 32px;
         border: 0;
         border-radius: 2px;
-        background-color: #ff0000;
+        background-color: #1890ff;
         position: relative;
         top: 1px;
         width: 20%;
