@@ -33,17 +33,62 @@
 
 </head>  
  <body>
- <nav class="navbar navbar-inverse navbar-fixed-top">
+ <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
    <!--nav style="background-color:#00ffff;hieght:50px;"-->
-     <div class="container">
-      <div class="navbar-header">
+     <1--div class="container"-->
+      <!--div class="navbar-header"-->
         <!--nav style="background-color:#00ff7f;hieght:50px;"-->
         
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-           <span class="icon-bar"></span>
-           <span class="icon-bar"></span>
-           <span class="icon-bar"></span>
-           </button> 
+        <!--汉堡条star-->
+            <button type="button" class="navbar-toggle">
+                <span class="icon-bar icon-bar1"></span>
+                <span class="icon-bar icon-bar2"></span>
+                <span class="icon-bar icon-bar3"></span>
+            </button>
+
+            <div class="nav">
+                <div class="header-right">
+                    <div class="searchbox">
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script language="javascript" src="/system/resource/vue/vue.js"></script><script language="javascript" src="/system/resource/vue/bluebird.min.js"></script><script language="javascript" src="/system/resource/vue/axios.js"></script><script language="javascript" src="/system/resource/vue/polyfill.js"></script><script language="javascript" src="/system/resource/vue/token.js"></script><LINK href="/system/resource/vue/static/element/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/vue/static/element/index.js"></script><script language="javascript" src="/system/resource/vue/static/public.js"></script>
+<style>
+   #appu1 .qwss{
+        height: 31px;
+        font-size: 12px;
+        min-width: 190px;
+        max-width: 600px;
+        width: 60%;
+        margin-top: -15px;
+        outline: none;
+        padding-left: 10px;
+        border-radius: 2px;
+        border: 1px solid #e4e7ed;}
+    #appu1 .tj{
+        padding-left: 6px;
+        letter-spacing: 5px;
+        color: white;
+        min-width: 53px;
+        max-width: 150px;
+        height: 32px;
+        border: 0;
+        border-radius: 2px;
+        background-color: #1890FF;
+        position: relative;
+        top: 1px;
+        width: 20%;
+        margin-top: -15px;}
+</style>   
+<div id="divu1"></div>
+ 
+<!--汉堡条-over->
+
+                    
+        
+          <!--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
+           <!--span class="icon-bar"></span-->
+           <!--span class="icon-bar"></span-->
+           <!--span class="icon-bar"></span-->
+           </button--> 
            <span class="navbar-brand">
             <font color="#ff0000">personal website</font>
           </span>
