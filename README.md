@@ -83,7 +83,7 @@
         margin-top: -15px;}
 </style>   
 <div id="divu1"></div>           
- <script type="text/html" id="htmlu1">       
+      
           <!--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
            <!--span class="icon-bar"></span-->
            <!--span class="icon-bar"></span-->
@@ -95,11 +95,12 @@
                 </div>
 
                  <div class="hezi">
-                   
+                     <div>
+                        <ul class="daohang clearfix">
          <!--div class="navbar-collapse collapse"-->
          <!--nav style="background-color:#000000;height:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
-           <ul class="nav navbar-nav">
+                        <!--ul class="nav navbar-nav"-->
 
            <!--ul class="daohang clearfix"-->
            <li class="active"><a href="index.html">Home</a></li>
@@ -110,7 +111,8 @@
            <li><a href="service">Service</a></li>
            <li><a href="Kong five">kong fine</a></li>
            <li><a href="Contact me">Contact me</a></li>
-           </ul> 
+                        </ul> 
+                     </div>
                  </div>
                </div>   
              </div>  
