@@ -34,7 +34,7 @@
 </head>  
 <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#00ffff;hieght:50px;">
+   <!--nav style="background-color:#00ffff;hieght:50px;"-->
      <!--div class="container"-->
       <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;hieght:50px;"-->
@@ -117,11 +117,11 @@
           </div>
        </div>   
     </div>  
-  </nav> 
+  <!--/nav--> 
 </nav>   
  
 </body>
-<!--汉堡条-over->
+<!--汉堡条over-->
 
 
 <body>   
