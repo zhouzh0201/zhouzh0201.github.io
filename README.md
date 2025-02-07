@@ -83,7 +83,7 @@
         margin-top: -15px;}
 </style>   
 <div id="divu1"></div>           
-        
+ <script type="text/html" id="htmlu1">       
           <!--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
            <!--span class="icon-bar"></span-->
            <!--span class="icon-bar"></span-->
