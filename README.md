@@ -84,11 +84,7 @@
         width: 20%;
         margin-top: -15px;}
 </style>   
-<div id="divu1"></div>
- 
-
-
-                    
+<div id="divu1"></div>           
         
           <!--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"-->
            <!--span class="icon-bar"></span-->
@@ -96,16 +92,14 @@
            <!--span class="icon-bar"></span-->
            <!--/button--> 
            <span class="navbar-brand">
-            <font color="#ff0000">personal website</font>
+            <!--font color="#ff0000">personal website</font-->
           </span>
          </div>
 
         <div class="hezi">
-           <div>
+          <div>
                      
-
-       
-        <div class="navbar-collapse collapse">
+        <!--div class="navbar-collapse collapse"-->
          <!--nav style="background-color:#000000;hieght:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
           <!--ul class="nav navbar-nav"-->
@@ -122,9 +116,7 @@
           </ul> 
          </div>
         </div> 
-      </div>
-     </div>
-    </div>   
+     </div>   
    </div>     
   </nav>   
 
