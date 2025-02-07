@@ -35,7 +35,7 @@
 <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
    <!--nav style="background-color:#00ffff;height:50px;"-->
-     <div class="container;height:100px;">
+     <div class="container;height:30px;">
       <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;height:50px;"-->
         
@@ -57,7 +57,7 @@
 <script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script language="javascript" src="/system/resource/vue/vue.js"></script><script language="javascript" src="/system/resource/vue/bluebird.min.js"></script><script language="javascript" src="/system/resource/vue/axios.js"></script><script language="javascript" src="/system/resource/vue/polyfill.js"></script><script language="javascript" src="/system/resource/vue/token.js"></script><LINK href="/system/resource/vue/static/element/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/vue/static/element/index.js"></script><script language="javascript" src="/system/resource/vue/static/public.js"></script>
 <style>
    #appu1 .qwss{
-        height: 200px;
+        height: 20px;
         font-size: 12px;
         min-width: 190px;
         max-width: 600px;
@@ -99,9 +99,9 @@
          <!--div class="navbar-collapse collapse"-->
          <!--nav style="background-color:#000000;height:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
-          <!--ul class="nav navbar-nav"-->
+           <ul class="nav navbar-nav">
 
-           <ul class="daohang clearfix">
+           <!--ul class="daohang clearfix"-->
            <li class="active"><a href="index.html">Home</a></li>
            <li><a href="publications">Publications</a></li>
            <li><a href="Projects">Projects</a></li>
