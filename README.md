@@ -90,7 +90,7 @@
            <!--span class="icon-bar"></span-->
            <!--/button--> 
            <span class="navbar-brand">
-            <!--font color="#ff0000">personal website</font-->
+            <font color="background-color:#0000ff">Home</font>
            </span>
                 </div>
 
