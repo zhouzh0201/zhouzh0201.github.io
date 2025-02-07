@@ -35,17 +35,15 @@
 <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
    <nav style="background-color:#00ffff;hieght:50px;">
-     <!--div class="container"-->
-      <!--div class="navbar-header"-->
+     <div class="container>
+      <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;hieght:50px;"-->
         
         <!--汉堡条star-->
 
- <div class="header">
+        <div class="header">
+         <div class="container clearfix">
 
-        <div class="container clearfix">
-
-        
             <button type="button" class="navbar-toggle">
                 <span class="icon-bar icon-bar1"></span>
                 <span class="icon-bar icon-bar2"></span>
@@ -53,8 +51,8 @@
             </button>
 
             <div class="nav">
-                <div class="header-right">
-                    <div class="searchbox">
+              <div class="header-right">
+                <div class="searchbox">
 
 <script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script language="javascript" src="/system/resource/vue/vue.js"></script><script language="javascript" src="/system/resource/vue/bluebird.min.js"></script><script language="javascript" src="/system/resource/vue/axios.js"></script><script language="javascript" src="/system/resource/vue/polyfill.js"></script><script language="javascript" src="/system/resource/vue/token.js"></script><LINK href="/system/resource/vue/static/element/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/vue/static/element/index.js"></script><script language="javascript" src="/system/resource/vue/static/public.js"></script>
 <style>
@@ -93,12 +91,11 @@
            <!--/button--> 
            <span class="navbar-brand">
             <!--font color="#ff0000">personal website</font-->
-          </span>
-         </div>
+           </span>
+                </div>
 
-        <div class="hezi">
-          <div>
-                     
+                 <div class="hezi">
+                   
         <!--div class="navbar-collapse collapse"-->
          <!--nav style="background-color:#000000;hieght:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
@@ -114,11 +111,18 @@
            <li><a href="Kong five">kong fine</a></li>
            <li><a href="Contact me">Contact me</a></li>
           </ul> 
-       </div>
+                 </div>
+               </div>   
+              </div>  
+            </div>
+          </div>   
+        </div>  
+      </div>
      </div>   
-   </div>     
+   
+  </nav> 
 </nav>   
-</div>
+ 
 </body>
 <!--汉堡条-over->
 
