@@ -120,7 +120,7 @@
          </div>
        </div>   
     </div>  
-  <!--/nav--> 
+  </nav> 
 </nav>   
  
 <!--/body-->
