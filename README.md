@@ -34,7 +34,7 @@
 </head>  
 <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <!--nav style="background-color:#00ffff;height:50px;"-->
+   <nav style="background-color:#00ffff;height:50px;">
      <div class="container">
       <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;height:50px;"-->
@@ -57,7 +57,7 @@
 <script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script language="javascript" src="/system/resource/vue/vue.js"></script><script language="javascript" src="/system/resource/vue/bluebird.min.js"></script><script language="javascript" src="/system/resource/vue/axios.js"></script><script language="javascript" src="/system/resource/vue/polyfill.js"></script><script language="javascript" src="/system/resource/vue/token.js"></script><LINK href="/system/resource/vue/static/element/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/vue/static/element/index.js"></script><script language="javascript" src="/system/resource/vue/static/public.js"></script>
 <style>
    #appu1 .qwss{
-        height: 20px;
+        height: 30px;
         font-size: 12px;
         min-width: 190px;
         max-width: 600px;
