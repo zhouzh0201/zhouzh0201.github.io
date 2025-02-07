@@ -34,12 +34,12 @@
 </head>  
 <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#00ffff;height:50px;">
+   <nav style="background-color:#00ffff;height:400px;">
      <div class="container">
       <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;height:50px;"-->
         
-        <!--汉堡条star-->
+        <!--hamburline star-->
 
         <div class="header">
          <div class="container clearfix">
@@ -124,7 +124,7 @@
 </nav>   
  
 <!--/body-->
-<!--汉堡条over-->
+<!--hambur over-->
 
 
 <body>   
