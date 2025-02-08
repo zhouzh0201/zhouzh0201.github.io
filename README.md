@@ -143,12 +143,17 @@
         <div class="sliderContainer fullWidth clearfix">
             <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
                
-                   <div class="rsContent">
+  <div class="rsContent">
   <a href="" target="_blank">
     <img class="rsImg" src="2025xinnian.jpg" alt="" />
-    <img class="rsImg" src="2025011402.jpg" alt=""/>
+    
   </a>
-                  </div>
+   </div>
+   <div class="rsContent">
+    <a href="" target="_blank">
+    <img class="rsImg" src="2025011402.jpg" alt=""/>
+    </a>
+    </div>              
   
             </div>
         </div>
