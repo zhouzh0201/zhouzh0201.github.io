@@ -143,19 +143,19 @@
         <div class="sliderContainer fullWidth clearfix">
             <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
                
-  <div class="rsContent">
-  <a href="" target="_blank">
-    <img class="rsImg" src="2025xinnian.jpg" alt="" />
+              <div class="rsContent">
+                <a href="" target="_blank">
+                  <img class="rsImg" src="2025xinnian.jpg" alt="" />
     
-  </a>
-   </div>
-   <div class="rsContent">
-    <a href="" target="_blank">
-    <img class="rsImg" src="2025011402.jpg" alt=""/>
-    </a>
-    </div>              
+                </a>
+             </div>
+             <div class="rsContent">
+               <a href="" target="_blank">
+                 <img class="rsImg" src="2025011402.jpg" alt=""/>
+               </a>
+             </div>              
   
-            </div>
+           </div>
         </div>
     </div>
   <!--网站轮播结束-->
