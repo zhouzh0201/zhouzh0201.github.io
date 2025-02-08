@@ -146,6 +146,7 @@
                    <div class="rsContent">
   <a href="" target="_blank">
     <img class="rsImg" src="2025xinnian.jpg" alt="" />
+    <img class="rsImg" src="2025011402.jpg" alt=""/>
   </a>
                   </div>
   
