@@ -97,24 +97,27 @@
             <!--font color="#0000ff">Home</font-->
            </span>
                 </div>
+     <!--hambur over-->
 
+                
+     <!--  网站导航开始 -->
                  <div class="hezi">
                     <div>
-                        <!--ul class="daohang clearfix"-->
+                       <ul class="daohang clearfix">
          <!--div class="navbar-collapse collapse"-->
          <!--nav style="background-color:#000000;height:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
-                      <ul class="nav navbar-nav">
+                      <!--ul class="nav navbar-nav"-->
 
            <!--ul class="daohang clearfix"-->
-           <li class="active"><a href="index.html"> Home page</a></li>
-           
-           <li><a href="publications">Publications</a>
+           <!--li class="active"><a href="index.html"> Home page</a></li-->
+           <li> <a href="index.htm" title="personal page">首页</a></li>
+           <li><a class="dropdown " href="javascript:;" title="personal page">>Publications</a>
+               <!--a href="publications">Publications</a-->
                  <ul class="nav_item fadeInUp">
                     <li><a href="xygk/xyjj.htm">p1</a></li>
                     <li><a href="xygk/lsyg.htm">p2</a></li>
                     <li><a href="xygk/xrld.htm">p3</a></li>
-                    <li><a href="xygk/zzjg.htm">p4</a></li>
                   </ul>
            </li>
            <li><a href="Projects">Projects</a></li>
@@ -136,7 +139,6 @@
 </nav>   
  
 <!--/body-->
-<!--hambur over-->
 
  <!--网站轮播-->
     <div class="banner">
