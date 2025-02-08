@@ -140,7 +140,7 @@
                
               <div class="rsContent">
                 <a href="" target="_blank">
-                  <img class="rsImg" src="2025xinnian.jpg" alt"" width="2000px"/>
+                  <img class="rsImg" src="2025xinnian.jpg" alt"" height="400px" width="2000px"/>
                 </a>
               </div>
            
