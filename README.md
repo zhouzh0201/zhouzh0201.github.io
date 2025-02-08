@@ -113,7 +113,7 @@
            <!--li class="active"><a href="index.html"> Home page</a></li-->
            <li> <a href="index.html" title="personal page">首页</a></li>
            <li><a class="dropdown " href="javascript:;" title="personal page">Publications</a>
-               <a href=[publications](https://zhouzh0201.github.io/publications)>Publications</a>
+               <a href="[publications](https://zhouzh0201.github.io/publications)">Publications</a>
                              <ul class="nav_item fadeInUp">
                     <li><a href="xygk/xyjj.htm">p1</a></li>
                     <li><a href="xygk/lsyg.htm">p2</a></li>
