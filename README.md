@@ -111,7 +111,7 @@
 
                          <ul class="daohang clearfix">
            <!--li class="active"><a href="index.html"> Home page</a></li-->
-           <li> <a href="index.htm" title="personal page">首页</a></li>
+           <li> <a href="README.md" title="personal page">首页</a></li>
            <li><a class="dropdown " href="javascript:;" title="personal page">Publications</a>
                <!--a href="publications">Publications</a-->
                              <ul class="nav_item fadeInUp">
@@ -151,11 +151,7 @@
                   <img class="rsImg" src="2025xinnian.jpg" alt="" />
                 </a>
               </div>
-             <!--div class="rsContent">
-               <!--a href="" target="_blank">
-                 <!--img class="rsImg" src="2025011402.jpg" alt=""/--></a-->
-             
-              </div-->              
+           
   
             </div>
         </div>
