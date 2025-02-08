@@ -26,7 +26,7 @@
 <!--body--> 
  <!-- ******HEADER****** --> 
 
- <!--title>homepage</title-->
+ <!--title>home page</title-->
 
   <!--link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" /-->
   <!--link href="../static/xin.css" rel="stylesheet" /-->
@@ -103,7 +103,7 @@
                       <ul class="nav navbar-nav">
 
            <!--ul class="daohang clearfix"-->
-           <li class="active"><a href="index.html"> Home</a></li>
+           <li class="active"><a href="index.html"> Home page</a></li>
            
            <li><a href="publications">Publications</a>
                  <ul class="nav_item fadeInUp">
@@ -111,8 +111,6 @@
                     <li><a href="xygk/lsyg.htm">p2</a></li>
                     <li><a href="xygk/xrld.htm">p3</a></li>
                     <li><a href="xygk/zzjg.htm">p4</a></li>
-                    <li><a href="xygk/lxwm.htm">p5</a></li>
-                    <li><a href="xygk/jkyx.htm">p6</a></li>
                   </ul>
            </li>
            <li><a href="Projects">Projects</a></li>
