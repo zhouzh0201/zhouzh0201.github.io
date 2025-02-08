@@ -101,8 +101,15 @@
       </div>
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li><a href="../index.html">Home</a></li>
-          <li class="active"><a href="index.htm">publications</a></li>
+          <li><a href="../index.html">Homepage</a></li>
+          <li class="active"><a href="index.htm">publications</a>
+              <ul class="nav_item fadeInUp">
+                 <li><a href="xyjj.htm">p1</a></li>
+                 <li><a href="lsyg.htm">p2</a></li>
+                 <li><a href="xrld.htm">p3</a></li>
+                 <li><a href="zzjg.htm">p4</a></li>
+              </ul>
+          </li>
           <li><a href="../Projects">Projects</a></li>
           <li><a href="../team">Team</a></li>
           <li><a href="../teaching">Teaching</a></li>
