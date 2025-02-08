@@ -109,16 +109,16 @@
          <!--nav style="background-color:#ff0000"-->
                       <ul class="nav navbar-nav">
 
-           <!--ul class="daohang clearfix"-->
+                         <ul class="daohang clearfix">
            <!--li class="active"><a href="index.html"> Home page</a></li-->
            <li> <a href="index.htm" title="personal page">首页</a></li>
            <li><a class="dropdown " href="javascript:;" title="personal page">Publications</a>
                <!--a href="publications">Publications</a-->
-                 <ul class="nav_item fadeInUp">
+                             <ul class="nav_item fadeInUp">
                     <li><a href="xygk/xyjj.htm">p1</a></li>
                     <li><a href="xygk/lsyg.htm">p2</a></li>
                     <li><a href="xygk/xrld.htm">p3</a></li>
-                  </ul>
+                             </ul>
            </li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
@@ -126,7 +126,8 @@
            <li><a href="service">Service</a></li>
            <li><a href="Kong five">kong five</a></li>
            <li><a href="Contact me">Contact me</a></li>
-                      </ul> 
+                         </ul> 
+                       </ul> 
                     </div>
                  </div>
                </div>   
@@ -148,16 +149,15 @@
               <div class="rsContent">
                 <a href="" target="_blank">
                   <img class="rsImg" src="2025xinnian.jpg" alt="" />
-    
                 </a>
-             </div>
-             <div class="rsContent">
+              </div>
+             <！--div class="rsContent">
                <a href="" target="_blank">
                  <img class="rsImg" src="2025011402.jpg" alt=""/>
                </a>
-             </div>              
+              </div-->              
   
-           </div>
+            </div>
         </div>
     </div>
   <!--网站轮播结束-->
