@@ -103,7 +103,7 @@
      <!--  网站导航开始 -->
                  <div class="hezi">
                     <div>
-                       <ul class="daohang clearfix">
+                       <!--ul class="daohang clearfix"-->
          <!--div class="navbar-collapse collapse"-->
          <!--nav style="background-color:#000000;height:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
