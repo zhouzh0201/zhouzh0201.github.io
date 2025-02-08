@@ -107,12 +107,12 @@
          <!--div class="navbar-collapse collapse"-->
          <!--nav style="background-color:#000000;height:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
-                      <!--ul class="nav navbar-nav"-->
+                      <ul class="nav navbar-nav">
 
-                         <ul class="daohang clearfix">
+                         <!--ul class="daohang clearfix"-->
            <!--li class="active"><a href="index.html"> Home page</a></li-->
            <li> <a href="index.html" title="personal page">首页</a></li>
-           <li><a class="dropdown " href="javascript:;" title="personal page">Publications</a>
+           <li><a class="dropdown " href="publications" title="personal page">Publications</a>
                <!--a href="publications">Publications</a-->
                              <ul class="nav_item fadeInUp">
                     <li><a href="xygk/xyjj.htm">p1</a></li>
@@ -126,7 +126,7 @@
            <li><a href="service">Service</a></li>
            <li><a href="Kong five">kong five</a></li>
            <li><a href="Contact me">Contact me</a></li>
-                         </ul> 
+                         <!--/ul--> 
                        </ul> 
                     </div>
                  </div>
