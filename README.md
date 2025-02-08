@@ -113,7 +113,7 @@
            <!--li class="active"><a href="index.html"> Home page</a></li-->
            <li> <a href="index.html" title="personal page">首页</a></li>
            <li><a href="publications">Publications</a></li>
-           <li><a href="Projectspublications">Projects</a></li>publications
+           <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
            <li><a href="teaching">Teaching</a></li>
            <li><a href="service">Service</a></li>
