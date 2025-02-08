@@ -152,6 +152,11 @@
     </div>
   <!--网站轮播结束-->
 
+
+<hr noshade="">
+
+<hr noshade="">
+
 <body>   
   <header class="header">
      <div class="container"> 
