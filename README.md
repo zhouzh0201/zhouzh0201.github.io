@@ -129,7 +129,7 @@
          </div>
        </div>   
     </div>  
-  </nav> 
+  <!--/nav--> 
 <!--/nav-->   
  
 <!--/body-->
@@ -150,9 +150,17 @@
         </div>
     </div>
   <!--网站轮播结束-->
-</nav> 
-<hr noshade="">
+   </nav> 
+ </nav> 
 </body>
+
+
+<hr noshade="">
+
+
+
+<hr noshade="">
+
 
 
 
