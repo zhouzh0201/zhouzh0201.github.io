@@ -115,7 +115,8 @@
            <li> <a href="index.html" title="personal page">首页</a></li>
                          <div class="topnav"> 
                            <ul class="flex">
-                             <li><a href="publications">Publications</a>
+                             <li>
+                               <a href="publications">Publications</a>
                                <i class="plus swi-down-outlined"></i>
                                <div class="sub-nav">
                                  <div class="sub-nav-h">
