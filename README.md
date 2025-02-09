@@ -166,10 +166,10 @@
         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
          <br>
         <div class="profile-content pull-center">   
-      <div class="profile-content pull-center" align="center">  
+          <div class="profile-content pull-center" align="center">  
           <h1 class="name">ZhouZhonghong's the page is under construction.......  </h1>  
           <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
-          <ul class="social list-inline">   
+            <ul class="social list-inline">   
               
               <li data-toggle="tooltip" data-placement="bottom" title="CV">
                   <a href=" " target="_blank">
@@ -214,17 +214,12 @@
                   <i class="fa fa-envelope"> </i>
                 </a>
               </li>
-          </ul>
-      </div> 
-  
-
-   </div>  
-
- 
+            </ul>
+        </div> 
+     </div>  
   
      <!--td width="500"-->
       
-
 <div>
          <br>
           ResearchGate:  <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
@@ -245,67 +240,20 @@
  
 <hr noshade="">
 
-
-
-
-
-
-
-
-
-
-
-
  <div class="profile-content pull-center" align="center">  
 <p>
 <h3>About Me</h3>   
-
-
-
-
-
-
-
-
-  
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
-
-
-
-
-
-
-
 <p/> 
       
 <hr noshade="">
 
 <h3> CV</h3>
 
-
-
-
-
-
-
-
-
-
  <!--/div--> 
  
  <hr noshade="">
  
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
       <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">zhonghong personal website</a></small>
       <br>
