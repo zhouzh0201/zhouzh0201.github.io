@@ -143,7 +143,7 @@
                 <a href="" target="_blank">
                    <!--img class="rsImg" src="2025xinnian.jpg" alt="" /-->
                    <!--img class="rsImg" src="2025xinnian.jpg" alt"" /-->
-                   <img src="2025xinnian.jpg" height="100px" width="200%"/>
+                   <img src="2025xinnian.jpg" height="200px" width="200%"/>
                 </a>
               </div>
             </div>
@@ -273,7 +273,7 @@
           
           <br>
  
-<!--hr noshade=""-->
+<hr noshade="">
 
 
 
@@ -308,7 +308,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 
 <p/> 
       
-<!--hr noshade=""-->
+<hr noshade="">
 
 <h3> CV</h3>
 
@@ -323,7 +323,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 
  <!--/div--> 
  
- <!--hr noshade=""-->
+ <hr noshade="">
  
 
 
