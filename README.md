@@ -3,7 +3,7 @@
   
   <meta charset="utf-8" />
   <meta name="author" content="persinal website"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0",maximum-scale=1, user-scalable=no />
   <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
   <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","personal homepage"/-->
     <!--轮播图样式以及设置-->
