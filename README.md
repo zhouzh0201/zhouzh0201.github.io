@@ -111,15 +111,19 @@
 
                          <!--ul class="daohang clearfix"-->
            <!--li class="active"><a href="index.html"> Home page</a></li-->
+           
            <li> <a href="index.html" title="personal page">首页</a></li>
-           <li><!--a href="publications">Publications</a-->
-                <a class="dropdown " href="javascript:;" title="personal homepage">Publications</a>
-                   <ul class="nav_item fadeInUp">
-                       <li><a href="xygk/xyjj.htm">p1</a></li>
-                       <li><a href="xygk/lsyg.htm">p2</a></li>
-                       <li><a href="xygk/xrld.htm">p3</a></li>
-                   </ul>
-           </li>
+                         <div class="topnav"> <ul class="flex">
+                            <li><a href="publications">Publications</a>
+                               <i class="plus swi-down-outlined"></i>
+                              <div class="sub-nav">
+                                <div class="sub-nav-h">
+                                   <a href="xxgk/xxjj.htm">p1</a>
+                                    <a href="xxgk/wdbs.htm">p2</a>
+                                    <a href="xxgk/bnxs.htm">p3</a>
+                                 </div>
+                              </div>
+                            </li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
            <li><a href="teaching">Teaching</a></li>
@@ -127,7 +131,8 @@
            <li><a href="Kong five">kong five</a></li>
            <li><a href="Contact me">Contact me</a></li>
                          <!--/ul--> 
-                       </ul> 
+                         </div>
+                      </ul>   
                     </div>
                  </div>
                </div>   
