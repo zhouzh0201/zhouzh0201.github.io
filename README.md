@@ -112,20 +112,10 @@
                          <!--ul class="daohang clearfix"-->
            <!--li class="active"><a href="index.html"> Home page</a></li-->
            
-           <li> <a href="index.html" title="personal page">首页</a></li>
-                         <!--div class="topnav"--> 
-                           <ul class="ul flex">
-                             <li>
-                               <a href="publications">Publications</a>
-                               <i class="plus swi-down-outlined"></i>
-                               <div class="sub-nav">
-                                 <div class="sub-nav-h">
-                                    <a href="xxgk/xxjj.htm">p1</a>
-                                    <a href="xxgk/wdbs.htm">p2</a>
-                                    <a href="xxgk/bnxs.htm">p3</a>
-                                 </div>
-                               </div>
-                             </li>
+           <li> <a href="index.html" title="personal page">Home page</a></li>
+                         
+           <li><a href="publications">Publications</a></li>
+                              
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
            <li><a href="teaching">Teaching</a></li>
