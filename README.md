@@ -124,7 +124,7 @@
            <li><a href="Contact me">Contact me</a></li>
                             </ul> 
                          <!--/div-->
-                      </ul>   
+                      <!--/ul-->   
                     </div>
                  </div>
                </div>   
