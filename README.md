@@ -113,14 +113,14 @@
            <!--li class="active"><a href="index.html"> Home page</a></li-->
            
            <li> <a href="index.html" title="personal page">首页</a></li>
-                         <div class="topnav"> 
-                           <ul class="flex">
+                         <!--div class="topnav"--> 
+                           <ul class="ul flex">
                              <li>
                                <a href="publications">Publications</a>
                                <i class="plus swi-down-outlined"></i>
                                <div class="sub-nav">
                                  <div class="sub-nav-h">
-                                   <a href="xxgk/xxjj.htm">p1</a>
+                                    <a href="xxgk/xxjj.htm">p1</a>
                                     <a href="xxgk/wdbs.htm">p2</a>
                                     <a href="xxgk/bnxs.htm">p3</a>
                                  </div>
@@ -133,7 +133,7 @@
            <li><a href="Kong five">kong five</a></li>
            <li><a href="Contact me">Contact me</a></li>
                             </ul> 
-                         </div>
+                         <!--/div-->
                       </ul>   
                     </div>
                  </div>
