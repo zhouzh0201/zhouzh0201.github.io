@@ -112,7 +112,14 @@
                          <!--ul class="daohang clearfix"-->
            <!--li class="active"><a href="index.html"> Home page</a></li-->
            <li> <a href="index.html" title="personal page">首页</a></li>
-           <li><a href="publications">Publications</a></li>
+           <li><!--a href="publications">Publications</a-->
+                <a class="dropdown " href="javascript:;" title="personal homepage">Publications</a>
+                   <ul class="nav_item fadeInUp">
+                       <li><a href="xygk/xyjj.htm">p1</a></li>
+                       <li><a href="xygk/lsyg.htm">p2</a></li>
+                       <li><a href="xygk/xrld.htm">p3</a></li>
+                   </ul>
+           </li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
            <li><a href="teaching">Teaching</a></li>
