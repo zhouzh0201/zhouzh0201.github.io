@@ -143,7 +143,7 @@
                 <a href="" target="_blank">
                    <!--img class="rsImg" src="2025xinnian.jpg" alt="" /-->
                    <!--img class="rsImg" src="2025xinnian.jpg" alt"" /-->
-                   <img src="2025xinnian.jpg" height="200px" width="200%"/>
+                   <img src="2025xinnian.jpg" height="150px" width="200%"/>
                 </a>
               </div>
             </div>
