@@ -151,6 +151,7 @@
     </div>
   <!--网站轮播结束-->
 </nav> 
+<hr noshade="">
 </body>
 
 
@@ -174,14 +175,14 @@
 
 
 
+ 
+
+
+<hr noshade="">
 
 
 
-<body>   
-<!--hr noshade=""-->
-
-<!--hr noshade=""-->
-
+<body>  
   <header class="header">
      <div class="container"> 
         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
