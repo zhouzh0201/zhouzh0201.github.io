@@ -143,11 +143,9 @@
                 <a href="" target="_blank">
                    <!--img class="rsImg" src="2025xinnian.jpg" alt="" /-->
                    <!--img class="rsImg" src="2025xinnian.jpg" alt"" /-->
-                   <img src="2025xinnian.jpg" height="200px" width="200%"/>
+                   <img src="2025xinnian.jpg" height="400px" width="200%"/>
                 </a>
               </div>
-           
-  
             </div>
         </div>
     </div>
@@ -174,11 +172,16 @@
 
 
 
-<hr noshade="">
 
-<hr noshade="">
+
+
+
 
 <body>   
+<hr noshade="">
+
+<hr noshade="">
+
   <header class="header">
      <div class="container"> 
         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
