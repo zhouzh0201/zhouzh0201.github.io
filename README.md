@@ -103,11 +103,11 @@
     
 
      
-<head>  
+<!--head-->  
   <!--meta charset="utf-8" /--> 
   <!--meta name="viewport" content="width=device-width, initial-scale=1.0"/-->
    <!--title>二级菜单</title-->
- <style>
+ <1--style-->
   nav{
     background-color:#333;
   }
@@ -131,8 +131,8 @@
     nav ul li haver>ul{
       display:block;
     }
-   </style>
-  </head>   
+   <!--/style-->
+  <!--/head-->   
     <body>
      <!--  网站导航开始 -->
     
