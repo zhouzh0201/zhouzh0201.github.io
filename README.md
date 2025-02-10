@@ -104,33 +104,11 @@
 
      
 <!--head-->  
-  <!--meta charset="utf-8" /--> 
-  <!--meta name="viewport" content="width=device-width, initial-scale=1.0"/-->
+  
    <!--title>二级菜单</title-->
  <!--style-->
-  nav{
-    background-color:#333;
-  }
-  nav ul{
-    list-style type:none;
-    margin:0
-    padding:0
-  }
-  nav ul a{
-    display:black;
-    padding: 10px 20px;
-    text-decoration:none;
-    color:white;
-    }
-    nav ul li hover>a{
-      backgeound-color:#555;
-    }
-    nav ul li ul{
-      display:none;
-    }
-    nav ul li haver>ul{
-      display:block;
-    }
+  
+    
    <!--/style-->
   <!--/head-->   
     <body>
