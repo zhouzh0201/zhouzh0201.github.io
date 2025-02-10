@@ -166,7 +166,8 @@
            <li><a href="Kong five">kong five</a></li>
            <li><a href="Contact me">Contact me</a></li>
                             </ul> 
-                          </nav>  
+                          </nav> 
+                        </body> 
                          <!--/div-->
                       <!--/ul-->   
                     </div>
