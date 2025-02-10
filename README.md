@@ -97,6 +97,9 @@
             <!--font color="#0000ff">Home</font-->
            </span>
                 </div>
+               </div>
+
+                
      <!--hambur over-->
 
                 
@@ -147,7 +150,7 @@
                     </div>
                  <!--  网站导航结束 -->
                  <!--/body--> 
-               </div>   
+               <!--/div-->   
              </div>  
            </div>
          </div>
