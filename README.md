@@ -22,7 +22,7 @@
  <title>zhouzhonghong —— Wuhan University</title>
 
   <!--link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" /-->
-  <link href="static/xin.css" rel="stylesheet" />
+  <!--link href="static/xin.css" rel="stylesheet" /-->
 
  <!--ink rel="stylesheet" href="../static/pixyll.css" type="text/css" /-->
 
