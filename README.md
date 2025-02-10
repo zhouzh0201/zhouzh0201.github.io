@@ -42,7 +42,6 @@
      <div class="container">
       <div class="navbar-header">
         <!--nav style="background-color:#00ff7f;height:50px;"-->
-        
         <!--hamburline star-->
 
         <div class="header">
