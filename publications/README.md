@@ -130,10 +130,10 @@
           <li><a href="../index.html">Homepage</a></li>
           <!--li class="active"><a href="index.htm">publications</a></li-->
         
-          <li><a href="publications">Publications</a></li>
+          <li><a href="publications">Publications</a> 
                     <ul class="submenu">
                         <li><a href="publications/p1-1">p1-1</a></li>
-                        <li><a href="#">publications/p1-1</a></li>
+                        <li><a href="#">p1-2</a></li>
                      </ul>
         
           </li>
