@@ -84,6 +84,33 @@
 
 <!--/head-->
 
+ <!--title>二级菜单</title-->
+<style>
+  nav{
+    background-color:#333;
+  }
+  nav ul{
+    list-style type:none;
+    margin:0
+    padding:0
+  }
+  nav ul a{
+    display:black;
+    padding: 10px 20px;
+    text-decoration:none;
+    color:white;
+    }
+    nav ul li hover>a{
+      backgeound-color:#555;
+    }
+    nav ul li ul{
+      display:none;
+    }
+    nav ul li haver>ul{
+      display:block;
+    }
+   </style>
+  
 <body>
 
   <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -103,12 +130,11 @@
         <ul class="nav navbar-nav">
           <li><a href="../index.html">Homepage</a></li>
           <li class="active"><a href="index.htm">publications</a>
-              <ul class="nav_item fadeInUp">
-                 <li><a href="xyjj.htm">p1</a></li>
-                 <li><a href="lsyg.htm">p2</a></li>
-                 <li><a href="xrld.htm">p3</a></li>
-                 <li><a href="zzjg.htm">p4</a></li>
-              </ul>
+          <li><a href="publications">Publications</a>
+                     <ul class="submenu">
+                        <li><a href="team">p1-1</a></li>
+                        <li><a href="#">p1-2</a></li>
+                     </ul>
           </li>
           <li><a href="../Projects">Projects</a></li>
           <li><a href="../team">Team</a></li>
