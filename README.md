@@ -100,12 +100,12 @@
      <!--hambur over-->
 
                 
-     <!--  网站导航开始 -->
+    
 
      
 <head>  
-  <meta charset="utf-8" /> 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <!--meta charset="utf-8" /--> 
+  <!--meta name="viewport" content="width=device-width, initial-scale=1.0"/-->
    <!--title>二级菜单</title-->
  <style>
   nav{
@@ -134,44 +134,41 @@
    </style>
   </head>   
     <body>
+     <!--  网站导航开始 -->
     
-    
-                 <!--div class="hezi">
-                    <!--div>
-                       <!--ul class="daohang clearfix"-->
+                   <div class="hezi">
+                      <div>
+                         <ul class="daohang clearfix">
          <!--div class="navbar-collapse collapse"-->
          <!--nav style="background-color:#000000;height:400px;width:2000px;"-->
          <!--nav style="background-color:#ff0000"-->
                       <!--ul class="nav navbar-nav">
 
-                         <!--ul class="daohang clearfix"-->
-               <nav> 
-                 <ul>
-                 
+                        
+                       
            <!--li class="active"><a href="index.html"> Home page</a></li-->
            
            <li> <a href="index.html" title="personal page">Home page</a></li>
-                         
-           <li><a href="publications">Publications</a>
-                  <ul   class="submenu">
+           
+           <li > 
+                <a class="dropdown " href="javascript:;" title="publications">Publications</a>         
+                <!--a href="publications">Publications</a-->
+                 <ul   class="nav_item fadeInUp">
                    <li><a href="publications/p1-1">p1-1</a></li>
                    <li><a href="#">p1-2</a></li>
-                  </ul>
-            </li>
+                 </ul>
+           </li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
            <li><a href="teaching">Teaching</a></li>
            <li><a href="service">Service</a></li>
            <li><a href="Kong five">kong five</a></li>
            <li><a href="Contact me">Contact me</a></li>
-                            </ul> 
-                          </nav> 
-                        
-                         <!--/div-->
-                      <!--/ul-->   
-                    <!--/div-->
-                 <!--/div-->
-              </body> 
+                         </ul> 
+                       </div>
+                    </div>
+                 <!--  网站导航结束 -->
+                 </body> 
                </div>   
              </div>  
            </div>
