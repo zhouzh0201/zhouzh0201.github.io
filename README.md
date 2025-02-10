@@ -114,7 +114,7 @@
     
    <!--/style-->
   <!--/head-->   
-    <!--body-->
+    <body>
      <!--  网站导航开始 -->
     
                    <div class="hezi">
@@ -156,11 +156,11 @@
          </div>
        </div>   
     </div>  
-  <!--/nav--> 
+  </nav> 
 </nav>   
  
-<!--/body-->
-
+</body>
+<body>
  <!--网站轮播-->
     <div class="banner">
         <div class="sliderContainer fullWidth clearfix">
