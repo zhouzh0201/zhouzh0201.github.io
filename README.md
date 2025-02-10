@@ -167,11 +167,12 @@
            <li><a href="Contact me">Contact me</a></li>
                             </ul> 
                           </nav> 
-                        </body> 
+                        
                          <!--/div-->
                       <!--/ul-->   
                     </div>
                  </div>
+              </body> 
                </div>   
              </div>  
            </div>
