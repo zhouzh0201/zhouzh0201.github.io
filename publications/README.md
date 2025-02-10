@@ -134,7 +134,7 @@
           <!--li><a href="publications">Publications</a></li-->
                      <ul class="submenu">
                         <li><a href="publications/p1-1">p1-1</a></li>
-                        <li><a href="#">p1-2</a></li>
+                        <li><a href="#">publications/p1-1</a></li>
                      </ul>
         
           </li>
