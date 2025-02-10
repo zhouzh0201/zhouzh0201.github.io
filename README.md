@@ -149,7 +149,7 @@
                        </div>
                     </div>
                  <!--  网站导航结束 -->
-                 <!--/body--> 
+                 </body> 
                <!--/div-->   
              </div>  
            </div>
@@ -159,7 +159,7 @@
   </nav> 
 </nav>   
  
-</body>
+<!--/body-->
 <body>
  <!--网站轮播-->
     <div class="banner">
