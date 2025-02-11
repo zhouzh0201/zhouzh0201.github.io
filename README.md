@@ -30,7 +30,7 @@
     <!--link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" /-->
 
       <!--link href="css/bootstrap.css" rel="stylesheet"-->
-      <!--link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" /-->
+      <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
 
       <!--link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" /-->
       <!--link id="theme-style" rel="stylesheet" href="styles.min.css" /-->
