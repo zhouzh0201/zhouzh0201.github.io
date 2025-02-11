@@ -134,10 +134,10 @@
            <li > 
                 <a class="dropdown " href="javascript:;" title="publications">Publications</a>         
                 <!--a href="publications">Publications</a-->
-                 <ul   class="nav_item fadeInUp">
-                   <li><a href="publications/p1-1">p1-1</a></li>
-                   <li><a href="#">p1-2</a></li>
-                 </ul>
+                 <!--ul   class="nav_item fadeInUp"-->
+                   <!--li><a href="publications/p1-1">p1-1</a></li-->
+                   <!--li><a href="#">p1-2</a></li-->
+                 </ul-->
            </li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
