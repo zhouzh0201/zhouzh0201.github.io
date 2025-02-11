@@ -179,8 +179,8 @@
   </nav> 
 <!--/nav-->   
  
-</body>
-<body>
+<!--/body-->
+<!--body-->
  <!--网站轮播-->
     <div class="banner">
         <div class="sliderContainer fullWidth clearfix">
