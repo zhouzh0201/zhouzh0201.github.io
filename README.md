@@ -54,7 +54,7 @@
      <!--*******-->
      <nav style="background-color:#00ffff;height: 100px;">
      <div class="container">
-     <!--div class="navbar-header"-->
+     <div class="navbar-header">
        
        <div class="header">
          <div class="container clearfix">
@@ -130,13 +130,14 @@
                     </div>
            <!--  网站导航结束 -->
                 
-               </div>   
-             </div>  
-           </div>
-         </div> 
-        </div>  
-      </nav> 
-    </nav>   
+                </div>   
+              </div>  
+            </div>
+          </div> 
+        </div> 
+      </div>  
+    </nav> 
+  </nav>   
 
  
  
