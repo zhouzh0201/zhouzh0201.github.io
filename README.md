@@ -137,7 +137,7 @@
                  <!--ul   class="nav_item fadeInUp"-->
                    <!--li><a href="publications/p1-1">p1-1</a></li-->
                    <!--li><a href="#">p1-2</a></li-->
-                 </ul-->
+                 <!--/ul-->
            </li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
