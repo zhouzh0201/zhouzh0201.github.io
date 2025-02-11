@@ -54,7 +54,7 @@
      <!--div class="container"-->
       <!--div class="navbar-header"-->
        
-        <div class="header"-->
+        <div class="header">
          <div class="container clearfix">
 
             <button type="button" class="navbar-toggle">
