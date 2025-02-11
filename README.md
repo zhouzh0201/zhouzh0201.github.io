@@ -2,9 +2,19 @@
 <head>
   
   <meta charset="utf-8" />
-  <meta name="author" content="persinal website"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1, user-scalable=no" />
-  <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
+  <title>persinal website</title>  <meta name="pageType" content="1">
+<meta name="pageTitle" content="persinal website">
+
+<META Name="SiteName" Content="persinal website" />
+<META Name="SiteDomain" Content="cs.whu.edu.cn" />
+
+  <meta name="description" content="persinal website" />
+  <link href="css/bootstrap.css" rel="stylesheet"> 
+  
+  <!--meta name="author" content="persinal website"/-->
+  
+  <!--meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" /-->
   <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","personal homepage"/-->
     <!--轮播图样式以及设置-->
     <link href="js/royalslider/css/royalslider.css" rel="stylesheet">
@@ -33,21 +43,18 @@
   <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="static/xin.css" rel="stylesheet" />
 
- <!--ink rel="stylesheet" href="../static/pixyll.css" type="text/css" /-->
-
- <!-- ******HEADER****** --> 
- <!--title>home page</title-->
+      <!--title>home page</title-->
 </head> 
 
 <body>
      <!--黑导航条-->
- <nav class="navbar navbar-inverse navbar-fixed-top">
+ <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
      <!--*******-->
     <nav style="background-color:#00ffff;">
-     <div class="container">
-      <div class="navbar-header">
+     <!--div class="container"-->
+      <!--div class="navbar-header"-->
        
-        <div class="header">
+        <div class="header"-->
          <div class="container clearfix">
 
             <button type="button" class="navbar-toggle">
@@ -118,8 +125,8 @@
                </div>   
              </div>  
            </div>
-         </div>
-       </div>   
+         <!--/div-->
+       <!--/div-->   
     
   </nav> 
 <!--/nav-->   
