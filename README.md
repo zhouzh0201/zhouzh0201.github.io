@@ -172,8 +172,8 @@
   </nav> 
 <!--/nav-->   
  
-<!--/body-->
 <!--body-->
+<body>
  <!--网站轮播-->
     <div class="banner">
         <div class="sliderContainer fullWidth clearfix">
@@ -191,9 +191,9 @@
     </div>
   <!--网站轮播结束-->
    <!--/nav--> 
- <!--/nav--> 
+  <!--/nav--> 
+ </body>
 </body>
-
 <hr noshade="">
 
 <hr noshade="">
