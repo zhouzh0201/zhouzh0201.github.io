@@ -60,7 +60,7 @@
      <!--黑导航条-->
    <nav style="background-color:#00ffff;height:50px;">
      <!--div class="container"-->
-      <div class="navbar-header">
+      <!--div class="navbar-header"-->
         <!--nav style="background-color:#00ff7f;height:50px;"-->
         <!--hamburline star-->
 
@@ -174,7 +174,7 @@
              </div>  
            </div>
          </div>
-       </div>   
+       <!--/div-->   
     <!--/div-->  
   </nav> 
 <!--/nav-->   
