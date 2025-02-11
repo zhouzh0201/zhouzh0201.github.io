@@ -55,7 +55,7 @@
 
 </head>  
 <body>
- <nav class="navbar navbar-inverse navbar-fixed-top">
+ <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
    <nav style="background-color:#00ffff;height:50px;">
      <div class="container">
       <div class="navbar-header">
@@ -175,9 +175,9 @@
        </div>   
     </div>  
   </nav> 
-</nav>   
+<!--/nav-->   
  
-<!--/body-->
+</body>
 <body>
  <!--网站轮播-->
     <div class="banner">
