@@ -55,7 +55,9 @@
 
 </head>  
 <body>
- <nav class="navbar navbar-inverse navbar-fixed-top">
+     <!--黑导航条-->
+ <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
+     <!--黑导航条-->
    <nav style="background-color:#00ffff;height:50px;">
      <div class="container">
       <div class="navbar-header">
