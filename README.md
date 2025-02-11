@@ -21,7 +21,7 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/royalslider/js/jquery.royalslider.min.js"></script>
     <!--轮播图样式以及设置结束-->
-     <script src="js/index.js"></script>
+    <script src="js/index.js"></script>
     <script src="js/swiper-bundle.min.js"></script>
     <script src="js/main.js"></script>
     <link href="css/swiper-bundle.min.css" rel="stylesheet">
@@ -29,34 +29,35 @@
     <link href="css/moblie.css?version=0.0.1" rel="stylesheet">
     
      <!--Announced by Visual SiteBuilder 9-->
-   <link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
-   <script language="javascript" src="_sitegray/_sitegray.js"></script>
+     <link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+     <script language="javascript" src="_sitegray/_sitegray.js"></script>
      <!-- CustomerNO:7765626265723230747f475750515742000300014351 -->
-   <link rel="stylesheet" type="text/css" href="index.vsb.css" />
-   <script type="text/javascript" src="/system/resource/js/counter.js"></script>
-   <script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1852176512)</script>
+     <link rel="stylesheet" type="text/css" href="index.vsb.css" />
+     <script type="text/javascript" src="/system/resource/js/counter.js"></script>
+     <script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1852176512)</script>
  
-    <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
+     <!--link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" /-->
 
-      <title>zhouzhonghong —— Wuhan University</title>
+      <!--title>zhouzhonghong —— Wuhan University</title-->
 
-  <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-  <link href="static/xin.css" rel="stylesheet" />
+      <!--link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" /-->
+      <!--link href="static/xin.css" rel="stylesheet" /-->
 
       <!--title>home page</title-->
 </head> 
 
 <body>
      <!--黑导航条-->
- <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
+     <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
      <!--*******-->
-    <nav style="background-color:#00ffff;height:130px;">
+     <!--nav style="background-color:#00ffff;height:130px;"-->
      <!--div class="container"-->
-      <!--div class="navbar-header"-->
+     <!--div class="navbar-header"-->
        
-        <div class="header">
+       <div class="header">
          <div class="container clearfix">
-
+ <!-- 网站logo -->
+ <!--***********-->
             <button type="button" class="navbar-toggle">
                 <span class="icon-bar icon-bar1"></span>
                 <span class="icon-bar icon-bar2"></span>
@@ -96,21 +97,26 @@
         margin-top: -15px;}
 </style>  
 
-<div id="divu1"></div>           
+<div id="divu1"></div>    
+<!--*************-->
                  </div>
-               </div>
-                <!--title>二级菜单</title-->
- 
-     <!--  网站导航开始 -->
-  
+                  <!--  网站导航开始 -->
+                  <!--title>二级菜单</title-->
                    <div class="hezi">
                       <div>
                          <ul class="daohang clearfix">
-               
-            <!--a class="dropdown " href="javascript:;" title="publications">Publications</a--> 
-           <!--li> <a href="index.html" title="personal page">Home page</a></li-->
-           <li class="active"><a href="index.html"> Home page</a></li>
-           <li><a href="publications">Publications</a></li>
+               <li>
+                 <a href="index.html" title="personal page">Home page</a> 
+</li>
+<li>            
+           <a class="dropdown " href="javascript:;" title="publications">Publications</a> 
+           <ul class="nav_item fadeInUp">
+                <li><a href="xygk/xyjj.htm">p1-1</a></li>
+                <li><a href="xygk/lsyg.htm">p1-2</a></li>
+           <!--li class="active"><a href="index.html"> Home page</a></li-->
+           <!--li><a href="publications">Publications</a></li-->
+           </ul>
+             
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
            <li><a href="teaching">Teaching</a></li>
@@ -124,10 +130,7 @@
                 
                </div>   
              </div>  
-           <!--/div-->
-         <!--/div-->
-       <!--/div-->   
-    
+           </div>
   <!--/nav--> 
 <!--/nav-->   
  
@@ -145,6 +148,7 @@
                    <!--img src="2025xinnian.jpg" height="150px" width="200%"/-->
                 </a>
               </div>
+              <!--********-->
             </div>
         </div>
     </div>
@@ -157,7 +161,7 @@
 <hr noshade="">
 
 <hr noshade="">
-
+<!--内容开始-->
  
   <header class="header">
      <div class="container"> 
@@ -261,5 +265,6 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 <script src="static/jquery.js"></script>
 <script src="static/bootstrap/js/bootstrap.js"></script>
 
+</body>
 <!--/html-->   
  
