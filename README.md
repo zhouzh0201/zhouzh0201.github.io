@@ -116,7 +116,7 @@
            <!--li class="active"><a href="index.html"> Home page</a></li-->
            <!--li><a href="publications">Publications</a></li-->
            </ul>
-             
+</li>             
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
            <li><a href="teaching">Teaching</a></li>
