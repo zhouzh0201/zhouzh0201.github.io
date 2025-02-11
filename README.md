@@ -1,19 +1,21 @@
+<!DOCTYPE html>
 <html>
-<head>
   
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1, user-scalable=no" />
   <title>persinal website</title>  <meta name="pageType" content="1">
 <meta name="pageTitle" content="persinal website">
 
+
 <META Name="SiteName" Content="persinal website" />
 <META Name="SiteDomain" Content="cs.whu.edu.cn" />
 
+ 
   <meta name="description" content="persinal website" />
   <link href="css/bootstrap.css" rel="stylesheet"> 
   
   <!--meta name="author" content="persinal website"/-->
-  
   <!--meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" /-->
   <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","personal homepage"/-->
     <!--轮播图样式以及设置-->
@@ -35,8 +37,8 @@
      <link rel="stylesheet" type="text/css" href="index.vsb.css" />
      <script type="text/javascript" src="/system/resource/js/counter.js"></script>
      <script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1852176512)</script>
- 
-     <!--link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" /-->
+
+     <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
 
       <!--title>zhouzhonghong —— Wuhan University</title-->
 
