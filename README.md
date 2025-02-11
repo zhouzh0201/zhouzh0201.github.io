@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ 
 <html>
   
 <head>
@@ -38,11 +38,11 @@
      <script type="text/javascript" src="/system/resource/js/counter.js"></script>
      <script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1852176512)</script>
 
-     <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
+     <!--link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" /-->
 
       <!--title>zhouzhonghong —— Wuhan University</title-->
 
-      <!--link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" /-->
+      <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" />
       <!--link href="static/xin.css" rel="stylesheet" /-->
 
       <!--title>home page</title-->
