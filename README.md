@@ -177,7 +177,7 @@
        </div>   
     </div>  
   </nav> 
-</nav>   
+<!--/nav-->   
  
 </body>
 <body>
