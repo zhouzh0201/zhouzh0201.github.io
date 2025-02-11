@@ -53,7 +53,7 @@
      <nav class="navbar navbar-inverse navbar-fixed-top">
      <!--*******-->
      <nav style="background-color:#00ffff;height: 100px;">
-     <!--div class="container"-->
+     <div class="container">
      <!--div class="navbar-header"-->
        
        <div class="header">
@@ -134,6 +134,7 @@
              </div>  
            </div>
          </div> 
+        </div>  
       </nav> 
     </nav>   
 
