@@ -11,14 +11,32 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/royalslider/js/jquery.royalslider.min.js"></script>
     <!--轮播图样式以及设置结束-->
- <!--link rel="shortcut icon" href="favicon.ico" /-->
- <!--link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css" /-->
+     <script src="js/index.js"></script>
+    <script src="js/swiper-bundle.min.js"></script>
+    <script src="js/main.js"></script>
+     <link href="css/swiper-bundle.min.css" rel="stylesheet">
+    <link href="css/main.css?version=0.0.1" rel="stylesheet">
+    <link href="css/moblie.css?version=0.0.1" rel="stylesheet">
+     <!--Announced by Visual SiteBuilder 9-->
+   <link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+   <script language="javascript" src="_sitegray/_sitegray.js"></script>
+   <!-- CustomerNO:7765626265723230747f475750515742000300014351 -->
+   <link rel="stylesheet" type="text/css" href="index.vsb.css" />
+   <script type="text/javascript" src="/system/resource/js/counter.js"></script>
+   <script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1852176512)</script>
+ 
+    <!--link rel="shortcut icon" href="favicon.ico" /-->
+    <!--link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css" /-->
     <!--link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" /-->
 
- <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
+      <link href="css/bootstrap.css" rel="stylesheet">
+      <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
 
-  <!--link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" /-->
- <!--link id="theme-style" rel="stylesheet" href="styles.min.css" /-->
+      <!--link href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" /-->
+      <!--link id="theme-style" rel="stylesheet" href="styles.min.css" /-->
+
+
+ 
  <title>zhouzhonghong —— Wuhan University</title>
 
   <!--link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" /-->
