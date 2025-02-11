@@ -139,8 +139,8 @@
   </nav> 
 <!--/nav-->   
  
-</body>
-<body>
+ 
+ 
  <!--网站轮播-->
     <div class="banner">
         <div class="sliderContainer fullWidth clearfix">
@@ -158,15 +158,15 @@
     </div>
   <!--网站轮播结束-->
   
- </body>
-<!--/body-->
+ 
+ 
 <hr noshade="">
 
 <hr noshade="">
 
 <hr noshade="">
 
-<body>  
+ 
   <header class="header">
      <div class="container"> 
         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
