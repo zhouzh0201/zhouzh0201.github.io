@@ -50,7 +50,7 @@
      <!--黑导航条-->
  <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
      <!--*******-->
-    <nav style="background-color:#00ffff;">
+    <nav style="background-color:#00ffff;height:130px;">
      <!--div class="container"-->
       <!--div class="navbar-header"-->
        
