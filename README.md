@@ -150,15 +150,8 @@
            <!--li class="active"><a href="index.html"> Home page</a></li-->
            
            <li> <a href="index.html" title="personal page">Home page</a></li>
-           
-           <li > 
-                <a class="dropdown " href="javascript:;" title="publications">Publications</a>         
-                <!--a href="publications">Publications</a-->
-                 <!--ul   class="nav_item fadeInUp"-->
-                   <!--li><a href="publications/p1-1">p1-1</a></li-->
-                   <!--li><a href="#">p1-2</a></li-->
-                 <!--/ul-->
-           </li>
+           <!--a class="dropdown " href="javascript:;" title="publications">Publications</a-->         
+           <li > <a href="publications">Publications</a> </li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
            <li><a href="teaching">Teaching</a></li>
