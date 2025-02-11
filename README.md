@@ -43,7 +43,7 @@
       <!--title>zhouzhonghong —— Wuhan University</title-->
 
       <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-      <!--link href="static/xin.css" rel="stylesheet" /-->
+      <link href="static/xin.css" rel="stylesheet" />
 
       <!--title>home page</title-->
 </head> 
