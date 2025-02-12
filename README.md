@@ -61,6 +61,9 @@
                 <span class="icon-bar icon-bar2"></span>
                 <span class="icon-bar icon-bar3"></span>
             </button>
+              <span class="navbar-brand">
+               <font color="#fff0000">chagangwebsite</font>
+              </span>
          </div>
  
                <div class="navbar-collapse collapse">
