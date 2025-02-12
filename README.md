@@ -52,7 +52,7 @@
      <!--导航条开始-->
    <nav class="navbar navbar-inverse navbar-fixed-top">
      <!--*******-->
-     <nav style="background-color:#00ffff;height: 50px;">
+     <nav style="background-color:#00ffff;height:10px;">
        <div class="container">
         
          <div class="navbar-header">
@@ -65,7 +65,7 @@
  
                <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">  
-           <li> <a href="index.html" title="personal page">Home page</a></li>
+           <!--li> <a href="index.html" title="personal page">Home page</a></li-->
            <li class="active"><a href="index.html"> Home page</a></li>
            <li><a href="publications">Publications</a></li>
            <li><a href="Projects">Projects</a></li>
