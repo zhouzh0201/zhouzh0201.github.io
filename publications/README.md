@@ -121,7 +121,7 @@
 
         </button>
         <span class="navbar-brand">
-          <font color="#fff0000">Homepage</font>
+          <font color="#fff0000">CGPWS</font>
         </span>
       </div>
       <div class="navbar-collapse collapse">
