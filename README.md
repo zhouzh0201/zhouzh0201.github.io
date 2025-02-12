@@ -189,9 +189,9 @@
            Github:       <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a>  
           
           <br>
- 
+</body> 
 <hr noshade="">
-
+<body>
  <div class="profile-content pull-center" align="center">  
 <p>
 <h3>About Me</h3>   
@@ -203,9 +203,9 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 <h3> CV</h3>
 
  <!--/div--> 
- 
+</body>
  <hr noshade="">
- 
+<body>
 <div align="center">
       <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">zhonghong personal website</a></small>
       <br>
@@ -215,6 +215,6 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 <script src="static/jquery.js"></script>
 <script src="static/bootstrap/js/bootstrap.js"></script>
 
-</body>
+<!--/body-->
 <!--/html-->   
  
