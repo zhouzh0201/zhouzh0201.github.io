@@ -52,7 +52,7 @@
      <!--黑导航条-->
    <nav class="navbar navbar-inverse navbar-fixed-top">
      <!--*******-->
-     <nav style="background-color:#00ffff;height: 100px;">
+     <nav style="background-color:#00ffff;height: 50px;">
        <div class="container">
         
          <div class="navbar-header">
@@ -100,7 +100,7 @@
     </div>
   <!--网站轮播结束-->
   
- 
+ <!--***************ok*****************-->
  
 <hr noshade="">
 
