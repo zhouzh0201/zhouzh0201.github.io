@@ -54,90 +54,31 @@
      <!--*******-->
      <nav style="background-color:#00ffff;height: 100px;">
        <div class="container">
+        
          <div class="navbar-header">
-       
-       <!--div class="header"-->
-         <!--div class="container clearfix"-->
- <!-- 网站logo -->
- <!--***********-->
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                 <span class="icon-bar icon-bar1"></span>
                 <span class="icon-bar icon-bar2"></span>
                 <span class="icon-bar icon-bar3"></span>
             </button>
          </div>
-            <!--div class="nav"-->
-               <!--div class="header-right"-->
-                   <!--div class="searchbox"-->
-
-<!--script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script language="javascript" src="/system/resource/vue/vue.js"></script><script language="javascript" src="/system/resource/vue/bluebird.min.js"></script><script language="javascript" src="/system/resource/vue/axios.js"></script><script language="javascript" src="/system/resource/vue/polyfill.js"></script><script language="javascript" src="/system/resource/vue/token.js"></script><LINK href="/system/resource/vue/static/element/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/vue/static/element/index.js"></script><script language="javascript" src="/system/resource/vue/static/public.js"></script>
-<!--style-->
-   #appu1 .qwss{
-        height: 30px;
-        font-size: 12px;
-        min-width: 190px;
-        max-width: 600px;
-        width: 60%;
-        margin-top: -15px;
-        outline: none;
-        padding-left: 10px;
-        border-radius: 2px;
-        border: 1px solid #e4e7ed;}
-    #appu1 .tj{
-        padding-left: 6px;
-        letter-spacing: 5px;
-        color: white;
-        min-width: 53px;
-        max-width: 150px;
-        height: 32px;
-        border: 0;
-        border-radius: 2px;
-        background-color: #1890ff;
-        position: relative;
-        top: 1px;
-        width: 20%;
-        margin-top: -15px;}
-</style>  
-
-<!--div id="divu1"--><!--/div-->    
-<!--*************-->
-                 <!--/div-->
-                  <!--  网站导航开始 -->
-                  <!--title>二级菜单</title-->
-                   <div class="hezi">
-                      <div>
-                         <ul class="daohang clearfix">
-               <li>
-                 <a href="index.html" title="personal page">Home page</a> 
-</li>
-<li>            
-           <a class="dropdown " href="javascript:;" title="publications">Publications</a> 
-           <ul class="nav_item fadeInUp">
-                <li><a href="xygk/xyjj.htm">p1-1</a></li>
-                <li><a href="xygk/lsyg.htm">p1-2</a></li>
-           <!--li class="active"><a href="index.html"> Home page</a></li-->
-           <!--li><a href="publications">Publications</a></li-->
-           </ul>
-</li>             
+ 
+               <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">  
+           <li> <a href="index.html" title="personal page">Home page</a></li>
+           <li class="active"><a href="index.html"> Home page</a></li>
+           <li><a href="publications">Publications</a></li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
            <li><a href="teaching">Teaching</a></li>
            <li><a href="service">Service</a></li>
            <li><a href="Kong five">kong five</a></li>
            <li><a href="Contact me">Contact me</a></li>
-                         </ul> 
-                       </div>
-                    </div>
-           <!--  网站导航结束 -->
-                
-                <!--/div-->   
-              </div>  
-            <!--/div-->
-          <!--/div--> 
-        </div> 
-      </div>  
-    </nav> 
-  </nav>   
+                    </ul> 
+                </div>   
+          </div>  
+      </nav> 
+   </nav>   
 
  
  
