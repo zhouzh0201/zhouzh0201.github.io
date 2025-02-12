@@ -52,7 +52,7 @@
      <!--导航条开始-->
    <nav class="navbar navbar-inverse navbar-fixed-top">
      <!--*******-->
-     <nav style="background-color:#00ffff;height:80px;">
+     <nav style="background-color:#00ffff;height:50px;">
        <div class="container">
         
          <div class="navbar-header">
