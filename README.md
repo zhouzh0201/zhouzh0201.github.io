@@ -49,7 +49,7 @@
 </head> 
 
 <body>
-     <!--黑导航条-->
+     <!--导航条开始-->
    <nav class="navbar navbar-inverse navbar-fixed-top">
      <!--*******-->
      <nav style="background-color:#00ffff;height: 50px;">
@@ -80,7 +80,7 @@
       </nav> 
    </nav>   
 
- 
+ <!--*************导航条结束******************-->
  
  <!--网站轮播-->
     <div class="banner">
