@@ -83,9 +83,9 @@
           </div>  
       </nav> 
    </nav>   
-
+</body>  
  <!--*************导航条结束******************-->
- 
+<body>
  <!--网站轮播-->
     <div class="banner">
         <div class="sliderContainer fullWidth clearfix">
@@ -103,7 +103,7 @@
         </div>
     </div>
   <!--网站轮播结束-->
-  
+
  <!--***************ok*****************-->
  
 <hr noshade="">
