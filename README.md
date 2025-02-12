@@ -63,6 +63,7 @@
             </button>
               <span class="navbar-brand">
                <font color="#fff0000">CGPWS</font>
+               <a href="index.html"title="personal page">CGPWS</a>
               </span>
          </div>
  
