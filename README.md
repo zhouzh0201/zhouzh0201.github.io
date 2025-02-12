@@ -57,7 +57,7 @@
      <div class="navbar-header">
        
        <!--div class="header"-->
-         <div class="container clearfix">
+         <!--div class="container clearfix"-->
  <!-- 网站logo -->
  <!--***********-->
             <button type="button" class="navbar-toggle">
@@ -132,7 +132,7 @@
                 
                 </div>   
               </div>  
-            </div>
+            <!--/div-->
           <!--/div--> 
         </div> 
       </div>  
