@@ -50,13 +50,13 @@
 
 <body>
      <!--黑导航条-->
-     <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
+     <nav class="navbar navbar-inverse navbar-fixed-top">
      <!--*******-->
      <nav style="background-color:#00ffff;height: 10px;">
      <div class="container">
      <div class="navbar-header">
        
-       <div class="header">
+       <!--div class="header"-->
          <div class="container clearfix">
  <!-- 网站logo -->
  <!--***********-->
@@ -133,11 +133,11 @@
                 </div>   
               </div>  
             </div>
-          </div> 
+          <!--/div--> 
         </div> 
       </div>  
     </nav> 
-  <!--/nav-->   
+  </nav>   
 
  
  
