@@ -62,7 +62,7 @@
                 <span class="icon-bar icon-bar3"></span>
             </button>
               <span class="navbar-brand">
-               <font color="#fff0000">chagangwebsite</font>
+               <font color="#fff0000">CGPWS</font>
               </span>
          </div>
  
