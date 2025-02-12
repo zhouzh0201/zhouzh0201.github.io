@@ -50,9 +50,9 @@
 
 <body>
      <!--黑导航条-->
-     <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
+     <nav class="navbar navbar-inverse navbar-fixed-top">
      <!--*******-->
-     <nav style="background-color:#00ffff;height: 10px;">
+     <nav style="background-color:#00ffff;height: 100px;">
      <div class="container">
      <div class="navbar-header">
        
@@ -137,7 +137,7 @@
         </div> 
       </div>  
     </nav> 
-  <!--/nav-->   
+  </nav>   
 
  
  
