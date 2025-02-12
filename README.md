@@ -62,15 +62,15 @@
                 <span class="icon-bar icon-bar3"></span>
             </button>
               <span class="navbar-brand">
-               <font href="index.html" color="#fff0000">CGPWS</font>
+               <!--font href="index.html" color="#fff0000">CGPWS</font-->
                 
               </span>
          </div>
  
                <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">  
-           <!--li> <a href="index.html" title="personal page">CGPWS</a></li-->
-           <li class="active"><a href="index.html"> Home page</a></li>
+           <li> <a href="index.html" title="personal page">CGPWS</a></li>
+           <!--li class="active"><a href="index.html"> Home page</a></li-->
            <li><a href="publications">Publications</a></li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
