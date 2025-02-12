@@ -44,7 +44,7 @@
 
       <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet"/>
       <link href="static/xin.css" rel="stylesheet" />
-
+      <link rel="stylesheet" href="../static/pixyll.css" type="text/css" />
       <!--title>home page</title-->
 </head> 
 
