@@ -81,7 +81,6 @@
       </div>
     </div>
   </nav>
-
   <div class="container" style="margin-top: 50px;">
  <span class="navbar-brand">
           <font color="#fff0000">Service</font>
