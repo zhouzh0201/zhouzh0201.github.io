@@ -2,12 +2,12 @@
 <head>
   <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
   <meta charset="utf-8">
-  <meta name="author" content="persinal homepage">
+  <meta name="author" content="personal homepage">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
   <!--***************-->
   
- <title>ZhouZhonghong's主页建造中.......  </title>
+ <!--title>ZhouZhonghong's .......  </title-->
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -33,7 +33,7 @@
 
  <link rel="stylesheet" href="../static/pixyll.css" type="text/css" />
 </head>
- <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
+ <!--title>Homepage-ZhouZhonghong's Home Page,  ....... </title-->
 <body>
  <!-- ******HEADER****** -->
 
@@ -50,16 +50,17 @@
 <body>
 
   <nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+     <nav style="background-color:#00ff00;hieght:80px;">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
 
-        </button>
+          </button>
         <span class="navbar-brand">
-          <font color="#fff0000">Homepage</font>
+          <font color="#fff0000">CGPWB</font>
         </span>
       </div>
       <div class="navbar-collapse collapse">
@@ -68,25 +69,50 @@
           <li><a href="../publications">Publications</a></li>
           <li><a href="../Projects">Projects</a></li>
           <li><a href="../team">Team</a></li>
-          <li><a href="../teaching">Teaching</a></li>
+          <!--li><a href="../teaching">Teaching</a></li-->
           <li> <a href="service">Service</a>
                 <ul class="submenu">
                       <li><a href="../p1">p1</a></li>
-                      <li><a href="#">p1-2</a></li>
+                      <!--li><a href="#">p1-2</a></li-->
                  </ul>
             </li>
           <li><a href="../kong five">kong five</a></li>
           <li><a href="../Contact me">Contact me</a></li>
         </ul>
       </div>
-    </div>
+     </div>
+    </nav>
   </nav>
   <div class="container" style="margin-top: 50px;">
- <span class="navbar-brand">
+        <span class="navbar-brand">
           <font color="#fff0000">Service</font>
         </span>
     
-  
+  <h2>p1</h2>
+
+
+
+
+   <h2>p2</h2>
+
+
+
+
+
+    <h2>p3</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+    
    
     <hr> 
  
