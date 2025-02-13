@@ -39,7 +39,7 @@
            <li><a href="../publications">Publications</a></li>
            <li><a href="../Projects">Projects</a></li>
            <li><a href="../team">Team</a></li>
-           <li><a href="../teaching">Teaching</a></li>
+           <!--li><a href="../teaching">Teaching</a></li-->
            <li><a href="../service">Service</a></li>
            <li class="active"><a href="Kong five">Kong Five</a>
                <ul class="nav_item fadeInUp">
