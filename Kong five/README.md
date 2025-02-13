@@ -43,7 +43,7 @@
            <li><a href="../service">Service</a></li>
            <li class="active"><a href="Kong five">Kong Five</a>
                <ul class="nav_item fadeInUp">
-                  <li><a href="k1">k1</a></li>
+                  <li><a href="../k1">k1</a></li>
                   <li><a href="kxyj/xsjl.htm">k2</a></li>
                 </ul>
            </li>
