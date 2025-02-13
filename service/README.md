@@ -71,8 +71,8 @@
           <li><a href="../teaching">Teaching</a></li>
           <li class="active"><a href="index.htm">Service</a>
                 <ul class="submenu">
-                        <li><a href="#">Contact me</a></li>
-                        <li><a href="#">p1-2</a></li>
+                      <li><a href="#">Contact me</a></li>
+                      <li><a href="#">p1-2</a></li>
                  </ul>
             </li>
           <li><a href="../kong five">kong five</a></li>
