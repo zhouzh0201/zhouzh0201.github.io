@@ -69,7 +69,7 @@
  
                <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">  
-           <li href="index.html" title="personal page">CGPWS</a></li>
+           <li> href="index.html" title="personal page">CGPWS</a></li>
            <!--li class="active"><a href="index.html"> CGPWS</a></li-->
            <li><a href="publications">Publications</a></li>
            <li><a href="Projects">Projects</a></li>
