@@ -99,7 +99,7 @@
                  <ul>
 
  <li> <a href="..index.html" title="personal page">CGPWB</a></li>
-           <li class="active"><a href="index.htm">p1</a></li>     
+           
            <li><a href="..publications">publications</a></li>     
            <li><a href="..Projects">Projects</a></li>
            <li><a href="..team">Team</a></li>
