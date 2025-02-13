@@ -15,14 +15,14 @@
   <meta name="description" content="personal website" />
   <link href="css/bootstrap.css" rel="stylesheet"> 
   
-  <!--meta name="author" content="persinal website"/-->
+  <!--meta name="author" content="personal website"/-->
   <!--meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" /-->
   <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","personal homepage"/-->
-    <!--轮播图样式以及设置-->
+    <!--img-->
     <link href="js/royalslider/css/royalslider.css" rel="stylesheet">
     <script src="js/jquery.min.js"></script>
     <script src="js/royalslider/js/jquery.royalslider.min.js"></script>
-    <!--轮播图样式以及设置结束-->
+    <!--img-->
     <script src="js/index.js"></script>
     <script src="js/swiper-bundle.min.js"></script>
     <script src="js/main.js"></script>
@@ -49,7 +49,7 @@
 </head> 
 
 <body>
-     <!--导航条开始-->
+     <!--navbar star-->
    <nav class="navbar navbar-inverse navbar-fixed-top">
      <!--*******-->
      <nav style="background-color:#00ffff;height:80px;">
@@ -74,7 +74,7 @@
            <li><a href="publications">Publications</a></li>
            <li><a href="Projects">Projects</a></li>
            <li><a href="team">Team</a></li>
-           <li><a href="teaching">Teaching</a></li>
+           <!--li><a href="teaching">Teaching</a></li-->
            <li><a href="service">Service</a></li>
            <li><a href="Kong five">kong five</a></li>
            <li><a href="Contact me">Contact me</a></li>
@@ -84,9 +84,9 @@
       </nav> 
    </nav>   
 </body>  
- <!--*************导航条结束******************-->
+ <!--*************navbar over******************-->
 <body>
- <!--网站轮播-->
+ <!--img star-->
     <div class="banner">
         <div class="sliderContainer fullWidth clearfix">
             <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
@@ -102,7 +102,7 @@
             </div>
         </div>
     </div>
-  <!--网站轮播结束-->
+  <!--img over-->
 
  <!--***************ok*****************-->
  
@@ -111,7 +111,7 @@
 <hr noshade="">
 
 <hr noshade="">
-<!--内容开始-->
+<!--star-->
  
   <header class="header">
      <div class="container"> 
