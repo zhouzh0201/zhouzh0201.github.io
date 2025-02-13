@@ -71,7 +71,7 @@
           <li><a href="../teaching">Teaching</a></li>
           <li> <a href="service">Service</a>
                 <ul class="submenu">
-                      <li><a href="Contact me">p1</a></li>
+                      <li><a href="../Contact me">p1</a></li>
                       <li><a href="#">p1-2</a></li>
                  </ul>
             </li>
