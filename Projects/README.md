@@ -60,7 +60,7 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../index.html">Home page</a></li>
                     <li><a href="../publications"> Publications </a></li>
                     <li class="active"><a href="index.htm"> Projects </a></li>
                     <li><a href="../team">Team</a></li>
