@@ -57,11 +57,11 @@
 
 <h2>k1</h2>
 25-26 fall looking:
-港大工程学院 
-计算机科学系：
+港大工程学院 <A HREF="http://www.hku.hk/">The University of Hong Kong</A>
+计算机科学系：<A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>
 人工智能、机器人和视觉计算小组
 <p>
-  Yu, Yizhou (Group Leader)<a href="https://www.cs.hku.hk/~yzyu/"俞义州</a>
+  Yu, Yizhou (Group Leader)<a href="http://www.cs.hku.hk/~yzyu/"俞义州</a>
 </p>
 网络安全、金融科技和区块链
 计算机科学
