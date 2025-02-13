@@ -65,7 +65,7 @@
       </div>
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li><a href="../index.html">Home</a></li>
+          <li><a href="../index.html">Home page</a></li>
           <li><a href="../publications">Publications</a></li>
           <li><a href="../Projects">Projects</a></li>
           <li><a href="../team">Team</a></li>
@@ -87,6 +87,11 @@
         <span class="navbar-brand">
           <font color="#fff0000">Service</font>
         </span>
+    
+    <hr> 
+
+
+
     
   <h2>p1</h2>
 
