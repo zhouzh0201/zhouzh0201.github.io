@@ -57,20 +57,23 @@
 
 <h2>k1</h2>
 25-26 fall looking:
-港大工程学院 <A HREF="http://www.hku.hk/">The University of Hong Kong</A>
-计算机科学系：<A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>
-人工智能、机器人和视觉计算小组
+ A:
+ Faculty of Engineering <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,
+Department of Computer Science：<A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.
+AI, Robotics and Visual Computing groups:
 <p>
-  Yu, Yizhou (Group Leader)<a href="http://www.cs.hku.hk/~yzyu/">俞义州</a>
+ 1. Yu, Yizhou (Group Leader),<a href="http://www.cs.hku.hk/~yzyu/">俞义州</a>.
+ 2. Professor Komura, Taku, <a href="https://www.cs.hku.hk/~taku/"></a>>,<font color="#ff0000">PhD and Postdoc positions available!</font>,
 </p>
-网络安全、金融科技和区块链
-计算机科学
-数据科学与工程
-系统和网络
+Cyber Security, FinTech and Blockchain
+Foundations of Computer Science
+Data Science and Engineering
+Systems and Networking
 
 
 
-
+B:
+The School of Computing and Data Science (https://www.cds.hku.hk/)
  <h2>k2</h2>
 
 
