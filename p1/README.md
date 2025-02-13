@@ -98,13 +98,13 @@
   <nav> 
                  <ul>
 
- <li> <a href="..index.html" title="personal page">Home page</a></li>
+ <li> <a href="..index.html" title="personal page">CGPWB</a></li>
            <li class="active"><a href="index.htm">p1</a></li>     
            <li><a href="..publications">publications</a></li>     
            <li><a href="..Projects">Projects</a></li>
            <li><a href="..team">Team</a></li>
            <!--li><a href="..teaching">Teaching</a></li-->
-           <li class="active"><a href="k1">p1</a></li>  
+           <li class="active"><a href="p1">p1</a></li>  
            <li><a href="..service">service</a></li>
            <li><a href="..Kong five">kong five</a></li>
            <li><a href="..Contact me">Contact me</a></li>
