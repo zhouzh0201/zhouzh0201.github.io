@@ -48,11 +48,11 @@
                 </ul>
            </li>
            <li><a href="../Contact me">Contact me</a></li>
-      </ul>
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
-
+   </nav>
+ </nav>
 </body>
  
 
