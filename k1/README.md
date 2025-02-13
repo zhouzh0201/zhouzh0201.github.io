@@ -57,8 +57,8 @@
 
 <h2>k1</h2>
 25-26 fall looking:
- A:
- Faculty of Engineering <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,
+ A:<br>
+ Faculty of Engineering <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,<br>
 Department of Computer Science：<A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.
 AI, Robotics and Visual Computing groups:
 <p>
@@ -72,7 +72,7 @@ Systems and Networking
 
 
 <br>
-B:
+B:<br>
 The School of Computing and Data Science (https://www.cds.hku.hk/)
  <h2>k2</h2>
 
