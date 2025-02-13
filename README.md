@@ -207,7 +207,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
  <hr noshade="">
 <body>
 <div align="center">
-      <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">zhonghong personal website</a></small>
+      <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small>
       <br>
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
       <small>License ing......</small>
