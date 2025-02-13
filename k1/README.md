@@ -58,8 +58,9 @@
 <h2>k1</h2>
 25-26 fall looking for:<br>
  A:<br>
- Faculty of Engineering. <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,<br>
-Department of Computer Science：<A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.
+ Faculty of Engineering.<a href=" https://engg.hku.hk/">Faculty of Engineering</a>,<br>
+   The University of Hong Kong, <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,<br>
+Department of Computer Science：<A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<br>.research-groups,<a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.<br>
 AI, Robotics and Visual Computing groups:
 <p>
  1. Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,<a href="http://www.cs.hku.hk/~yzyu/">俞义州</a>.<br>
