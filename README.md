@@ -12,7 +12,7 @@
 <META Name="SiteDomain" Content="cs.whu.edu.cn" />
 
  
-  <meta name="description" content="persinal website" />
+  <meta name="description" content="personal website" />
   <link href="css/bootstrap.css" rel="stylesheet"> 
   
   <!--meta name="author" content="persinal website"/-->
