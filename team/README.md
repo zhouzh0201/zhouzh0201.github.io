@@ -76,6 +76,10 @@
           <li><a href="../publications">Publications</a></li>
           <li><a href="../Projects">Projects</a></li>
           <li class="active"><a href="index.htm">Team</a></li>
+               <ul class="nav_item fadeInUp">
+                  <li><a href="../T1">T1</a></li>
+                  <li><a href="kxyj/xsjl.htm">T2</a></li>
+                </ul>
           <li><a href="../teaching">Teaching</a></li>
           <li><a href="../service">Service</a></li>
           <li><a href="../Kong five">kong five</a></li>
