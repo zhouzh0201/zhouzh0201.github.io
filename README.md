@@ -62,7 +62,7 @@
                 <span class="icon-bar icon-bar3"></span>
             </button>
               <span class="navbar-brand">
-               <!--font href="index.html" color="#fff0000">CGPWS</font-->
+               <font href="index.html" color="#fff0000">CGPWS</font>
                 
               </span>
          </div>
