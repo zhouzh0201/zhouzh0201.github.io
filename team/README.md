@@ -7,7 +7,7 @@
 
    <!--***************-->
   
- <title>ZhouZhonghong's主页建造中.......  </title>
+ <title>ZhouZhonghong's ....  </title>
     <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -33,7 +33,7 @@
 
  <link rel="stylesheet" href="../static/pixyll.css" type="text/css" />
 </head>
- <title>Homepage-ZhouZhonghong's Home Page, 主页建造中....... </title>
+ <title>Homepage-ZhouZhonghong's Home Page,  .... </title>
 <body>
  <!-- ******HEADER****** -->
 
@@ -43,7 +43,7 @@
    </div> 
    <head>
    <meta charset="utf-8" />
-   <meta name="author" content="persinal homepage" />
+   <meta name="author" content="personal homepage" />
    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
    </head>
 
