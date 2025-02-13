@@ -69,7 +69,7 @@
           <li><a href="../Projects">Projects</a></li>
           <li><a href="../team">Team</a></li>
           <li><a href="../teaching">Teaching</a></li>
-          <li class="active"><a href="service">Service</a>
+          <li> <a href="service">Service</a>
                 <ul class="submenu">
                       <li><a href="Contact me">p1</a></li>
                       <li><a href="#">p1-2</a></li>
