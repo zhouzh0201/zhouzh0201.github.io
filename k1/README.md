@@ -63,7 +63,7 @@ Department of Computer Science：<A HREF="http://www.cs.hku.hk/">Department of C
 AI, Robotics and Visual Computing groups:
 <p>
  1. Yu, Yizhou (Group Leader),<a href="http://www.cs.hku.hk/~yzyu/">俞义州</a>.<br>
- 2. Professor Komura, Taku, <a href="https://www.cs.hku.hk/~taku/"></a>>,<font color="#ff0000">PhD and Postdoc positions available!</font>,<br>
+ 2. Professor Komura, Taku, <a href="https://www.cs.hku.hk/~taku/"></a>,<font color="#ff0000">PhD and Postdoc positions available!</font>,<br>
 </p>
 Cyber Security, FinTech and Blockchain
 Foundations of Computer Science
@@ -71,7 +71,7 @@ Data Science and Engineering
 Systems and Networking
 
 
-
+<br>
 B:
 The School of Computing and Data Science (https://www.cds.hku.hk/)
  <h2>k2</h2>
