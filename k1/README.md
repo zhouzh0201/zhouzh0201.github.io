@@ -60,8 +60,9 @@
 港大工程学院 
 计算机科学系：
 人工智能、机器人和视觉计算小组
+<p>
   Yu, Yizhou (Group Leader)<a href="https://www.cs.hku.hk/~yzyu/"俞义州</a>
-
+</p>
 网络安全、金融科技和区块链
 计算机科学
 数据科学与工程
