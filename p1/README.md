@@ -2,7 +2,7 @@
 <head>
   
   <meta charset="utf-8" />
-  <meta name="author" content="persinal website" />
+  <meta name="author" content="personal website" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1, user-scalable=no" />
   <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" /> 
     <link href="js/royalslider/css/royalslider.css" rel="stylesheet" />
@@ -16,7 +16,7 @@
   </head>  
 <body>
  <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#00ffff;">
+   <nav style="background-color:#00ffff;hieght:100px;">
      <div class="container">
       <div class="navbar-header">
     <div class="header">
@@ -67,7 +67,7 @@
 <head>  
   <meta charset="utf-8" /> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   <!--title>二级菜单</title-->
+   <!--title>secend 2v</title-->
  <style>
  nav{
     background-color:#333;
@@ -103,8 +103,9 @@
            <li><a href="..publications">publications</a></li>     
            <li><a href="..Projects">Projects</a></li>
            <li><a href="..team">Team</a></li>
-           <li><a href="..teaching">Teaching</a></li>
-           <li><a href="..service">Service</a></li>
+           <!--li><a href="..teaching">Teaching</a></li-->
+           <li class="active"><a href="k1">p1</a></li>  
+           <li><a href="..service">service</a></li>
            <li><a href="..Kong five">kong five</a></li>
            <li><a href="..Contact me">Contact me</a></li>
                             </ul> 
