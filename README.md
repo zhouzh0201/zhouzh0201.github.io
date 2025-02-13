@@ -119,7 +119,7 @@
          <br>
         <div class="profile-content pull-center">   
           <div class="profile-content pull-center" align="center">  
-          <h1 class="name">ZhouZhonghong's the page is under construction.......  </h1>  
+          <h1 class="name">CGPWB's the page is under construction.......  </h1>  
           <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
             <ul class="social list-inline">   
               
