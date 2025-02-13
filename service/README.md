@@ -76,7 +76,7 @@
                       <!--li><a href="#">p1-2</a></li-->
                  </ul>
             </li>
-          <li><a href="../kong five">kong five</a></li>
+          <li><a href="../Kong five">kong five</a></li>
           <li><a href="../Contact me">Contact me</a></li>
         </ul>
       </div>
@@ -89,7 +89,6 @@
         </span>
     
     <hr> 
-
 
 
     
