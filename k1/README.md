@@ -70,7 +70,7 @@
   4. <a href=" https://xh-liu.github.io/">刘锡辉</a>,Prof. Xihui Liu<font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab,<br>
    5.  <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/">马毅</a> ,Professor Ma, Yi,Director & Chair Professor of HKU Musketeers Foundation Institute of Data Science;Chair of Artificial Intelligence, <a href=" https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<br>
    6.  <a href="https://sites.google.com/site/panjia/">潘佳</a>.Research Interests,Robotics and Artificial Intelligence,<br>
-
+  7.   <a href=https://www.eee.hku.hk/~evanpeng/">彭一帆</a>,Evan Peng,Yifan (Evan) Peng， Electrical & Electronic Engineering, <a href=https://hku.welight.fun/"> WeLight Lab </a>, <font color="#ff0000">We are looking for PhD students and Postdocs (see openings)</font>.<br>
    
 </p>
 Cyber Security, FinTech and Blockchain
