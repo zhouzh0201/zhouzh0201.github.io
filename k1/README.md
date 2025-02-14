@@ -80,15 +80,15 @@
    11.  <a href="https://i.cs.hku.hk/~hszhao/">赵恒双</a>,Professor Zhao, Hengshuang,<font color="#ff0000">Prospective students:</font>. I am looking for self-motivated Ph.D. students, postdoctoral reseachers, research assistants, and visiting scholars,<br>
    12.<a href=" https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<font color="#ff0000">PhD Students:21, supervisor:</font> <br>
       <a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a> ,Prof. Yanchao YANG, Department of Electrical and Electronic Engineering,Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction.<br>
-      <a href="https://datascience.hku.hk/people/yi-ma/">马毅 </a>, Prof. Yi MA, Research Interests:Computer vision, high-dimensional data analysis, and intelligent systems <br>
-      Prof. Qingpeng ZHANG,张庆鹏,Department of Pharmacology and Pharmacy, HKU,<<br> 
+      <a href="https://datascience.hku.hk/people/yi-ma/">马毅 </a>, Prof. Yi MA, Research Interests:Computer vision, high-dimensional data analysis, and intelligent systems. <br>
+      Prof. Qingpeng ZHANG,张庆鹏,Department of Pharmacology and Pharmacy, HKU,<br> 
       Prof. Xihui LIU,刘锡辉,Department of Electrical and Electronic Engineering,<br>
       Prof. Yanchao YANG,梁英宇,Department of Computer Science.Research Interests:Machine learning; Optimization and generalization in deep learning; Robust machine learning, and their applications.。<br>
-      Prof. Chao HUANG,黄超,Research Interests:Data Mining, Machine Learning, Deep Neural Networks,RPg Students: Mr. Yuhao Yang (PhD),Ms. Wei Wei (PhD) <br>
+      Prof. Chao HUANG,黄超,Research Interests:Data Mining, Machine Learning, Deep Neural Networks,RPg Students: Mr. Yuhao Yang (PhD),Ms. Wei Wei (PhD). <br>
       Prof. Ben KAO,高斌,<br>
-      Prof. Difan ZOU邹迪凡,Research Interests:Machine Learning Theory; Deep Learning Theory; Decision Making; Stochastic Modeling; Learning Structured Data<br>
-      Prof. Kaibin HUANG  黄凯斌,,Department of Electrical and Electronic Engineering <br> 
-      <a href=" https://datascience.hku.hk/people/ping-luo/">罗平</a>, <font color="#ff0000">We’re actively recruiting Postdocs,PhDs,and RAs</font>, Professor LUO, Ping,Deputy Director, HKU-Shanghai National AI Lab Joint Laboratory,Research Interests:Computer Vision, Machine Learning, Deep Learning .<font color="#ff0000">PhD Candidates</font>:30 <a  href="http://luoping.me/">Click here</a> <br>
+      Prof. Difan ZOU邹迪凡,Research Interests:Machine Learning Theory; Deep Learning Theory; Decision Making; Stochastic Modeling; Learning Structured Data.<br>
+      Prof. Kaibin HUANG  黄凯斌,,Department of Electrical and Electronic Engineering .<br> 
+      <a href=" https://datascience.hku.hk/people/ping-luo/">罗平</a>, <font color="#ff0000">We’re actively recruiting Postdocs,PhDs,and RAs</font>, Professor LUO, Ping,Deputy Director, HKU-Shanghai National AI Lab Joint Laboratory,Research Interests:Computer Vision, Machine Learning, Deep Learning .<font color="#ff0000">PhD Candidates</font>:30 <a  href="http://luoping.me/">Click here</a>. <br>
      HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision,  Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision & Language Models .<br>
    13.<a href="https://www.dvlab.ai/">Deep Vision Lab （DVLab)</a>,<font color="#ff0000">The Deep Vision Lab (DVLab)</font> is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<br>
 
