@@ -104,7 +104,7 @@
 B:<br>
   <a href="https://www.cds.hku.hk/">The School of Computing and Data Science </a>,<br>
 Department of Computer Science<br>
-   12. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/chenho/">陈浩</a>,Prof. Chen, Ho,<a href="https://sec.hku.hk/">JC STEM Lab of Intelligent Cybersecurity </a>, <font color="#ff0000">加入</font>.We are recruiting researchers, postdoctoral scholars, graduate students, and interns who are passionate about exploring the frontier of cybersecurity and machine learning,<br>
+   12. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/chenho/">陈浩</a>,Prof. Chen, Ho,<a href="https://sec.hku.hk/">JC STEM Lab of Intelligent Cybersecurity </a>, <font color="#ff0000">join we</font>.We are recruiting researchers, postdoctoral scholars, graduate students, and interns who are passionate about exploring the frontier of cybersecurity and machine learning,<br>
 
 
    
