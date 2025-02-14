@@ -71,7 +71,7 @@
    5.  <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/">马毅</a> ,Professor Ma, Yi,Director & Chair Professor of HKU Musketeers Foundation Institute of Data Science;Chair of Artificial Intelligence, <a href=" https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>, <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>.<br>
    6.  <a href="https://sites.google.com/site/panjia/">潘佳</a>.Professor Pan, Jia,Research Interests,Robotics and Artificial Intelligence,<a href=https://sites.google.com/site/panjia/">HomepagePanJia</a>,<br>
   7.   <a href="https://www.eee.hku.hk/~evanpeng/">彭一帆</a>,Evan Peng,Yifan (Evan) Peng， Electrical & Electronic Engineering, <a href="https://hku.welight.fun/"> WeLight Lab </a>, <font color="#ff0000">We are looking for PhD students and Postdocs (see openings) </font>.<br>
-   8. <a href="https://xjqi.github.io/">齐小娟</a>, Xiaojuan Qi  , Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab,<a href="https://www.dvlab.ai/>Deep Vision Lab （DVLab)</a><font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>.<br>
+   8. <a href="https://xjqi.github.io/">齐小娟</a>, Xiaojuan Qi  , Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab,<a href="https://www.dvlab.ai/">Deep Vision Lab （DVLab)</a><font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>.<br>
    9.  <a href="https://www.cs.hku.hk/~kykwong/">黄国英</a>,Professor Wong, Kenneth K.Y.,
 </p>
 Cyber Security, FinTech and Blockchain
