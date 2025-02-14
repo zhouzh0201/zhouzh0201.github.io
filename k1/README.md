@@ -78,20 +78,18 @@
    9.  <a href="https://www.cs.hku.hk/~kykwong/">黄国英</a>,Professor Wong, Kenneth K.Y. <a href="https://visionlab.cs.hku.hk/">Computer Vision Group (CVG)</a>,<font color="#ff0000">We have a few opening positions of PosDoc and PhD:</font> which are waiting for self-motivated students. Please send your resume to Dr. Kenneth Wong if you are interested in.<br>
    10.  <a href="https://www.cs.hku.hk/people/academic-staff/dongxu">徐东</a>,<br>
    11.  <a href="https://i.cs.hku.hk/~hszhao/">赵恒双</a>,Professor Zhao, Hengshuang,<font color="#ff0000">Prospective students:</font>. I am looking for self-motivated Ph.D. students, postdoctoral reseachers, research assistants, and visiting scholars,<br>
-   12.<a href=" https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<font color="#ff0000">PhD Students:21, supervisor: <br>
-      <a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a> ,Prof. Yanchao YANG,电气与电子工程系,研究方向 :计算机视觉、机器学习、表示学习、自我监督学习、几何处理、机器人技术和人机交互。<br>
-      <a href="https://datascience.hku.hk/people/yi-ma/">马毅 </a>, Prof. Yi MA, 计算机科学系,研究方向
-计算机视觉、高维数据分析和智能系统 <br>
-      Prof. Qingpeng ZHANG,张庆鹏,<<br> 
-      Prof. Xihui LIU,刘锡辉,<br>
-      Prof. Yanchao YANG梁英宇,<br>
-      Prof. Chao HUANG黄超, <br>
-      Prof. Ben KAO高斌,<br>
-      Prof. Difan ZOU邹迪凡,<br>
-      Prof. Kaibin HUANG<br>
-      黄凯斌, Prof. Ping LUO<br>
-      罗平, <br>
-      Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision,  Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision & Language Models</font>.<br>
+   12.<a href=" https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<font color="#ff0000">PhD Students:21, supervisor:</font> <br>
+      <a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a> ,Prof. Yanchao YANG, Department of Electrical and Electronic Engineering,Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction.<br>
+      <a href="https://datascience.hku.hk/people/yi-ma/">马毅 </a>, Prof. Yi MA, Research Interests:Computer vision, high-dimensional data analysis, and intelligent systems <br>
+      Prof. Qingpeng ZHANG,张庆鹏,Department of Pharmacology and Pharmacy, HKU,<<br> 
+      Prof. Xihui LIU,刘锡辉,Department of Electrical and Electronic Engineering,<br>
+      Prof. Yanchao YANG,梁英宇,Department of Computer Science.Research Interests:Machine learning; Optimization and generalization in deep learning; Robust machine learning, and their applications.。<br>
+      Prof. Chao HUANG,黄超,Research Interests:Data Mining, Machine Learning, Deep Neural Networks,RPg Students: Mr. Yuhao Yang (PhD),Ms. Wei Wei (PhD) <br>
+      Prof. Ben KAO,高斌,<br>
+      Prof. Difan ZOU邹迪凡,Research Interests:Machine Learning Theory; Deep Learning Theory; Decision Making; Stochastic Modeling; Learning Structured Data<br>
+      Prof. Kaibin HUANG  黄凯斌, <br> 
+      <a href=" https://datascience.hku.hk/people/ping-luo/">罗平</a>$\color{green}{\mathcal{N}ew!}$ <font color="#ff0000">We’re actively recruiting Postdocs, PhDs, and RAs</font>, Professor LUO, Ping,Deputy Director, HKU-Shanghai National AI Lab Joint Laboratory,Research Interests:Computer Vision, Machine Learning, Deep Learning <br>
+      Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision,  Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision & Language Models .<br>
    13.<a href="https://www.dvlab.ai/">Deep Vision Lab （DVLab)</a>,<font color="#ff0000">The Deep Vision Lab (DVLab)</font> is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<br>
 
    
