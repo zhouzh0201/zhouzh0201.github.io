@@ -20,7 +20,7 @@
 <!--/head-->
 <body>
   <nav class="navbar navbar-inverse navbar-fixed-top">
-   <nav style="background-color:#00ff00;hieght:80px;">
+   <nav style="background-color:#00ff00;hieght:120px;">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -55,18 +55,22 @@
  
   <div class="container" style="margin-top: 50px;">
 
-<h2>k1</h2>
-25-26 fall looking for:<br>
+<h2>Applying for a PhD</h2>
+25-26 fall looking for PhD supervisor:<br>
  A:<br>
  <a href=" https://engg.hku.hk/">Faculty of Engineering</a>,<br>
  <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,<br>
  <A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<br>.
  <a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.<br>
-       AI, Robotics and Visual Computing groups:
+      <font color="#ff0000"> AI, Robotics and Visual Computing groups:</font><br>
 <p>
  1. Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,<a href="http://www.cs.hku.hk/~yzyu/">俞义州</a>.<br>
  2. Professor Komura, Taku, <a href="https://www.cs.hku.hk/~taku/">小村 拓</a>,<font color="#ff0000">PhD and Postdoc positions available!</font>,<br>.
  3.  Prof. E.Y.M. Lam,<a href="https://www.eee.hku.hk/~elam/">林耀辉</a>,<font color="#ff0000">Positions Available </font>,Department of Electrical and Electronic Engineering,Imaging Systems Laboratory,<font color="#ff0000"> Graduate Student Openings </font>,We invite applications from Master and PhD candidates for the next academic year.<br>.
+   4.Assistant Professor,Prof. Xihui Liu,<a href=" https://xh-liu.github.io/">刘锡辉</a>,<font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab,<br>.
+    5.  Professor Ma, Yi,  Director & Chair Professor of HKU Musketeers Foundation Institute of Data Science;Chair of Artificial Intelligence, <a href=" https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<br>.
+
+
    
 </p>
 Cyber Security, FinTech and Blockchain
