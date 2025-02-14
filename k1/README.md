@@ -87,7 +87,7 @@
       Prof. Chao HUANG,黄超,Research Interests:Data Mining, Machine Learning, Deep Neural Networks,RPg Students: Mr. Yuhao Yang (PhD),Ms. Wei Wei (PhD) <br>
       Prof. Ben KAO,高斌,<br>
       Prof. Difan ZOU邹迪凡,Research Interests:Machine Learning Theory; Deep Learning Theory; Decision Making; Stochastic Modeling; Learning Structured Data<br>
-      Prof. Kaibin HUANG  黄凯斌,电子电气工程系 <br> 
+      Prof. Kaibin HUANG  黄凯斌,,Department of Electrical and Electronic Engineering <br> 
       <a href=" https://datascience.hku.hk/people/ping-luo/">罗平</a>, <font color="#ff0000">We’re actively recruiting Postdocs,PhDs,and RAs</font>, Professor LUO, Ping,Deputy Director, HKU-Shanghai National AI Lab Joint Laboratory,Research Interests:Computer Vision, Machine Learning, Deep Learning .<font color="#ff0000">PhD Candidates</font>:30 <a  href="http://luoping.me/">Click here</a> <br>
      HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision,  Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision & Language Models .<br>
    13.<a href="https://www.dvlab.ai/">Deep Vision Lab （DVLab)</a>,<font color="#ff0000">The Deep Vision Lab (DVLab)</font> is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<br>
@@ -103,7 +103,7 @@
 <br>
 B:<br>
   <a href="https://www.cds.hku.hk/">The School of Computing and Data Science </a>,<br>
-计算机科学系<br>
+Department of Computer Science<br>
    12. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/chenho/">陈浩</a>,Prof. Chen, Ho,<a href="https://sec.hku.hk/">JC STEM Lab of Intelligent Cybersecurity </a>, <font color="#ff0000">加入</font>.We are recruiting researchers, postdoctoral scholars, graduate students, and interns who are passionate about exploring the frontier of cybersecurity and machine learning,<br>
 
 
