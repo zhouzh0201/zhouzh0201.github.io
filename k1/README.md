@@ -72,10 +72,9 @@
    6.  <a href="https://sites.google.com/site/panjia/">潘佳</a>.Professor Pan, Jia,Research Interests,Robotics and Artificial Intelligence,<a href="https://sites.google.com/site/panjia/">HomepagePanJia</a>,<br>
   7.   <a href="https://www.eee.hku.hk/~evanpeng/">彭一帆</a>,Evan Peng,Yifan (Evan) Peng， Electrical & Electronic Engineering, <a href="https://hku.welight.fun/"> WeLight Lab </a>, <font color="#ff0000">We are looking for PhD students and Postdocs (see openings) </font>.<br>
    8. <a href="https://xjqi.github.io/">齐小娟</a>, Xiaojuan Qi  , Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab,<a href="https://www.dvlab.ai/">Deep Vision Lab （DVLab)</a><font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>.<br>
-   9.  <a href="https://www.cs.hku.hk/~kykwong/">黄国英</a>,Professor Wong, Kenneth K.Y. <a href="https://visionlab.cs.hku.hk/">计算机视觉研究小组 </a>,<font color="#ff0000">We have a few opening positions of PosDoc and PhD:</font> which are waiting for self-motivated students. Please send your resume to Dr. Kenneth Wong if you are interested in.
-<br>,
+   9.  <a href="https://www.cs.hku.hk/~kykwong/">黄国英</a>,Professor Wong, Kenneth K.Y. <a href="https://visionlab.cs.hku.hk/">计算机视觉研究小组 </a>,<font color="#ff0000">We have a few opening positions of PosDoc and PhD:</font> which are waiting for self-motivated students. Please send your resume to Dr. Kenneth Wong if you are interested in.<br>,
    10.  <a href="https://www.cs.hku.hk/people/academic-staff/dongxu">徐东</a>,<br>
-   11.   <a href="https://i.cs.hku.hk/~hszhao/">徐东</a>,<font color="#ff0000">Prospective students:</font>. I am looking for self-motivated Ph.D. students, postdoctoral reseachers, research assistants, and visiting scholars,<br>
+   11.  <a href="https://i.cs.hku.hk/~hszhao/">赵恒双</a>,<font color="#ff0000">Prospective students:</font>. I am looking for self-motivated Ph.D. students, postdoctoral reseachers, research assistants, and visiting scholars,<br>
    12.
 
 
