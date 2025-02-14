@@ -62,7 +62,7 @@
  <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,<br>
  <A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<br>
  <a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.<br>
-      <font color="#ff0000"> AI, Robotics and Visual Computing groups:</font><br>
+      <font color="#ff0000">** AI, Robotics and Visual Computing groups:</font><br>
 <p>
  1. <a href="http://www.cs.hku.hk/~yzyu/">俞义州</a>.Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,<br>
  2.  <a href="https://www.cs.hku.hk/~taku/">小村 拓</a>,Professor Komura, Taku,<font color="#ff0000">PhD and Postdoc positions available!</font>,<br>
@@ -83,10 +83,10 @@
 
 
 </p>
-Cyber Security, FinTech and Blockchain
-Foundations of Computer Science
-Data Science and Engineering
-Systems and Networking
+**Cyber Security, FinTech and Blockchain
+**Foundations of Computer Science
+**Data Science and Engineering
+**Systems and Networking
 
 
 <br>
