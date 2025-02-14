@@ -75,11 +75,6 @@
    9.  <a href="https://www.cs.hku.hk/~kykwong/">黄国英</a>,Professor Wong, Kenneth K.Y. <a href="https://visionlab.cs.hku.hk/">计算机视觉研究小组 </a>,<font color="#ff0000">We have a few opening positions of PosDoc and PhD:</font> which are waiting for self-motivated students. Please send your resume to Dr. Kenneth Wong if you are interested in.<br>
    10.  <a href="https://www.cs.hku.hk/people/academic-staff/dongxu">徐东</a>,<br>
    11.  <a href="https://i.cs.hku.hk/~hszhao/">赵恒双</a>,Professor Zhao, Hengshuang,<font color="#ff0000">Prospective students:</font>. I am looking for self-motivated Ph.D. students, postdoctoral reseachers, research assistants, and visiting scholars,<br>
- 
-
-
-
-
 
 
 </p>
@@ -91,7 +86,12 @@
 
 <br>
 B:<br>
-The School of Computing and Data Science (https://www.cds.hku.hk/)
+  <a href="https://www.cds.hku.hk/">The School of Computing and Data Science </a>,<br>
+计算机科学系<br>
+   12. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/chenho/">陈浩</a>,Prof. Chen, Ho,<a href="https://sec.hku.hk/">JC STEM Lab of Intelligent Cybersecurity </a>, <font color="#ff0000">加入</font>.We are recruiting researchers, postdoctoral scholars, graduate students, and interns who are passionate about exploring the frontier of cybersecurity and machine learning,<br>
+
+
+   
  <h2>k2</h2>
 
 
