@@ -69,7 +69,7 @@
  3.  Prof. E.Y.M. Lam,<a href="https://www.eee.hku.hk/~elam/">林耀辉</a>,<font color="#ff0000">Positions Available </font>,Department of Electrical and Electronic Engineering,Imaging Systems Laboratory,<font color="#ff0000"> Graduate Student Openings </font>,We invite applications from Master and PhD candidates for the next academic year.<br>
   4. Prof. Xihui Liu,<a href=" https://xh-liu.github.io/">刘锡辉</a>,<font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab,<br>
    5.  Professor Ma, Yi,<a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/">马毅</a> ,Director & Chair Professor of HKU Musketeers Foundation Institute of Data Science;Chair of Artificial Intelligence, <a href=" https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<br>
-
+   6.  <a href="https://sites.google.com/site/panjia/">潘佳</a>.Research Interests,Robotics and Artificial Intelligence,<br>
 
    
 </p>
