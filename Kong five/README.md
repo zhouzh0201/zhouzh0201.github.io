@@ -75,8 +75,11 @@
  <body>
    <div class="container">
      <div class="region">K1</div>
+     <h2>The University of Hong Kong<h2>
      <div class="region">K2</div>
+     <h2>Department of Computer Science<h2>
      <div class="region">K3</div>
+      <h2>Department of Electrical and Electronic Engineering <h2>
     </div> 
  </body>
      
