@@ -78,19 +78,23 @@
    9.  <a href="https://www.cs.hku.hk/~kykwong/">黄国英</a>,Professor Wong, Kenneth K.Y. <a href="https://visionlab.cs.hku.hk/">Computer Vision Group (CVG)</a>,<font color="#ff0000">We have a few opening positions of PosDoc and PhD:</font> which are waiting for self-motivated students. Please send your resume to Dr. Kenneth Wong if you are interested in.<br>
    10.  <a href="https://www.cs.hku.hk/people/academic-staff/dongxu">徐东</a>,<br>
    11.  <a href="https://i.cs.hku.hk/~hszhao/">赵恒双</a>,Professor Zhao, Hengshuang,<font color="#ff0000">Prospective students:</font>. I am looking for self-motivated Ph.D. students, postdoctoral reseachers, research assistants, and visiting scholars,<br>
+   
     12. <a href=" https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<font color="#ff0000">PhD Students:21, supervisor:</font> <br>
+   
       <a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a> ,Prof. Yanchao YANG, Department of Electrical and Electronic Engineering,Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction. <a href="https://yanchaoyang.github.io/">杨燕超 </a> Ph.D. students, postdocs and interns!<font color="#ff6ec7">We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</font><br>
       <a href="https://datascience.hku.hk/people/yi-ma/">马毅 </a>, Prof. Yi MA, Research Interests:Computer vision, high-dimensional data analysis, and intelligent systems. <br>
-      Prof. Qingpeng ZHANG,张庆鹏,Department of Pharmacology and Pharmacy, HKU,<br> 
-      Prof. Xihui LIU,刘锡辉,Department of Electrical and Electronic Engineering,Ph.D. students
+      张庆鹏Prof. Qingpeng ZHANG,,Department of Pharmacology and Pharmacy, HKU,<br> 
+      刘锡辉Prof. Xihui LIU,,Department of Electrical and Electronic Engineering,Ph.D. students
 Yuqing Wang，Yao Teng，Chenming Zhu，Yunhan Yang，Meng Wei，Kaiyue Sun (HKU-PS)，Kaiyi Huang (HKU-PS)Jintao Lin (HKPFS)，MPhil students，Zhiyuan Chen，<br>
-      Prof. Yanchao YANG,梁英宇,Department of Computer Science.Research Interests:Machine learning; Optimization and generalization in deep learning; Robust machine learning, and their applications.。<br>
-      Prof. Chao HUANG,黄超,Research Interests:Data Mining, Machine Learning, Deep Neural Networks,RPg Students: Mr. Yuhao Yang (PhD),Ms. Wei Wei (PhD). <br>
-      Prof. Ben KAO,高斌,<br>
-      Prof. Difan ZOU邹迪凡,Research Interests:Machine Learning Theory; Deep Learning Theory; Decision Making; Stochastic Modeling; Learning Structured Data.<a href="https://difanzou.github.io/">邹迪凡 </a>.<font color="#ff6ec7">Multiple openings for PhD, Postdoc, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email.</font>.<br>
-      Prof. Kaibin HUANG  黄凯斌,,Department of Electrical and Electronic Engineering .<br> 
+      梁英宇 Prof. Yanchao YANG,,Department of Computer Science.Research Interests:Machine learning; Optimization and generalization in deep learning; Robust machine learning, and their applications.。<br>
+      黄超Prof. Chao HUANG,,Research Interests:Data Mining, Machine Learning, Deep Neural Networks,RPg Students: Mr. Yuhao Yang (PhD),Ms. Wei Wei (PhD). <br>
+      高斌 Prof. Ben KAO,,<br>
+      邹迪凡Prof. Difan ZOU,Research Interests:Machine Learning Theory; Deep Learning Theory; Decision Making; Stochastic Modeling; Learning Structured Data.<a href="https://difanzou.github.io/">邹迪凡 </a>.<font color="#ff6ec7">Multiple openings for PhD, Postdoc, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email.</font>.<br>
+      <a href="https://www.wireless.hku.hk/">黄凯斌 </a>,Prof. Kaibin HUANG ,Department of Electrical and Electronic Engineering .<font color="#ff6ec7">Open Positions</font>.Multiple positions for Ph.D. students (with potential support by Hong Kong Postgraduate Fellowship) [Details]<br> 
       <a href=" https://datascience.hku.hk/people/ping-luo/">罗平</a>, <font color="#ff0000">We’re actively recruiting Postdocs,PhDs,and RAs</font>, Professor LUO, Ping,Deputy Director, HKU-Shanghai National AI Lab Joint Laboratory,Research Interests:Computer Vision, Machine Learning, Deep Learning .<font color="#ff0000">PhD Candidates</font>:30 <a  href="http://luoping.me/">Click here</a>. <br>
+   
      HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision,  Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision & Language Models .<br>
+     
    13.<a href="https://www.dvlab.ai/">Deep Vision Lab （DVLab)</a>,<font color="#ff0000">The Deep Vision Lab (DVLab)</font> is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<br>
 
    
