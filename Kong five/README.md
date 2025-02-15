@@ -91,12 +91,6 @@
 
      
   <div class="container" style="margin-top: 50px;">
-
-
-
-
-
-     
     <!--hr-->
     <div align="center">
         <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
@@ -107,9 +101,7 @@
 
 </body>
 
-<!-- <div align="center">
-  
-</div> -->
+ <div align="center">
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
 
