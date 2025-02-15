@@ -76,10 +76,10 @@
    <div class="container">
      <!--div class="region">K1</div-->
      <!--h2>The University of Hong Kong</h2-->
-     <div class="region">K2</div>
-     <h2>Department of Computer Science</h2>
-     <div class="region">K3</div>
-      <h2>Department of Electrical and Electronic Engineering </h2>
+     <div class="region">Department of Computer Science</div>
+    
+     <div class="region"> Department of Electrical and Electronic Engineering</div>
+       
     </div> 
  </body>
 
@@ -90,7 +90,7 @@
 
 
      <!--hr-->
-  <div class="container" style="margin-top: 350px;">
+  <div class="container" style="margin-top: 600px;">
     <div align="center">
         <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>  <br>
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
