@@ -58,6 +58,7 @@
   <body>
 
   <nav class="navbar navbar-inverse navbar-fixed-top">
+   <nav style="background-color:#00ff00;hieght:100px;"> 
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -89,8 +90,8 @@
         
       </div>
     </div>
+   </nav>
   </nav>
-
   <div class="container" style="margin-top: 50px;">
 
     <h2>Team</h2>
