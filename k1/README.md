@@ -115,7 +115,7 @@ Yuqing Wang，Yao Teng，Chenming Zhu，Yunhan Yang，Meng Wei，Kaiyue Sun (HKU
 B:<br>
   <a href="https://www.cds.hku.hk/">The School of Computing and Data Science </a>,<br>
   <a href="https://www.cs.hku.hk/">Department of Computer Science</a><br>
-   12. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/chenho/">陈浩</a>,Prof. Chen, Ho,<a href="https://sec.hku.hk/">JC STEM Lab of Intelligent Cybersecurity </a>, <font color="#ff0000">join we lab</font>,We are recruiting researchers, postdoctoral scholars, graduate students, and interns who are passionate about exploring the frontier of cybersecurity and machine learning,.<a href="https://haochen.org/">陈浩</a><font color="#ff0000">I am recruiting graduate students</font><br>
+   14. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/chenho/">陈浩</a>,Prof. Chen, Ho,<a href="https://sec.hku.hk/">JC STEM Lab of Intelligent Cybersecurity </a>, <font color="#ff0000">join we lab</font>,We are recruiting researchers, postdoctoral scholars, graduate students, and interns who are passionate about exploring the frontier of cybersecurity and machine learning,.<a href="https://haochen.org/">陈浩</a><font color="#ff0000">I am recruiting graduate students</font><br>
 
 
    
