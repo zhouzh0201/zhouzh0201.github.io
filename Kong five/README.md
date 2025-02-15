@@ -54,9 +54,32 @@
    </nav>
  </nav>
 </body>
- 
 
- 
+ <!--partition-->
+<style>
+  .container{
+    display:flex;
+    justify-content:space-botween;
+    width: 100%;
+  }
+  .region{
+    flex:1;
+    height:200px;
+    bockground-color:#f0f0f0;
+    margin:10px;
+    padding:20px;
+    box-sizing:border-box;
+    text-align:center;
+  }
+</style>
+ <body>
+   <div class="container">
+     <div class="region">K1</div>
+     <div class="region">K2</div>
+     <div class="region">K3</div>
+    </div> 
+ </body>
+     
   <div class="container" style="margin-top: 50px;">
 
     <h2>kong five</h2>
