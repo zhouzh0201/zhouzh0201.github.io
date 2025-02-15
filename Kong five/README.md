@@ -60,11 +60,11 @@
   .container{
     display:flex;
     justify-content:space-botween;
-    width: 300%;
+    width: 100%;
   }
   .region{
     flex:1;
-    height:1200px;
+    height:500px;
     bockground-color:#f0f0f0;
     margin:10px;
     padding:20px;
