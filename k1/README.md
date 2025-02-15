@@ -61,12 +61,17 @@
  A:<br>
  <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,<br>
  
+ 
  <a href=" https://engg.hku.hk/">Faculty of Engineering</a>,<br>
+ 
  
  <A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<br>
  
+ 
  <a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.<br>
+ 
       <font color="#ff0000">** AI, Robotics and Visual Computing groups:</font><br>
+      
 <p>
  1. <a href="http://www.cs.hku.hk/~yzyu/">俞义州</a>.Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR. <font color="#ff0000">the director of AI Lab</font> ，<br>
  2.  <a href="https://www.cs.hku.hk/~taku/">小村 拓</a>,Professor Komura, Taku,<font color="#ff0000">PhD and Postdoc positions available!</font>,<br>
@@ -80,7 +85,7 @@
    10.  <a href="https://www.cs.hku.hk/people/academic-staff/dongxu">徐东</a>,<br>
    11.  <a href="https://i.cs.hku.hk/~hszhao/">赵恒双</a>,Professor Zhao, Hengshuang,<font color="#ff0000">Prospective students:</font>. I am looking for self-motivated Ph.D. students, postdoctoral reseachers, research assistants, and visiting scholars,<br>
    
-    12. <a href=" https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<font color="#ff0000">PhD Students:21, supervisor:</font> <br>
+    12. <a href="https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<font color="#ff0000">PhD Students:21, supervisor:</font> <br>
    
       <a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a>, Department of Electrical and Electronic Engineering,Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction. <a href="https://yanchaoyang.github.io/">杨燕超 </a> Ph.D. students, postdocs and interns!<font color="#ff6ec7">We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</font><br>
       <a href="https://datascience.hku.hk/people/yi-ma/">马毅 </a>, Prof. Yi MA, Research Interests:Computer vision, high-dimensional data analysis, and intelligent systems. <br>
@@ -109,7 +114,7 @@ Yuqing Wang，Yao Teng，Chenming Zhu，Yunhan Yang，Meng Wei，Kaiyue Sun (HKU
 <br>
 B:<br>
   <a href="https://www.cds.hku.hk/">The School of Computing and Data Science </a>,<br>
-<a href="https://www.cs.hku.hk/">Department of Computer Science</a><br>
+  <a href="https://www.cs.hku.hk/">Department of Computer Science</a><br>
    12. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/chenho/">陈浩</a>,Prof. Chen, Ho,<a href="https://sec.hku.hk/">JC STEM Lab of Intelligent Cybersecurity </a>, <font color="#ff0000">join we lab</font>,We are recruiting researchers, postdoctoral scholars, graduate students, and interns who are passionate about exploring the frontier of cybersecurity and machine learning,.<a href="https://haochen.org/">陈浩</a><font color="#ff0000">I am recruiting graduate students</font><br>
 
 
