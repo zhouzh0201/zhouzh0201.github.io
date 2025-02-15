@@ -90,7 +90,7 @@
 
 
      <!--hr-->
-  <div class="container" style="margin-top: 600px;">
+  <div class="container" style="margin-top: 300px;">
     <div align="center">
         <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>  <br>
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
