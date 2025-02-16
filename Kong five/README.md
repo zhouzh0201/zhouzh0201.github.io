@@ -170,7 +170,7 @@
 </li>                        
 <li>    
     <a href="https://www.eee.hku.hk/~evanpeng/" target="_blank" title="CGPWB">
-      <p> Evan Peng,Yifan (Evan) Peng， Electrical &amp; Electronic Engineering, 
+      <p> Evan Peng,Yifan (Evan) Peng，彭一帆 Electrical &amp; Electronic Engineering, 
          <a href="https://hku.welight.fun/"> WeLight Lab </a>, 
          <font color="#ff0000">We are looking for PhD students and Postdocs (see openings) </font>. 
          <span>2025.02.15</span> 
