@@ -83,7 +83,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h5><img src="min1.png"> HKU Department of Computer Science </h5>
+                    <h5><img src="min1.png"/> HKU Department of Computer Science </h5>
                     
                  </div>
 
