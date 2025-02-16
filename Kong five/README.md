@@ -131,7 +131,7 @@
            </div>     
 
               <!--%%%%%%%%%-->
-     <div class="region">HKU  Department of Electrical and Electronic Engineering</div>
+     <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
         <div class="index-second">
            <div class="container">
               <div class="index-notice">
