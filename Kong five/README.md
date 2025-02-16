@@ -117,61 +117,51 @@
      <p>Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS), <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>.<span>2025.02.15</span> </p> <br/>
    </a>
 </li> 
- 
-
-
-
-                         </ul>
-
-                        
+                         </ul>   
                       </div>
                  </div>       
                </div>
              </div>
            </div>     
 
-           
+              <!--%%%%%%%%%-->
      <div class="region"> Department of Electrical and Electronic Engineering</div>
-     
-          <!--%%%%%%%%%-->
-     <div class="index-second">
-   
+        <div class="index-second">
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h3><img src="images/icon-notice.png">Applying for a PhD supervisor on Computer Vision </h3>
-                    
+                      <h3><img src="images/icon-notice.png">Applying for a PhD supervisor on Computer Vision </h    
                  </div>
-
                  <div class="item">
                     <ul class=" clearfix">
                         <li class="active"><a href="xwdt/tzgg.htm">26fall admisstion supervisor</a></li>
-                        <li><a href="xwdt/tzgg/dz.htm">lab and stitute</a></li>
-                        <li><a href="xwdt/tzgg/xkjs.htm">research group</a></li>
-                        <li><a href="xwdt/tzgg/xkjs.htm">whu alumnus</a></li>
+                        <li><a href="xwdt/tzgg/dz.htm">Robotics </a></li>
+                        <li><a href="xwdt/tzgg/xkjs.htm">Embodied AI</a></li>
+                        <li><a href="xwdt/tzgg/xkjs.htm"> Language Models</a></li>
                          <li><a href="xwdt/tzgg/xkjs.htm">26fall open positions</a></li>
                     </ul>
                  </div>
-                     
                     <div class="cont">
                      <div class="cont-box latest" style="display: block;">
                         <a href="xwdt/tzgg.htm" target="_blank" class="more">more</a>
-
                        <ul class="clearfix">
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>  
-
-                         </ul>
-
-                        
+<li>    
+    <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">
+     <p>Prof. Xihui Liu<font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab,RPg student，Ms. Kaiyi Huang (PhD student)，Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.02.15</span> </p> <br/>
+   </a>
+</li> 
+                         
+                         
+                         
+                         
+                         
+                         </ul> 
                       </div>
                     </div>       
                 </div>
              </div>
-         </div>     
-
-
-
-                        
+         </div>                         
     </div> 
  </body>
 
