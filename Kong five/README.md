@@ -89,11 +89,11 @@
 
                  <div class="item">
                     <ul class=" clearfix">
-                        <li class="active"><a href="xwdt/tzgg.htm">Artificial Intelligence PhD supervisor</a></li>
+                        <li class="active"><a href="xwdt/tzgg.htm">26fall admisstion supervisor</a></li>
                         <li><a href="xwdt/tzgg/dz.htm">lab&institute</a></li>
                         <li><a href="xwdt/tzgg/xkjs.htm">research group</a></li>
                         <li><a href="xwdt/tzgg/xkjs.htm">whu alumnus</a></li>
-                         <li><a href="xwdt/tzgg/xkjs.htm">26fall apply for admission</a></li>
+                         <li><a href="xwdt/tzgg/xkjs.htm">26fall open positions</a></li>
                     </ul>
                  </div>
 
