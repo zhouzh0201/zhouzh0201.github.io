@@ -77,7 +77,45 @@
      <!--div class="region">K1</div-->
      <!--h2>The University of Hong Kong</h2-->
      <div class="region">Department of Computer Science</div>
-    
+      <!--%%%%%%%%%-->
+     <div class="index-three">
+   
+           <div class="container">
+              <div class="index-notice">
+                 <div class="index-title  clearfix">
+                    <h3><img src="images/icon-notice.png">通知<span>公告</span></h3>
+                    
+                 </div>
+
+                 <div class="item">
+                    <ul class=" clearfix">
+                        <li class="active"><a href="xwdt/tzgg.htm">最新</a></li>
+                        <li><a href="xwdt/tzgg/dz.htm">党政</a></li>
+                        <li><a href="xwdt/tzgg/xkjs.htm">学科建设</a></li>
+                        <li><a href="xwdt/tzgg/bkjx.htm">本科教学</a></li>
+                        <li><a href="xwdt/tzgg/bkxg.htm">本科学工</a></li>
+                        <li><a href="xwdt/tzgg/yjspy.htm">研究生培养</a></li>
+                    </ul>
+                 </div>
+
+                 <div class="cont">
+                    <div class="cont-box latest" style="display: block;">
+                        <a href="xwdt/tzgg.htm" target="_blank" class="more">查看更多</a>
+                        <ul class="clearfix">
+<li>
+    <a href="info/1055/50421.htm" target="_blank" title="武汉大学计算机学院">
+        <p>计算机学院2025年普通本科生转专业工作细则</p> <span>2025.01.17</span>
+    </a>
+</li>                       
+<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
+                         </ul>
+
+                        
+                      </div>
+                 </div>       
+               </div>
+             </div>
+         </div>     
      <div class="region"> Department of Electrical and Electronic Engineering</div>
        
     </div> 
