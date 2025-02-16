@@ -114,7 +114,7 @@
 </li> 
 <li>    
     <a href="https://datascience.hku.hk/" target="_blank" title="CGPWB">
-     <p>Ma, Yi HKU Musketeers Foundation Institute of Data Science (HKU-IDS), <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>.<span>2025.02.15</span> </p> <br/>
+     <p>Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS), <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>.<span>2025.02.15</span> </p> <br/>
    </a>
 </li> 
  
