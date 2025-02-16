@@ -108,8 +108,8 @@
     </a>
 </li>      
 <li>
-    <a href="info/1055/50381.htm" target="_blank" title="CGPWB">
-        <p>2024-2025学年第二学期计算机学院助教招募通知</p> <span>2025.01.15</span>
+    <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/"> target="_blank" title="CGPWB">
+        <p>Ma, Yi Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,Professor </p> <span>2025.01.15</span>
     </a>
 </li>                    
 
