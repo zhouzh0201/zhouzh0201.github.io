@@ -74,9 +74,9 @@
 </style>
  <body>
    <div class="container">
-     <!--div class="region">K1</div-->
+     <!--div class="region">HKU Department of Computer Science</div-->
      <!--h2>The University of Hong Kong</h2-->
-     <div class="region">HKU Department of Computer Science</div>
+     <!--div class="region">k2</div-->
       <!--%%%%%%%%%-->
      <div class="index-three">
    
