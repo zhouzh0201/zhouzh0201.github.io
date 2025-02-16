@@ -109,12 +109,22 @@
 </li>      
 <li>
     <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB">
-        <p>Ma, Yi  <font color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,</font>  <span>2025.02.15</span>  </p> <br/>
+        <p>Ma, Yi  
+            <font color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,
+            </font>  
+            <span>2025.02.15
+            </span>  
+        </p> <br/>
     </a>
 </li> 
 <li>    
     <a href="https://datascience.hku.hk/" target="_blank" title="CGPWB">
-     <p>Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS), <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>.<span>2025.02.15</span> </p> <br/>
+       <p>Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS), 
+           <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!
+           </font>. 
+           <span>2025.02.15
+           </span> 
+       </p> <br/>
    </a>
 </li> 
                          </ul>   
@@ -148,17 +158,23 @@
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>  
 <li>    
     <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">
-     <p>Prof. Xihui Liu<font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab, Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.02.15</span> </p> <br/>
+       <p>Prof. Xihui Liu <font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab, Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.02.15</span> 
+       </p> <br/>
    </a>
 </li> 
 <li>    
     <a href="https://www.eee.hku.hk/~elam/ " target="_blank" title="CGPWB">
-     <p> Prof. E.Y.M. Lam,<font color="#ff0000">Positions Available </font>,Department of Electrical and Electronic Engineering,Imaging Systems Laboratory,<font color="#ff0000"> Graduate Student Openings </font>,We invite applications from Master and PhD candidates for the next academic year.<span>2025.02.15</span> </p> <br/>
-   </a>
+      <p> Prof. E.Y.M. Lam,<font color="#ff0000">Positions Available </font>,Department of Electrical and Electronic Engineering,Imaging Systems Laboratory,<font color="#ff0000"> Graduate Student Openings </font>,We invite applications from Master and PhD candidates for the next academic year.<span>2025.02.15</span> 
+      </p> <br/>
+    </a>
 </li>                        
 <li>    
     <a href="https://www.eee.hku.hk/~evanpeng/" target="_blank" title="CGPWB">
-     <p> Evan Peng,Yifan (Evan) Peng， Electrical &amp; Electronic Engineering, <a href="https://hku.welight.fun/"> WeLight Lab </a>, <font color="#ff0000">We are looking for PhD students and Postdocs (see openings) </font>. <span>2025.02.15</span> </p> <br/>
+      <p> Evan Peng,Yifan (Evan) Peng， Electrical &amp; Electronic Engineering, 
+         <a href="https://hku.welight.fun/"> WeLight Lab </a>, 
+         <font color="#ff0000">We are looking for PhD students and Postdocs (see openings) </font>. 
+         <span>2025.02.15</span> 
+      </p> <br/>
    </a>
 </li>                                                 
                          
