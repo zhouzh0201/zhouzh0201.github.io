@@ -110,20 +110,16 @@
 <li>
     <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB">
         <p>Ma, Yi  
-            <font color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,
-            </font>  
-            <span>2025.02.15
-            </span>  
+            <font color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,Inaugural Director of Institute of Data Science (IDS), the University of Hong Kong.   </font>  
+            <span>2025.02.15     </span>  
         </p> <br/>
     </a>
 </li> 
 <li>    
     <a href="https://datascience.hku.hk/" target="_blank" title="CGPWB">
        <p>Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS), 
-           <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!
-           </font>. 
-           <span>2025.02.15
-           </span> 
+           <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!  </font>. 
+           <span>2025.02.15 </span>    
        </p> <br/>
    </a>
 </li> 
