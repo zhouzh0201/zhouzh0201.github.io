@@ -128,9 +128,50 @@
                  </div>       
                </div>
              </div>
-         </div>     
+           </div>     
+
+           
      <div class="region"> Department of Electrical and Electronic Engineering</div>
-       
+     
+          <!--%%%%%%%%%-->
+     <div class="index-second">
+   
+           <div class="container">
+              <div class="index-notice">
+                 <div class="index-title  clearfix">
+                    <h3><img src="images/icon-notice.png">Applying for a PhD supervisor on Computer Vision </h3>
+                    
+                 </div>
+
+                 <div class="item">
+                    <ul class=" clearfix">
+                        <li class="active"><a href="xwdt/tzgg.htm">26fall admisstion supervisor</a></li>
+                        <li><a href="xwdt/tzgg/dz.htm">lab and stitute</a></li>
+                        <li><a href="xwdt/tzgg/xkjs.htm">research group</a></li>
+                        <li><a href="xwdt/tzgg/xkjs.htm">whu alumnus</a></li>
+                         <li><a href="xwdt/tzgg/xkjs.htm">26fall open positions</a></li>
+                    </ul>
+                 </div>
+                     
+                    <div class="cont">
+                     <div class="cont-box latest" style="display: block;">
+                        <a href="xwdt/tzgg.htm" target="_blank" class="more">more</a>
+
+                       <ul class="clearfix">
+<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>  
+
+                         </ul>
+
+                        
+                      </div>
+                    </div>       
+                </div>
+             </div>
+         </div>     
+
+
+
+                        
     </div> 
  </body>
 
