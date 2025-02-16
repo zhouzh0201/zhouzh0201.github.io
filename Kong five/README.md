@@ -152,7 +152,7 @@
    </a>
 </li> 
 <li>    
-    <a href=""https://www.eee.hku.hk/~elam/ " target="_blank" title="CGPWB">
+    <a href="https://www.eee.hku.hk/~elam/ " target="_blank" title="CGPWB">
      <p> Prof. E.Y.M. Lam,<font color="#ff0000">Positions Available </font>,Department of Electrical and Electronic Engineering,Imaging Systems Laboratory,<font color="#ff0000"> Graduate Student Openings </font>,We invite applications from Master and PhD candidates for the next academic year.<span>2025.02.15</span> </p> <br/>
    </a>
 </li>                        
