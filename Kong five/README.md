@@ -83,13 +83,13 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h3><img src="images/icon-notice.png">Applying for a PhD supervisor </h3>
+                    <h3><img src="images/icon-notice.png">Applying for a PhD supervisor on Artificial Intelligence </h3>
                     
                  </div>
 
                  <div class="item">
                     <ul class=" clearfix">
-                        <li class="active"><a href="xwdt/tzgg.htm">PhD supervisor</a></li>
+                        <li class="active"><a href="xwdt/tzgg.htm">Artificial Intelligence PhD supervisor</a></li>
                         <li><a href="xwdt/tzgg/dz.htm">lab&institute</a></li>
                         <li><a href="xwdt/tzgg/xkjs.htm">research group</a></li>
                         <li><a href="xwdt/tzgg/xkjs.htm">whu alumnus</a></li>
@@ -104,14 +104,13 @@
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
 <li>
     <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">
-        <p>.Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR. <font color="#ff0000">the director of AI Lab</font> ，<span>2025.01.17  </span></p> <br />
+        <p>Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR. <font> color="#ff0000">the director of AI Lab</font> ，<span>2025.01.17  </span></p> <br/>
     </a>
 </li>      
-<li>
-    <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB">
-        <p>Ma, Yi Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence, </p> <span>2025.01.15</span>
-    </a>
-</li>                    
+
+
+ 
+
 
 
                          </ul>
@@ -128,7 +127,11 @@
  </body>
 
 
-
+<!--li-->    
+    <a href="https://datascience.hku.hk/" target="_blank" title="CGPWB">
+     <p> HKU Musketeers Foundation Institute of Data Science (HKU-IDS), <font>color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>.<span>2025.01.15</span> </p> <br/>
+     </a>
+ <!--/li--> 
 
 
 
