@@ -108,7 +108,7 @@
     </a>
 </li>      
 <li>
-    <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/"> target="_blank" title="CGPWB">
+    <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB">
         <p>Ma, Yi Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,Professor </p> <span>2025.01.15</span>
     </a>
 </li>                    
