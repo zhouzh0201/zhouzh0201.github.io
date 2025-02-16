@@ -65,7 +65,7 @@
   .region{
     flex:1;
     height:500px;
-    bockground-color:#f0f0f0;
+    bockground-color:#00ffff;
     margin:10px;
     padding:20px;
     box-sizing:border-box;
