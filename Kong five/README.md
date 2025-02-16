@@ -83,18 +83,17 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h3><img src="images/icon-notice.png">通知<span>公告</span></h3>
+                    <h3><img src="images/icon-notice.png">Applying for a PhD<span>PhD supervisor</span></h3>
                     
                  </div>
 
                  <div class="item">
                     <ul class=" clearfix">
-                        <li class="active"><a href="xwdt/tzgg.htm">最新</a></li>
-                        <li><a href="xwdt/tzgg/dz.htm">党政</a></li>
-                        <li><a href="xwdt/tzgg/xkjs.htm">学科建设</a></li>
-                        <li><a href="xwdt/tzgg/bkjx.htm">本科教学</a></li>
-                        <li><a href="xwdt/tzgg/bkxg.htm">本科学工</a></li>
-                        <li><a href="xwdt/tzgg/yjspy.htm">研究生培养</a></li>
+                        <li class="active"><a href="xwdt/tzgg.htm">PhD supervisor</a></li>
+                        <li><a href="xwdt/tzgg/dz.htm">lab&institute</a></li>
+                        <li><a href="xwdt/tzgg/xkjs.htm">research groub</a></li>
+                        <li><a href="xwdt/tzgg/xkjs.htm">whu alumnus</a></li>
+                         <li><a href="xwdt/tzgg/xkjs.htm">other</a></li>
                     </ul>
                  </div>
 
