@@ -83,7 +83,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h3><img src="images/icon-notice.png">Applying for a PhD<span>PhD supervisor</span></h3>
+                    <h3><img src="images/icon-notice.png">Applying for a PhD supervisor </h3>
                     
                  </div>
 
@@ -101,12 +101,19 @@
                     <div class="cont-box latest" style="display: block;">
                         <a href="xwdt/tzgg.htm" target="_blank" class="more">more</a>
                         <ul class="clearfix">
-<li>
-    <a href="info/1055/50421.htm" target="_blank" title="CGPWB">
-        <p>PhD supervisor of Department of Computer Science</p> <span>2025.01.17</span>
-    </a>
-</li>                       
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
+<li>
+    <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">
+        <p>.Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR. <font color="#ff0000">the director of AI Lab</font> ，<span>2025.01.17  </span></p> <br />
+    </a>
+</li>      
+<li>
+    <a href="info/1055/50381.htm" target="_blank" title="CGPWB">
+        <p>2024-2025学年第二学期计算机学院助教招募通知</p> <span>2025.01.15</span>
+    </a>
+</li>                    
+
+
                          </ul>
 
                         
