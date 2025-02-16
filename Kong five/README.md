@@ -91,19 +91,19 @@
                     <ul class=" clearfix">
                         <li class="active"><a href="xwdt/tzgg.htm">PhD supervisor</a></li>
                         <li><a href="xwdt/tzgg/dz.htm">lab&institute</a></li>
-                        <li><a href="xwdt/tzgg/xkjs.htm">research groub</a></li>
+                        <li><a href="xwdt/tzgg/xkjs.htm">research group</a></li>
                         <li><a href="xwdt/tzgg/xkjs.htm">whu alumnus</a></li>
-                         <li><a href="xwdt/tzgg/xkjs.htm">other</a></li>
+                         <li><a href="xwdt/tzgg/xkjs.htm">26fall apply for admission</a></li>
                     </ul>
                  </div>
 
                  <div class="cont">
                     <div class="cont-box latest" style="display: block;">
-                        <a href="xwdt/tzgg.htm" target="_blank" class="more">查看更多</a>
+                        <a href="xwdt/tzgg.htm" target="_blank" class="more">more</a>
                         <ul class="clearfix">
 <li>
-    <a href="info/1055/50421.htm" target="_blank" title="武汉大学计算机学院">
-        <p>计算机学院2025年普通本科生转专业工作细则</p> <span>2025.01.17</span>
+    <a href="info/1055/50421.htm" target="_blank" title="CGPWB">
+        <p>PhD supervisor of Department of Computer Science</p> <span>2025.01.17</span>
     </a>
 </li>                       
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
