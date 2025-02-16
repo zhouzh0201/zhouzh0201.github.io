@@ -107,7 +107,11 @@
         <p>Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR. <font> color="#ff0000">the director of AI Lab</font> ，<span>2025.01.17  </span></p> <br/>
     </a>
 </li>      
-
+<li>
+    <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB">
+        <p>Ma, Yi  <font> color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,</font>  <span>2025.01.15</span>  </p> <br/>
+    </a>
+</li> 
 
  
 
