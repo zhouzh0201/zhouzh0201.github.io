@@ -130,7 +130,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                      <h3><img src="images/icon-notice.png">Applying for a PhD supervisor on Computer Vision </h    
+                      <h3><img src="images/icon-notice.png">Applying for a PhD supervisor on Computer Vision </h3>    
                  </div>
                  <div class="item">
                     <ul class=" clearfix">
