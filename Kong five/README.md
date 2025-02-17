@@ -74,7 +74,7 @@
 </style>
  <body>
    <div class="container">
-     <div class="region">**************HKU Department of Computer Science****************8</div>
+     <div class="region">**************HKU Department of Computer Science****************</div>
      <!--h2>The University of Hong Kong</h2-->
      <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
       <!--%%%%%%%%%-->
