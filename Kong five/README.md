@@ -140,7 +140,7 @@
                  <div class="index-title  clearfix">
                       <h5><img src="icon-new.png">Department of Electrical and Electronic Engineering </h5>  
   
-                 </div>”
+                 </div>
                  <div class="item">
                     <ul class=" clearfix">
                         <li class="active"><a href=" https://zhouzh0201.github.io/k1/ ">26fall admisstion supervisor</a></li>
