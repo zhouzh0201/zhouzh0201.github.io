@@ -88,7 +88,7 @@
                  </div>
                  <div class="item">
                     <ul class=" clearfix">
-                        <li class="active"><a href="k1">26fall admisstion supervisor</a></li>
+                        <li class="active"><a href="https://zhouzh0201.github.io/k1/">26fall admisstion supervisor</a></li>
                         <li><a href="k1">lab&institute</a></li>
                         <li><a href="k1">research group</a></li>                      
                         <li><a href="k1">26fall open positions</a></li>
