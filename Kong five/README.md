@@ -136,8 +136,8 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                      <h5><img src="min1.png">HKU  Department of Electrical and Electronic Engineering </h5>    
-                 </div>
+                      <h5><img src="images/icon-notice.png">HKU  Department of Electrical and Electronic Engineering </h5>    
+                 </div>”
                  <div class="item">
                     <ul class=" clearfix">
                         <li class="active"><a href="xwdt/tzgg.htm">26fall admisstion supervisor</a></li>
