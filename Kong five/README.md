@@ -73,7 +73,7 @@
   }
 </style>
  <body>
-   <div class="container">
+   <!--div class="container"-->
      <!--div class="region">HKU Department of Computer Science</div-->
      <!--h2>The University of Hong Kong</h2-->
      <!--div class="region">k2</div-->
@@ -83,7 +83,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h5><img src="..Kong five/icon-new.png"> HKU Department of Computer Science<span>公告</span> </h5>
+                    <h5><img src="Kong five/icon-new.png"> HKU Department of Computer Science<span>公告</span> </h5>
                     
                  </div>
 
@@ -91,17 +91,22 @@
                     <ul class=" clearfix">
                         <li class="active"><a href="xwdt/tzgg.htm">26fall admisstion supervisor</a></li>
                         <li><a href="xwdt/tzgg/dz.htm">lab&institute</a></li>
-                        <li><a href="xwdt/tzgg/xkjs.htm">research group</a></li>
-                        <li><a href="xwdt/tzgg/xkjs.htm">whu alumnus</a></li>
-                         <li><a href="xwdt/tzgg/xkjs.htm">26fall open positions</a></li>
+                        <li><a href="xwdt/tzgg/xkjs.htm">research group</a></li>                      
+                        <li><a href="xwdt/tzgg/xkjs.htm">26fall open positions</a></li>
                     </ul>
                  </div>
 
                  <div class="cont">
                     <div class="cont-box latest" style="display: block;">
                         <a href="xwdt/tzgg.htm" target="_blank" class="more">more</a>
+                        <div class="cont-tel">    <a href="info/1055/50421.htm" target="_blank" title="武汉大学计算机学院">
+        <h3>计算机学院2025年普通本科生转专业工作细则</h3>
+        <p>根据《普通高等学校学生管理规定》（中华人民共和国教育部令第41号）、《武汉大学普通本科生转专业管理办法（修订）》（武大本字〔2017〕50号）、《武汉大学全日制普通本科招生章程》《武汉大学高水平运动员学生学籍管理办法》（武大本字〔2022〕20号）、《关于做好2025年2024级普通本科生转学院工作的通知》（武大本函〔2024〕218号）、《关于做好2025年2023级普通本科生转专业工作的通知》（武大本函〔2024〕219号）的要求，为做好武汉大学普通本科生转学院、...</p>
+    </a>
+<script>_showDynClickBatch(['dynclicks_u7_50421'],[50421],"wbnews", 1852176512)</script>
+</div>
                         <ul class="clearfix">
-<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
+ 
 <li>
     <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">
         <p>Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR. <font color="#ff0000">the director of AI Lab</font> ，<span>2025.02.17  </span></p> <br/>
@@ -123,7 +128,10 @@
        </p> <br/>
    </a>
 </li> 
-                         </ul>   
+<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
+</ul>
+                          
+                         
                       </div>
                  </div>       
                </div>
