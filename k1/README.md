@@ -59,16 +59,16 @@
 25-26 fall looking for PhD supervisor:<br>
 <h2>The University of Hong Kong</h2>
  <br>
- <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,</br>
+ <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,<br>
  
  
- <a href=" https://engg.hku.hk/">Faculty of Engineering</a>,</br>
+ <a href=" https://engg.hku.hk/">Faculty of Engineering</a>,<br>
  
  
- <A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,</br>
+ <A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<br>
  
  
- <a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.</br>
+ <a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.<br>
  
       <font color="#ff0000">** AI, Robotics and Visual Computing groups:</font><br>
       
@@ -117,7 +117,7 @@ Yuqing Wang，Yao Teng，Chenming Zhu，Yunhan Yang，Meng Wei，Kaiyue Sun (HKU
 19.高斌 Prof. Ben KAO,,<br>
 20.<a href="https://difanzou.github.io/">邹迪凡 </a>.Research Interests:Machine Learning Theory; Deep Learning Theory; Decision Making; Stochastic Modeling; Learning Structured Data.<font color="#ff6ec7">Multiple openings for PhD, Postdoc, and RA.</font> Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email..<br>
 
- <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../tzgg.htm">frist page</a></span><span class="p_prev p_fun"><a href="../tzgg.htm">previous page</a></span><span class="p_no"><a href="../tzgg.htm">1</a></span><span class="p_no_d">2</span><span class="p_no"><a href="55.htm">3</a></span><span class="p_no"><a href="54.htm">4</a></span><span class="p_no"><a href="53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="1.htm">57</a></span><span class="p_next p_fun"><a href="55.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_48711','dynclicks_u6_48691','dynclicks_u6_48601','dynclicks_u6_48581','dynclicks_u6_48571','dynclicks_u6_48541','dynclicks_u6_48491','dynclicks_u6_48461','dynclicks_u6_48311','dynclicks_u6_48291','dynclicks_u6_48261','dynclicks_u6_48091','dynclicks_u6_47911','dynclicks_u6_47601','dynclicks_u6_47271'],[48711,48691,48601,48581,48571,48541,48491,48461,48311,48291,48261,48091,47911,47601,47271],"wbnews", 1852176512)</script></div>
+ <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../tzgg.htm">frist page</a></span><span class="p_prev p_fun"><a href="../tzgg.htm">previous page</a></span><span class="p_no"><a href="../tzgg.htm">1</a></span><span class="p_no_d">2</span><span class="p_no"><a href="55.htm">3</a></span><span class="p_no"><a href="54.htm">4</a></span><span class="p_no"><a href="53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="1.htm">57</a></span><span class="p_next p_fun"><a href="55.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_48711','dynclicks_u6_48691','dynclicks_u6_48601','dynclicks_u6_48581','dynclicks_u6_48571','dynclicks_u6_48541','dynclicks_u6_48491','dynclicks_u6_48461','dynclicks_u6_48311','dynclicks_u6_48291','dynclicks_u6_48261','dynclicks_u6_48091','dynclicks_u6_47911','dynclicks_u6_47601','dynclicks_u6_47271'],[48711,48691,48601,48581,48571,48541,48491,48461,48311,48291,48261,48091,47911,47601,47271],"wbnews", 1852176512)</script> 
      <!--/div-->                         
 
 
