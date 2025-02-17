@@ -74,7 +74,7 @@
 </style>
  <body>
    <div class="container">
-     <div class="region">HKU Department of Computer Science</div>
+     <div class="region">**************HKU Department of Computer Science****************8</div>
      <!--h2>The University of Hong Kong</h2-->
      <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
       <!--%%%%%%%%%-->
@@ -83,7 +83,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h5><img src="Kong five/icon-new.png"> HKU Department of Computer Science  </h5>
+                    <h5><img src="icon-new.png"> HKU Department of Computer Science  </h5>
                     
                  </div>
 
@@ -134,12 +134,12 @@
            </div>     
 
               <!--%%%%%%%%%-->
-     <div class="region">HKU  Department of Electrical and Electronic Engineering</div>
+     <div class="region">***************HKU  Department of Electrical and Electronic Engineering*****************</div>
         <div class="index-second">
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                      <h5><img src="xiaoxong2.png">HKU  Department of Electrical and Electronic Engineering </h5>    
+                      <h5><img src="icon-new.png">HKU  Department of Electrical and Electronic Engineering </h5>    
                  </div>”
                  <div class="item">
                     <ul class=" clearfix">
