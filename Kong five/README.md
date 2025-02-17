@@ -86,7 +86,6 @@
                     <h5><img src="icon-new.png"> HKU Department of Computer Science  </h5>
                     
                  </div>
-
                  <div class="item">
                     <ul class=" clearfix">
                         <li class="active"><a href="k1">26fall admisstion supervisor</a></li>
