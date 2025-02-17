@@ -58,17 +58,17 @@
 <h2>Applying for a PhD</h2>
 25-26 fall looking for PhD supervisor:<br>
 <h2>The University of Hong Kong</h2>
- A:<br>
- <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,<br>
+ <br>
+ <A HREF="http://www.hku.hk/">The University of Hong Kong</A>,</br>
  
  
- <a href=" https://engg.hku.hk/">Faculty of Engineering</a>,<br>
+ <a href=" https://engg.hku.hk/">Faculty of Engineering</a>,</br>
  
  
- <A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<br>
+ <A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,</br>
  
  
- <a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.<br>
+ <a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.</br>
  
       <font color="#ff0000">** AI, Robotics and Visual Computing groups:</font><br>
       
