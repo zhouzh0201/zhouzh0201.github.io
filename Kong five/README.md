@@ -138,7 +138,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                      <h5><img src="icon-new.png">HKU  Department of Electrical and Electronic Engineering </h5>    
+                      <h5><img src="icon-new.png">Department of Electrical and Electronic Engineering </h5>    
                  </div>”
                  <div class="item">
                     <ul class=" clearfix">
