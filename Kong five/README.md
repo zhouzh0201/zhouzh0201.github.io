@@ -143,7 +143,7 @@
                  </div>”
                  <div class="item">
                     <ul class=" clearfix">
-                        <li class="active"><a href="k1m">26fall admisstion supervisor</a></li>
+                        <li class="active"><a href="k1">26fall admisstion supervisor</a></li>
                         <li><a href="k1">Robotics </a></li>
                         <li><a href="k1">Embodied AI</a></li>                     
                          <li><a href="k1">26fall open positions</a></li>
