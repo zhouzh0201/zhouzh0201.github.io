@@ -196,7 +196,9 @@
 
 
      <div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div>
-     
+      <div class="region"> <h3>The Chinese  University of Hong  Kong   </h3></div>
+       <div class="region"> <h3>The Hong Kong University of Science and Technology </h3></div>
+        <div class="region"> <h3>The City Universityof  Hong Kong </h3></div>
     </div> 
  </body>
 
