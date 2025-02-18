@@ -102,11 +102,11 @@
    
 13. <a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a>, Department of Electrical and Electronic Engineering,Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction. <a href="https://yanchaoyang.github.io/">杨燕超 </a> Ph.D. students, postdocs and interns!<font color="#ff6ec7">We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</font><br>
 14. <a href="https://datascience.hku.hk/people/yi-ma/">马毅 </a>, Prof. Yi MA, Research Interests:Computer vision, high-dimensional data analysis, and intelligent systems. <br>
-15. 张庆鹏Prof. Qingpeng ZHANG,,Department of Pharmacology and Pharmacy, HKU,<br> 
+15. <a href="https://i.cs.hku.hk/~heming/">崔和明</a> ,<font color="#ff6ec7">I admit several PhD students every year.support student Research Assistants (RAs) and summer research interns for students ,</font><br>
 16. 刘锡辉Prof. Xihui LIU,,Department of Electrical and Electronic Engineering,Ph.D. students
 Yuqing Wang，Yao Teng，Chenming Zhu，Yunhan Yang，Meng Wei，Kaiyue Sun (HKU-PS)，Kaiyi Huang (HKU-PS)Jintao Lin (HKPFS)，MPhil students，Zhiyuan Chen，<br>
-17. 梁英宇 Prof. Yanchao YANG,,Department of Computer Science.Research Interests:Machine learning; Optimization and generalization in deep learning; Robust machine learning, and their applications.。<br>
-18. 黄超Prof. Chao HUANG,,Research Interests:Data Mining, Machine Learning, Deep Neural Networks,RPg Students: Mr. Yuhao Yang (PhD),Ms. Wei Wei (PhD). <br>
+17.<a href=" https://www.cs.hku.hk/index.php/people/academic-staff/yingyul">梁英宇 </a>,Prof. Yanchao YANG,,Department of Computer Science.Research Interests:Machine learning; Optimization and generalization in deep learning; Robust machine learning, and their applications.。<br>
+18. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/chuang">黄超</a>,Prof. Chao HUANG,,Research Interests:Data Mining, Machine Learning, Deep Neural Networks,RPg Students: Mr. Yuhao Yang (PhD),Ms. Wei Wei (PhD).  <a href="https://sites.google.com/view/chaoh">黄超</a>,<br>
 19. 高斌 Prof. Ben KAO,,<br>
 20.<a href="https://difanzou.github.io/">邹迪凡 </a>.Research Interests:Machine Learning Theory; Deep Learning Theory; Decision Making; Stochastic Modeling; Learning Structured Data.<font color="#ff6ec7">Multiple openings for PhD, Postdoc, and RA.</font> Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email..<br>
 
