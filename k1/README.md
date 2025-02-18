@@ -58,7 +58,7 @@
   <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4><br>
   <A HREF="http://www.hku.hk/">k1 The University of Hong Kong</A>,<br>
   k1-1 frist page <br>
-  Admission for 2025-26,<a href="https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission /"> the official website  </a>Department of Computer Science for Ph.D and MPhil student recruitment. Dradline :Path:Home/Teaching & Learning/MPhil-PhD/Admission.<br>
+  Admission for 2025-26,<a href="https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission /"> the official website  </a>Department of Computer Science for Ph.D and MPhil student recruitment. Deadline ,Path:Home/Teaching & Learning/MPhil-PhD/Admission.<br>
   
  <a href=" https://engg.hku.hk/">Faculty of Engineering</a>,<br>
  <A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<br> 
