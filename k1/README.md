@@ -101,7 +101,7 @@
 12. <a href="https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<font color="#ff0000">PhD Students:21, supervisor:</font> <br>
    
 13. <a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a>, Department of Electrical and Electronic Engineering,Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction. <a href="https://yanchaoyang.github.io/">杨燕超 </a> Ph.D. students, postdocs and interns!<font color="#ff6ec7">We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</font><br>
-14. <a href=" https://taoyds.github.io/">余涛 </a>, Tao Yu, <font color="#ff6ec7" We are actively looking for strong and motivated students to join our group</font> <br>
+14. <a href=" https://taoyds.github.io/">余涛 </a>, Tao Yu, <font color="#ff6ec7"> We are actively looking for strong and motivated students to join our group</font> <br>
 15. <a href="https://i.cs.hku.hk/~heming/">崔和明</a> ,<font color="#ff6ec7">I admit several PhD students every year.support student Research Assistants (RAs) and summer research interns for students ,</font><br>
 16. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/lpk/"> 孔令鹏</a> , <a href="https://ikekonglp.github.io//"> HKU NLP Group </a>,<font color="#ff6ec7">Welcome the arrival of new students</font>. <br>
 17.<a href=" https://www.cs.hku.hk/index.php/people/academic-staff/yingyul">梁英宇 </a>,Prof. Yanchao YANG,,Department of Computer Science.Research Interests:Machine learning; Optimization and generalization in deep learning; Robust machine learning, and their applications.。<br>
