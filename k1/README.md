@@ -142,11 +142,10 @@ B:<br>
   <a href="https://www.cs.hku.hk/">Department of Computer Science</a><br>
 25. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/chenho/">陈浩</a>,Prof. Chen, Ho,<a href="https://sec.hku.hk/">JC STEM Lab of Intelligent Cybersecurity </a>, <font color="#ff0000">join we lab</font>,We are recruiting researchers, postdoctoral scholars, graduate students, and interns who are passionate about exploring the frontier of cybersecurity and machine learning,.<a href="https://haochen.org/">陈浩</a><font color="#ff0000">I am recruiting graduate students</font><br>
 
-26.<a href=" https://www.reynold.hku.hk/">郑振剛 </a>,Professor Reynold Cheng of Department of Computer Science,<font color="#ff0000"> Our lab has a few openings for Postdocs and Ph.D this year. </font>,<a href="https://star.hku.hk/index.html/"> Our lab </a> Team Members. Here is <a href="https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission /"> the official website  </a> for Ph.D and MPhil student recruitment.
-   
- <h2>k2</h2>https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission
+26.<a href=" https://www.reynold.hku.hk/">郑振剛 </a>,Professor Reynold Cheng of Department of Computer Science,<font color="#ff0000"> Our lab has a few openings for Postdocs and Ph.D this year. </font>,<a href="https://star.hku.hk/index.html/"> Our lab </a> Team Members. Here is <a href="https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission /"> the official website  </a> for Ph.D and MPhil student recruitment.<br>
 
-
+27. <a href=" https://khchow.com/">周嘉豪</a>,（Ka-Ho Chow）Assistant Professor,Department of Computer Science,<font color="#ff0000">Recruitment: I have several openings for Ph.D. students</font>, We are now accepting applications for our summer internship programme. <a href="https://www.cds.hku.hk/rintern/index.html/">Details can be found here</a>,<br>
+ 
 
 
 
