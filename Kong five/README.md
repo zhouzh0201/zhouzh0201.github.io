@@ -151,7 +151,7 @@
                  </div>
                     <div class="cont">
                      <div class="cont-box latest" style="display: block;">
-                        <a href="xwdt/tzgg.htm" target="_blank" class="more">more</a>
+                        <a href="https://zhouzh0201.github.io/k1/" class="more">more</a>
                        <ul class="clearfix">
 
 <li>    
