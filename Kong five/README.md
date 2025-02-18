@@ -75,7 +75,7 @@
  <body>
    <div class="container">
      <div class="region"> <h3>The University of Hong Kong</h3></div>
-      <div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div>
+      <!--div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div-->
      <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
       <!--%%%%%%%%%-->
      <div class="index-three">
@@ -196,8 +196,13 @@
                       </div>
                     </div>       
                 </div>
-             </div>
-         </div>                         
+             </div>              
+         </div> 
+
+
+
+     <div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div>
+     
     </div> 
  </body>
 
