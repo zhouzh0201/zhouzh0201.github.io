@@ -113,7 +113,7 @@
  <h5>k1-3 third page</h5><br>
       
 21. <a href="https://www.wireless.hku.hk/">黄凯斌 </a>,Prof. Kaibin HUANG ,Department of Electrical and Electronic Engineering .<font color="#ff6ec7">Open Positions</font>.Multiple positions for Ph.D. students  <a href="https://www.wireless.hku.hk/_files/ugd/4431b8_3800a8ea9c30491ea1de1e04471db8f4.pdf "> [Details]</a>.<br> 
-22. <a href=" https://datascience.hku.hk/people/ping-luo/">罗平</a>, <font color="#ff0000">We’re actively recrui Joint Laboratory</font>,Research Interests:Computer Vision, Machine Learning, Deep Learning .<font color="#ff0000">PhD Candidates</font>:30 <a  href="http://luoping.me/">Click here</a>. <br>
+22. <a href=" https://datascience.hku.hk/people/ping-luo/">罗平</a>, <font color="#ff0000">We are actively recrui Joint Laboratory</font>,Research Interests:Computer Vision, Machine Learning, Deep Learning .<font color="#ff0000">PhD Candidates</font>:30 people <a  href="http://luoping.me/">Click here</a>. <br>
    
 23. HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision,  Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision & Language Models .<br>
      
