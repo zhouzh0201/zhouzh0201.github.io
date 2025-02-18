@@ -87,14 +87,6 @@
      <a href="tzgg/53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="tzgg/1.htm">57</a></span><span class="p_next p_fun"><a href="tzgg/56.htm">next page</a></span><span class="p_last p_fun"><a href="tzgg/1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_50421','dynclicks_u6_50381','dynclicks_u6_50361','dynclicks_u6_50201','dynclicks_u6_50261','dynclicks_u6_50171','dynclicks_u6_49971','dynclicks_u6_49911','dynclicks_u6_49701','dynclicks_u6_49551','dynclicks_u6_48901','dynclicks_u6_48871','dynclicks_u6_48831','dynclicks_u6_48801','dynclicks_u6_48771'],[50421,50381,50361,50201,50261,50171,49971,49911,49701,49551,48901,48871,48831,48801,48771],"wbnews", 1852176512)</script>
      <!--/div-->                         
 
-
-
-
-
-
-
-
-
   <h5>k1-2 second page </h5><br>
 11. <a href="https://i.cs.hku.hk/~hszhao/">赵恒双</a>,Professor Zhao, Hengshuang,<font color="#ff0000">Prospective students:</font>. I am looking for self-motivated Ph.D. students, postdoctoral reseachers, research assistants, and visiting scholars,<br>
    
@@ -106,7 +98,7 @@
 16. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/lpk/"> 孔令鹏</a> , <a href="https://ikekonglp.github.io//"> HKU NLP Group </a>,<font color="#ff6ec7">Welcome the arrival of new students</font>. <br>
 17.<a href=" https://www.cs.hku.hk/index.php/people/academic-staff/yingyul">梁英宇 </a>,Prof. Yanchao YANG,,Department of Computer Science.Research Interests:Machine learning; Optimization and generalization in deep learning; Robust machine learning, and their applications.。<br>
 18. <a href=" https://datascience.hku.hk/people/chao-huang/">黄超</a>,Prof. Chao HUANG,,Research Interests:Data Mining, Machine Learning, Deep Neural Networks,RPg Students: Mr. Yuhao Yang (PhD),Ms. Wei Wei (PhD).  <a href="https://sites.google.com/view/chaoh">黄超</a>, <br>
-19. 高斌 Prof. Ben KAO,,<br>
+19. <a href="https://i.cs.hku.hk/~cqian/">钱晨雄</a><font color="#ff6ec7">I am looking for highly-motivated PhD students Prospective Students</font><br>
 20.<a href="https://difanzou.github.io/">邹迪凡 </a>.Research Interests:Machine Learning Theory; Deep Learning Theory; Decision Making; Stochastic Modeling; Learning Structured Data.<font color="#ff6ec7">Multiple openings for PhD, Postdoc, and RA.</font> Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email..<br>
 
  <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../tzgg.htm">frist page</a></span><span class="p_prev p_fun"><a href="../tzgg.htm">previous page</a></span><span class="p_no"><a href="../tzgg.htm">1</a></span><span class="p_no_d">2</span><span class="p_no"><a href="55.htm">3</a></span><span class="p_no"><a href="54.htm">4</a></span><span class="p_no"><a href="53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="1.htm">57</a></span><span class="p_next p_fun"><a href="55.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_48711','dynclicks_u6_48691','dynclicks_u6_48601','dynclicks_u6_48581','dynclicks_u6_48571','dynclicks_u6_48541','dynclicks_u6_48491','dynclicks_u6_48461','dynclicks_u6_48311','dynclicks_u6_48291','dynclicks_u6_48261','dynclicks_u6_48091','dynclicks_u6_47911','dynclicks_u6_47601','dynclicks_u6_47271'],[48711,48691,48601,48581,48571,48541,48491,48461,48311,48291,48261,48091,47911,47601,47271],"wbnews", 1852176512)</script> 
