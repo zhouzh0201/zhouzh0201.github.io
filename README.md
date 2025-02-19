@@ -221,7 +221,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 				 							
 				
 				<div class="swiper-slide" style="width:280px">
-					<p><a href="http://www.whu.edu.cn" class="h5" title="" target="_blank">Wuhan University</a></p>
+					<p><a href="https://gs.whu.edu.cn " class="h5" title="" target="_blank">graduate school of Wuhan University</a></p>
 				</div>
 				
 				<div class="swiper-slide" style="width:280px">
@@ -233,7 +233,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 				</div>
 				
 				<div class="swiper-slide" style="width:280px">
-					<p><a href="https://rsb.whu.edu.cn/" class="h3" title="人事部" target="_blank">人事部</a></p>
+					<p><a href="https://www.cs.hku.hk " class="h5" title="  Department of Computer Science  " target="_blank"> HKU Department of Computer Science </a></p>
 				</div>
 				
 				<div class="swiper-slide" style="width:280px">
@@ -241,7 +241,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 				</div>
 				
 				<div class="swiper-slide" style="width:280px">
-					<p><a href="http://gh.whu.edu.cn/" class="h3" title="工会" target="_blank">工会</a></p>
+					<p><a href="https://www.cuhk.edu.hk/english " class="h5" title="cuhk " target="_blank">cuhk</a></p>
 				</div>
 				
 			</div>
