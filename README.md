@@ -222,12 +222,12 @@
 		<!--div class="swiper-slide" style="width:50px"></div-->	
 		<a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a> <br> 			
 		<!--div class="swiper-slide" style="width:50px"></div-->
-		<a href="https://www.cs.hku.hk " class="h5" title="  Department of Computer Science" target="_blank"> HKU Department of Computer Science </a> <br> 				
+		<a href="https://www.cs.hku.hk"> HKU Department of Computer Science </a> <br> 				
 		<!--div class="swiper-slide" style="width:50px">
 		<a href="https://finance.whu.edu.cn/" class="h" title="888" target="_blank">888</a> <br> 
 		</div-->				
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		<a href="https://www.cuhk.edu.hk/english "class="h5" title="cuhk" target="_blank">cuhk</a><br> 
+		<a href="https://www.cuhk.edu.hk/english">cuhk</a><br> 
 					
 	      </div>
 <!-- 如果需要导航按钮 -->
