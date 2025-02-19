@@ -225,7 +225,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 				</div>
 				
 				<div class="swiper-slide" style="width:280px">
-					<p><a href=" (https://www.csc.edu.cn/" class="h3" title="CSC" target="_blank">CSC</a></p>
+					<p><a href=" https://www.csc.edu.cn" class="h3" title="CSC" target="_blank">CSC</a></p>
 				</div>
 				
 				<div class="swiper-slide" style="width:280px">
