@@ -196,9 +196,8 @@
 <p>
 <h3>About Me</h3>   
 <p/> 
-zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
   </div>
- 
+ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
  <div class="profile-content pull-center" align="center">  
 <p>
 	 <h3> CV</h3>
