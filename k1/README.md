@@ -129,10 +129,11 @@ B:<br>
 
 29.<a href="https://i.cs.hku.hk/~cwu/">吴川 </a>,Professor Wu, Chuan,<font color="#ff0000"> I am looking for self-organized, well-motivated PhD students, postdoc researchers and RAs (anytime) to work on a variety of topics in distributed machine learning algorithms and systems,</font> and NLP for cognitive stimulation and psychotherapy. Candidates with solid background and/or strong interest in mathematical modeling and analysis, and candidates with solid programming skills and/or strong interest in building systems are both very welcome. Please contact me by email with your CV (please include your GPA and rank). <br>
 
-30.<a href="https://yangyx09.github.io/">杨玉翔</a>, My research interests  :Quantum Metrology,Quantum Information.<font color="#ff0000">Openings</font>:I am looking for motivated PhD students.
+30.<a href="https://yangyx09.github.io/">杨玉翔</a>, My research interests  :Quantum Metrology,Quantum Information.<font color="#ff0000">Openings</font>:I am looking for motivated PhD students.<br>
 
-
+<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../dz.htm">frist page</a></span><span class="p_prev p_fun"><a href="4.htm">previous page</a></span><span class="p_no"><a href="../dz.htm">1</a></span><span class="p_no"><a href="4.htm">2</a></span><span class="p_no_d">3</span><span class="p_no"><a href="2.htm">4</a></span><span class="p_no"><a href="1.htm">5</a></span><span class="p_next p_fun"><a href="2.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_37961','dynclicks_u6_37941','dynclicks_u6_37191','dynclicks_u6_36741','dynclicks_u6_36201','dynclicks_u6_35881','dynclicks_u6_39851','dynclicks_u6_35101','dynclicks_u6_35831','dynclicks_u6_4602','dynclicks_u6_4565','dynclicks_u6_4563','dynclicks_u6_4102','dynclicks_u6_4089','dynclicks_u6_4087'],[37961,37941,37191,36741,36201,35881,39851,35101,35831,4602,4565,4563,4102,4089,4087],"wbnews", 1852176512)</script></div>
  
+ <h5>k1-4 fourth page</h5><br>
  
 
 
