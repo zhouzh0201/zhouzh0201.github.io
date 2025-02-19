@@ -78,7 +78,6 @@
 10. <a href="https://www.cs.hku.hk/people/academic-staff/dongxu">徐东</a>,<br>
 
 
-
  <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
    <span class="p_no_d">1</span>
    <span class="p_no">   <a href="tzgg/56.htm">2</a></span><span class="p_no">
@@ -89,9 +88,7 @@
 
   <h5>k1-2 second page </h5><br>
 11. <a href="https://i.cs.hku.hk/~hszhao/">赵恒双</a>,Professor Zhao, Hengshuang,<font color="#ff0000">Prospective students:</font>. I am looking for self-motivated Ph.D. students, postdoctoral reseachers, research assistants, and visiting scholars,<br>
-   
-12. <a href="https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<font color="#ff0000">PhD Students:21, supervisor:</font> <br>
-   
+12. <a href="https://datascience.hku.hk/"> HKU Musketeers Foundation Institute of Data Science (HKU-IDS)</a>,<font color="#ff0000">PhD Students:21, supervisor:</font> <br>  
 13. <a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a>, Department of Electrical and Electronic Engineering,Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction. <a href="https://yanchaoyang.github.io/">杨燕超 </a> Ph.D. students, postdocs and interns!<font color="#ff6ec7">We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</font><br>
 14. <a href=" https://taoyds.github.io/">余涛 </a>, Tao Yu, <font color="#ff6ec7"> We are actively looking for strong and motivated students to join our group</font> <br>
 15. <a href="https://i.cs.hku.hk/~heming/">崔和明</a> ,<font color="#ff6ec7">I admit several PhD students every year.support student Research Assistants (RAs) and summer research interns for students ,</font><br>
@@ -104,28 +101,18 @@
  <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../tzgg.htm">frist page</a></span><span class="p_prev p_fun"><a href="../tzgg.htm">previous page</a></span><span class="p_no"><a href="../tzgg.htm">1</a></span><span class="p_no_d">2</span><span class="p_no"><a href="55.htm">3</a></span><span class="p_no"><a href="54.htm">4</a></span><span class="p_no"><a href="53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="1.htm">57</a></span><span class="p_next p_fun"><a href="55.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_48711','dynclicks_u6_48691','dynclicks_u6_48601','dynclicks_u6_48581','dynclicks_u6_48571','dynclicks_u6_48541','dynclicks_u6_48491','dynclicks_u6_48461','dynclicks_u6_48311','dynclicks_u6_48291','dynclicks_u6_48261','dynclicks_u6_48091','dynclicks_u6_47911','dynclicks_u6_47601','dynclicks_u6_47271'],[48711,48691,48601,48581,48571,48541,48491,48461,48311,48291,48261,48091,47911,47601,47271],"wbnews", 1852176512)</script> 
      <!--/div-->                         
 
-
-
-
-
-
-
  <h5>k1-3 third page</h5><br>
       
 21. <a href="https://www.wireless.hku.hk/">黄凯斌 </a>,Prof. Kaibin HUANG ,Department of Electrical and Electronic Engineering .<font color="#ff6ec7">Open Positions</font>.Multiple positions for Ph.D. students  <a href="https://www.wireless.hku.hk/_files/ugd/4431b8_3800a8ea9c30491ea1de1e04471db8f4.pdf "> [Details]</a>.<br> 
-22. <a href=" https://datascience.hku.hk/people/ping-luo/">罗平</a>, <font color="#ff0000">We are actively recrui Joint Laboratory</font>,Research Interests:Computer Vision, Machine Learning, Deep Learning .<font color="#ff0000">PhD Candidates</font>:30 people <a  href="http://luoping.me/">Click here</a>. <br>
-   
-23. HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision,  Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision & Language Models .<br>
-     
+22. <a href=" https://datascience.hku.hk/people/ping-luo/">罗平</a>, <font color="#ff0000">We are actively recrui Joint Laboratory</font>,Research Interests:Computer Vision, Machine Learning, Deep Learning .<font color="#ff0000">PhD Candidates</font>:30 people <a  href="http://luoping.me/">Click here</a>. <br> 
+23. HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision,  Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision & Language Models .<br>     
 24. <a href="https://www.dvlab.ai/">Deep Vision Lab （DVLab)</a>,<font color="#ff0000">The Deep Vision Lab (DVLab)</font> is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<br>
-
    
 </p>
 **Cyber Security, FinTech and Blockchain
 **Foundations of Computer Science
 **Data Science and Engineering
 **Systems and Networking
-
 
 <br>
 B:<br>
@@ -137,7 +124,7 @@ B:<br>
 
 27. <a href=" https://khchow.com/">周嘉豪</a>,（Ka-Ho Chow）Assistant Professor,Department of Computer Science,<font color="#ff0000">Recruitment: I have several openings for Ph.D. students</font>, We are now accepting applications for our summer internship programme. <a href="https://www.cds.hku.hk/rintern/index.html">Details can be found here</a>,<br>
  
-
+28. <a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a> .<a href="https://www.cswu.me/">Chenshu Wu</a>,<a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab</a>,<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems</font>, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:<a href="https://aiot.hku.hk/openings/"><i class="fa fa-hand-point-right"></i> Prospective Students</a>.
 
 
 
