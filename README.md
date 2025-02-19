@@ -191,7 +191,7 @@
  <div class="profile-content pull-left" align="left">  
 <p>
 <h3>About Me</h3>  
- zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
+   Currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 </p> 
   </div>
  <div class="profile-content pull-center" align="center">  
@@ -214,7 +214,7 @@
   	 <div class="xhe">
   	  <div class="swiper">
   	    <div class="swiper-wrapper">   
-                   <h5>friendly link</h5>				 					
+                   <font color="#ff0000">friendly link</font>				 					
 		<!--div class="swiper-slide" style="width:50px"> </div-->
 		  <a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> <br>                 	
 		<!--div class="swiper-slide" style="width:50px"></div-->	
