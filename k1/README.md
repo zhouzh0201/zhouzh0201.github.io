@@ -124,7 +124,7 @@ B:<br>
 
 27. <a href=" https://khchow.com/">周嘉豪</a>,（Ka-Ho Chow）Assistant Professor,Department of Computer Science,<font color="#ff0000">Recruitment: I have several openings for Ph.D. students</font>, We are now accepting applications for our summer internship programme. <a href="https://www.cds.hku.hk/rintern/index.html">Details can be found here</a>,<br>
  
-28. <a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a> .<a href="https://www.cswu.me/">Chenshu Wu</a>,<a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab</a>,<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems</font>, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:<a href="https://aiot.hku.hk/openings/"><i class="fa fa-hand-point-right"></i> Prospective Students</a>.
+28. <a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a> .<a href="https://www.cswu.me/">Chenshu Wu</a>,<a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab</a>,<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:<a href="https://aiot.hku.hk/openings/"><i class="fa fa-hand-point-right"></i> Prospective Students</a></font>.
 
 
 
