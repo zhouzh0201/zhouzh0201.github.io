@@ -216,21 +216,16 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
   	<div class="xhe">
   		<div class="swiper">
   			<div class="swiper-wrapper">
+     
+                               <h3>link<h3>
+				 							
 				
 				<div class="swiper-slide" style="width:280px">
-					<p><a href=" https://www.whu.edu.cn/" class="" title=" " target="_blank">Wuhan University</a></p>
+					<p><a href="http://www.whu.edu.cn" class="" title="" target="_blank">Wuhan University</a></p>
 				</div>
 				
 				<div class="swiper-slide" style="width:280px">
-					<p><a href="https://uc.whu.edu.cn/" class="h3" title="本科生院" target="_blank">本科生院</a></p>
-				</div>
-				
-				<div class="swiper-slide" style="width:280px">
-					<p><a href="http://www.whu.edu.cn" class="h3" title="武汉大学" target="_blank">武汉大学</a></p>
-				</div>
-				
-				<div class="swiper-slide" style="width:280px">
-					<p><a href="https://gs.whu.edu.cn/" class="h3" title="研究生院" target="_blank">研究生院</a></p>
+					<p><a href=" (https://www.csc.edu.cn/" class="h3" title="CSC" target="_blank">CSC</a></p>
 				</div>
 				
 				<div class="swiper-slide" style="width:280px">
