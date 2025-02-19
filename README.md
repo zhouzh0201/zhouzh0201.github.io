@@ -216,10 +216,10 @@
   	    <div class="swiper-wrapper">   
                    <h5>friendly link</h5>				 					
 		<!--div class="swiper-slide" style="width:50px"> </div-->
-		  <p><a href="https://gs.whu.edu.cn " class="h5" title="" target="_blank">graduate school of Wuhan University</a></p>
+		  <p><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a></p>
                			
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		  <p><a href=" https://www.csc.edu.cn" class="h5" title="CSC" target="_blank">CSC</a></p>
+		  <p><a href=" https://www.csc.edu.cn">CSC</a></p>
 					
 		<!--div class="swiper-slide" style="width:50px"></div-->	
 			<p><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a></p>
