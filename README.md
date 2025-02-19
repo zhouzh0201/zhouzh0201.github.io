@@ -172,7 +172,7 @@
    </div>
      <!--td width="500"-->
       
-<div>
+ 
          <br>
           ResearchGate:  <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
         
@@ -198,16 +198,16 @@
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 <p/> 
   </div>
-<hr noshade="">
+ 
  <div class="profile-content pull-center" align="center">  
 <h3> CV</h3>
 </div>   
-</body>
+ 
  <!--/div--> 
 
  <hr noshade="">
  <body>
-   <div class="profile-content pull-left" align="left"
+   <div class="profile-content   pull-left" align="left"
      <!-- 背部遮罩块 -->
 		<div class="t_zz"></div>
 
