@@ -176,13 +176,13 @@
           JSZYWHU:<a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:-2px"></a>
            
            <br>
-           WeChat:            <a href="https://WeChat.png"><img src="wexin1.png" height="20px" style="margin-bottom:+5px"></a>
+           WeChat:  <a href="https://WeChat.png"><img src="wexin1.png" height="20px" style="margin-bottom:+5px"></a>
             
            <br>
-           ORCID:    <a href="https://orcid.org/0009-0006-0788-1842"> <img src="iD.png" height="30px" style="margin-bottom:+5px"><a/>
+           ORCID:  <a href="https://orcid.org/0009-0006-0788-1842"> <img src="iD.png" height="30px" style="margin-bottom:+5px"><a/>
            
            <br>
-           Github:       <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a>  
+           Github:  <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a>  
           
           <br>
   <!--/div-->
@@ -216,23 +216,18 @@
   	    <div class="swiper-wrapper">   
                    <h5>friendly link</h5>				 					
 		<!--div class="swiper-slide" style="width:50px"> </div-->
-		  <p><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a></p>
-               			
+		  <a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> <br>                 	
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		  <p><a href=" https://www.csc.edu.cn">CSC</a></p>
-					
+		 <a href=" https://www.csc.edu.cn">CSC</a> <br>  		
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-			<p><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a></p>
-					
+		<a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a> <br> 			
 		<!--div class="swiper-slide" style="width:50px"></div-->
-			<p><a href="https://www.cs.hku.hk " class="h5" title="  Department of Computer Science  " target="_blank"> HKU Department of Computer Science </a></p>
-		
-				
+		<a href="https://www.cs.hku.hk " class="h5" title="  Department of Computer Science" target="_blank"> HKU Department of Computer Science </a> <br> 				
 		<!--div class="swiper-slide" style="width:50px">
-			<p><a href="https://finance.whu.edu.cn/" class="h" title="888" target="_blank">888</a></p>
+		<a href="https://finance.whu.edu.cn/" class="h" title="888" target="_blank">888</a> <br> 
 		</div-->				
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-			<p><a href="https://www.cuhk.edu.hk/english " class="h5" title="cuhk " target="_blank">cuhk</a></p>
+		<a href="https://www.cuhk.edu.hk/english "class="h5" title="cuhk" target="_blank">cuhk</a><br> 
 					
 	      </div>
 <!-- 如果需要导航按钮 -->
