@@ -197,16 +197,17 @@
 <h3>About Me</h3>   
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 <p/> 
-      
+  
 <hr noshade="">
 
 <h3> CV</h3>
+</div>   
 </body>
  <!--/div--> 
 
  <hr noshade="">
  <body>
-   <div class="profile-content pull-center" align="">
+   <!--div class="profile-content pull-center" align=""--
      <!-- 背部遮罩块 -->
 		<div class="t_zz"></div>
 
