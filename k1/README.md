@@ -124,13 +124,15 @@ B:<br>
 
 27. <a href=" https://khchow.com/">周嘉豪</a>,（Ka-Ho Chow）Assistant Professor,Department of Computer Science,<font color="#ff0000">Recruitment: I have several openings for Ph.D. students</font>, We are now accepting applications for our summer internship programme. <a href="https://www.cds.hku.hk/rintern/index.html">Details can be found here</a>,<br>
  
-28. <a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a> .<a href="https://www.cswu.me/">Chenshu Wu</a>,<a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab</a>,<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:<a href="https://aiot.hku.hk/openings/"><i class="fa fa-hand-point-right"></i> Prospective Students</a></font>.
+28. <a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a> . <a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab</a>,<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:<a href="https://aiot.hku.hk/openings/"><i class="fa fa-hand-point-right"></i> Prospective Students</a></font>.<br>
 <!--span class='text_block highlight'>I am actively looking for highly self-motivated PhD students to work on AIoT systems, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here: <a href='https://aiot.hku.hk/openings/'><i class="fa fa-hand-point-right"></i>Prospective Students</a> </span-->
 
-29.<a href="https://i.cs.hku.hk/~cwu/">吴川 </a>,Professor Wu, Chuan,<font color="#ff0000"> I am looking for self-organized, well-motivated PhD students, postdoc researchers and RAs (anytime) to work on a variety of topics in distributed machine learning algorithms and systems,</font> and NLP for cognitive stimulation and psychotherapy. Candidates with solid background and/or strong interest in mathematical modeling and analysis, and candidates with solid programming skills and/or strong interest in building systems are both very welcome. Please contact me by email with your CV (please include your GPA and rank). 
+29.<a href="https://i.cs.hku.hk/~cwu/">吴川 </a>,Professor Wu, Chuan,<font color="#ff0000"> I am looking for self-organized, well-motivated PhD students, postdoc researchers and RAs (anytime) to work on a variety of topics in distributed machine learning algorithms and systems,</font> and NLP for cognitive stimulation and psychotherapy. Candidates with solid background and/or strong interest in mathematical modeling and analysis, and candidates with solid programming skills and/or strong interest in building systems are both very welcome. Please contact me by email with your CV (please include your GPA and rank). <br>
+
+30.<a href="https://yangyx09.github.io/">杨玉翔</a>, My research interests  :Quantum Metrology,Quantum Information.<font color="#ff0000">Openings</font>:I am looking for motivated PhD students.
 
 
-
+ 
  
 
 
