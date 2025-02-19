@@ -194,10 +194,11 @@
 <body>
  <div class="profile-content pull-left" align="left">  
 <p>
-<h3>About Me</h3>   
-<p/> 
-  </div>
+<h3>About Me</h3>  
  zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
+</p> 
+  </div>
+
  <div class="profile-content pull-center" align="center">  
 <p>
 	 <h3> CV</h3>
