@@ -110,7 +110,7 @@
 
 <hr noshade="">
 
-<hr noshade="color="#fff0000">
+<hr noshade="#ff0000 ">
 <!--star-->
  
   <header class="header">
@@ -195,8 +195,8 @@
  <div class="profile-content pull-left" align="left">  
 <p>
 <h3>About Me</h3>   
-zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 <p/> 
+zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
   </div>
  
  <div class="profile-content pull-center" align="center">  
