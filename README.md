@@ -158,9 +158,7 @@
                   🅱️
 
                  </a>
-             </li>
-                
-             
+             </li>     
              <li data-toggle="tooltip" data-placement="bottom" title="WeChat">
                <a class="wechat-btn" href=" WeChat.png" target="_top">
                   <i class="fa fa-envelope"> </i>
@@ -171,8 +169,6 @@
      </div>  
    </div>
      <!--td width="500"-->
-      
- 
          <br>
           ResearchGate:  <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
         
@@ -189,7 +185,7 @@
            Github:       <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a>  
           
           <br>
-  </div>
+  <!--/div-->
 <hr noshade="">
 <body>
  <div class="profile-content pull-left" align="left">  
@@ -198,28 +194,15 @@
  zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 </p> 
   </div>
-
  <div class="profile-content pull-center" align="center">  
 <p>
 	 <h3> CV</h3>
 * <br>
 ** <br>
-*** <br>
-**** <br>
-
-
- 
+*** <br> 
 </p>	 
-</div>   
- 
+</div>    
  <!--/div--> 
-
-
-
-
-
-
-
  <hr noshade="">
  <body>
    <div class="profile-content   pull-left" align="left">
@@ -230,33 +213,27 @@
 	<div class="b_bot">
   	 <div class="xhe">
   	  <div class="swiper">
-  	    <div class="swiper-wrapper">
-     
-                   <h5>friendly link</h5>				 											
+  	    <div class="swiper-wrapper">   
+                   <h5>friendly link</h5>				 					
 		<div class="swiper-slide" style="width:280px">
 		  <p><a href="https://gs.whu.edu.cn " class="h5" title="" target="_blank">graduate school of Wuhan University</a></p>
-                </div>
-				
+                </div>			
 		<div class="swiper-slide" style="width:280px">
 		  <p><a href=" https://www.csc.edu.cn" class="h5" title="CSC" target="_blank">CSC</a></p>
-		</div>
-				
+		</div>				
 		<div class="swiper-slide" style="width:280px">
 			<p><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a></p>
-		</div>
-				
+		</div>				
 		<div class="swiper-slide" style="width:280px">
 			<p><a href="https://www.cs.hku.hk " class="h5" title="  Department of Computer Science  " target="_blank"> HKU Department of Computer Science </a></p>
 		</div>
 				
 		<!--div class="swiper-slide" style="width:280px">
 			<p><a href="https://finance.whu.edu.cn/" class="h" title="888" target="_blank">888</a></p>
-		</div-->
-				
+		</div-->				
 		<div class="swiper-slide" style="width:280px">
 			<p><a href="https://www.cuhk.edu.hk/english " class="h5" title="cuhk " target="_blank">cuhk</a></p>
-		</div>
-				
+		</div>				
 	      </div>
 <!-- 如果需要导航按钮 -->
 			<div class="swiper-button-prev"></div>
@@ -265,8 +242,6 @@
 	  </div>
  	</div>
      </div>
-   </div>
-</div>
 <body>
 <div align="center">
       <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small>
