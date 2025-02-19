@@ -110,7 +110,7 @@
 
 <hr noshade="">
 
-<hr noshade="">
+<hr noshade="color="#fff0000">
 <!--star-->
  
   <header class="header">
@@ -200,7 +200,9 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
   </div>
  
  <div class="profile-content pull-center" align="center">  
-<h3> CV</h3>
+<p>
+	 <h3> CV</h3>
+</p>	 
 </div>   
  
  <!--/div--> 
