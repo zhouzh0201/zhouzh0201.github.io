@@ -212,39 +212,37 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 		<div class="t_zz"></div>
 
 		<!-- 底部 -->
-		<div class="b_bot">
-  	<div class="xhe">
-  		<div class="swiper">
-  			<div class="swiper-wrapper">
+	<div class="b_bot">
+  	 <div class="xhe">
+  	  <div class="swiper">
+  	    <div class="swiper-wrapper">
      
-                               <h5>friendly link</h5>
-				 							
+                   <h5>friendly link</h5>				 											
+		<div class="swiper-slide" style="width:280px">
+		  <p><a href="https://gs.whu.edu.cn " class="h5" title="" target="_blank">graduate school of Wuhan University</a></p>
+                </div>
 				
-				<div class="swiper-slide" style="width:280px">
-					<p><a href="https://gs.whu.edu.cn " class="h5" title="" target="_blank">graduate school of Wuhan University</a></p>
-				</div>
+		<div class="swiper-slide" style="width:280px">
+		  <p><a href=" https://www.csc.edu.cn" class="h5" title="CSC" target="_blank">CSC</a></p>
+		</div>
 				
-				<div class="swiper-slide" style="width:280px">
-					<p><a href=" https://www.csc.edu.cn" class="h5" title="CSC" target="_blank">CSC</a></p>
-				</div>
+		<div class="swiper-slide" style="width:280px">
+			<p><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a></p>
+		</div>
 				
-				<div class="swiper-slide" style="width:280px">
-					<p><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a></p>
-				</div>
+		<div class="swiper-slide" style="width:280px">
+			<p><a href="https://www.cs.hku.hk " class="h5" title="  Department of Computer Science  " target="_blank"> HKU Department of Computer Science </a></p>
+		</div>
 				
-				<div class="swiper-slide" style="width:280px">
-					<p><a href="https://www.cs.hku.hk " class="h5" title="  Department of Computer Science  " target="_blank"> HKU Department of Computer Science </a></p>
-				</div>
+		<!--div class="swiper-slide" style="width:280px">
+			<p><a href="https://finance.whu.edu.cn/" class="h" title="888" target="_blank">888</a></p>
+		</div-->
 				
-				<div class="swiper-slide" style="width:280px">
-					<p><a href="https://finance.whu.edu.cn/" class="h3" title="财务部" target="_blank">财务部</a></p>
-				</div>
+		<div class="swiper-slide" style="width:280px">
+			<p><a href="https://www.cuhk.edu.hk/english " class="h5" title="cuhk " target="_blank">cuhk</a></p>
+		</div>
 				
-				<div class="swiper-slide" style="width:280px">
-					<p><a href="https://www.cuhk.edu.hk/english " class="h5" title="cuhk " target="_blank">cuhk</a></p>
-				</div>
-				
-			</div>
+	      </div>
 <!-- 如果需要导航按钮 -->
 			<div class="swiper-button-prev"></div>
 			<div class="swiper-button-next"></div>
