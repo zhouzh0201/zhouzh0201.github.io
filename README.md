@@ -202,10 +202,10 @@
  <div class="profile-content pull-center" align="center">  
 <p>
 	 <h3> CV</h3>
-*
-**
-***
-****
+* <br>
+** <br>
+*** <br>
+**** <br>
 
 
  
