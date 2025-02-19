@@ -202,10 +202,23 @@
  <div class="profile-content pull-center" align="center">  
 <p>
 	 <h3> CV</h3>
+*
+**
+***
+****
+
+
+ 
 </p>	 
 </div>   
  
  <!--/div--> 
+
+
+
+
+
+
 
  <hr noshade="">
  <body>
