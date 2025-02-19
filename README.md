@@ -216,11 +216,11 @@
   	    <div class="swiper-wrapper">   
                    <font color="#ff0000">friendly link</font>				 					
 		<!--div class="swiper-slide" style="width:50px"> </div-->
-		  <a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> <br>                 	
+		  <a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a>                  	
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		 <a href=" https://www.csc.edu.cn">CSC</a> <br>  		
+		 <a href=" https://www.csc.edu.cn">CSC</a>  		
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		<a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a> <br> 			
+		<a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a>  		
 		<!--div class="swiper-slide" style="width:50px"></div-->
 		<a href="https://www.cs.hku.hk"> HKU Department of Computer Science </a> <br> 				
 		<!--div class="swiper-slide" style="width:50px">
