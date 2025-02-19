@@ -169,7 +169,7 @@
             </ul>
         </div> 
      </div>  
-  
+   </div>
      <!--td width="500"-->
       
 <div>
@@ -189,17 +189,17 @@
            Github:       <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a>  
           
           <br>
- 
+  </div>
 <hr noshade="">
 <body>
- <div class="profile-content pull-center" align="center">  
+ <div class="profile-content pull-left" align="left">  
 <p>
 <h3>About Me</h3>   
 zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
 <p/> 
   </div>
 <hr noshade="">
-
+ <div class="profile-content pull-center" align="center">  
 <h3> CV</h3>
 </div>   
 </body>
@@ -207,7 +207,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 
  <hr noshade="">
  <body>
-   <!--div class="profile-content pull-center" align=""--
+   <div class="profile-content pull-left" align="left"
      <!-- 背部遮罩块 -->
 		<div class="t_zz"></div>
 
@@ -256,8 +256,8 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
            </div>
 	  </div>
  	</div>
-    </div>
- </div>
+     </div>
+   </div>
 </div>
 <body>
 <div align="center">
