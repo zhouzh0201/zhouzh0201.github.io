@@ -205,6 +205,57 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
  <!--/div--> 
  
  <hr noshade="">
+<!-- 背部遮罩块 -->
+		<div class="t_zz"></div>
+
+		<!-- 底部 -->
+		<div class="b_bot">
+  	<div class="xhe">
+  		<div class="swiper">
+  			<div class="swiper-wrapper">
+				
+				<div class="swiper-slide" style="width:280px">
+					<p><a href="http://antis.whu.edu.cn/" class="h3" title="ANTIS" target="_blank">ANTIS</a></p>
+				</div>
+				
+				<div class="swiper-slide" style="width:280px">
+					<p><a href="https://uc.whu.edu.cn/" class="h3" title="本科生院" target="_blank">本科生院</a></p>
+				</div>
+				
+				<div class="swiper-slide" style="width:280px">
+					<p><a href="http://www.whu.edu.cn" class="h3" title="武汉大学" target="_blank">武汉大学</a></p>
+				</div>
+				
+				<div class="swiper-slide" style="width:280px">
+					<p><a href="https://gs.whu.edu.cn/" class="h3" title="研究生院" target="_blank">研究生院</a></p>
+				</div>
+				
+				<div class="swiper-slide" style="width:280px">
+					<p><a href="https://kfy.whu.edu.cn/" class="h3" title="科学技术发展研究院" target="_blank">科学技术发展研究院</a></p>
+				</div>
+				
+				<div class="swiper-slide" style="width:280px">
+					<p><a href="https://rsb.whu.edu.cn/" class="h3" title="人事部" target="_blank">人事部</a></p>
+				</div>
+				
+				<div class="swiper-slide" style="width:280px">
+					<p><a href="https://finance.whu.edu.cn/" class="h3" title="财务部" target="_blank">财务部</a></p>
+				</div>
+				
+				<div class="swiper-slide" style="width:280px">
+					<p><a href="http://gh.whu.edu.cn/" class="h3" title="工会" target="_blank">工会</a></p>
+				</div>
+				
+			</div>
+<!-- 如果需要导航按钮 -->
+			<div class="swiper-button-prev"></div>
+			<div class="swiper-button-next"></div>
+
+		 </div>
+ 	</div>
+ </div>
+
+ 
 <body>
 <div align="center">
       <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small>
