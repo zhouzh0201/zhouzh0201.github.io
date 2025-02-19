@@ -201,11 +201,13 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 <hr noshade="">
 
 <h3> CV</h3>
-
+</body>
  <!--/div--> 
- 
+
  <hr noshade="">
-<!-- 背部遮罩块 -->
+ <body>
+   <div class="profile-content pull-center" align="">
+     <!-- 背部遮罩块 -->
 		<div class="t_zz"></div>
 
 		<!-- 底部 -->
@@ -250,12 +252,12 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 <!-- 如果需要导航按钮 -->
 			<div class="swiper-button-prev"></div>
 			<div class="swiper-button-next"></div>
-
-		 </div>
+           </div>
+	  </div>
  	</div>
+    </div>
  </div>
-
- 
+</div>
 <body>
 <div align="center">
       <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small>
