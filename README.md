@@ -221,7 +221,7 @@ zhonghong is currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univ
 				 							
 				
 				<div class="swiper-slide" style="width:280px">
-					<p><a href="http://www.whu.edu.cn" class="" title="" target="_blank">Wuhan University</a></p>
+					<p><a href="http://www.whu.edu.cn" class="h5" title="" target="_blank">Wuhan University</a></p>
 				</div>
 				
 				<div class="swiper-slide" style="width:280px">
