@@ -167,7 +167,7 @@
               
              <li data-toggle="tooltip" data-placement="bottom" title="Email">
                <a class="email-btn" href="mailto:zhouzh@whu.edu.cn"target="_top">
-                  🟥 
+                  🟥   🟦 
                 </a>
              </li>
              
@@ -184,7 +184,7 @@
                  </a>
              </li>     
              <li data-toggle="tooltip" data-placement="bottom" title="WeChat">
-               <a class="wechat-btn" href=" https://github.com/zhouzh0201/zhouzh0201.github.io/blob/main/WeChat.png" target="_red"><img src="wexin1.png" height="20px" style="margin-bottom:+5px">
+               <a class="wechat-btn" href=" https://github.com/zhouzh0201/zhouzh0201.github.io/blob/main/WeChat.png" target="_red">  🟦 <img src="wexin1.png" height="20px" style="margin-bottom:+5px">
                 </a>
               </li>
             </ul>
