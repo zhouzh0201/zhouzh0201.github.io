@@ -112,7 +112,24 @@
 
 <hr noshade="#ff0000 ">
 <!--star-->
- 
+  <!--***************ok*****************-->
+<!--****************************aside*************-->
+		  
+   
+      <aside  class="right-aside">
+         <div class="container">  
+	   <div class="right-aside">  
+	     <aside  style="background-color:#ff6ec7;width:100px; height:800%;">  
+          <h3>
+	New 	  
+	  </h3>
+             </aside>
+           </div>    
+         </div> 
+     
+  </aside>
+<!--****************************aside*************-->
+ <!--***************ok*****************-->
   <header class="header">
      <div class="container"> 
         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
