@@ -121,7 +121,8 @@
 	   <div class="right-aside">  
 	  
           <h3>
-	 <a href="https://www.deepseek.com">DeepSeek</a>    
+	  <a href="https://github.com/deepseek-ai">DeepSeek</a>  
+	 <a href="https://www.deepseek.com">DeepSeek<img src="www.jpg" height="30px" style="margin-bottom:-2px"></a>    
 	  </h3>
            
            </div>    
@@ -141,7 +142,7 @@
           <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
  <!--***************ok*****************-->
  
- <!--***************ok*****************-->
+ 
      
     
             <ul class="social list-inline">   
