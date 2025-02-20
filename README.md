@@ -205,7 +205,7 @@
  <!--/div--> 
  <hr noshade="">
  <body>
-   <footer style="background-color:#00ffff;height:200px;">
+   <footer style="background-color:#00ffff;height:100px;">
 <!--div class="bot"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
  
 <script type="text/javascript">
@@ -258,7 +258,7 @@
       <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
       <small>License ing......</small>
 </div> 
-	</footer>
+	<!--/footer-->
 </body>	
 <script src="static/jquery.js"></script>
 <script src="static/bootstrap/js/bootstrap.js"></script>
