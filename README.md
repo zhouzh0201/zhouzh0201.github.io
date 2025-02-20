@@ -238,9 +238,9 @@
 		<a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a> |<br> 		
 		<!--div class="swiper-slide" style="width:50px"></div-->
 		<a href=" https://gradsch.hku.hk"> HKU graduate school</a>| <br> 				
-		<!--div class="swiper-slide" style="width:50px">
+		<!--div class="swiper-slide" style="width:50px"></div-->
 		<a href="https://www.nature.com" >Nature</a> <br> 
-		</div-->				
+						
 		<!--div class="swiper-slide" style="width:50px"></div-->	
 		<a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a><br> 
 					
