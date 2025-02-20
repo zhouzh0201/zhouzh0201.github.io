@@ -205,7 +205,7 @@
  <!--/div--> 
  <hr noshade="">
  <body>
-   <footer style="background-color:#0000ff;width:100%; height:150px;">
+   <footer style="background-color:#00ffff;width:100%; height:150px;">
 <!--div class="bot"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
   <div class="container">
          <div class="footer-footer">
@@ -237,12 +237,12 @@
 		<!--div class="swiper-slide" style="width:50px"></div-->	
 		<a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a> |<br> 		
 		<!--div class="swiper-slide" style="width:50px"></div-->
-		<a href="https://www.cs.hku.hk"> HKU Department of Computer Science </a>| <br> 				
+		<a href=" https://gradsch.hku.hk"> HKU graduate school</a>| <br> 				
 		<!--div class="swiper-slide" style="width:50px">
-		<a href="https://finance.whu.edu.cn/" class="h" title="888" target="_blank">888</a> <br> 
+		<a href="https://www.nature.com" >Nature</a> <br> 
 		</div-->				
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		<a href="https://www.cuhk.edu.hk/english">cuhk</a><br> 
+		<a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a><br> 
 					
 	      </div>
 <!-- 如果需要导航按钮 -->
