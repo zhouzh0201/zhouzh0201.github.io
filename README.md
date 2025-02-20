@@ -205,7 +205,7 @@
  <!--/div--> 
  <hr noshade="">
  <body>
-   <footer style="background-color:#3bdddd;width:100%; height:150px;">
+   <footer style="background-color:#62e4e4;width:100%; height:150px;">
 <!--div class="bot"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
  
 <script type="text/javascript">
