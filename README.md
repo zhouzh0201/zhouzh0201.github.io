@@ -123,17 +123,19 @@
           <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
  <!--***************ok*****************-->
 <!--****************************aside*************-->
-  <aside  style="background-color:#ff6ec7;width:100px; height:800%;">    
+		  
+   
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
+	     <aside  style="background-color:#ff6ec7;width:100px; height:800%;">  
           <h3>
 	New 	  
 	  </h3>
-
+             </aside>
            </div>    
          </div> 
-       </aside>
+     
   </aside>
 <!--****************************aside*************-->
  <!--***************ok*****************-->
