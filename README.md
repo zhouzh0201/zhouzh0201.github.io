@@ -114,14 +114,14 @@
 <!--star-->
   <!--***************ok*****************-->
 <!--****************************aside*************-->
-		  
+		   
    <aside  style="background-color:#ff6ec7;width:100%; height:800%;">  
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
 	  
           <h3>
-	DeepSeek v3	  
+	 <a href="https://www.deepseek.com">DeepSeek</a>    
 	  </h3>
            
            </div>    
