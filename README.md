@@ -186,11 +186,12 @@
           
           <br>
   <!--/div-->
-< !-- ****************************aside*************-->
-  <aside  style="background-color:#ff6ec7;width:100px; height:80%;">    
-      <aside  class="aside">
+   <!--***************ok*****************-->
+<!--****************************aside*************-->
+  <aside  style="background-color:#ff6ec7;width:100px; height:800%;">    
+      <aside  class="right-aside">
          <div class="container">  
-	   <div class="aside -aside ">  
+	   <div class="right-aside">  
           <h3>
 	New 	  
 	  </h3>
@@ -199,7 +200,8 @@
          </div> 
        </aside>
   </aside>
-< !-- ****************************aside*************-->
+<!--****************************aside*************-->
+ <!--***************ok*****************-->
 <hr noshade="">
 <body>
  <div class="profile-content pull-left" align="left">  
