@@ -121,6 +121,24 @@
           <div class="profile-content pull-center" align="center">  
           <h1 class="name">CGPWB's the page is under construction.......  </h1>  
           <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
+ <!--***************ok*****************-->
+<!--****************************aside*************-->
+  <aside  style="background-color:#ff6ec7;width:100px; height:800%;">    
+      <aside  class="right-aside">
+         <div class="container">  
+	   <div class="right-aside">  
+          <h3>
+	New 	  
+	  </h3>
+
+           </div>    
+         </div> 
+       </aside>
+  </aside>
+<!--****************************aside*************-->
+ <!--***************ok*****************-->
+     
+    
             <ul class="social list-inline">   
               
               <li data-toggle="tooltip" data-placement="bottom" title="CV">
@@ -169,23 +187,7 @@
      </div>  
    </div>
      <!--td width="500"-->
- <!--***************ok*****************-->
-<!--****************************aside*************-->
-  <aside  style="background-color:#ff6ec7;width:100px; height:800%;">    
-      <aside  class="right-aside">
-         <div class="container">  
-	   <div class="right-aside">  
-          <h3>
-	New 	  
-	  </h3>
 
-           </div>    
-         </div> 
-       </aside>
-  </aside>
-<!--****************************aside*************-->
- <!--***************ok*****************-->
-     
          <br>
           ResearchGate:  <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
         
