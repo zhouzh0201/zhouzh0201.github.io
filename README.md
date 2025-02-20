@@ -164,12 +164,20 @@
                         🟢
                  </a>
              </li>
-              
-             <li data-toggle="tooltip" data-placement="bottom" title="Email">
+               <li data-toggle="tooltip" data-placement="bottom" title="Email">
+                        <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
+                            <i class="fa fa-envelope"></i>
+                        </a>
+                 </li>
+          
+
+
+       
+             <!--li data-toggle="tooltip" data-placement="bottom" title="Email">
                <a  href="mailto:zhouzh@whu.edu.cn"target="_top">
                   🟥  
                 </a>
-             </li>
+             <!--/li-->
              
              <li data-toggle="tooltip" data-placement="bottom" title="researchgate">
                  <a href="https://www.researchgate.net/profile/zhou-zhonghong" target="_blue">
