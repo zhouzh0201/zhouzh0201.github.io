@@ -52,7 +52,7 @@
      <!--navbar star-->
    <nav class="navbar navbar-inverse navbar-fixed-top">
      <!--*******-->
-     <nav style="background-color:#00ffff;height:80px;">
+     <nav style="background-color:#00ffff;height:100px;">
        <div class="container">
         
          <div class="navbar-header">
@@ -205,7 +205,7 @@
  <!--/div--> 
  <hr noshade="">
  <body>
-   <footer style="background-color:#00ffff;height:100px;">
+   <footer style="background-color:#00ffff;width:90%; height:150px;">
 <!--div class="bot"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
  
 <script type="text/javascript">
@@ -228,13 +228,13 @@
   	 <div class="xhe">
   	  <div class="swiper">
   	    <div class="swiper-wrapper">   
-                   <font color="#ff0000">friendly link</font>|				 					
+                   <font color="#ff0000">friendly link</font>|<br>				 					
 		<!--div class="swiper-slide" style="width:50px"> </div-->
 		  <a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> |                 	
 		<!--div class="swiper-slide" style="width:50px"></div-->	
 		 <a href=" https://www.csc.edu.cn">CSC</a> | 		
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		<a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a> | 		
+		<a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a> |<br> 		
 		<!--div class="swiper-slide" style="width:50px"></div-->
 		<a href="https://www.cs.hku.hk"> HKU Department of Computer Science </a>| <br> 				
 		<!--div class="swiper-slide" style="width:50px">
