@@ -115,13 +115,13 @@
   <!--***************ok*****************-->
 <!--****************************aside*************-->
 		  
-   <aside  style="background-color:#ff6ec7;width:1000px; height:800%;">  
+   <aside  style="background-color:#ff6ec7;width:950px; height:800%;">  
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
 	  
           <h3>
-	deepseek	  
+	deepseek v3	  
 	  </h3>
            
            </div>    
@@ -142,13 +142,13 @@
  <!--***************ok*****************-->
 <!--****************************aside*************-->
 		  
-  <aside  style="background-color:#ff6ec7;width:100px; height:800%;">  
+  <aside  style="background-color:#ff6ec7;width:950px; height:800%;">  
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
 	 
           <h3>
-	deepseek		  
+	deepseekv3		  
 	  </h3>
            
            </div>    
@@ -246,12 +246,12 @@
 
  <!--***************ok*****************-->
 <!--****************************aside*************-->
-  <aside  style="background-color:#ff6ec7;width:100px; height:800%;">    
+  <aside  style="background-color:#ff6ec7;width:950px; height:800%;">    
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
           <h3>
-         deepseek		  
+         deepseekv3		  
 	  </h3>
 
            </div>    
