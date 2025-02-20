@@ -227,7 +227,7 @@
 *** <br> 
 </p>	 
 </div>    
- <!--/div--> 
+ <!--/div-->  <a href=" https://www.csc.edu.cn">CSC</a> | 
 
  <!--***************ok*****************-->
 <!--****************************aside*************-->
@@ -236,7 +236,7 @@
          <div class="container">  
 	   <div class="right-aside">  
           <h3>
-         Grok 3		  
+         <a href="http://www.grok.com.cn"> Grok CN</a>  	  
 	  </h3>
 
            </div>    
