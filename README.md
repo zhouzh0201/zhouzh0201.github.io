@@ -115,7 +115,7 @@
   <!--***************ok*****************-->
 <!--****************************aside*************-->
 		  
-   <aside  style="background-color:#ff6ec7;width:800px; height:800%;">  
+   <aside  style="background-color:#ff6ec7;width:1200px; height:800%;">  
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
