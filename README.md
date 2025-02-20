@@ -122,7 +122,7 @@
 	  
           <h3>
 	  <a href="https://github.com/deepseek-ai">DeepSeek</a>  
-	 <a href="https://www.deepseek.com">DeepSeek<img src="www.jpg" height="30px" style="margin-bottom:-2px"></a>    
+	 <a href="https://www.deepseek.com">DeepSeek<img src="148330874.png" height="30px" style="margin-bottom:-2px"></a>    
 	  </h3>
            
            </div>    
