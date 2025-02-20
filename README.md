@@ -52,7 +52,7 @@
      <!--navbar star-->
    <nav class="navbar navbar-inverse navbar-fixed-top">
      <!--*******-->
-     <nav style="background-color:#00ffff;height:100px;">
+     <nav style="background-color:#0000ff;height:100px;">
        <div class="container">
         
          <div class="navbar-header">
@@ -205,9 +205,10 @@
  <!--/div--> 
  <hr noshade="">
  <body>
-   <footer style="background-color:#00ff00;width:100%; height:150px;">
+   <footer style="background-color:#0000ff;width:100%; height:150px;">
 <!--div class="bot"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
- 
+  <div class="container">
+         <div class="footer-footer">
 <script type="text/javascript">
   $(".kstd-list-li").mouseover(function(){
     $(this).children(":first").css("background-color","#00ffff");
@@ -250,6 +251,7 @@
            </div>
 	  </div>
  	</div>
+       </div>   
      </div>
 <body>
 <div align="center">
