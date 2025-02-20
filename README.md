@@ -115,7 +115,7 @@
   <!--***************ok*****************-->
 <!--****************************aside*************-->
 		  
-   <aside  style="background-color:#ff6ec7;width:950px; height:800%;">  
+   <aside  style="background-color:#ff6ec7;width:100%; height:800%;">  
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
@@ -140,22 +140,7 @@
           <h1 class="name">CGPWB's the page is under construction.......  </h1>  
           <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
  <!--***************ok*****************-->
-<!--****************************aside*************-->
-		  
-  <aside  style="background-color:#ff6ec7;width:950px; height:800%;">  
-      <aside  class="right-aside">
-         <div class="container">  
-	   <div class="right-aside">  
-	 
-          <h3>
-	deepseekv3		  
-	  </h3>
-           
-           </div>    
-         </div> 
-       </aside>
-  </aside>
-<!--****************************aside*************-->
+ 
  <!--***************ok*****************-->
      
     
@@ -246,12 +231,12 @@
 
  <!--***************ok*****************-->
 <!--****************************aside*************-->
-  <aside  style="background-color:#ff6ec7;width:950px; height:800%;">    
+  <aside  style="background-color:#ff6ec7;width:100%; height:800%;">    
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
           <h3>
-         deepseekv3		  
+         Grid v3		  
 	  </h3>
 
            </div>    
