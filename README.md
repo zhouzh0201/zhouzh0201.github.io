@@ -166,7 +166,7 @@
              </li>
               
              <li data-toggle="tooltip" data-placement="bottom" title="Email">
-               <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
+               <a class="email-btn" href="mailto:zhouzh@whu.edu.cn"target="_top">
                   🟥 
                 </a>
              </li>
@@ -184,8 +184,8 @@
                  </a>
              </li>     
              <li data-toggle="tooltip" data-placement="bottom" title="WeChat">
-               <a class="wechat-btn" href=" WeChat.png" target="_top">
-                  <i class="fa fa-envelope"> </i>
+               <a class="wechat-btn" href=" https://github.com/zhouzh0201/zhouzh0201.github.io/blob/main/WeChat.png" target="_red">![image](https://github.com/user-attachments/assets/01b1a0af-66e1-4449-8174-e485ec17010c)
+
                 </a>
               </li>
             </ul>
