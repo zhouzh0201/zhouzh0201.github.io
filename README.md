@@ -121,7 +121,7 @@
 	   <div class="right-aside">  
 	  
           <h3>
-	deepseek v3	  
+	DeepSeek v3	  
 	  </h3>
            
            </div>    
@@ -236,7 +236,7 @@
          <div class="container">  
 	   <div class="right-aside">  
           <h3>
-         Grid v3		  
+         Grok 3		  
 	  </h3>
 
            </div>    
