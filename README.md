@@ -223,6 +223,26 @@
 </p>	 
 </div>    
  <!--/div--> 
+
+ <!--***************ok*****************-->
+<!--****************************aside*************-->
+  <aside  style="background-color:#ff6ec7;width:100px; height:800%;">    
+      <aside  class="right-aside">
+         <div class="container">  
+	   <div class="right-aside">  
+          <h3>
+	New 	  
+	  </h3>
+
+           </div>    
+         </div> 
+       </aside>
+  </aside>
+<!--****************************aside*************-->
+ <!--***************ok*****************-->
+     
+
+ 
  <hr noshade="">
  <body>
    <footer style="background-color:#00ffff;width:100%; height:150px;">
