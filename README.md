@@ -251,7 +251,7 @@
  <hr noshade="">
  <body>
    <footer style="background-color:#00ffff;width:100%; height:150px;">
-<!--div class="bot"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<!--div class="bot"--><!-- ****** -->
   <div class="container">
          <div class="footer-footer">
 <script type="text/javascript">
@@ -266,10 +266,10 @@
 
   
    <div class="profile-content   pull-left" align="left">
-     <!-- 背部遮罩块 -->
+     <!-- **** -->
 		<div class="t_zz"></div>
 
-		<!-- 底部 -->
+		<!-- footer -->
 	<div class="b_bot">
   	 <div class="xhe">
   	  <div class="swiper">
@@ -290,7 +290,7 @@
 		<a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a><br> 
 					
 	      </div>
-<!-- 如果需要导航按钮 -->
+<!-- button -->
 			<div class="swiper-button-prev"></div>
 			<div class="swiper-button-next"></div>
            </div>
@@ -302,7 +302,7 @@
 <div align="center">
       <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small>
       <br>
-      <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
+      <small><a href="https://www.whu.edu.cn/">Wuhan University</a></small>
       <small>License ing......</small>
 </div> 
 	<!--/footer-->
