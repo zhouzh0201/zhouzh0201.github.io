@@ -166,8 +166,8 @@
              </li>
               
              <li data-toggle="tooltip" data-placement="bottom" title="Email">
-               <a class="email-btn" href="mailto:zhouzh@whu.edu.cn"target="_top">
-                  🟥   🟦 
+               <a  href="mailto:zhouzh@whu.edu.cn"target="_top">
+                  🟥  
                 </a>
              </li>
              
