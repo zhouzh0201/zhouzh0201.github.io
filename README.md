@@ -205,6 +205,20 @@
  <!--/div--> 
  <hr noshade="">
  <body>
+
+<div class="bot"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="text-align: center;">地址：湖北省武汉市武昌珞珈山武汉大学人工智能学院</p><p style="text-align: center;">Email：whusai@whu.edu.cn</p><p style="text-align: center;">版权所有&nbsp; 武汉大学人工智能学院&nbsp; 2024-2035</p><p style="text-align: center;">鄂ICP备05003330号 鄂公网安备42010602000219</p></div>
+<script type="text/javascript">
+  $(".kstd-list-li").mouseover(function(){
+    $(this).children(":first").css("background-color","#1570B5");
+  });
+  $(".kstd-list-li").mouseout(function(){
+    $(this).children(":first").css("background-color","#747474");
+  });
+</script>
+
+
+  
    <div class="profile-content   pull-left" align="left">
      <!-- 背部遮罩块 -->
 		<div class="t_zz"></div>
