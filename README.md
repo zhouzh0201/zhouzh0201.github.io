@@ -186,6 +186,20 @@
           
           <br>
   <!--/div-->
+< !-- ****************************aside*************-->
+  <aside  style="background-color:#ff6ec7;width:100px; height:80%;">    
+      <aside  class="aside">
+         <div class="container">  
+	   <div class="aside -aside ">  
+          <h3>
+	New 	  
+	  </h3>
+
+           </div>    
+         </div> 
+       </aside>
+  </aside>
+< !-- ****************************aside*************-->
 <hr noshade="">
 <body>
  <div class="profile-content pull-left" align="left">  
