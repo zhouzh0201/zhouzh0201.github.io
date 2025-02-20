@@ -110,12 +110,12 @@
 
 <hr noshade="">
 
-<hr noshade="#ff0000 ">
+
 <!--star-->
   <!--***************ok*****************-->
 <!--****************************aside*************-->
 		  
-   <aside  style="background-color:#ff6ec7;width:1200px; height:800%;">  
+   <aside  style="background-color:#ff6ec7;width:1000px; height:800%;">  
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
@@ -130,6 +130,7 @@
   </aside>
 <!--****************************aside*************-->
  <!--***************ok*****************-->
+ <hr noshade="#ff0000 ">
   <header class="header">
      <div class="container"> 
         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
