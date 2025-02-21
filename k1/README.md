@@ -188,7 +188,7 @@ B:<br>
 45. <a href="https://yanchaoyang.github.io">杨燕超</a>.Yanchao Yang.<font color="#ff0000"><h3>Ph.D. students, postdocs and interns!We are constantly looking for talents with strong motivation.We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h3></font>We are now accepting summer interns via the HKU Summer Research Programme (SRP), deadline is Feb. 03, 2025. High chance to get Ph.D. return offer!<br>
 
    
-
+<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../bkxg.htm">frist page</a></span><span class="p_prev p_fun"><a href="2.htm">previous page</a></span><span class="p_no"><a href="../bkxg.htm">1</a></span><span class="p_no"><a href="4.htm">2</a></span><span class="p_no"><a href="3.htm">3</a></span><span class="p_no"><a href="2.htm">4</a></span><span class="p_no_d">5</span><span class="p_next_d p_fun_d">next page</span><span class="p_last_d p_fun_d">end page</span></span></div><script>_showDynClickBatch(['dynclicks_u6_4585','dynclicks_u6_4561','dynclicks_u6_4176','dynclicks_u6_3326','dynclicks_u6_3327','dynclicks_u6_3328','dynclicks_u6_3336','dynclicks_u6_3340','dynclicks_u6_3347','dynclicks_u6_3348'],[4585,4561,4176,3326,3327,3328,3336,3340,3347,3348],"wbnews", 1852176512)</script> 
 
 
     <hr />
