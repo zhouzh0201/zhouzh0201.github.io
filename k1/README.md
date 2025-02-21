@@ -158,12 +158,15 @@ B:<br>
 
 35.<a href="https://hongyangdu.github.io/H. Du">杜泓阳 </a>.NICE lab, <font color="#ff0000">For potential students and researchers interested in joining our lab: Please refer to <a href="https://hongyangdu.github.io/nice">NICE</a> for openings, research opportunities, and application details.</font>Edge Intelligence; Generative Artificial Intelligence; Computer Networks; Wireless Communications.<br>
 
-36.<a href="https://www.eee.hku.hk/people/huangkb"> 黄凯斌 </a>，Head of Department，K.B. Huang.<a href="https://www.wireless.hku.hk"> Wireless@HKU集团</a>.<font color="#ff0000">Open Positions!Multiple positions for Ph.D. students (with potential support by Hong Kong Postgraduate Fellowship) <a href="https://www.wireless.hku.hk/_files/ugd/4431b8_3800a8ea9c30491ea1de1e04471db8f4.pdf"> [Details]</a> </font>, MIMO communications; Analysis and design of wireless networks using stochastic geometry; Multi-antenna limited feedback techniques; Energy harvesting and transfer for wireless communications; Cross-layer designs.
+36.<a href="https://www.eee.hku.hk/people/huangkb"> 黄凯斌 </a>，K.B. Huang.Head of Department，<a href="https://www.wireless.hku.hk"> Wireless@HKU集团</a>.<font color="#ff0000">Open Positions!Multiple positions for Ph.D. students (with potential support by Hong Kong Postgraduate Fellowship) <a href="https://www.wireless.hku.hk/_files/ugd/4431b8_3800a8ea9c30491ea1de1e04471db8f4.pdf"> [Details]</a> </font>, MIMO communications; Analysis and design of wireless networks using stochastic geometry; Multi-antenna limited feedback techniques; Energy harvesting and transfer for wireless communications; Cross-layer designs.<br>
 
-37.J.C.K. Lam,New Energy/Nuclear Energy Safety Management and Governance| Design and Implementation of Technological Environmental Innovation Regulations and Policies, especially public transport policies in Hong Kong and the United States|   System Innovation and Transition Management|  Open Innovation & University-Industry Collaboration, esp. clean energy & environment|  Sustainability, with focus on education for sustainable low-carbon and healthy living
-38.V.C.S. Lee,Intelligent transportation systems, vehicular networks, e-learning, machine learning and real-time databases.
-39.X. Liu,Computer Vision, Machine Learning, and Artificial Intelligence.
-40.Y. Liu,Wireless communications; signal processing; 6G Networks; Machine Learning and Generative AI.
+37.<a href="https://www.eee.hku.hk/people/jcklam"> 林绮光</a>.J.C.K. Lam,New Energy/Nuclear Energy Safety Management and Governance| Design and Implementation of Technological Environmental Innovation Regulations and Policies, especially public transport policies in Hong Kong and the United States|   System Innovation and Transition Management|  Open Innovation & University-Industry Collaboration, esp. clean energy & environment|  Sustainability, with focus on education for sustainable low-carbon and healthy living<br>
+
+38.李 志成V.C.S. Lee,Lecturer,Intelligent transportation systems, vehicular networks, e-learning, machine learning and real-time databases.<br>
+
+39.<a href="https://xh-liu.github.io">刘锡辉</a>X. Liu,<font color="#ff0000">I am actively looking for self-motivated Ph.D. students, to join my group.<a href="https://mmlab.ie.cuhk.edu.hk/people.html"> HKU-MMLab</a>,The lab is constantly looking for motivated graduate students,The Chinese University of Hong Kong</font>.Computer Vision, Machine Learning, and Artificial Intelligence.<br>
+
+40.刘彦,Y. Liu,Wireless communications; signal processing; 6G Networks; Machine Learning and Generative AI.<br>
 
 
 
