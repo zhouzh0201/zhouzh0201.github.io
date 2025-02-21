@@ -122,7 +122,8 @@
 	  
           <h3>
 	  <a href="https://github.com/deepseek-ai">DeepSeek</a>  
-	 <a href="https://www.deepseek.com"><img src="148330874.png" height="30px" style="margin-bottom:-2px"></a>    
+	  <a href="https://www.deepseek.com"><img src="148330874.png" height="30px" style="margin-bottom:-2px"></a>  
+          <a href="http://www.grok.com.cn"> Grok CN</a> 
 	  </h3>
            
            </div>    
@@ -244,7 +245,7 @@
          <div class="container">  
 	   <div class="right-aside">  
           <h3>
-         <a href="http://www.grok.com.cn"> Grok CN</a>  	  
+         <!--a href="http://www.grok.com.cn"> Grok CN</a-->  	  
 	  </h3>
 
            </div>    
