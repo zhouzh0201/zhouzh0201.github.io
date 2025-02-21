@@ -174,13 +174,23 @@ B:<br>
 
 
 
- <h5>k1-5 fifth page</h5><br>
-
-  
+ <h5>k1-5 fifth page</h5>
 
 
+41.<a href="https://www.eee.hku.hk/~iotlab/EdithNgai.html"> 魏志雄</a>, Edith C. H. Ngai,Research Site: HKU IoT Lab,To prospective students, <font color="#ff0000">I am looking for self-motivated Ph.D. students (starting in Fall 2023) to work on IoT, machine learning, and data analytics. Please contact me by email at  with your CV and transcripts. Please use the subject line [your name, university, GPA, and rank (if available)].</font><br>
 
-     
+42.<a href="https://xjqi.github.io">齐小娟 </a>,Xiaojuan Qi,<a href="https://xjqi.github.io/cvmi.html">Computer Vision and Machine Intelligence Lab (CVMI Lab)</a> ,<a href="https://www.dvlab.ai">Deep Vision Lab</a>. The Deep Vision Lab (DVLab) is a top-tier research institute on computer vision and machine learning established by Prof. Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<font color="#ff0000">Join DV Lab in 2022 or later working on exciting and innovative computer vision + machine learning projects! We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.</font><br>
+
+43.<a href="https://www.eee.hku.hk/~hso">苏国海</a>Hayden K.H. <font color="#ff0000">Vacancies,I am actively looking for postdoc fellow, postgraduate students, and research assistants to join my research group. Please see the current openings <a  href="https://www.eee.hku.hk/~hso/vacancies.html">at the vacancies page</a>.</font><br>
+
+44.   <a href="https://www.eee.hku.hk/~ycwu"> 吴一钟</a>.Yik-Chung Wu, <font color="#ff0000">To prospective students:    I am actively recruiting Ph.D. students</font> for topics on machine learning, signal processing, and communications.  I am looking for students who are self-motivated, with background in one or more of the following areas: mathematics, statistics, physics, machine learning or signal processing.  Due to the large amount of requesting email, I can only reply to students who can articulate their suitability in my group.  Thank you very much for your interest.<br>
+
+45. <a href="https://yanchaoyang.github.io">杨燕超</a>.Yanchao Yang.<font color="#ff0000"><h3>Ph.D. students, postdocs and interns!We are constantly looking for talents with strong motivation.We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h3></font>We are now accepting summer interns via the HKU Summer Research Programme (SRP), deadline is Feb. 03, 2025. High chance to get Ph.D. return offer!<br>
+
+   
+
+
+
     <hr />
     <div align="center">
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
