@@ -283,20 +283,20 @@
   	 <div class="xhe">
   	  <div class="swiper">
   	    <div class="swiper-wrapper">   
-                   <font color="#ff0000">friendly link</font>|<br>				 					
+                <small><font color="#ff0000">friendly link</font></small>|<br>				 					
 		<!--div class="swiper-slide" style="width:50px"> </div-->
-		  <a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> |                 	
+		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>|                 	
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		 <a href=" https://www.csc.edu.cn">CSC</a> | 		
+		<small> <a href=" https://www.csc.edu.cn">CSC</a></small> | 		
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		<a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a> |<br> 		
+		<small><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a> </small>|<br> 		
 		<!--div class="swiper-slide" style="width:50px"></div-->
-		<a href=" https://gradsch.hku.hk"> HKU graduate school</a>|  				        <a href="https://www.science.org/journal/science">Science</a>| <br>  
+		<small><a href=" https://gradsch.hku.hk"> HKU graduate school</a></small>|  		        <small><a href="https://www.science.org/journal/science">Science</a></small>| <br>  
 		<!--div class="swiper-slide" style="width:50px"></div-->
-		<a href="https://www.nature.com" >Nature</a>  |
+		<small><a href="https://www.nature.com" >Nature</a> </small> |
 						
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		<a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a><br> 
+		<small><a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a></small><br> 
 					
 	      </div>
 <!-- button -->
