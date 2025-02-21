@@ -59,10 +59,12 @@
   <A HREF="http://www.hku.hk/">k1 The University of Hong Kong</A>, Unable to load the site ,Try accessing <A HREF= "http://www.cs.hku.hk/">this website</A>. <br>
   k1-1 frist page <br>
   Admission for 2025-26,<a href="https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission "> the official website  </a>Department of Computer Science for Ph.D and MPhil student recruitment. Deadline ,Path:Home/Teaching & Learning/MPhil-PhD/Admission.<br>
-  
+
+ <a href=" https://gradsch.hku.hk/prospective_students/research_areas">graduate school</a>,<br>
  <a href=" https://engg.hku.hk/">Faculty of Engineering</a>,<br>
  <A HREF="http://www.cs.hku.hk/">Department of Computer Science</A>,<br> 
  <a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.<br>
+
  <font color="#ff0000"> AI, Robotics and Visual Computing groups:</font><br>
       
 <p>
@@ -132,24 +134,34 @@ B:<br>
 30.<a href="https://yangyx09.github.io/">杨玉翔</a>, My research interests  :Quantum Metrology,Quantum Information.<font color="#ff0000">Openings</font>:I am looking for motivated PhD students.<br>
 
 <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../dz.htm">frist page</a></span><span class="p_prev p_fun"><a href="4.htm">previous page</a></span><span class="p_no"><a href="../dz.htm">1</a></span><span class="p_no"><a href="4.htm">2</a></span><span class="p_no_d">3</span><span class="p_no"><a href="2.htm">4</a></span><span class="p_no"><a href="1.htm">5</a></span><span class="p_next p_fun"><a href="2.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_37961','dynclicks_u6_37941','dynclicks_u6_37191','dynclicks_u6_36741','dynclicks_u6_36201','dynclicks_u6_35881','dynclicks_u6_39851','dynclicks_u6_35101','dynclicks_u6_35831','dynclicks_u6_4602','dynclicks_u6_4565','dynclicks_u6_4563','dynclicks_u6_4102','dynclicks_u6_4089','dynclicks_u6_4087'],[37961,37941,37191,36741,36201,35881,39851,35101,35831,4602,4565,4563,4102,4089,4087],"wbnews", 1852176512)</script></div>
+
+
  
  <h5>k1-4 fourth page</h5><br>
  
+<h3>Department of Electrical and Electronic Engineering</h3>
+<a href="https://engg.hku.hk/">Faculty of Engineering</a><br>
+<a href="https://gradsch.hku.hk/prospective_students/research_areas">graduate school</a><br>
+<a href="https://www.eee.hku.hk/study/rpg/">Department of Electrical and Electronic Engineering</a><br>
 
+ <h4>Research Interests</h4>>
+ <h4>Intelligent Systems, Data and Networks</h4>
 
+31. <a href="https://www.eee.hku.hk/people/vli">李国强</a>V.O.K. Li (Group Director),教授,Development and applications of artificial intelligence technologies to important societal problems, including clean energy and environment, medicine and health, and smart city.<br>
 
+32.<a href="https://www.eee.hku.hk/people/hoihang">欧海雄</a>,H.H. Au Yeung,Artificial Intelligence in Education (AIED); Education Technology (EdTech); STEM Education; Large Models (LMs); Natural Language Processing (NLP).<br>
 
+33.<a href="https://www.eee.hku.hk/people/scchan">陈绍昌</a>,S.C. Chan,Digital Signal Processing, Data Compression, Speech, Audio Image Processing.<br>
 
+ 34.<a href="https://xianhaochen.net">陈先浩</a>.X. Chen,Wireless networks, edge computing, distributed learning, and network science.<font color="#ff0000">吴聪Cong Wu,Postdoctoral researcher, July 2024 ,Ph.D. Wuhan University,Mingxi Li PhD student,9/2024 --,B.S. Wuhan University.Tao Li PhD student, 8/2024 --B.S. China University of Geosciences, Wuhan.</font><br>
 
+35.<a href="https://hongyangdu.github.io/H. Du">杜泓阳 </a>.NICE lab, <font color="#ff0000">For potential students and researchers interested in joining our lab: Please refer to <a href="https://hongyangdu.github.io/nice">NICE</a> for openings, research opportunities, and application details.</font>Edge Intelligence; Generative Artificial Intelligence; Computer Networks; Wireless Communications.<br>
 
-
-
- 
-
-
-
-
-
+36.K.B. Huang.MIMO communications; Analysis and design of wireless networks using stochastic geometry; Multi-antenna limited feedback techniques; Energy harvesting and transfer for wireless communications; Cross-layer designs.
+37.J.C.K. Lam,New Energy/Nuclear Energy Safety Management and Governance| Design and Implementation of Technological Environmental Innovation Regulations and Policies, especially public transport policies in Hong Kong and the United States|   System Innovation and Transition Management|  Open Innovation & University-Industry Collaboration, esp. clean energy & environment|  Sustainability, with focus on education for sustainable low-carbon and healthy living
+38.V.C.S. Lee,Intelligent transportation systems, vehicular networks, e-learning, machine learning and real-time databases.
+39.X. Liu,Computer Vision, Machine Learning, and Artificial Intelligence.
+40.Y. Liu,Wireless communications; signal processing; 6G Networks; Machine Learning and Generative AI.
 
 
 
