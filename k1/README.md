@@ -168,11 +168,11 @@ B:<br>
 
 40.刘彦,Y. Liu,Wireless communications; signal processing; 6G Networks; Machine Learning and Generative AI.<br>
 
+<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../yjspy.htm">frist page</a></span><span class="p_prev p_fun"><a href="8.htm">previous page</a></span><span class="p_no"><a href="../yjspy.htm">1</a></span><span class="p_no"><a href="9.htm">2</a></span><span class="p_no"><a href="8.htm">3</a></span><span class="p_no_d">4</span><span class="p_no"><a href="6.htm">5</a></span><span class="p_no"><a href="5.htm">6</a></span><span class="p_dot">...</span><span class="p_no"><a href="1.htm">10</a></span><span class="p_next p_fun"><a href="6.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_43871','dynclicks_u6_43831','dynclicks_u6_43411','dynclicks_u6_43271','dynclicks_u6_43081','dynclicks_u6_42751','dynclicks_u6_42731','dynclicks_u6_42461','dynclicks_u6_42361','dynclicks_u6_42281','dynclicks_u6_42051','dynclicks_u6_41921','dynclicks_u6_41841','dynclicks_u6_41741','dynclicks_u6_41371'],[43871,43831,43411,43271,43081,42751,42731,42461,42361,42281,42051,41921,41841,41741,41371],"wbnews", 1852176512)</script></div
 
 
 
-
-
+ <h5>k1-5 five page</h5><br>
 
   
 
