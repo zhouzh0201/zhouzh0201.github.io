@@ -289,7 +289,7 @@
 		<!--div class="swiper-slide" style="width:50px"></div-->	
 		<small> <a href=" https://www.csc.edu.cn">CSC</a></small> | 		
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		<small><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscs" target="_blank">portal cscs</a> </small>|<br> 		
+		<small><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscse" target="_blank"> cscse</a> </small>|<br> 		
 		<!--div class="swiper-slide" style="width:50px"></div-->
 		<small><a href=" https://gradsch.hku.hk"> HKU graduate school</a></small>|  		        <small><a href="https://www.science.org/journal/science">Science</a></small>| <br>  
 		<!--div class="swiper-slide" style="width:50px"></div-->
