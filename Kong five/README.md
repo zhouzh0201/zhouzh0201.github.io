@@ -196,7 +196,7 @@
 <!--***********************ok*******************-->
 <body>
 <div class="container">
-  <!--div class="region"> <h3>The Chinese  University of Hong  Kong   </h3></div-->
+  <div class="region"> <h3>The Chinese  University of Hong  Kong   </h3></div>
 
   <!--2.1.%%%%%%%%%-->
      <div class="index-three">
@@ -219,7 +219,12 @@
                         <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>
                          
                         <ul class="clearfix">
-
+<li>    
+    <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">
+       <p>Prof. Xihui Liu <font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab, Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.02.15</span> 
+       </p> <br/>
+   </a>
+</li> 
                  <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                           
                                 
                         </ul>
@@ -250,7 +255,12 @@
                       <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k1/" class="more">more</a>
                        <ul class="clearfix">
-
+<li>    
+    <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">
+       <p>Prof. Xihui Liu <font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab, Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.02.15</span> 
+       </p> <br/>
+   </a>
+</li> 
           <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                           
                                       
                        </ul> 
