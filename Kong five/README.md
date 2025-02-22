@@ -44,7 +44,7 @@
            <li class="active"><a href="Kong five">Kong Five</a>
                <ul class="nav_item fadeInUp">
                   <li><a href="../k1">k1</a></li>
-                  <li><a href="..Kong five/k2">k2</a></li>
+                  <li><a href="..https://github.com/zhouzh0201/zhouzh0201.github.io/tree/main/Kong%20five/k2">k2</a></li>
                 </ul>
            </li>
            <li><a href="../Contact me">Contact me</a></li>
