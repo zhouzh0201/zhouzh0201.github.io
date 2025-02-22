@@ -57,17 +57,25 @@
      
   <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4><br />
   <a href=" https://www.cuhk.edu.hk/english/ ">k2 The Chinese University of Hong Kong.</a>,   <br />
-  k2-1 frist page <br />
+ 
  <p> Admission for 2025-26,<a href="https://www.gs.cuhk.edu.hk/admissions/ "> Graduate School the official website  </a>The Faculty of Engineering /Department of Computer Science/Electronic Engineering/Information Engineering/ for Ph.D and MPhil student recruitment. Deadline ,Path:Home/Teaching &amp; Learning/MPhil-PhD/Admission.</p><br />
 
  <a href=" https://www.gs.cuhk.edu.hk/admissions/">graduate school</a>,<br />
  <a href=" https://www.erg.cuhk.edu.hk/erg/">Faculty of Engineering</a>,<br />
  <a href=" https://www.cse.cuhk.edu.hk/">Department of Computer Science</a>,<br /> 
  
+<hr />
+<hr noshade="" />
+ k2-1 frist page <br />
+   <ul class=" clearfix">><a href="   "></a>,<br /><font color="#ff0000"></font>,
+    <li> <a href="https://www.cse.cuhk.edu.hk/~jcheng">郑国强James Cheng</a>,<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font>, </li> :<br />          
+      <li> </li> 
+   
+   </ur>
 
 
 
- <hr />
+ 
     <div align="center">
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
         <br />
