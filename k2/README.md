@@ -56,14 +56,14 @@
 <div class="container" style="margin-top: 50px;">
      
   <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4><br />
-  <a href="http://www.hku.hk/">k1 The University of Hong Kong</a>, Unable to load the site ,Try accessing <a href="http://www.cs.hku.hk/">this website</a>. <br />
-  k1-1 frist page <br />
-  Admission for 2025-26,<a href="https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission "> the official website  </a>Department of Computer Science for Ph.D and MPhil student recruitment. Deadline ,Path:Home/Teaching &amp; Learning/MPhil-PhD/Admission.<br />
+  <a href=" https://www.cuhk.edu.hk/english/ ">k2 The Chinese University of Hong Kong.</a>,   <br />
+  k2-1 frist page <br />
+ <p> Admission for 2025-26,<a href="https://www.gs.cuhk.edu.hk/admissions/ "> Graduate School the official website  </a>The Faculty of Engineering /Department of Computer Science/Electronic Engineering/Information Engineering/ for Ph.D and MPhil student recruitment. Deadline ,Path:Home/Teaching &amp; Learning/MPhil-PhD/Admission.</p><br />
 
- <a href=" https://gradsch.hku.hk/prospective_students/research_areas">graduate school</a>,<br />
- <a href=" https://engg.hku.hk/">Faculty of Engineering</a>,<br />
- <a href="http://www.cs.hku.hk/">Department of Computer Science</a>,<br /> 
- <a href="https://www.cs.hku.hk/research/research-groups/">research-groups</a>.<br />
+ <a href=" https://www.gs.cuhk.edu.hk/admissions/">graduate school</a>,<br />
+ <a href=" https://www.erg.cuhk.edu.hk/erg/">Faculty of Engineering</a>,<br />
+ <a href=" https://www.cse.cuhk.edu.hk/">Department of Computer Science</a>,<br /> 
+ 
 
 
 
