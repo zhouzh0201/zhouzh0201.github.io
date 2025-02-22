@@ -66,20 +66,34 @@
  
 <hr />
 <hr noshade="" />
+
 <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
+ <p><a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:**</font></p>
  k2-1 frist page <br />
    <ul class=" clearfix"> 
-    <li> <a href="https://www.cse.cuhk.edu.hk/~jcheng">郑国强,</a>,James Cheng<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font>, </li>         
-      <li><a href="https://www.cse.cuhk.edu.hk/~qdou/team.html">窦琦Qi Dou</a> <<font color="#ff0000"> Openings (positions available all year round)Postdoctoral Fellow / Research Associate</font></li>
-      <li><a href="https://www.cse.cuhk.edu.hk/~cwfu">傅志荣,</a>Chi-Wing FU, Philip<font color="#ff0000">Now Looking for!!!</font>,New in 2025: Note: I always look for PhD candidates who are passionate in research, hardworking, creative, and well-motivated for high-quality research (AI+XR for medical data visualization + computational LEGO design)!</li>
-       <li><a href="https://tsungyiho.github.io ">何宗怡</a>,<font color="#ff0000">I am looking for motivated students who have strong algorithmic design and problem-solving skills; experience in ICPC would be a plus. If you are interested, please email me directly.</font>,</li> 
+    <li> <a href="https://www.cse.cuhk.edu.hk/~jcheng">**郑国强,</a>,James Cheng<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font>, </li>         
+      <li><a href="https://www.cse.cuhk.edu.hk/~qdou/team.html">**窦琦Qi Dou</a> <<font color="#ff0000"> Openings (positions available all year round)Postdoctoral Fellow / Research Associate</font></li>
+      <li><a href="https://www.cse.cuhk.edu.hk/~cwfu">**傅志荣,</a>Chi-Wing FU, Philip<font color="#ff0000">Now Looking for!!!</font>,New in 2025: Note: I always look for PhD candidates who are passionate in research, hardworking, creative, and well-motivated for high-quality research (AI+XR for medical data visualization + computational LEGO design)!</li>
+       <li><a href="https://tsungyiho.github.io ">**何宗怡</a>,<font color="#ff0000">I am looking for motivated students who have strong algorithmic design and problem-solving skills; experience in ICPC would be a plus. If you are interested, please email me directly.</font>,</li> 
         
-     <li><a href="https://www.cse.cuhk.edu.hk/irwin.king/ ">欧文·金</a>Irwin King,<font color="#ff0000">Multiple Positions Available (September 2024)Looking for qualified PhD candidates interested in trustworthy AI, machine learning, federated learning, graph neural networks, NLP, social computing, AI, data mining, or related fields to start in August 2025.</font>,Good self-financed candidates are also given priority.<a href=" https://misc-lab.cse.cuhk.edu.hk ">The Machine Intelligence and Social Computing (MISC) Lab</a>,</li> 
+     <li><a href="https://www.cse.cuhk.edu.hk/irwin.king/ ">**欧文·金</a>Irwin King,<font color="#ff0000">Multiple Positions Available (September 2024)Looking for qualified PhD candidates interested in trustworthy AI, machine learning, federated learning, graph neural networks, NLP, social computing, AI, data mining, or related fields to start in August 2025.</font>,Good self-financed candidates are also given priority.<a href=" https://misc-lab.cse.cuhk.edu.hk ">The Machine Intelligence and Social Computing (MISC) Lab</a>,</li> 
        
-   <li><a href="https://shao-hua-li.github.io">李少华</a>Shaohua Li<font color="#ff0000"> I am looking for PostDoc/Ph.D./RA/Intern students to join my group. If you’re interested, please drop me an email (shaohuali.cuhk@gmail.com) with your CV. See Openings for more details.</font></li>
-    <li><a href="https://liyu95.com">李煜 （Yu Li）</a><font color="#ff0000">Opening: Intern, PhD/Mphil students (Students with non-CS majors are very welcomed), Postdoc (HKD 540K per year).</font></li>
-    <li><a href=" ">欧文·金</a><font color="#ff0000"></font></li>
-    <li><a href=" ">欧文·金</a><font color="#ff0000"></font></li>
+   <li><a href="https://shao-hua-li.github.io">**李少华</a>Shaohua Li<font color="#ff0000"> I am looking for PostDoc/Ph.D./RA/Intern students to join my group. If you’re interested, please drop me an email (shaohuali.cuhk@gmail.com) with your CV. See Openings for more details.</font></li>
+    <li><a href="https://liyu95.com">**李煜 （Yu Li）</a><font color="#ff0000">Opening: Intern, PhD/Mphil students (Students with non-CS majors are very welcomed), Postdoc (HKD 540K per year).</font></li>
+    <li><a href=" https://www.cse.cuhk.edu.hk/people/faculty/hong-cheng">程宏</a><font color="#ff0000"></font></li>
+       <li><a href=" https://songtaogithub.github.io">**卢松涛</a><font color="#ff0000">Recruitment
+I am currently recruiting PhD students and research assistants/associates with a strong background in Computer Science, Mathematics, Statistics, and Electrical Engineering. If you are interested in joining my research group, please send me an email at songtaocuhk[@]gmail.com</font></li>
+   <li><a href="  ">欧文·金</a><font color="#ff0000"></font></li>
+            <li><a href=" https://appsrv.cse.cuhk.edu.hk/~ericlo/index.php">**卢志力</a>Eric Chi Lik Lo<font color="#ff0000">News [Feb 2025]: 2 PHD positions for <h3>2026 August </h3>are available.   </font>Applications please follow <a href="https://appsrv.cse.cuhk.edu.hk/~ericlo/?page_id=7">here</a>,Applicants please fill up this Google form in parallel to CUHK’s official application process.  I generally do not reply to applications that are sent by emails.</li>
+
+   <li><a href="  ">欧文·金</a><font color="#ff0000"></font></li>
+      <li><a href="  ">欧文·金</a><font color="#ff0000"></font></li>
+         <li><a href="  ">欧文·金</a><font color="#ff0000"></font></li>
+
+   <li><a href='  ">欧文·金</a><font color="#ff0000"></font></li>
+
+   <li><a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+           
    </ul>
 
 
