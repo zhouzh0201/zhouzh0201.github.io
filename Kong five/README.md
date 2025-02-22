@@ -44,7 +44,7 @@
            <li class="active"><a href="Kong five">Kong Five</a>
                <ul class="nav_item fadeInUp">
                   <li><a href="../k1">k1</a></li>
-                  <li><a href="kxyj/xsjl.htm">k2</a></li>
+                  <li><a href="..Kong five/k2">k2</a></li>
                 </ul>
            </li>
            <li><a href="../Contact me">Contact me</a></li>
@@ -208,15 +208,15 @@
                  </div>
                  <div class="item">
                     <ul class=" clearfix">
-                        <li class="active"><a href="https://zhouzh0201.github.io/k1/">26fall admisstion supervisor</a></li>
-                        <!--li><a href="https://zhouzh0201.github.io/k1/">lab&institute</a></li-->
-                        <!--li><a href="k1">research group</a></li-->                     
-                        <!--li><a href="k1">26fall open positions</a></li-->
+                        <li class="active"><a href="https://zhouzh0201.github.io/k2/">26fall admisstion supervisor</a></li>
+                        <!--li><a href="https://zhouzh0201.github.io/k2/">lab&institute</a></li-->
+                        <!--li><a href="k2">research group</a></li-->                     
+                        <!--li><a href="k2">26fall open positions</a></li-->
                     </ul>
                   </div>
                   <div class="cont">
                     <div class="cont-box latest" style="display: block;">
-                        <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>
+                        <a href="https://zhouzh0201.github.io/k2/" target="_blank" class="more">more</a>
                          
                         <ul class="clearfix">
 <li>    
