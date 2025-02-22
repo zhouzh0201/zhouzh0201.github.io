@@ -77,7 +77,7 @@
      <div class="region"> <h3>The University of Hong Kong</h3></div>
       <!--div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div-->
      <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
-      <!--%%%%%%%%%-->
+      <!--1.1 %%%%%%%%%-->
      <div class="index-three">
    
            <div class="container">
@@ -132,7 +132,7 @@
              </div>
            </div>     
 
-              <!--%%%%%%%%%-->
+              <!--1.2.%%%%%%%%%-->
      <!--div class="region"> *HKU  Department of Electrical and Electronic Engineering* </div-->
         <div class="index-second">
            <div class="container">
@@ -195,6 +195,71 @@
 
 
  <div class="region"> <h3>The Chinese  University of Hong  Kong   </h3></div>
+
+  <!--2.1.%%%%%%%%%-->
+     <div class="index-three">
+   
+           <div class="container">
+              <div class="index-notice">
+                 <div class="index-title  clearfix">
+                    <h5><img src="icon-new.png">  Department of Computer Science  </h5>   
+                 </div>
+                 <div class="item">
+                    <ul class=" clearfix">
+                        <li class="active"><a href="https://zhouzh0201.github.io/k1/">26fall admisstion supervisor</a></li>
+                        <!--li><a href="https://zhouzh0201.github.io/k1/">lab&institute</a></li-->
+                        <!--li><a href="k1">research group</a></li-->                     
+                        <!--li><a href="k1">26fall open positions</a></li-->
+                    </ul>
+                  </div>
+                  <div class="cont">
+                    <div class="cont-box latest" style="display: block;">
+                        <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>
+                         
+                        <ul class="clearfix">
+                        </ul>
+ 
+                         
+                       </div>
+                   </div>       
+               </div>
+            </div>
+         </div>     
+           <!--2.2%%%%%%%%%-->
+    <div class="index-second">
+           <div class="container">
+              <div class="index-notice">
+                 <div class="index-title  clearfix">
+                      <h5><img src="icon-new.png">Department of Electrical and Electronic Engineering </h5>  
+                 </div>
+
+               <div class="item">
+                    <ul class=" clearfix">
+                        <li class="active"><a href=" https://zhouzh0201.github.io/k1/ ">26fall admisstion supervisor</a></li>
+                        <!--li><a href="k1">Robotics </a></li-->
+                        <!--li><a href="k1">Embodied AI</a></li-->                     
+                         <!--li><a href="k1">26fall open positions</a></li-->
+                    </ul>
+                 </div>
+                    <div class="cont">
+                      <div class="cont-box latest" style="display: block;">
+                        <a href="https://zhouzh0201.github.io/k1/" class="more">more</a>
+                       <ul class="clearfix">
+
+                       
+                       </ul> 
+
+                      </div>                         
+                         
+                    </div>
+                 </div>       
+             </div>
+          </div>              
+     </div> 
+
+
+ <!--3.1%%%%%%%%%-->
+ 
  <div class="region"> <h3>The Hong Kong University of Science and Technology </h3></div>
  
      <div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div>
