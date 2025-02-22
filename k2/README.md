@@ -66,6 +66,7 @@
  
 <hr />
 <hr noshade="" />
+<h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
  k2-1 frist page <br />
    <ul class=" clearfix"> 
     <li> <a href="https://www.cse.cuhk.edu.hk/~jcheng">郑国强,</a>,James Cheng<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font>, </li>         
@@ -75,8 +76,8 @@
         
      <li><a href="https://www.cse.cuhk.edu.hk/irwin.king/ ">欧文·金</a>Irwin King,<font color="#ff0000">Multiple Positions Available (September 2024)Looking for qualified PhD candidates interested in trustworthy AI, machine learning, federated learning, graph neural networks, NLP, social computing, AI, data mining, or related fields to start in August 2025.</font>,Good self-financed candidates are also given priority.<a href=" https://misc-lab.cse.cuhk.edu.hk ">The Machine Intelligence and Social Computing (MISC) Lab</a>,</li> 
        
-   <li><a href=" ">欧文·金</a><font color="#ff0000"></font></li>
-    <li><a href=" ">欧文·金</a><font color="#ff0000"></font></li>
+   <li><a href="https://shao-hua-li.github.io">李少华</a>Shaohua Li<font color="#ff0000"> I am looking for PostDoc/Ph.D./RA/Intern students to join my group. If you’re interested, please drop me an email (shaohuali.cuhk@gmail.com) with your CV. See Openings for more details.</font></li>
+    <li><a href="https://liyu95.com">李煜 （Yu Li）</a><font color="#ff0000">Opening: Intern, PhD/Mphil students (Students with non-CS majors are very welcomed), Postdoc (HKD 540K per year).</font></li>
     <li><a href=" ">欧文·金</a><font color="#ff0000"></font></li>
     <li><a href=" ">欧文·金</a><font color="#ff0000"></font></li>
    </ul>
