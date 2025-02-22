@@ -67,10 +67,13 @@
 <hr />
 <hr noshade="" />
  k2-1 frist page <br />
-   <ul class=" clearfix">><a href="   "></a>,<br /><font color="#ff0000"></font>,
-    <li> <a href="https://www.cse.cuhk.edu.hk/~jcheng">郑国强James Cheng</a>,<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font>, </li> :<br />          
-      <li> </li> 
-   
+   <ul class=" clearfix"> 
+    <li> <a href="https://www.cse.cuhk.edu.hk/~jcheng">郑国强,</a>,James Cheng<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font>, </li>         
+      <li><a href="https://www.cse.cuhk.edu.hk/~qdou/team.html">Qi Dou</a> <<font color="#ff0000"> Openings (positions available all year round)Postdoctoral Fellow / Research Associate</font></li>
+      <li><a href="https://www.cse.cuhk.edu.hk/~cwfu">傅志荣,</a>Chi-Wing FU, Philip<font color="#ff0000">Now Looking for!!!</font>,New in 2025: Note: I always look for PhD candidates who are passionate in research, hardworking, creative, and well-motivated for high-quality research (AI+XR for medical data visualization + computational LEGO design)!</li>
+       <li><a href="   "></a>,<font color="#ff0000"></font>,</li> 
+<li><a href="   "></a>,<font color="#ff0000"></font>,</li> 
+       <li><a href="   "></a>,<font color="#ff0000"></font>,</li>  
    </ur>
 
 
