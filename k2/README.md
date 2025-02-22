@@ -89,16 +89,19 @@
 
      <li> <img src="../k2/redball.gif"> <a href=" https://appsrv.cse.cuhk.edu.hk/~ericlo/index.php">**卢志力</a>Eric Chi Lik Lo<font color="#ff0000">News [Feb 2025]: 2 PHD positions for 2026 August  are available. </font>Applications please follow <a href="https://appsrv.cse.cuhk.edu.hk/~ericlo/?page_id=7">here</a>,Applicants please fill up this Google form in parallel to CUHK’s official application process.  I generally do not reply to applications that are sent by emails.</li>
 
-   <li><img src="../k2/redball.gif"><a href="  ">欧文·金</a><font color="#ff0000"></font></li>
-      <li> <img src="../k2/redball.gif"> <a href="  ">欧文·金</a><font color="#ff0000"></font></li>
-         <li> <img src="../k2/redball.gif"> <a href="  ">欧文·金</a><font color="#ff0000"></font></li>
+   <li><img src="../k2/redball.gif"><a href="https://www.cse.cuhk.edu.hk/~taoyf">陶宇飞</a>Currently, <font color="#ff0000">there is a PhD opening </font>under my supervision.The accepted student is expected to research on both practical and theoretical algorithms on large-scale data.</li>
+   
+      <li> <img src="../k2/redball.gif"> <a href="https://lwwangcse.github.io">王立伟</a><font color="#ff0000">We are hiring </font>Researchers, Interns, Postdocs and Phd students to work on topics of Embodied AI, Vision+Language, LLMs, and multi-modal LLMs.If you want to join LaVi Lab, please send an email to lwwang@cse.cuhk.edu.hk</li>
+        
 
-   <li> <img src="../k2/redball.gif"> <a href='  ">欧文·金</a><font color="#ff0000"></font></li>
-
+   <li> <img src="../k2/redball.gif"> <a href="https://cure-lab.github.io/">徐强</a><font color="#ff0000">Openings:</font> Our lab has several openings for self-motivated Ph.D. students, post-docs, and visiting interns/scholars. Please send your CV to Prof. Xu if your are interested.</li>
+   
+ <li> <img src="../k2/redball.gif"> <a href=" https://www.cse.cuhk.edu.hk/~byu">蓓宇</a>Bei Yu<font color="#ff0000">I am always looking </font>for motivated graduate students with background in computer science, microelectronics, electronic engineering, or mathematics, working on research fields of 1) hardware friendly computer vision; and/or 2) machine learning in EDA. Besides, currently my group has 1-2 post-doc positions in research field of machine learning in EDA.</li>
+ 
    <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
            
    </ul>
-
+陶宇飞
 
 
  
