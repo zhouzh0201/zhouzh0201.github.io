@@ -142,7 +142,14 @@ Solid State Electronics & Photonics Group:<br/>
  
 
 
-     <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+     <li> <img src="../k2/redball.gif"> <a href= "http://www.ee.cuhk.edu.hk/~ctshu ">許正德</a>Prof SHU， Chester Ching Tat<font color="#ff0000">We are now looking for motivated students, </font>postdoctoral fellows,and research staff to join our team. The research positions are immediately availabl.Oppotunities for Postgraduate Studies,We plan to recuit several graduate students in the upcoming academic year. </li>
+     <div class="container">
+				<div class="row"> 
+					<marquee scrolldelay="1" height="50px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
+						We are now looking for motivated students, postdoctoral fellows, and research staff to join our team.  The research positions are immediately available! 
+					</marquee>
+         </div>
+       </div>
         <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
   <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
   <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
