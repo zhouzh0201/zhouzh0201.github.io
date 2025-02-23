@@ -175,9 +175,7 @@
       </p> <br/>
    </a>
 </li>                                                 
-<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                           
-                         
-                         
+<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                                  
                          </ul> 
  <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
    <span class="p_no_d">1</span>
@@ -221,14 +219,9 @@
                         <ul class="clearfix">
        <li>  <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~jcheng">**郑国强,</a>James Cheng<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font> </li>                             
       <li> <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/irwin.king/ ">**欧文·金</a>Irwin King,<font color="#ff0000">Multiple Positions Available </font>(September 2024)Looking for qualified PhD candidates interested in trustworthy AI, machine learning, federated learning, graph neural networks, NLP, social computing, AI, data mining, or related fields to start in August 2025.,Good self-financed candidates are also given priority.<a href=" https://misc-lab.cse.cuhk.edu.hk ">The Machine Intelligence and Social Computing (MISC) Lab</a>,</li>    
-       <li> <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~cslui">**吕志祥</a>John C.S. Lui,       <font color="#ff0000"> We are now seeking Ph.D students to join our dynamic group:<a href="https://www.cse.cuhk.edu.hk/~cslui/potential_students.html"> Important information for potential Ph.D students</a></font>.<a href="http://ansrlab.cse.cuhk.edu.hk">/Advanced Networking and System Research Laboratory</a> <font color="#ff0000"> <a href="http://ansrlab.cse.cuhk.edu.hk/recruitment">/Recruitment</a>: </font>We are recruiting motivated graduate students and post-docs. Please contact Prof. John C.S. Lui via email   </li>
-  
-
-                 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                           
+       <li> <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~cslui">**吕志祥</a>John C.S. Lui,       <font color="#ff0000"> We are now seeking Ph.D students to join our dynamic group:<a href="https://www.cse.cuhk.edu.hk/~cslui/potential_students.html"> Important information for potential Ph.D students</a></font>.<a href="http://ansrlab.cse.cuhk.edu.hk">/Advanced Networking and System Research Laboratory</a> <font color="#ff0000"> <a href="http://ansrlab.cse.cuhk.edu.hk/recruitment">/Recruitment</a>: </font>We are recruiting motivated graduate students and post-docs. Please contact Prof. John C.S. Lui via email   </li>           <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                           
                                 
-                        </ul>
- 
-                         
+                        </ul>                 
                        </div>
                    </div>       
                </div>
@@ -241,7 +234,6 @@
                  <div class="index-title  clearfix">
                       <h5><img src="icon-new.png">Department of Electrical and Electronic Engineering </h5>  
                  </div>
-
                <div class="item">
                     <ul class=" clearfix">
                         <li class="active"><a href=" https://zhouzh0201.github.io/k2/ ">26fall admisstion supervisor</a></li>
@@ -255,12 +247,12 @@
                         <a href="https://zhouzh0201.github.io/k2/" class="more">more</a>
                        <ul class="clearfix">
      
-   <li><img src="../k2/redball.gif"/><a href="http://www.labren.org/mm">任洪亮教授/Prof REN, Hongliang</a><font color="#ff0000">There are multiple openings </font> for Postdoc/RA (and Visiting Scholar/Prof/Ph.D.) to perform research on Medical Robotics Perception &amp; AI </li>
-<li><img src="../k2/redball.gif"/><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a><br/>
-</li> 
+<li><img src="../k2/redball.gif"/><a href="http://www.labren.org/mm">任洪亮教授/Prof REN, Hongliang</a><font color="#ff0000">There are multiple openings </font> for Postdoc/RA (and Visiting Scholar/Prof/Ph.D.) to perform research on Medical Robotics Perception &amp; AI </li>
+<li><img src="../k2/redball.gif"/><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a> </li>
+<li> <img src="../k2/redball.gif"> <a href= "http://www.ee.cuhk.edu.hk/~ctshu ">許正德</a>Prof SHU， Chester Ching Tat<font color="#ff0000">We are now looking for motivated students, </font>postdoctoral fellows,and research staff to join our team. The research positions are immediately availabl.Oppotunities for Postgraduate Studies,We plan to recuit several graduate students in the upcoming academic year. </li> 
 
-          <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                           
-                                      
+
+<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                                  
                        </ul> 
 <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
    <span class="p_no_d">1</span>
