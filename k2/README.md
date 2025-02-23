@@ -62,13 +62,12 @@
 
  <a href=" https://www.gs.cuhk.edu.hk/admissions/">graduate school</a>,<br />
  <a href=" https://www.erg.cuhk.edu.hk/erg/">Faculty of Engineering</a>,<br />
- <a href=" https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a>,<br /> 
  
-<hr />
-<hr noshade="" />
-
+ <hr noshade="" />
+ 
+ <a href=" https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a>,<br /> 
 <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
- <p><a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:**</font></p>
+ <p><a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:</font></p>
  k2-1 frist page <br />
  
 <p>Artificial Intelligence:
@@ -80,7 +79,7 @@ Computer Graphics://
 志永福/Chi Wing Fu//
 冯平福/Michael Ping Fu Fung//
 Pheng Ann Heng//
-石秋/Shi Qiu//
+石秋/Shi Qiu//<br />
 Computer Vision://
 程宇/Yu Cheng//
 张志强/Jackey Cheung//
@@ -117,8 +116,9 @@ Computer Vision://
      <li> <img src="../k2/redball.gif"> <a href=" https://www.cse.cuhk.edu.hk/~byu">蓓宇</a>Bei Yu<font color="#ff0000">I am always looking </font>for motivated graduate students with background in computer science, microelectronics, electronic engineering, or mathematics, working on research fields of 1) hardware friendly computer vision; and/or 2) machine learning in EDA. Besides, currently my group has 1-2 post-doc positions in research field of machine learning in EDA.</li>
  <!--****************-->
  
- 
- <p>  <a href=" http://www.ee.cuhk.edu.hk/en-gb ">Department of Electronic Engineering</a>,</P><br /> 
+  <hr noshade="" />
+<p> k2-2 frist page</p> <br/>
+ <p>  <a href=" http://www.ee.cuhk.edu.hk/en-gb ">Department of Electronic Engineering</a>,</P><br/> 
 <p>Fields of Specialization
 Our department has four research groups covering various research areas:
 <li><a href="http://www.ee.cuhk.edu.hk/en-gb/research/research-groups/robotics-perception-and-ai-group">Robotics, Perception and AI Group</a></li>
@@ -126,7 +126,7 @@ Our department has four research groups covering various research areas:
             AI, pattern recognition, and human machine interaction/  Intelligent and integrated systems<br/>
 <li><img src="../k2/redball.gif"> <a href="http://www.ee.cuhk.edu.hk/~qhmeng">/孟慶虎/Prof MENG, Max Qing Hu</a>Emeritus Professors.</li>
 <li><img src="../k2/redball.gif"><a href="http://www.labren.org/mm">任洪亮教授/Prof REN, Hongliang</a><font color="#ff0000">There are multiple openings </font> for Postdoc/RA (and Visiting Scholar/Prof/Ph.D.) to perform research on Medical Robotics Perception & AI </li>
-<li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a>
+<li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a><br/>
   
 Multimedia & Signal Processing Group:
             Image and Video Processing/ Signal and Data Science<br/>
@@ -138,7 +138,7 @@ BLU 教授 Thierry/Prof BLU, Thierry
 李吉洲 教授/Prof. LI, Jizhou
 马永健教授/Prof. MA, Ken Wing Kin
 王小刚教授/Prof. WANG, Xiaogang
-袁义轩教授/Prof. YUAN, Yixuan
+袁义轩教授/Prof. YUAN, Yixuan<br/>
 Integrated Circuits & Systems Group:
             Microwave & Wireless Communications/ VLSI & ASIC/Energy Conversion/<br/>
 Solid State Electronics & Photonics Group:<br/>
@@ -146,7 +146,7 @@ Solid State Electronics & Photonics Group:<br/>
  
  <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
  <p><a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:**</font></p>
- k2-2 frist page <br/>
+ 
 
      <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
         <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
