@@ -54,18 +54,18 @@
 </body>
 
 <div class="container" style="margin-top: 50px;"> 
-  <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4><br />
+  <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
   <a href=" https://www.cuhk.edu.hk/english/ ">k2 The Chinese University of Hong Kong.</a>,   <br />
- <p> Admission for 2025-26,<a href="https://www.gs.cuhk.edu.hk/admissions/ "> Graduate School the official website  </a>The Faculty of Engineering /Department of Computer Science/Electronic Engineering/Information Engineering/ for Ph.D and MPhil student recruitment.  </p><br />
+ <p> Admission for 2025-26,<a href="https://www.gs.cuhk.edu.hk/admissions/ "> Graduate School the official website  </a>The Faculty of Engineering /Department of Computer Science/Electronic Engineering/Information Engineering/ for Ph.D and MPhil student recruitment.  </p>
  <a href=" https://www.gs.cuhk.edu.hk/admissions/">graduate school</a>,<br />
  <a href=" https://www.erg.cuhk.edu.hk/erg/">Faculty of Engineering</a>,<br />
  
  <hr noshade="" />
  
   k2-1 frist page <br />
- <a href=" https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a>,<br /> 
+ <a href=" https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a>.
 <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
- <p><a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:</font></p>
+ <a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:</font>
 <p>Artificial Intelligence:
 Bioinformatics /Deep Learning/Human Computer Interaction/Machine Learning/Medical Image /Analysis</p>
 <p>Rich Media:
