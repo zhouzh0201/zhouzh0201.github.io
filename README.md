@@ -93,10 +93,12 @@
                
               <div class="rsContent">
                 <a href="" target="_blank">
-                   <img class="rsImg" src="2025xinnian.jpg" alt="" />
-                   <img class="rsImg" src="2025021802.jpg" alt""/>
+                   <img class="rsImg" src="2025xinnian.jpg" alt="" />     </a>
+            
+                   <a href="" target="_blank">
+                   <img class="rsImg" src="2025021802.jpg" alt""/> </a>
                    <!--img src="2025xinnian.jpg" height="150px" width="200%"/-->
-                </a>
+              
               </div>
               <!--********-->
             </div>
