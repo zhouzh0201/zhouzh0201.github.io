@@ -74,16 +74,17 @@
 </style>
  <body>
    <div class="container">
-     <!----*************------>
-  <div class="container">
-				<div class="row"> 
-					<marquee scrolldelay="1" height="50px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
-						We are now looking for motivated students, postdoctoral fellows, and research staff to join our team.  The research positions are immediately available! 
-					</marquee>
-         </div>
-       </div>
-  <!----*************------>   
+  
      <div class="region"> <h3>The University of Hong Kong</h3></div>
+   <!----*************------>
+  <div class="container">
+     <div class="row"> 
+	<marquee scrolldelay="1" height="50px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
+	We are now looking for motivated students, postdoctoral fellows, and research staff to join our team.  The research positions are immediately available! 
+	 </marquee>
+        </div>
+     </div>
+  <!----*************------>    
       <!--div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div-->
      <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
       <!--1.1 %%%%%%%%%-->
