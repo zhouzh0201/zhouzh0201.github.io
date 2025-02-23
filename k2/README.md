@@ -114,10 +114,10 @@ Computer Vision://
  
   <hr noshade="" />
   
- <p> k2-2 second page</p> <br/>
- <p>  <a href=" http://www.ee.cuhk.edu.hk/en-gb ">Department of Electronic Engineering</a>,</P><br/> 
- <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font><a href="http://www.ee.cuhk.edu.hk/en-gb/curriculum/mphil-phd-programme/research-area">
-   <font color="#ff6ec7">supervisor:</font></a></h3>
+ <p> k2-2 second page</p>
+ <p>  <a href=" http://www.ee.cuhk.edu.hk/en-gb ">Department of Electronic Engineering</a>,</P>
+ <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
+ <a href="http://www.ee.cuhk.edu.hk/en-gb/curriculum/mphil-phd-programme/research-area"> <font color="#ff6ec7">supervisor:</font></a>
 Our department has four research groups covering various research areas:
 <li><a href="http://www.ee.cuhk.edu.hk/en-gb/research/research-groups/robotics-perception-and-ai-group">Robotics, Perception and AI Group</a></li>
             Robotics with medical, service, and industrial applications/ Perception, sensors and computer vision ,  AI, pattern recognition, and human machine interaction/  Intelligent and integrated systems<br/>
