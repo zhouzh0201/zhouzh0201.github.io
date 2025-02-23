@@ -123,14 +123,14 @@ Our department has four research groups covering various research areas:
             Robotics with medical, service, and industrial applications/ Perception, sensors and computer vision ,  AI, pattern recognition, and human machine interaction/  Intelligent and integrated systems<br/>
 <li><img src="../k2/redball.gif"> <a href="http://www.ee.cuhk.edu.hk/~qhmeng">/孟慶虎/Prof MENG, Max Qing Hu</a>Emeritus Professors.</li>
 <li><img src="../k2/redball.gif"><a href="http://www.labren.org/mm">任洪亮教授/Prof REN, Hongliang</a><font color="#ff0000">There are multiple openings </font> for Postdoc/RA (and Visiting Scholar/Prof/Ph.D.) to perform research on Medical Robotics Perception & AI </li>
-<li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a><br/>
-  
+<li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a> 
+  </li>
 Multimedia & Signal Processing Group:  Image and Video Processing/ Signal and Data Science<br/>
 BLU 教授 Thierry/Prof BLU, Thierry
-程柏聪教授/Prof. CHING, Pak Chung
-孔秋强教授/Prof. KONG, Qiuqiang
+<li><img src="../k2/redball.gif"><a href="http://dsp.ee.cuhk.edu.hk">程柏聪教授/Prof. CHING, Pak Chung</a><font color="#ff0000">We welcome PhD applicants, </font>undergraduate research interns and visiting researchers.</li>
+<li><img src="../k2/redball.gif"><a href="https://qiuqiangkong.github.io">孔秋强教授/Prof. KONG, Qiuqiang</a><font color="#ff0000">Open positions for RAs, PhD, Postdocs, </font>and visitors are available. Please contact Qiuqiang Kong via email.</li>
 陈李教授/Prof. LEE, Tan
-李宏生教授/Prof. LI, Hongsheng
+<li><img src="../k2/redball.gif"><a href="https://mmlab.ie.cuhk.edu.hk/join_us.html">李宏生教授/Prof. LI, Hongsheng</a><font color="#ff0000">  The lab is constantly looking for motivated graduate students</font> and postdocs who have solid mathematical skills and interests in computer vision and machine learning. For further information on the positions, please send email with CV to mmlab_contact at ie cuhk edu hk.</li>
 李吉洲 教授/Prof. LI, Jizhou
 马永健教授/Prof. MA, Ken Wing Kin
 王小刚教授/Prof. WANG, Xiaogang
