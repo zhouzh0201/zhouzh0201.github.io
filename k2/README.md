@@ -53,17 +53,15 @@
   </nav> 
 </body>
 
-<div class="container" style="margin-top: 50px;">
-     
+<div class="container" style="margin-top: 50px;"> 
   <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4><br />
   <a href=" https://www.cuhk.edu.hk/english/ ">k2 The Chinese University of Hong Kong.</a>,   <br />
- 
  <p> Admission for 2025-26,<a href="https://www.gs.cuhk.edu.hk/admissions/ "> Graduate School the official website  </a>The Faculty of Engineering /Department of Computer Science/Electronic Engineering/Information Engineering/ for Ph.D and MPhil student recruitment.  </p><br />
-
  <a href=" https://www.gs.cuhk.edu.hk/admissions/">graduate school</a>,<br />
  <a href=" https://www.erg.cuhk.edu.hk/erg/">Faculty of Engineering</a>,<br />
  
  <hr noshade="" />
+ 
   k2-1 frist page <br />
  <a href=" https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a>,<br /> 
 <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
@@ -115,22 +113,22 @@ Computer Vision://
  <!--****************-->
  
   <hr noshade="" />
-<p> k2-2 second page</p> <br/>
+  
+ <p> k2-2 second page</p> <br/>
+ 
  <p>  <a href=" http://www.ee.cuhk.edu.hk/en-gb ">Department of Electronic Engineering</a>,</P><br/> 
-<p>Fields of Specialization
- <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
- <p><a href="http://www.ee.cuhk.edu.hk/en-gb/curriculum/mphil-phd-programme/research-area"><font color="#ff6ec7">supervisor:</font></a></p>
+ <p> <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
+<a href="http://www.ee.cuhk.edu.hk/en-gb/curriculum/mphil-phd-programme/research-area">
+   <font color="#ff6ec7">supervisor:</font></a></p>
  
 Our department has four research groups covering various research areas:
 <li><a href="http://www.ee.cuhk.edu.hk/en-gb/research/research-groups/robotics-perception-and-ai-group">Robotics, Perception and AI Group</a></li>
-            Robotics with medical, service, and industrial applications/ Perception, sensors and computer vision<br/>
-            AI, pattern recognition, and human machine interaction/  Intelligent and integrated systems<br/>
+            Robotics with medical, service, and industrial applications/ Perception, sensors and computer vision ,  AI, pattern recognition, and human machine interaction/  Intelligent and integrated systems<br/>
 <li><img src="../k2/redball.gif"> <a href="http://www.ee.cuhk.edu.hk/~qhmeng">/孟慶虎/Prof MENG, Max Qing Hu</a>Emeritus Professors.</li>
 <li><img src="../k2/redball.gif"><a href="http://www.labren.org/mm">任洪亮教授/Prof REN, Hongliang</a><font color="#ff0000">There are multiple openings </font> for Postdoc/RA (and Visiting Scholar/Prof/Ph.D.) to perform research on Medical Robotics Perception & AI </li>
 <li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a><br/>
   
-Multimedia & Signal Processing Group:
-            Image and Video Processing/ Signal and Data Science<br/>
+Multimedia & Signal Processing Group:  Image and Video Processing/ Signal and Data Science<br/>
 BLU 教授 Thierry/Prof BLU, Thierry
 程柏聪教授/Prof. CHING, Pak Chung
 孔秋强教授/Prof. KONG, Qiuqiang
