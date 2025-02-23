@@ -62,7 +62,7 @@
 
  <a href=" https://www.gs.cuhk.edu.hk/admissions/">graduate school</a>,<br />
  <a href=" https://www.erg.cuhk.edu.hk/erg/">Faculty of Engineering</a>,<br />
- <a href=" https://www.cse.cuhk.edu.hk/">Department of Computer Science</a>,<br /> 
+ <a href=" https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a>,<br /> 
  
 <hr />
 <hr noshade="" />
@@ -70,8 +70,26 @@
 <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
  <p><a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:**</font></p>
  k2-1 frist page <br />
-
  
+<p>Artificial Intelligence:
+Bioinformatics /Deep Learning/Human Computer Interaction/Machine Learning/Medical Image /Analysis</p>
+<p>Rich Media:
+AR/VR/Computer Graphics/Computer Vision/Visualization </p>
+Computer Graphics://
+严彬崔/Yim Pan Chui //
+志永福/Chi Wing Fu//
+冯平福/Michael Ping Fu Fung//
+Pheng Ann Heng//
+石秋/Shi Qiu//
+Computer Vision://
+程宇/Yu Cheng//
+张志强/Jackey Cheung//
+志永福/Chi Wing Fu//
+何泉锦/Ho Chuen Kam//
+刘云辉/Yunhui Liu//
+石秋/Shi Qiu//
+王立伟/Liwei Wang//
+蓓宇Bei Yu//
    <ul class=" clearfix"> 
     <li>  <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~jcheng">**郑国强,</a>James Cheng<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font> </li>         
     <li> <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~qdou/team.html">**窦琦Qi Dou</a> <<font color="#ff0000"> Openings (positions available all year round)Postdoctoral Fellow / Research Associate</font></li>
@@ -97,9 +115,46 @@
      <li> <img src="../k2/redball.gif"> <a href="https://cure-lab.github.io/">徐强</a><font color="#ff0000">Openings:</font> Our lab has several openings for self-motivated Ph.D. students, post-docs, and visiting interns/scholars. Please send your CV to Prof. Xu if your are interested.</li>
    
      <li> <img src="../k2/redball.gif"> <a href=" https://www.cse.cuhk.edu.hk/~byu">蓓宇</a>Bei Yu<font color="#ff0000">I am always looking </font>for motivated graduate students with background in computer science, microelectronics, electronic engineering, or mathematics, working on research fields of 1) hardware friendly computer vision; and/or 2) machine learning in EDA. Besides, currently my group has 1-2 post-doc positions in research field of machine learning in EDA.</li>
+ <!--****************-->
  
+ 
+ <p>  <a href=" http://www.ee.cuhk.edu.hk/en-gb ">Department of Electronic Engineering</a>,</P><br /> 
+<p>Fields of Specialization
+Our department has four research groups covering various research areas:
+<li><a href="http://www.ee.cuhk.edu.hk/en-gb/research/research-groups/robotics-perception-and-ai-group">Robotics, Perception and AI Group</a></li>
+            Robotics with medical, service, and industrial applications/ Perception, sensors and computer vision<br/>
+            AI, pattern recognition, and human machine interaction/  Intelligent and integrated systems<br/>
+<li><img src="../k2/redball.gif"> <a href="http://www.ee.cuhk.edu.hk/~qhmeng">/孟慶虎/Prof MENG, Max Qing Hu</a>Emeritus Professors.</li>
+<li><img src="../k2/redball.gif"><a href="http://www.labren.org/mm">任洪亮教授/Prof REN, Hongliang</a><font color="#ff0000">There are multiple openings </font> for Postdoc/RA (and Visiting Scholar/Prof/Ph.D.) to perform research on Medical Robotics Perception & AI </li>
+<li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a>
+  
+Multimedia & Signal Processing Group:
+            Image and Video Processing/ Signal and Data Science<br/>
+BLU 教授 Thierry/Prof BLU, Thierry
+程柏聪教授/Prof. CHING, Pak Chung
+孔秋强教授/Prof. KONG, Qiuqiang
+陈李教授/Prof. LEE, Tan
+李宏生教授/Prof. LI, Hongsheng
+李吉洲 教授/Prof. LI, Jizhou
+马永健教授/Prof. MA, Ken Wing Kin
+王小刚教授/Prof. WANG, Xiaogang
+袁义轩教授/Prof. YUAN, Yixuan
+Integrated Circuits & Systems Group:
+            Microwave & Wireless Communications/ VLSI & ASIC/Energy Conversion/<br/>
+Solid State Electronics & Photonics Group:<br/>
+            Photonics & Optical Communications/Solid-State Electronics</p><br/>
+ 
+ <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
+ <p><a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:**</font></p>
+ k2-2 frist page <br/>
+
      <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
-           
+        <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+       <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>   
    </ul>
  
 
