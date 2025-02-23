@@ -121,27 +121,28 @@ Computer Vision://
 Our department has four research groups covering various research areas:
 <li><a href="http://www.ee.cuhk.edu.hk/en-gb/research/research-groups/robotics-perception-and-ai-group">Robotics, Perception and AI Group</a></li>
             Robotics with medical, service, and industrial applications/ Perception, sensors and computer vision ,  AI, pattern recognition, and human machine interaction/  Intelligent and integrated systems<br/>
+	    
 <li><img src="../k2/redball.gif"> <a href="http://www.ee.cuhk.edu.hk/~qhmeng">/孟慶虎/Prof MENG, Max Qing Hu</a>Emeritus Professors.</li>
 <li><img src="../k2/redball.gif"><a href="http://www.labren.org/mm">任洪亮教授/Prof REN, Hongliang</a><font color="#ff0000">There are multiple openings </font> for Postdoc/RA (and Visiting Scholar/Prof/Ph.D.) to perform research on Medical Robotics Perception & AI </li>
-<li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a> 
-  </li>
+<li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张元亭教授/Prof. ZHANG, Yuan Ting</a> </li>
+  
 Multimedia & Signal Processing Group:  Image and Video Processing/ Signal and Data Science<br/>
-BLU 教授 Thierry/Prof BLU, Thierry
-<li><img src="../k2/redball.gif"><a href="http://dsp.ee.cuhk.edu.hk">程柏聪教授/Prof. CHING, Pak Chung</a><font color="#ff0000">We welcome PhD applicants, </font>undergraduate research interns and visiting researchers.</li>
+<!--BLU 教授 Thierry/Prof BLU, Thierry-->
+<li><img src="../k2/redball.gif"><a href="http://dsp.ee.cuhk.edu.hk">Digital signal processing (DSP)程柏聪教授/Prof. CHING, Pak Chung</a><font color="#ff0000">We welcome PhD applicants, </font>undergraduate research interns and visiting researchers.</li>
 <li><img src="../k2/redball.gif"><a href="https://qiuqiangkong.github.io">孔秋强教授/Prof. KONG, Qiuqiang</a><font color="#ff0000">Open positions for RAs, PhD, Postdocs, </font>and visitors are available. Please contact Qiuqiang Kong via email.</li>
-陈李教授/Prof. LEE, Tan
+<!--李丹教授/Prof. LEE, Tan-->
 <li><img src="../k2/redball.gif"><a href="https://mmlab.ie.cuhk.edu.hk/join_us.html">李宏生教授/Prof. LI, Hongsheng</a><font color="#ff0000">  The lab is constantly looking for motivated graduate students</font> and postdocs who have solid mathematical skills and interests in computer vision and machine learning. For further information on the positions, please send email with CV to mmlab_contact at ie cuhk edu hk.</li>
-李吉洲 教授/Prof. LI, Jizhou
-马永健教授/Prof. MA, Ken Wing Kin
-王小刚教授/Prof. WANG, Xiaogang
-袁义轩教授/Prof. YUAN, Yixuan<br/>
+<li><img src="../k2/redball.gif"><a href="http://jizhou.li">李吉洲 教授/Prof. LI, Jizhou</a><font color="#ff0000">Opening</font>We are seeking highly self-motivated candidates for PhD students  </li>
+<li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/~wkma">Digital signal processing (DSP)马永健教授/Prof. MA, Ken Wing Kin</a><font color="#ff0000">For these projects</font> there are vacancies for postgraduate scholarships leading to M.Phil. or Ph.D. degree. For suitable Ph.D. holders, research positions might be considered. </li>
+<li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/~xgwang">王小刚教授/Prof. WANG, Xiaogang</a><font color="#ff0000">Positions for postdoc and research assistant</font> on deep learning and computer vision are available. I am also looking for software engineers. Our department is also recruiting tenure-tracked assistant processor and research assistant professor on computer vision.
+</li>
+<li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/~yxyuan">袁义轩教授/Prof. YUAN, Yixuan</a><font color="#ff0000">机会</font>We look for highly motivated students to join us</li> 
+
 Integrated Circuits & Systems Group:
             Microwave & Wireless Communications/ VLSI & ASIC/Energy Conversion/<br/>
 Solid State Electronics & Photonics Group:<br/>
             Photonics & Optical Communications/Solid-State Electronics</p><br/>
  
-
-
      <li> <img src="../k2/redball.gif"> <a href= "http://www.ee.cuhk.edu.hk/~ctshu ">許正德</a>Prof SHU， Chester Ching Tat<font color="#ff0000">We are now looking for motivated students, </font>postdoctoral fellows,and research staff to join our team. The research positions are immediately availabl.Oppotunities for Postgraduate Studies,We plan to recuit several graduate students in the upcoming academic year. </li>
      <div class="container">
 				<div class="row"> 
@@ -150,7 +151,8 @@ Solid State Electronics & Photonics Group:<br/>
 					</marquee>
          </div>
        </div>
-        <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+        <li> <img src="../k2/redball.gif"> <a href="https://samlai.me">賴捷文</a>Jiewen Lai<font color="#ff0000">interested in flexible robot Opportunities</font>MPhil (2025Fall)/Full time RA: The candidate will work on flexible robots concerning </li>
+	
   <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
   <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
   <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
@@ -158,7 +160,9 @@ Solid State Electronics & Photonics Group:<br/>
        <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>   
    </ul>
  
-
+<!--****************-->
+ 
+  <hr noshade="" />
 
  
     <div align="center">
