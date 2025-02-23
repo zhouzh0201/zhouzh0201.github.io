@@ -97,9 +97,8 @@
 	       </div>   
                <div class="rsContent">
                    <a href="" target="_blank">
-                   <img class="rsImg" src="2025021802.jpg" alt"" /> </a>
+                   <img class="rsImg" src="2025021802.jpg" alt="" /> </a>
                    <!--img src="2025xinnian.jpg" height="150px" width="200%"/-->
-              
                </div>
               <!--********-->
             </div>
