@@ -64,12 +64,10 @@
  <a href=" https://www.erg.cuhk.edu.hk/erg/">Faculty of Engineering</a>,<br />
  
  <hr noshade="" />
- 
+  k2-1 frist page <br />
  <a href=" https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a>,<br /> 
 <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
  <p><a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:</font></p>
- k2-1 frist page <br />
- 
 <p>Artificial Intelligence:
 Bioinformatics /Deep Learning/Human Computer Interaction/Machine Learning/Medical Image /Analysis</p>
 <p>Rich Media:
@@ -117,7 +115,10 @@ Computer Vision://
  <!--****************-->
  
   <hr noshade="" />
-<p> k2-2 frist page</p> <br/>
+<p> k2-2 second page</p> <br/>
+ <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
+ <p><a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:**</font></p>
+ 
  <p>  <a href=" http://www.ee.cuhk.edu.hk/en-gb ">Department of Electronic Engineering</a>,</P><br/> 
 <p>Fields of Specialization
 Our department has four research groups covering various research areas:
@@ -144,9 +145,7 @@ Integrated Circuits & Systems Group:
 Solid State Electronics & Photonics Group:<br/>
             Photonics & Optical Communications/Solid-State Electronics</p><br/>
  
- <h3><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h3>
- <p><a href="https://www.cse.cuhk.edu.hk/research/artificial-intelligence">artificial-intelligence</a><font color="#ff0000">supervisor:**</font></p>
- 
+
 
      <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
         <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
