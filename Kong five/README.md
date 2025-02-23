@@ -254,9 +254,9 @@
                       <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k2/" class="more">more</a>
                        <ul class="clearfix">
-<li>    
-   <li><img src="../k2/redball.gif" /><a href="http://www.labren.org/mm">任洪亮教授/Prof REN, Hongliang</a><font color="#ff0000">There are multiple openings </font> for Postdoc/RA (and Visiting Scholar/Prof/Ph.D.) to perform research on Medical Robotics Perception &amp; AI </li>
-<li><img src="../k2/redball.gif" /><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a><br />
+     
+   <li><img src="../k2/redball.gif"/><a href="http://www.labren.org/mm">任洪亮教授/Prof REN, Hongliang</a><font color="#ff0000">There are multiple openings </font> for Postdoc/RA (and Visiting Scholar/Prof/Ph.D.) to perform research on Medical Robotics Perception &amp; AI </li>
+<li><img src="../k2/redball.gif"/><a href="http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-zhang-yuan-ting">张袁婷教授/Prof. ZHANG, Yuan Ting</a><br/>
 </li> 
 
           <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                           
