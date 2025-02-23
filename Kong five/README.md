@@ -74,9 +74,16 @@
 </style>
  <body>
    <div class="container">
-  
      <div class="region"> <h3>The University of Hong Kong</h3></div>
-   <!----*************------>
+      <!--div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div-->
+     <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
+      <!--1.1 %%%%%%%%%-->
+     <div class="index-three">
+           <div class="container">
+              <div class="index-notice">
+                 <div class="index-title  clearfix">
+                    <h5><img src="icon-new.png">  Department of Computer Science  </h5>
+         <!----*************------>
   <div class="container">
      <div class="row"> 
 	<marquee scrolldelay="1" height="50px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
@@ -84,17 +91,7 @@
 	 </marquee>
         </div>
      </div>
-  <!----*************------>    
-      <!--div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div-->
-     <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
-      <!--1.1 %%%%%%%%%-->
-     <div class="index-three">
-   
-           <div class="container">
-              <div class="index-notice">
-                 <div class="index-title  clearfix">
-                    <h5><img src="icon-new.png">  Department of Computer Science  </h5>
-                    
+  <!----*************------>                  
                  </div>
                  <div class="item">
                     <ul class=" clearfix">
