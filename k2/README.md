@@ -143,7 +143,7 @@ Integrated Circuits & Systems Group:
 Solid State Electronics & Photonics Group:<br/>
             Photonics & Optical Communications/Solid-State Electronics</p><br/>
  
-     <li> <img src="../k2/redball.gif"> <a href= "http://www.ee.cuhk.edu.hk/~ctshu ">許正德</a>Prof SHU， Chester Ching Tat<font color="#ff0000">We are now looking for motivated students, </font>postdoctoral fellows,and research staff to join our team. The research positions are immediately availabl.Oppotunities for Postgraduate Studies,We plan to recuit several graduate students in the upcoming academic year. </li>
+ <li> <img src="../k2/redball.gif"> <a href= "http://www.ee.cuhk.edu.hk/~ctshu ">許正德</a>Prof SHU， Chester Ching Tat<font color="#ff0000">We are now looking for motivated students, </font>postdoctoral fellows,and research staff to join our team. The research positions are immediately availabl.Oppotunities for Postgraduate Studies,We plan to recuit several graduate students in the upcoming academic year. </li>
      <div class="container">
 				<div class="row"> 
 					<marquee scrolldelay="1" height="50px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
@@ -151,19 +151,17 @@ Solid State Electronics & Photonics Group:<br/>
 					</marquee>
          </div>
        </div>
-        <li> <img src="../k2/redball.gif"> <a href="https://samlai.me">賴捷文</a>Jiewen Lai<font color="#ff0000">interested in flexible robot Opportunities</font>MPhil (2025Fall)/Full time RA: The candidate will work on flexible robots concerning </li>
-	
-  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
-  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
-  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
-  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
-       <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>   
+ <li> <img src="../k2/redball.gif"> <a href="https://samlai.me">賴捷文</a>Jiewen Lai<font color="#ff0000">interested in flexible robot Opportunities</font>MPhil (2025Fall)/Full time RA: The candidate will work on flexible robots concerning </li>
    </ul>
  
 <!--****************-->
  
   <hr noshade="" />
-
+<li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+       <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
  
     <div align="center">
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
