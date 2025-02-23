@@ -219,12 +219,10 @@
                         <a href="https://zhouzh0201.github.io/k2/" target="_blank" class="more">more</a>
                          
                         <ul class="clearfix">
-<li>    
-    <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">
-       <p>Prof. Xihui Liu <font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab, Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.02.15</span> 
-       </p> <br/>
-   </a>
-</li> 
+  <li> <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/irwin.king/ ">**欧文·金</a>Irwin King,<font color="#ff0000">Multiple Positions Available </font>(September 2024)Looking for qualified PhD candidates interested in trustworthy AI, machine learning, federated learning, graph neural networks, NLP, social computing, AI, data mining, or related fields to start in August 2025.,Good self-financed candidates are also given priority.<a href=" https://misc-lab.cse.cuhk.edu.hk ">The Machine Intelligence and Social Computing (MISC) Lab</a>,</li>    
+    
+  
+
                  <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                           
                                 
                         </ul>
