@@ -50,12 +50,122 @@
 <!--****************-->
 <div class="container" style="margin-top: 50px;"> 
   <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
-  <a href=" https://www.cuhk.edu.hk/english/ ">k2 The Chinese University of Hong Kong.</a>,   <br />
- <p> Admission for 2025-26,<a href="https://www.gs.cuhk.edu.hk/admissions/ "> Graduate School the official website  </a>The Faculty of Engineering /Department of Computer Science/Electronic Engineering/Information Engineering/ for Ph.D and MPhil student recruitment.  </p>
- <a href=" https://www.gs.cuhk.edu.hk/admissions/">graduate school</a>,<br />
- <a href=" https://www.erg.cuhk.edu.hk/erg/">Faculty of Engineering</a>,<br />
+  <a href="https://hkust.edu.hk">k3 The Hong Kong  University Science and Technology .</a>, <br/>
+ <p> Admission for 2025-26,<a href="  https://fytgs.hkust.edu.hk ">霍英东Fok Ying Tung Graduate School the official website  </a>The Faculty of Engineering /Department of Computer Science/Electronic Engineering/Information Engineering/ for Ph.D and MPhil student recruitment. </p>
+ <a href=" https://fytgs.hkust.edu.hk/ ">霍英东Fok Ying Tung graduate school</a>,<br/>
+ <a href=" https://seng.hkust.edu.hk">Faculty of Engineering</a>,<br/>
+
+ <a href="https://ece.hkust.edu.hk"> Department of Electronic  and Computer Engineering</a><br/>
  
  <hr noshade="" />
+
+ <p> k2-2 second page</p>
+ <p> <a href=" https://cse.hkust.edu.hk">Department of Computer Science</a>,</p> 
+    <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
+    <font color="#ff6ec7">supervisor:</font></a>
+<p>Research Themes:1. Artificial Intelligence (AI),include machine learning, deep learning, natural language processing, knowledge representation, computer vision, robotics, and expert systems.2. Data Science (DS),3. Systems (SY),</p>
+  <p>Artificial Intelligence (AI) Big Data Institute (BDI) and Smart Lab</p>
+  
+<div>
+Machine Learning:
+<a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
+<a href="/admin/people/faculty/profile/junxianh">Junxian He</a>,
+<a href="/admin/people/faculty/profile/jamesk">James Kwok</a>,
+<a href="/admin/people/faculty/profile/dyyeung">Dit-Yan Yeung</a>,
+<a href="/admin/people/faculty/profile/lzhang">Nevin Zhang</a>
+</div>
+<div>
+Language Technologies and Text Mining:
+<a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
+<a href="/admin/people/faculty/profile/junxianh">Junxian He</a>,
+<a href="/admin/people/faculty/profile/mak">Brian Mak</a>,
+<a href="/admin/people/faculty/profile/yqsong">Yangqiu Song</a>,
+<a href="/admin/people/faculty/profile/dekai">Dekai Wu</a>,
+<a href="/admin/people/faculty/profile/lzhang">Nevin Zhang</a>
+</div>
+<div>
+Computer Vision and Image Processing:
+<a href="/admin/people/faculty/profile/jhc">Hao Chen</a>,
+<a href="/admin/people/faculty/profile/longchen">Long Chen</a>,
+<a href="/admin/people/faculty/profile/cqf">Qifeng Chen</a>,
+<a href="/admin/people/faculty/profile/achung">Albert Chung</a>,
+<a href="/admin/people/faculty/profile/dyyeung">Dit-Yan Yeung</a>
+</div>
+<div>
+Knowledge Representation and Reasoning:
+<a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
+<a href="/admin/people/faculty/profile/flin">Fangzhen Lin</a>
+</div>
+<div>
+AI Applications:
+<a href="/admin/people/faculty/profile/jhc">Hao Chen</a>,
+<a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
+<a href="/admin/people/faculty/profile/lzhang">Nevin Zhang</a>
+</div>
+<div>
+Large Language-Vision Models:
+<a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
+<a href="/admin/people/faculty/profile/jia">Jiaya Jia</a>
+</div>
+<div class="centers">
+     <p>
+<a href="https://bdi.hkust.edu.hk/">Big Data Institute (BDI)</a><br>
+<a href="https://hkustsmartlab.github.io/">Smart Lab</a>
+        </p>
+ </div>
+<!--****************-->
+  <hr noshade="" />
+  <p>  Vision and Graphics (VG) VisLab</p> 
+
+ <div class="members">
+        <h5 class="subtitle">Subareas</h5>
+<div>
+Vision, Recognition and Learning:
+<a href="/admin/people/faculty/profile/jhc">Hao Chen</a>,
+<a href="/admin/people/faculty/profile/longchen">Long Chen</a>,
+<a href="/admin/people/faculty/profile/cqf">Qifeng Chen</a>,
+<a href="/admin/people/faculty/profile/timcheng">Tim Cheng</a>,
+<a href="/admin/people/faculty/profile/achung">Albert Chung</a>,
+<a href="/admin/people/faculty/profile/jia">Jiaya Jia</a>,
+<a href="/admin/people/faculty/profile/psander">Pedro Sander</a>,
+<a href="/admin/people/faculty/profile/cktang">Chi-Keung Tang</a>,
+<a href="/admin/people/faculty/profile/danxu">Dan Xu</a>
+</div>
+<div>
+Graphics and Interactive Techniques:
+<a href="/admin/people/faculty/profile/huamin">Huamin Qu</a>,
+<a href="/admin/people/faculty/profile/quan">Long Quan</a>,
+<a href="/admin/people/faculty/profile/psander">Pedro Sander</a>,
+<a href="/admin/people/faculty/profile/taicl">Chiew-Lan Tai</a>,
+<a href="/admin/people/faculty/profile/cktang">Chi-Keung Tang</a>
+</div>
+<div>
+3D Reconstruction:
+<a href="/admin/people/faculty/profile/quan">Long Quan</a>
+</div>
+<div>
+3D Visualization:
+<a href="/admin/people/faculty/profile/huamin">Huamin Qu</a>
+</div>
+<div>
+Medical Image Analysis:
+<a href="/admin/people/faculty/profile/jhc">Hao Chen</a>,
+<a href="/admin/people/faculty/profile/achung">Albert Chung</a>
+</div>
+    </div>
+    <div class="centers">
+        <h5 class="subtitle">Affiliated Labs &amp; Centers</h5>
+        <p>
+<a href="http://vis.cse.ust.hk/">VisLab</a>
+        </p>
+    </div>
+
+
+</div>
+
+</div>
+<!--****************-->
+  <hr noshade="" />
 
 
 
