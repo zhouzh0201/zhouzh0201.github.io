@@ -66,17 +66,22 @@
 <p>Research Themes:1. Artificial Intelligence (AI),include machine learning, deep learning, natural language processing, knowledge representation, computer vision, robotics, and expert systems.2. Data Science (DS),3. Systems (SY),</p>
   <p>Artificial Intelligence (AI) Big Data Institute (BDI) and Smart Lab</p>
   
-<div>
+<!-- view-source:https://cse.hkust.edu.hk/pg/research/themes/-->
+
+<div class="centers">
 Machine Learning:
-<a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b>
+ <ul class=" clearfix"> 
+<li>  <img src="../k2/redball.gif" /><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b><br/>
 
 <a href="/admin/people/faculty/profile/junxianh">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:
-I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b>
+I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b><br/>
 <a href="/admin/people/faculty/profile/jamesk">James Kwok</a>,
 <a href="/admin/people/faculty/profile/dyyeung">Dit-Yan Yeung</a>,
 <a href="/admin/people/faculty/profile/lzhang">Nevin Zhang</a>
+</ul>
 </div>
-<div>
+<div class="centers" >
+  <ul class=" clearfix"> 
 Language Technologies and Text Mining:
 <a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
 <a href="/admin/people/faculty/profile/junxianh">Junxian He</a>,
@@ -84,36 +89,47 @@ Language Technologies and Text Mining:
 <a href="/admin/people/faculty/profile/yqsong">Yangqiu Song</a>,
 <a href="/admin/people/faculty/profile/dekai">Dekai Wu</a>,
 <a href="/admin/people/faculty/profile/lzhang">Nevin Zhang</a>
+ </ul>
 </div>
-<div>
+<div class="centers">
+  <ul class=" clearfix"> 
 Computer Vision and Image Processing:
 <a href="/admin/people/faculty/profile/jhc">Hao Chen</a>,
 <a href="/admin/people/faculty/profile/longchen">Long Chen</a>,
 <a href="/admin/people/faculty/profile/cqf">Qifeng Chen</a>,
 <a href="/admin/people/faculty/profile/achung">Albert Chung</a>,
 <a href="/admin/people/faculty/profile/dyyeung">Dit-Yan Yeung</a>
+ </ul>
 </div>
-<div>
+<div class="centers">
+  <ul class=" clearfix"> 
 Knowledge Representation and Reasoning:
 <a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
 <a href="/admin/people/faculty/profile/flin">Fangzhen Lin</a>
+ </ul>
 </div>
 <div>
+  <ul class=" clearfix"> 
 AI Applications:
 <a href="/admin/people/faculty/profile/jhc">Hao Chen</a>,
 <a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
 <a href="/admin/people/faculty/profile/lzhang">Nevin Zhang</a>
+   </ul>
 </div>
 <div>
+  <ul class=" clearfix"> 
 Large Language-Vision Models:
 <a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
 <a href="/admin/people/faculty/profile/jia">Jiaya Jia</a>
+   </ul>
 </div>
 <div class="centers">
+   <ul class=" clearfix"> 
      <p>
 <a href="https://bdi.hkust.edu.hk/">Big Data Institute (BDI)</a><br>
 <a href="https://hkustsmartlab.github.io/">Smart Lab</a>
         </p>
+ </ul>
  </div>
 <!--****************-->
   <hr noshade="" />
