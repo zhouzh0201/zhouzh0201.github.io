@@ -159,15 +159,57 @@ Medical Image Analysis:
 <a href="http://vis.cse.ust.hk/">VisLab</a>
         </p>
     </div>
-
-
 </div>
-
 </div>
 <!--****************-->
   <hr noshade="" />
 
-
+<div class="block-print">
+<hr>
+    <h2 class="title">Human-Computer Interaction (HCI)</h2>
+ <div class="members">
+        <h5 class="subtitle">Subareas</h5>
+<div>
+Virtual Reality and Augmented Reality:
+<a href="/admin/people/faculty/profile/mxj">Xiaojuan Ma</a>,
+<a href="/admin/people/faculty/profile/huamin">Huamin Qu</a>
+</div>
+<div>
+Learning and Education:
+<a href="/admin/people/faculty/profile/mxj">Xiaojuan Ma</a>,
+<a href="/admin/people/faculty/profile/huamin">Huamin Qu</a>
+</div>
+<div>
+Interaction Techniques, Devices and Modalities:
+<a href="/admin/people/faculty/profile/mxj">Xiaojuan Ma</a>,
+<a href="/admin/people/faculty/profile/arpit">Arpit Narechania</a>,
+<a href="/admin/people/faculty/profile/taicl">Chiew-Lan Tai</a>,
+<a href="/admin/people/faculty/profile/dekai">Dekai Wu</a>
+</div>
+<div>
+Visualization:
+<a href="/admin/people/faculty/profile/arpit">Arpit Narechania</a>,
+<a href="/admin/people/faculty/profile/huamin">Huamin Qu</a>
+</div>
+<div>
+Computer Music:
+<a href="/admin/people/faculty/profile/horner">Andrew Horner</a>
+</div>
+<div>
+Human-Robot Interaction:
+<a href="/admin/people/faculty/profile/mxj">Xiaojuan Ma</a>
+</div>
+    </div>
+    <div class="centers">
+        <h5 class="subtitle">Affiliated Labs &amp; Centers</h5>
+        <p>
+<a href="https://hci.cse.ust.hk/">Human-Computer Interaction Initiative</a>
+        </p>
+    </div>
+</div>
+<!--****************-->
+  <hr noshade="" />
+    
 
 <!--*********footer*******-->
   <div align="center">
