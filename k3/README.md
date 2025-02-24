@@ -68,10 +68,10 @@
   
 <div>
 Machine Learning:
-<a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></p>
+<a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b>
 
- 
-<a href="/admin/people/faculty/profile/junxianh">Junxian He</a>,
+<a href="/admin/people/faculty/profile/junxianh">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:
+I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b>
 <a href="/admin/people/faculty/profile/jamesk">James Kwok</a>,
 <a href="/admin/people/faculty/profile/dyyeung">Dit-Yan Yeung</a>,
 <a href="/admin/people/faculty/profile/lzhang">Nevin Zhang</a>
