@@ -71,7 +71,7 @@
 <div class="centers">
 Machine Learning:
  <ul class=" clearfix"> 
-     <li>  <img src="../k2/redball.gif" /><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></li> <br/>
+     <li>  <img src="../k2/redball.gif" /><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></li>  
     <li>  <img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/junxianh">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b></li><br/>
     <li><img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/jamesk">郭天佑/ James Tin-Yau KWOKJames Kwok</a>,<b><font color="red">Research positions are now available for PhD/MPhil students (in the areas of AI/ML/CV/NLP)for theupcoming Fall 2025! If you're interested, please fill out this <a href="https://forms.gle/QR1YSck2x45yeAru5">form</a> to get started.Research internship and undergrad research positions are also available.</font></b></li>
      <li> <img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/dyyeung">杨楊瓞仁/Dit-Yan Yeung</a>,</li>
@@ -111,9 +111,10 @@ Knowledge Representation and Reasoning:
 <div>
   <ul class=" clearfix"> 
 AI Applications:
-<a href="/admin/people/faculty/profile/jhc">Hao Chen</a>,
-<a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
-<a href="/admin/people/faculty/profile/lzhang">Nevin Zhang</a>
+    <li> <img src="../k2/redball.gif"/><a href=" https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hao-chen-jhc#rPgSupervision">陈浩/Hao Chen</a>,Faculty Profile,<font color="blue">*NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science</font></li>
+    <li><img src="../k2/redball.gif"/><a href="<a href="/admin/people/faculty/profile/yrfung">冯美玲/May Fung</a>,Faculty Profile
+<a href="/admin/people/faculty/profile/lzhang">Nevin Zhang</a>📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025. HKUST undergraduates are also welcome to take an independent study course with us. Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></p></li>
+      <li><img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nevin-lianwen-zhang-lzhang#rPgSupervision">张连文/Nevin Zhang</a><a href="https://www.cse.ust.hk/faculty/lzhang">Group Members</a> </li>
    </ul>
 </div>
 <div>
