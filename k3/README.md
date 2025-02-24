@@ -127,19 +127,14 @@ Large Language-Vision Models:
 <div class="centers">
    <ul class=" clearfix"> 
      <p>
-<a href="https://bdi.hkust.edu.hk/">Big Data Institute (BDI)</a> <a href="https://bdi.hkust.edu.hk/joinus.html"> HOW TO JOIN US</a> Interdisciplinary research and collaborations are crucial to the success of BDI, which welcomes industry partners who would like to keep abreast of our work, seminars and strengthen the ties with other big data practitioners and our graduates. To discuss further please contact us here. <a href="https://bdi.hkust.edu.hk/faculties.html"> Faculty Members </a><br>
-
-      <a href="https://hkustsmartlab.github.io/">Smart Lab</a>
-      <p>
-  <h3>
-    <font color="red">We want you!</font>
-  </h3>
-  We are always looking for <b>self-motivated and determined talents</b>.
-  Open positions are available at our
-    <a href="/recruitment">Recruitment</a>
-    page.
-</p>
-        </p>
+    <li> <img src="../k2/redball.gif"/><a href="https://bdi.hkust.edu.hk/">Big Data Institute (BDI)</a> <a href="https://bdi.hkust.edu.hk/joinus.html"> HOW TO JOIN US</a> Interdisciplinary research and collaborations are crucial to the success of BDI, which welcomes industry partners who would like to keep abreast of our work, seminars and strengthen the ties with other big data practitioners and our graduates. To discuss further please contact us here. <a href="https://bdi.hkust.edu.hk/faculties.html"> Faculty Members </a></li> 
+    </p>
+     <p>
+    <li> <img src="../k2/redball.gif"/> <a href="https://hkustsmartlab.github.io/">Smart Lab</a> 
+    <h4><font color="red">We want you!</font> </h4>
+     <b>We are always looking for <b>self-motivated and determined talents</b>.
+    Open positions are available at our  <a href=" https://hkustsmartlab.github.io/recruitment ">Recruitment</a>  page</li>.
+   </p>      
  </ul>
  </div>
 <!--****************-->
