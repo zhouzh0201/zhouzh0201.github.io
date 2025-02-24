@@ -18,6 +18,7 @@
   <!--meta name="author" content="personal website"/-->
   <!--meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" /-->
   <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","personal homepage"/-->
+   
     <!--img-->
      <link href="royalslider.css" rel="stylesheet">
           <link href="https://cs.whu.edu.cn/js/royalslider/css/royalslider.css" rel="stylesheet">
@@ -27,9 +28,11 @@
          <script src="https://cs.whu.edu.cn/js/jquery.min.js"></script>
     <script src="js/jquery.min.js"></script>
     
+    <script src="jquery.royalslider.min.js"></script>
          <script src="https://cs.whu.edu.cn/js/royalslider/js/jquery.royalslider.min.js"></script>
     <script src="js/royalslider/js/jquery.royalslider.min.js"></script>
     <!--img-->
+    
     <script src="js/index.js"></script>
     <script src="js/swiper-bundle.min.js"></script>
     <script src="js/main.js"></script>
