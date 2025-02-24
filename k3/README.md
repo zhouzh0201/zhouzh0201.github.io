@@ -95,12 +95,12 @@ Computer Vision and Image Processing:
   <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc ">陈浩/Hao Chen</a>, <span style="color:rgb(255, 0, 0); font-weight:bold"> *NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science (particually in Computational Pathology and Multi-omics)</span> and XR for Computer-Assisted Intervention. Strong self-motivation is preferred (<a href="https://cse.hkust.edu.hk/~jhc/20240531english.pdf">details</a>) . </li>
 
 <li> <img src="../k2/redball.gif"/><a href="https://zjuchenlong.github.io/ ">陈隆/Long Chen</a>,  <font color="green"> As for <b>Ph.D. and M.Phil</b>. positions, we always have the openings all year around</font>. applicants from overseas countries and HK are strongly recommended.</li>
-<li> <img src="../k2/redball.gif"/><a href=" https://cqf.io/">陈启峰/Qifeng Chen</a>,<p><span style="color:rgb(255, 0, 0); font-weight:bold">If you are experienced in ACM-ICPC or interested in doing PhD/MPhil with me at HKUST,</span> please apply for
-                    <a href="https://www.cse.ust.hk/pg/admissions/recruiting/">Early Admission.</a></li>
+<li> <img src="../k2/redball.gif"/><a href=" https://cqf.io/">陈启峰/Qifeng Chen</a>, <span style="color:rgb(255, 0, 0); font-weight:bold">If you are experienced in ACM-ICPC or interested in doing PhD/MPhil with me at HKUST,</span> please apply for
+                    <a href="https://www.cse.ust.hk/pg/admissions/recruiting/">Early Admission.</a> 
 <li> <img src="../k2/redball.gif"/><a href="/admin/people/faculty/profile/achung">钟志成/Albert Chung</a>,</li>
 <li> <img src="../k2/redball.gif"/><a href="/admin/people/faculty/profile/dyyeung/">杨楊瓞仁Dit-Yan Yeung</a> <a  href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=dit-yan-yeung-dyyeung#rPgSupervision">Faculty Profile</a></li>
- </ul>
-</div>
+ <!--/ul-->
+<!--/div-->
 <div class="centers">
   <ul class=" clearfix"> 
 Knowledge Representation and Reasoning:
