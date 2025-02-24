@@ -49,13 +49,13 @@
 </body>
 <!--****************-->
 <div class="container" style="margin-top: 50px;"> 
-  <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
-  <a href="https://hkust.edu.hk">k3 The Hong Kong  University of Science and Technology .</a>, <br/>
+   <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
+    <a href="https://hkust.edu.hk">k3 The Hong Kong  University of Science and Technology .</a>, <br/>
  <p> Admission for 2025-26,<a href="  https://fytgs.hkust.edu.hk ">霍英东Fok Ying Tung Graduate School the official website </a> </p>
- <a href=" https://fytgs.hkust.edu.hk/ ">霍英东Fok Ying Tung graduate school</a>,<br/>
- <a href=" https://seng.hkust.edu.hk">Faculty of Engineering</a>,<br/>
- <p> <a href=" https://cse.hkust.edu.hk">Department of Computer Science</a>,</p> 
- <a href="https://ece.hkust.edu.hk"> Department of Electronic  and Computer Engineering</a><br/>
+    <a href=" https://fytgs.hkust.edu.hk/ ">霍英东Fok Ying Tung graduate school</a>,<br/>
+    <a href=" https://seng.hkust.edu.hk">Faculty of Engineering</a>,<br/>
+    <p> <a href=" https://cse.hkust.edu.hk">Department of Computer Science</a>,</p> 
+    <a href="https://ece.hkust.edu.hk"> Department of Electronic  and Computer Engineering</a><br/>
  
  <hr noshade="" />
 
@@ -72,8 +72,8 @@
 Machine Learning:
  <ul class=" clearfix"> 
      <li>  <img src="../k2/redball.gif" /><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></li>  
-    <li>  <img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/junxianh">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b></li><br/>
-    <li><img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/jamesk">郭天佑/ James Tin-Yau KWOKJames Kwok</a>,<b><font color="red">Research positions are now available for PhD/MPhil students (in the areas of AI/ML/CV/NLP)for theupcoming Fall 2025! If you're interested, please fill out this <a href="https://forms.gle/QR1YSck2x45yeAru5">form</a> to get started.Research internship and undergrad research positions are also available.</font></b></li>
+     <li>  <img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/junxianh">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b></li><br/>
+     <li><img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/jamesk">郭天佑/ James Tin-Yau KWOKJames Kwok</a>,<b><font color="red">Research positions are now available for PhD/MPhil students (in the areas of AI/ML/CV/NLP)for theupcoming Fall 2025! If you're interested, please fill out this <a href="https://forms.gle/QR1YSck2x45yeAru5">form</a> to get started.Research internship and undergrad research positions are also available.</font></b></li>
      <li> <img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/dyyeung">杨楊瓞仁/Dit-Yan Yeung</a>,</li>
      <li> <img src="../k2/redball.gif"/> <a href=" https://cse.hkust.edu.hk/faculty/lzhang ">张连文/Nevin Zhang</a></li>
  </ul>  
@@ -92,13 +92,13 @@ Language Technologies and Text Mining:
 <div class="centers">
   <ul class=" clearfix"> 
 Computer Vision and Image Processing:
-  <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc ">陈浩/Hao Chen</a>, <span style="color:rgb(255, 0, 0); font-weight:bold"> *NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science (particually in Computational Pathology and Multi-omics)</span> and XR for Computer-Assisted Intervention. Strong self-motivation is preferred (<a href="https://cse.hkust.edu.hk/~jhc/20240531english.pdf">details</a>) . </li>
+     <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc ">陈浩/Hao Chen</a>, <span style="color:rgb(255, 0, 0); font-weight:bold"> *NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science (particually in Computational Pathology and Multi-omics)</span> and XR for Computer-Assisted Intervention. Strong self-motivation is preferred (<a href="https://cse.hkust.edu.hk/~jhc/20240531english.pdf">details</a>) . </li>
 
-<li> <img src="../k2/redball.gif"/><a href="https://zjuchenlong.github.io/ ">陈隆/Long Chen</a>,  <font color="green"> As for <b>Ph.D. and M.Phil</b>. positions, we always have the openings all year around</font>. applicants from overseas countries and HK are strongly recommended.</li>
+     <li> <img src="../k2/redball.gif"/><a href="https://zjuchenlong.github.io/ ">陈隆/Long Chen</a>,  <font color="green"> As for <b>Ph.D. and M.Phil</b>. positions, we always have the openings all year around</font>. applicants from overseas countries and HK are strongly recommended.</li>
 <li> <img src="../k2/redball.gif"/><a href=" https://cqf.io/">陈启峰/Qifeng Chen</a>, <span style="color:rgb(255, 0, 0); font-weight:bold">If you are experienced in ACM-ICPC or interested in doing PhD/MPhil with me at HKUST,</span> please apply for
                     <a href="https://www.cse.ust.hk/pg/admissions/recruiting/">Early Admission.</a> 
-<li> <img src="../k2/redball.gif"/><a href="/admin/people/faculty/profile/achung">钟志成/Albert Chung</a>,</li>
-<li> <img src="../k2/redball.gif"/><a href="/admin/people/faculty/profile/dyyeung/">杨楊瓞仁Dit-Yan Yeung</a> <a  href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=dit-yan-yeung-dyyeung#rPgSupervision">Faculty Profile</a></li>
+     <li> <img src="../k2/redball.gif"/><a href="/admin/people/faculty/profile/achung">钟志成/Albert Chung</a>,</li>
+     <li> <img src="../k2/redball.gif"/><a href="/admin/people/faculty/profile/dyyeung/">杨楊瓞仁Dit-Yan Yeung</a> <a  href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=dit-yan-yeung-dyyeung#rPgSupervision">Faculty Profile</a></li>
  <!--/ul-->
 <!--/div-->
 <div class="centers">
@@ -111,8 +111,8 @@ Knowledge Representation and Reasoning:
 <div>
   <ul class=" clearfix"> 
 AI Applications:
-    <li> <img src="../k2/redball.gif"/><a href=" https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hao-chen-jhc#rPgSupervision">陈浩/Hao Chen</a>,Faculty Profile,<font color="blue">*NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science</font></li>
-    <li><img src="../k2/redball.gif"/> <a href="/admin/people/faculty/profile/yrfung">冯美玲/May Fung</a>,Faculty Profile
+      <li> <img src="../k2/redball.gif"/><a href=" https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hao-chen-jhc#rPgSupervision">陈浩/Hao Chen</a>,Faculty Profile,<font color="blue">*NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science</font></li>
+      <li><img src="../k2/redball.gif"/> <a href="/admin/people/faculty/profile/yrfung">冯美玲/May Fung</a>,Faculty Profile
 <a href="/admin/people/faculty/profile/lzhang">Nevin Zhang</a>📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025. HKUST undergraduates are also welcome to take an independent study course with us. Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b> </li>
       <li><img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nevin-lianwen-zhang-lzhang#rPgSupervision">张连文/Nevin Zhang</a><a href="https://www.cse.ust.hk/faculty/lzhang">Group Members</a> </li>
    </ul>
@@ -120,8 +120,8 @@ AI Applications:
 <div>
   <ul class=" clearfix"> 
 Large Language-Vision Models:
-<a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
-<a href="/admin/people/faculty/profile/jia">Jiaya Jia</a>
+     <li><img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/admin/people/faculty/profile/yrfung">冯美玲/May Fung</a>,</li>
+     <li><img src="../k2/redball.gif"/><a href="https://jiaya.me/home ">贾佳佳/Jiaya Jia</a><font color="red">Join our research team in 2025 or later working on Large Language (and Vision) Model (LVLM) projects!</font> We only admit 1) top-ranking students from top universities, 2) world-level programming competition/challenge winners, and 3) students who published high-quality papers in this field.</li>
    </ul>
 </div>
 <div class="centers">
