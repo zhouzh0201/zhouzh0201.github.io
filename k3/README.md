@@ -68,7 +68,7 @@
   
 <div>
 Machine Learning:
-<a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025. HKUST undergraduates are also welcome to take an independent study course with us. Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></p>
+<a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></p>
 
  
 <a href="/admin/people/faculty/profile/junxianh">Junxian He</a>,
