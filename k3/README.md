@@ -131,10 +131,9 @@ Large Language-Vision Models:
     </p>
      <p>
     <li> <img src="../k2/redball.gif"/> <a href="https://hkustsmartlab.github.io/">Smart Lab</a> 
-    <h4><font color="red">We want you!</font> </h4>
-     <b>We are always looking for self-motivated and determined talents</b>.
+    <font color="red">We want you!  We are always looking for self-motivated and determined talents.</font> 
     Open positions are available at our  <a href=" https://hkustsmartlab.github.io/recruitment ">Recruitment</a>  page</li>.
-   </p>      
+      </p>
  </ul>
  </div>
 <!--****************-->
