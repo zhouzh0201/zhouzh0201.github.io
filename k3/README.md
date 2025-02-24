@@ -127,7 +127,7 @@ Large Language-Vision Models:
 <div class="centers">
    <ul class=" clearfix"> 
      <p>
-    <li> <img src="../k2/redball.gif"/><a href="https://bdi.hkust.edu.hk/">Big Data Institute (BDI)</a> <a href="https://bdi.hkust.edu.hk/joinus.html"> HOW TO JOIN US</a> Interdisciplinary research and collaborations are crucial to the success of BDI, which welcomes industry partners who would like to keep abreast of our work, seminars and strengthen the ties with other big data practitioners and our graduates. To discuss further please contact us here. <a href="https://bdi.hkust.edu.hk/faculties.html"> Faculty Members </a></li> 
+    <li> <img src="../k2/redball.gif"/><a href="https://bdi.hkust.edu.hk/">Big Data Institute (BDI)</a> <a href="https://bdi.hkust.edu.hk/joinus.html"> HOW TO JOIN US</a> Interdisciplinary research and collaborations are crucial to the success of BDI, which welcomes industry partners who would like to keep abreast of our work, seminars and strengthen the ties with other big data practitioners and our graduates. To discuss further please contact us<a href="Mailto: bdi@ust.hk"> here</a> . <a href="https://bdi.hkust.edu.hk/faculties.html"> Faculty Members </a></li> 
     </p>
      <p>
     <li> <img src="../k2/redball.gif"/> <a href="https://hkustsmartlab.github.io/">Smart Lab</a> 
