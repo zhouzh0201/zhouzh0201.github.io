@@ -50,19 +50,19 @@
 <!--****************-->
 <div class="container" style="margin-top: 50px;"> 
   <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
-  <a href="https://hkust.edu.hk">k3 The Hong Kong  University Science and Technology .</a>, <br/>
- <p> Admission for 2025-26,<a href="  https://fytgs.hkust.edu.hk ">霍英东Fok Ying Tung Graduate School the official website  </a>The Faculty of Engineering /Department of Computer Science/Electronic Engineering/Information Engineering/ for Ph.D and MPhil student recruitment. </p>
+  <a href="https://hkust.edu.hk">k3 The Hong Kong  University of Science and Technology .</a>, <br/>
+ <p> Admission for 2025-26,<a href="  https://fytgs.hkust.edu.hk ">霍英东Fok Ying Tung Graduate School the official website </a>The Faculty of Engineering  </p>
  <a href=" https://fytgs.hkust.edu.hk/ ">霍英东Fok Ying Tung graduate school</a>,<br/>
  <a href=" https://seng.hkust.edu.hk">Faculty of Engineering</a>,<br/>
-
+ <p> <a href=" https://cse.hkust.edu.hk">Department of Computer Science</a>,</p> 
  <a href="https://ece.hkust.edu.hk"> Department of Electronic  and Computer Engineering</a><br/>
  
  <hr noshade="" />
 
- <p> k2-2 second page</p>
+ <p> k3-3 frist page</p>
  <p> <a href=" https://cse.hkust.edu.hk">Department of Computer Science</a>,</p> 
     <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
-    <font color="#ff6ec7">supervisor:</font></a>
+    <font color="#ff6ec7">supervisor:</font> 
 <p>Research Themes:1. Artificial Intelligence (AI),include machine learning, deep learning, natural language processing, knowledge representation, computer vision, robotics, and expert systems.2. Data Science (DS),3. Systems (SY),</p>
   <p>Artificial Intelligence (AI) Big Data Institute (BDI) and Smart Lab</p>
   
@@ -160,7 +160,7 @@ Medical Image Analysis:
         </p>
     </div>
 </div>
-</div>
+<!--/div-->
 <!--****************-->
   <hr noshade="" />
 
