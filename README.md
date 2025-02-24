@@ -19,6 +19,7 @@
   <!--meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" /-->
   <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","personal homepage"/-->
     <!--img-->
+    <link href="https://cs.whu.edu.cn/js/royalslider/css/royalslider.css" rel="stylesheet">
     <link href="js/royalslider/css/royalslider.css" rel="stylesheet">
     <script src="js/jquery.min.js"></script>
     <script src="js/royalslider/js/jquery.royalslider.min.js"></script>
