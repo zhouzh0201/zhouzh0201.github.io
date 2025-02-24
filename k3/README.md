@@ -73,9 +73,9 @@ Machine Learning:
  <ul class=" clearfix"> 
      <li>  <img src="../k2/redball.gif" /><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></li> <br/>
     <li>  <img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/junxianh">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b></li><br/>
-    <li><a href="/admin/people/faculty/profile/jamesk">郭天佑/ James Tin-Yau KWOKJames Kwok</a>,<b><font color="red">Research positions are now available for PhD/MPhil students (in the areas of AI/ML/CV/NLP)for theupcoming Fall 2025! If you're interested, please fill out this <ahref="https://forms.gle/QR1YSck2x45yeAru5">form</a> to get started.Research internship and undergrad research positions are also available.</font></b></li>
+    <li><img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/jamesk">郭天佑/ James Tin-Yau KWOKJames Kwok</a>,<b><font color="red">Research positions are now available for PhD/MPhil students (in the areas of AI/ML/CV/NLP)for theupcoming Fall 2025! If you're interested, please fill out this <a href="https://forms.gle/QR1YSck2x45yeAru5">form</a> to get started.Research internship and undergrad research positions are also available.</font></b></li>
      <li> <img src="../k2/redball.gif" /><a href="/admin/people/faculty/profile/dyyeung">杨楊瓞仁/Dit-Yan Yeung</a>,</li>
-     <li> <img src="../k2/redball.gif" /<a href=" https://cse.hkust.edu.hk/faculty/lzhang ">张连文/Nevin Zhang</a></li>
+     <li> <img src="../k2/redball.gif"/> <a href=" https://cse.hkust.edu.hk/faculty/lzhang ">张连文/Nevin Zhang</a></li>
  </ul>  
 </div>
 <div class="centers" >
