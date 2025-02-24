@@ -45,6 +45,7 @@
                <ul class="nav_item fadeInUp">
                   <li><a href="../k1">k1</a></li>
                   <li><a href="../k2">k2</a></li>
+		   <li><a href="../k3">k3</a></li>
                 </ul>
            </li>
            <li><a href="../Contact me">Contact me</a></li>
