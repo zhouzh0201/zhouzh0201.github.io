@@ -34,7 +34,7 @@
     <!--img-->
     
     <script src="js/index.js"></script> 
-    <script src="js/swiper-bundle.min.js"></script>
+    <script src="js/swiper-bundle.min.js"></script> 
     <script src="js/main.js"></script>
     <link href="css/swiper-bundle.min.css" rel="stylesheet">
     <link href="css/main.css?version=0.0.1" rel="stylesheet">
