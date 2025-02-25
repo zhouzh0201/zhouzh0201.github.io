@@ -350,7 +350,7 @@
  
  <hr noshade="">
  <body>
-   <footer style="background-color:#00ffff;width:100%; height:150px;">
+   <!--footer style="background-color:#00ffff;width:100%; height:150px;"-->
 <!--div class="bot"--><!-- ****** -->
   <div class="container">
          <div class="footer-footer">
