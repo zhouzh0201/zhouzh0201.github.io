@@ -204,7 +204,7 @@
     })
 </script></div>
 
- <div class="top-link"><script language="javascript" src="js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="http://csold.whu.edu.cn/aspx/enmain/">EN </a> 
+ <div class="top-link"><script language="javascript" src="js/dynclicks.js"></script><script language="javascript" src="js/openlink.js"></script><a href="http://csold.whu.edu.cn/aspx/enmain/">EN </a> 
 <!--a href="http://csold.whu.edu.cn/">旧版 </a--> 
 <a href="https://zhouzh0201.github.io">CGPWB </a> 
 </div>
