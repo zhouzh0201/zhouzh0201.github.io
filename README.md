@@ -239,18 +239,18 @@
  <hr noshade="#ff0000 ">
   <header class="header">
      <div class="container"> 
-        <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
+        <!--img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong"-->
          <br>
         <div class="profile-content pull-center">   
           <div class="profile-content pull-center" align="center">  
-          <h1 class="name">CGPWB's the page is under construction.......  </h1>  
-          <h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2>
+          <!--h1 class="name">CGPWB's the page is under construction.......  </h1-->  
+          <!--h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2-->
  <!--***************ok*****************-->
  
  
      
     
-            <ul class="social list-inline">   
+            <!--ul class="social list-inline"-->   
               
               <li data-toggle="tooltip" data-placement="bottom" title="CV">
                   <a href=" " target="_blank">
@@ -300,14 +300,14 @@
                <a class="wechat-btn" href=" https://github.com/zhouzh0201/zhouzh0201.github.io/blob/main/WeChat.png" target="_red">   <img src="wexin1.png" height="20px" style="margin-bottom:+5px">
                 </a>
               </li>
-            </ul>
+            <!--/ul-->
         </div> 
      </div>  
    </div>
      <!--td width="500"-->
 
          <br>
-          ResearchGate:  <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
+         <!-- ResearchGate:  <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
         
          <br>
           JSZYWHU:<a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:-2px"></a>
@@ -319,7 +319,7 @@
            ORCID:  <a href="https://orcid.org/0009-0006-0788-1842"> <img src="iD.png" height="30px" style="margin-bottom:+5px"><a/>
            
            <br>
-           Github:  <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a>  
+           Github:  <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a> --> 
           
           <br>
   <!--/div-->
