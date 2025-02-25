@@ -333,29 +333,16 @@
   <!--/p--> 
   </div>
  <div class="profile-content pull-center" align="center">  
-<!--p>
+ 
 	 <!--h3> CV</h3-->
-* <br>
-** <br>
-*** <br> 
- </p-->	 
+ 
+  
 </div>    
  <!--/div-->  
 
  <!--***************ok*****************-->
 <!--****************************aside*************-->
-  <!--aside  style="background-color:#ff6ec7;width:100%; height:800%;">    
-      <aside  class="right-aside">
-         <div class="container">  
-	   <div class="right-aside">  
-          <h3>
-         <!--a href="http://www.grok.com.cn"> Grok CN</a-->  	  
-	  </h3>
-
-           </div>    
-         </div> 
-       </aside>
-  </aside-->
+  
 <!--****************************aside*************-->
  <!--***************ok*****************-->
      
@@ -378,7 +365,7 @@
 
 
   
-   <div class="profile-content   pull-left" align="left">
+   <!--div class="profile-content   pull-left" align="left"-->
      <!-- **** -->
 		<div class="t_zz"></div>
 
@@ -387,7 +374,7 @@
   	 <div class="xhe">
   	  <div class="swiper">
   	    <div class="swiper-wrapper">   
-                <small><font color="#ff0000">friendly link</font></small>|<br>				 					
+                <!--small><font color="#ff0000">friendly link</font></small-->|<br>				 					
 		<!--div class="swiper-slide" style="width:50px"> </div-->
 		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>|                 	
 		<!--div class="swiper-slide" style="width:50px"></div-->	
