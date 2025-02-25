@@ -45,7 +45,7 @@
      <script language="javascript" src="js/_sitegray.js"></script> 
      <!-- CustomerNO:7765626265723230747f475750515742000300014351 -->
      <link rel="stylesheet" type="text/css" href="css/index.vsb.css" />  
-     <script type="text/javascript" src="/system/resource/js/counter.js"></script>
+     <script type="text/javascript" src="js/counter.js"></script> 
      <script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1852176512)</script>
 
      <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
