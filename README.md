@@ -120,9 +120,9 @@
         <div v-if="!isError">
             <input type="text" class="search_kang" placeholder="全文搜索" autocomplete=off v-model=query.keyWord @keyup.enter="onSubmit">
             <img src="images/link-fenge.png" class="link-fenge">
-            <input type="image" class="search-button" src="images/search.png" style="cursor: hand"  name="submit_button"  v-on:click="onSubmit()"/>
+            <input type="image" class="search-button" src="img/search.png" style="cursor: hand"  name="submit_button"  v-on:click="onSubmit()"/>
         </div>
-        <div v-if="isError" style="color: #b30216; font-size:18px;text-align: center;padding:20px;">
+        <div v-if="isError" style="color: #b30216; font-size:18px;text-align: center;padding:20px;">img/search.png
             应用维护中！
         </div>
     </div>
