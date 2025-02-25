@@ -136,9 +136,9 @@
                     </ul> 
                 </div>   
           </div>  
-      </nav> 
-   </nav>   
-</body>  
+      <!--/nav--> 
+   <!--/nav-->   
+<!--/body-->  
  <!--*************navbar over******************-->
 <body>
  <!--img star-->
@@ -260,7 +260,7 @@
               
              <!--li data-toggle="tooltip" data-placement="bottom" title="Github">
                  <a href="https://github.com/zhouzh0201" target="_blank">
-                   🟦  <i class="fa fa-github-alt">  </i-->
+                   🟦  <i class="fa fa-github-alt">  </i>
                  </a>
              </li-->
               
@@ -327,24 +327,24 @@
 <hr noshade="">
 <body>
  <div class="profile-content pull-left" align="left">  
-<p>
-<h3>About Me</h3>  
-   Currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>
-</p> 
+<!--p-->
+<!--h3>About Me</h3-->  
+  <!-- Currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>-->
+  <!--/p--> 
   </div>
  <div class="profile-content pull-center" align="center">  
-<p>
-	 <h3> CV</h3>
+<!--p>
+	 <!--h3> CV</h3-->
 * <br>
 ** <br>
 *** <br> 
-</p>	 
+ </p-->	 
 </div>    
  <!--/div-->  
 
  <!--***************ok*****************-->
 <!--****************************aside*************-->
-  <aside  style="background-color:#ff6ec7;width:100%; height:800%;">    
+  <!--aside  style="background-color:#ff6ec7;width:100%; height:800%;">    
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
@@ -355,7 +355,7 @@
            </div>    
          </div> 
        </aside>
-  </aside>
+  </aside-->
 <!--****************************aside*************-->
  <!--***************ok*****************-->
      
