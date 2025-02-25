@@ -38,7 +38,7 @@
     <script src="js/main.js"></script> 
     <link href="css/swiper-bundle.min.css" rel="stylesheet"> 
     <link href="css/main.css" rel="stylesheet"> 
-    <link href="css/moblie.css?version=0.0.1" rel="stylesheet">
+    <link href="css/moblie.css" rel="stylesheet"> 
     
      <!--Announced by Visual SiteBuilder 9-->
      <link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
