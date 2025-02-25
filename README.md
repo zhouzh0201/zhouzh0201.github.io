@@ -33,7 +33,7 @@
     <script src="js/royalslider/js/jquery.royalslider.min.js"></script>
     <!--img-->
     
-    <script src="js/index.js"></script>
+    <script src="js/index.js"></script> 
     <script src="js/swiper-bundle.min.js"></script>
     <script src="js/main.js"></script>
     <link href="css/swiper-bundle.min.css" rel="stylesheet">
