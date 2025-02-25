@@ -84,7 +84,7 @@
                <!--font href="index.html" color="#fff0000">CGPWS</font-->
            <div class="nav">
                 <div class="header-right">
-                    <div class="searchbox">js/base64.js
+                    <div class="searchbox"> 
 
 
 <script language="javascript" src="js/base64.js"></script><script language="javascript" src="js/jquery-latest.min.js"></script><script language="javascript" src="js/vue.js"></script><script language="javascript" src="js/bluebird.min.js"></script><script language="javascript" src="js/axios.js"></script><script language="javascript" src="js/polyfill.js"></script><script language="javascript" src="js/token.js"></script><LINK href="css/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="js/2-index.js"></script><script language="javascript" src="js/public.js"></script><style>
