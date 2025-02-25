@@ -288,7 +288,7 @@
    <!--/nav-->   
 <!--/body-->  
 
-<body>
+<!--body-->
  <!--网站轮播-->	
  <!--img star-->
     <div class="banner">
@@ -474,7 +474,7 @@
   <!--/div-->
   
  
-<body>
+<!--body-->
  <div class="profile-content pull-left" align="left">  
 <!--p-->
 <!--h3>About Me</h3-->  
@@ -498,7 +498,7 @@
 
  
  
- <body>
+ <!--body-->
    <!--footer style="background-color:#00ffff;width:100%; height:150px;"-->
 <!--div class="bot"--><!-- ****** -->
   <div class="container">
@@ -548,7 +548,7 @@
  	</div>
        </div>   
      </div>
-<body>
+<!--body-->
 <div align="center">
       <!--small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small-->
       <br>
