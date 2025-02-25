@@ -8,7 +8,7 @@
 <meta name="pageTitle" content="personal website">
 
 
-<META Name="SiteName" Content="personal website" />
+<META Name="SiteName" Content="personal website" /> 
 <META Name="SiteDomain" Content="cs.whu.edu.cn" />
 
  
