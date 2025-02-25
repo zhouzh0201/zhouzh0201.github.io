@@ -219,7 +219,7 @@
 </li>    
            <!--li class="active"><a href="index.html"> CGPWS</a></li-->
 <li>
-    <a class="dropdown " href="javascript:;" title="CGPWS">>Publications</a>   	
+    <a class="dropdown " href="javascript:;" title="CGPWS">Publications</a>   	
            <!--a href="publications">Publications</a-->   
       <ul class="nav_item fadeInUp">
          <li><a href="xygk/xyjj.htm">p1</a></li>
@@ -228,7 +228,7 @@
       </ul>     
  </li>
 <li>
-    <a class="dropdown " href="javascript:;" title="CGPWS">>Projects</a>   
+    <a class="dropdown " href="javascript:;" title="CGPWS">Projects</a>   
         <!--a href="Projects">Projects</a-->
      <ul class="nav_item fadeInUp">
          <li><a href="xygk/xyjj.htm">j1</a></li>
@@ -237,7 +237,7 @@
      </ul>     
 </li>
 <li>
-    <a class="dropdown " href="javascript:;" title="CGPWS">>Team</a>   
+    <a class="dropdown " href="javascript:;" title="CGPWS">Team</a>   
         <!--a href="Projects">Teams</a-->
      <ul class="nav_item fadeInUp">
          <li><a href="xygk/xyjj.htm">T1</a></li>
@@ -250,7 +250,7 @@
            <!--li><a href="teaching">Teaching</a></li-->
            <!--a href="service">Service</a-->   
 <li> 
-  <a class="dropdown " href="javascript:;" title="CGPWS">>Service</a>      
+  <a class="dropdown " href="javascript:;" title="CGPWS">Service</a>      
    <ul class="nav_item fadeInUp">
          <li><a href="xygk/xyjj.htm">S1</a></li>
          <li><a href="xygk/lsyg.htm">S2</a></li>
@@ -259,7 +259,7 @@
  </li>
 	   
  <li>
-  <a class="dropdown " href="javascript:;" title="CGPWS">>kong five</a>      
+  <a class="dropdown " href="javascript:;" title="CGPWS">kong five</a>      
        <ul class="nav_item fadeInUp">
          <li><a href="xygk/xyjj.htm">k1</a></li>
          <li><a href="xygk/lsyg.htm">k2</a></li>
@@ -268,7 +268,7 @@
       </ul>        
  </li>     
   <li>
-	<a class="dropdown " href="javascript:;" title="CGPWS">>Contact me</a>      
+	<a class="dropdown " href="javascript:;" title="CGPWS">Contact me</a>      
         <ul class="nav_item fadeInUp">
           <li><a href="xygk/xyjj.htm">C1</a></li>
           <li><a href="xygk/lsyg.htm">C2</a></li>
