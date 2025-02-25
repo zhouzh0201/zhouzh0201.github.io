@@ -65,7 +65,7 @@
             
 <!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
 <a href="index.htm" class="logo">
-    <img src="images/logo.png" class="logo-img">
+    <img src="xiaoxong.jpg" class="logo-img">
 </a>
  
      <!--navbar star-->
