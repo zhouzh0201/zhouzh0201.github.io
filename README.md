@@ -380,7 +380,7 @@
 	  </h3>
            
            </div>    
-         </div> 
+         <!--/div--> 
        <!--/aside-->
   <!--/aside-->
 <!--****************************aside*************-->
@@ -451,8 +451,8 @@
               </li-->
             <!--/ul-->
         </div> 
-     </div>  
-   </div>
+     <!--/div-->  
+   <!--/div-->
      <!--td width="500"-->
 
          <br>
@@ -480,13 +480,13 @@
 <!--h3>About Me</h3-->  
   <!-- Currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>-->
   <!--/p--> 
-  </div>
+  <!--/div-->
  <!--div class="profile-content pull-center" align="center"-->  
  
 	 <!--h3> CV</h3-->
  
   
-</div>    
+<!--/div-->    
  <!--/div-->  
 
  <!--***************ok*****************-->
