@@ -252,28 +252,28 @@
     
             <!--ul class="social list-inline"-->   
               
-              <li data-toggle="tooltip" data-placement="bottom" title="CV">
+              <!--li data-toggle="tooltip" data-placement="bottom" title="CV">
                   <a href=" " target="_blank">
                      <i class="fa fa-paper-plane"></i>
                   </a>
-             </li>
+             </li-->
               
-             <li data-toggle="tooltip" data-placement="bottom" title="Github">
+             <!--li data-toggle="tooltip" data-placement="bottom" title="Github">
                  <a href="https://github.com/zhouzh0201" target="_blank">
-                   🟦  <i class="fa fa-github-alt">  </i>
+                   🟦  <i class="fa fa-github-alt">  </i-->
                  </a>
-             </li>
+             </li-->
               
-             <li data-toggle="tooltip" data-placement="bottom" title="jszy">
+             <!--li data-toggle="tooltip" data-placement="bottom" title="jszy">
                  <a href="https://jszy.whu.edu.cn/zhouzh" target="_blank">
                         🟢
                  </a>
-             </li>
-               <li data-toggle="tooltip" data-placement="bottom" title="Email">
+             </li-->
+               <!--li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
                           🟥  <i class="fa fa-envelope"></i>
                         </a>
-                 </li>
+                 </li-->
           
 
 
@@ -284,22 +284,22 @@
                 </a>
              <!--/li-->
              
-             <li data-toggle="tooltip" data-placement="bottom" title="researchgate">
+             <!--li data-toggle="tooltip" data-placement="bottom" title="researchgate">
                  <a href="https://www.researchgate.net/profile/zhou-zhonghong" target="_blue">
                     🟦 
                  </a>
-             </li>
+             </li-->
              
-              <li data-toggle="tooltip" data-placement="bottom" title="Orcid">
+              <!--li data-toggle="tooltip" data-placement="bottom" title="Orcid">
                  <a href="https://orcid.org/0009-0006-0788-1842 " target="_red">
                   🅱️
 
                  </a>
-             </li>     
-             <li data-toggle="tooltip" data-placement="bottom" title="WeChat">
+             </li-->     
+             <!--li data-toggle="tooltip" data-placement="bottom" title="WeChat">
                <a class="wechat-btn" href=" https://github.com/zhouzh0201/zhouzh0201.github.io/blob/main/WeChat.png" target="_red">   <img src="wexin1.png" height="20px" style="margin-bottom:+5px">
                 </a>
-              </li>
+              </li-->
             <!--/ul-->
         </div> 
      </div>  
