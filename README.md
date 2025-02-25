@@ -376,18 +376,18 @@
   	    <div class="swiper-wrapper">   
                 <!--small><font color="#ff0000">friendly link</font></small-->|<br>				 					
 		<!--div class="swiper-slide" style="width:50px"> </div-->
-		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>|                 	
+		<!--small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small-->|                 	
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		<small> <a href=" https://www.csc.edu.cn">CSC</a></small> | 		
+		<!--small> <a href=" https://www.csc.edu.cn">CSC</a></small--> | 		
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		<small><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscse" target="_blank"> cscse</a> </small>|<br> 		
+		<!--small><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscse" target="_blank"> cscse</a> </small-->|<br> 		
 		<!--div class="swiper-slide" style="width:50px"></div-->
-		<small><a href=" https://gradsch.hku.hk"> HKU graduate school</a></small>|  		        <small><a href="https://www.science.org/journal/science">Science</a></small>| <br>  
+		<!--small><a href=" https://gradsch.hku.hk"> HKU graduate school</a></small-->|  		        <small><a href="https://www.science.org/journal/science">Science</a></small>| <br>  
 		<!--div class="swiper-slide" style="width:50px"></div-->
-		<small><a href="https://www.nature.com" >Nature</a> </small> |
+		<!--small><a href="https://www.nature.com" >Nature</a> </small--> |
 						
 		<!--div class="swiper-slide" style="width:50px"></div-->	
-		<small><a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a></small><br> 
+		<!--small><a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a></small--><br> 
 					
 	      </div>
 <!-- button -->
@@ -400,10 +400,10 @@
      </div>
 <body>
 <div align="center">
-      <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small>
+      <!--small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small-->
       <br>
-      <small><a href="https://www.whu.edu.cn/">Wuhan University</a></small>
-      <small>License ing......</small>
+      <!--small><a href="https://www.whu.edu.cn/">Wuhan University</a></small-->
+      <!--small>License ing......</small-->
 </div> 
 	<!--/footer-->
 </body>	
