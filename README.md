@@ -211,34 +211,85 @@
 
                 </div>
                 <!--  网站导航开始 -->
-
-
-</div>
-</div>
-       
-         </div>
-  <!--  网站导航开始 -->
-
-  
-               <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">  
-           <li><a href="index.html" title="personal page">homepage</a></li>
+<div class="hezi">
+                    <div>
+                        <ul class="daohang clearfix">
+ <li>
+    <a href="https://zhouzh0201.github.io" title="personal page">首页</a>
+</li>    
            <!--li class="active"><a href="index.html"> CGPWS</a></li-->
-           <li><a href="publications">Publications</a></li>
-           <li><a href="Projects">Projects</a></li>
-           <li><a href="team">Team</a></li>
+<li>
+    <a class="dropdown " href="javascript:;" title="CGPWS">>Publications</a>   	
+           <!--a href="publications">Publications</a-->   
+      <ul class="nav_item fadeInUp">
+         <li><a href="xygk/xyjj.htm">p1</a></li>
+         <li><a href="xygk/lsyg.htm">p2</a></li>
+         <li><a href="xygk/xrld.htm">p3</a></li>
+      </ul>     
+ </li>
+<li>
+    <a class="dropdown " href="javascript:;" title="CGPWS">>Projects</a>   
+        <!--a href="Projects">Projects</a-->
+     <ul class="nav_item fadeInUp">
+         <li><a href="xygk/xyjj.htm">j1</a></li>
+         <li><a href="xygk/lsyg.htm">j2</a></li>
+         <li><a href="xygk/xrld.htm">j3</a></li>
+     </ul>     
+</li>
+<li>
+    <a class="dropdown " href="javascript:;" title="CGPWS">>Team</a>   
+        <!--a href="Projects">Teams</a-->
+     <ul class="nav_item fadeInUp">
+         <li><a href="xygk/xyjj.htm">T1</a></li>
+         <li><a href="xygk/lsyg.htm">T2</a></li>
+         <li><a href="xygk/xrld.htm">T3</a></li>
+      </ul>     
+    </li>
+    
+           <!--a href="team">Team</a-->   
            <!--li><a href="teaching">Teaching</a></li-->
-           <li><a href="service">Service</a></li>
-           <li><a href="Kong five">kong five</a></li>
-           <li><a href="Contact me">Contact me</a></li>
+           <!--a href="service">Service</a-->   
+<li> 
+  <a class="dropdown " href="javascript:;" title="CGPWS">>Service</a>      
+   <ul class="nav_item fadeInUp">
+         <li><a href="xygk/xyjj.htm">S1</a></li>
+         <li><a href="xygk/lsyg.htm">S2</a></li>
+         <li><a href="xygk/xrld.htm">S3</a></li>
+    </ul>          
+ </li>
+	   
+ <li>
+  <a class="dropdown " href="javascript:;" title="CGPWS">>kong five</a>      
+       <ul class="nav_item fadeInUp">
+         <li><a href="xygk/xyjj.htm">k1</a></li>
+         <li><a href="xygk/lsyg.htm">k2</a></li>
+         <li><a href="xygk/xrld.htm">k3</a></li>
+	         <!--a href="Kong five">kong five</a--> 
+      </ul>        
+ </li>     
+  <li>
+	<a class="dropdown " href="javascript:;" title="CGPWS">>Contact me</a>      
+        <ul class="nav_item fadeInUp">
+          <li><a href="xygk/xyjj.htm">C1</a></li>
+          <li><a href="xygk/lsyg.htm">C2</a></li>
+          <li><a href="xygk/xrld.htm">C3</a></li>   
+         <!--a href="Contact me">Contact me</a-->
+      </ul>     		
+</li>
                     </ul> 
-                </div>   
-          <!--/div-->  
+                </div>          	
+           </div>  
+	   <!--  网站导航结束 --> 
+     <!--*************navbar over******************-->
+        </div>
+     </div>
+ </div>
       <!--/nav--> 
    <!--/nav-->   
 <!--/body-->  
- <!--*************navbar over******************-->
+
 <body>
+ <!--网站轮播-->	
  <!--img star-->
     <div class="banner">
         <div class="sliderContainer fullWidth clearfix">
@@ -265,11 +316,11 @@
         </div>
     </div>
   <!--img over-->
-
+ <!--网站轮播结束-->
  <!--***************ok*****************-->
 
 <hr noshade="">
-
+ <!--内容开始-->
 
 
 
