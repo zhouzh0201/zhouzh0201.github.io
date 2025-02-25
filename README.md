@@ -64,9 +64,9 @@
               <!-- 网站logo -->
             
 <!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
-<!--a href="index.htm" class="logo"-->
-    <!--img src="images/logo.png" class="logo-img"-->
-<!--/a-->
+< a href="index.htm" class="logo" >
+    < img src="images/logo.png" class="logo-img" >
+< /a >
  
      <!--navbar star-->
    <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
@@ -114,6 +114,104 @@
         width: 20%;
         margin-top: -15px;}	
 </style>    
+<div id="divu1"></div>
+<script type="text/html" id="htmlu1">
+    <div id="appu1">
+        <div v-if="!isError">
+            <input type="text" class="search_kang" placeholder="全文搜索" autocomplete=off v-model=query.keyWord @keyup.enter="onSubmit">
+            <img src="images/link-fenge.png" class="link-fenge">
+            <input type="image" class="search-button" src="images/search.png" style="cursor: hand"  name="submit_button"  v-on:click="onSubmit()"/>
+        </div>
+        <div v-if="isError" style="color: #b30216; font-size:18px;text-align: center;padding:20px;">
+            应用维护中！
+        </div>
+    </div>
+</script>
+
+<script>
+    $("#divu1").html($("#htmlu1").text());
+</script>
+
+<script>
+    var appOwner = "1852176512";
+    var token = gettoken(10);
+    var urlPrefix = "/aop_component/";
+
+    jQuery.support.cors = true;
+    $.ajaxSetup({
+        beforeSend: function (request, settings) {
+            request.setRequestHeader("Authorization", token);
+            request.setRequestHeader("owner", appOwner);
+        }
+    });
+
+    new Vue({
+        el: "#appu1",
+        data: function () {
+            return {
+                query: {
+                    keyWord: "",//搜索关键词
+                    owner: appOwner,
+                    token: token,
+                    urlPrefix: urlPrefix,
+                    lang:"i18n_zh_CN"
+                },
+                isError: false
+            }
+        },
+        mounted: function () {
+            var _this = this;
+            // _this.init();
+        },
+        methods: {
+            init: function(){
+                $.ajax({
+                    url: "/aop_component//webber/search/test",
+                    type: "get",
+                    success: function (response) {
+                        if (response.code == "0000") {
+                        } else if (response.code == "220") {
+                            _this.isError = true;
+                            console.log(response);
+                        } else if (!response.code) {
+                            _this.isError = true;
+                            console.log(response);
+                        }
+                    },
+                    error: function (response) {
+                        _this.isError = true;
+                    }
+                });
+            },
+            onSubmit: function (e) {
+                var url = "/views/search/modules/resultpc/soso.html";
+                if ("10" == "1" || "10" == "2") {
+                    url = "" + url;
+                }
+                var _this = this;
+                var query = _this.query;
+                if (url.indexOf("?") > -1) {
+                    url = url.split("?")[0];
+                }
+                if (query.keyWord) {
+                    var query = new Base64().encode(JSON.stringify(query));
+                    window.open(url + "?query=" + query);
+                } else {
+                    alert("请填写搜索内容")
+                }
+            },
+        }
+    })
+</script></div>
+
+ <div class="top-link"><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="http://csold.whu.edu.cn/aspx/enmain/">EN </a> 
+<a href="http://csold.whu.edu.cn/">旧版 </a> 
+<a href="https://www.whu.edu.cn/">武大主页 </a> 
+</div>
+
+                </div>
+                <!--  网站导航开始 -->
+
 
 </div>
 </div>
