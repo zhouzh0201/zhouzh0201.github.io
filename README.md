@@ -368,10 +368,10 @@
   <!--***************ok*****************-->
 <!--****************************aside*************-->
 		   
-   <aside  style="background-color:#ff6ec7;width:100%; height:800%;">  
-      <aside  class="right-aside">
+   <!--aside  style="background-color:#ff6ec7;width:100%; height:800%;"-->  
+      <!--aside  class="right-aside"-->
          <div class="container">  
-	   <div class="right-aside">  
+	   <!--div class="right-aside"-->  
 	  
           <h3>
 	  <a href="https://github.com/deepseek-ai">DeepSeek</a>  
@@ -381,17 +381,17 @@
            
            </div>    
          </div> 
-       </aside>
-  </aside>
+       <!--/aside-->
+  <!--/aside-->
 <!--****************************aside*************-->
  <!--***************ok*****************-->
  <hr noshade="#ff0000 ">
-  <header class="header">
+  <!--header class="header"-->
      <div class="container"> 
         <!--img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong"-->
          <br>
-        <div class="profile-content pull-center">   
-          <div class="profile-content pull-center" align="center">  
+        <!--div class="profile-content pull-center"-->   
+          <!--div class="profile-content pull-center" align="center"-->  
           <!--h1 class="name">CGPWB's the page is under construction.......  </h1-->  
           <!--h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2-->
  <!--***************ok*****************-->
@@ -475,13 +475,13 @@
   
  
 <!--body-->
- <div class="profile-content pull-left" align="left">  
+ <!--div class="profile-content pull-left" align="left"-->  
 <!--p-->
 <!--h3>About Me</h3-->  
   <!-- Currently a retiree of the <a href="https://whu.edu.cn/">Wuhan Univesity</a>-->
   <!--/p--> 
   </div>
- <div class="profile-content pull-center" align="center">  
+ <!--div class="profile-content pull-center" align="center"-->  
  
 	 <!--h3> CV</h3-->
  
@@ -549,14 +549,14 @@
        </div>   
      </div>
 <!--body-->
-<div align="center">
+<!--div align="center"-->
       <!--small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small-->
       <br>
       <!--small><a href="https://www.whu.edu.cn/">Wuhan University</a></small-->
       <!--small>License ing......</small-->
-</div> 
+<!--/div--> 
 	<!--/footer-->
-</body>	
+<!--/body-->	
 <script src="static/jquery.js"></script>
 <script src="static/bootstrap/js/bootstrap.js"></script>
 
