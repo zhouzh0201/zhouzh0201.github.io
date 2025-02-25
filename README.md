@@ -9,7 +9,7 @@
 
 
 <META Name="SiteName" Content="personal website" /> 
-<META Name="SiteDomain" Content="cs.whu.edu.cn" />
+<META Name="SiteDomain" Content="zhouzh0201.github.io" />
 
  
   <meta name="description" content="personal website" />
@@ -22,15 +22,15 @@
     <!--img-->
      <link href="royalslider.css" rel="stylesheet">
           <!--link href="https://cs.whu.edu.cn/js/royalslider/css/royalslider.css" rel="stylesheet"-->
-    <link href="js/royalslider/css/royalslider.css" rel="stylesheet">
+    <!--link href="js/royalslider/css/royalslider.css" rel="stylesheet"-->
     
     <script src="jquery.min.js"></script>
          <!--script src="https://cs.whu.edu.cn/js/jquery.min.js"></script-->
-    <script src="js/jquery.min.js"></script>
+    <!--script src="js/jquery.min.js"></script-->
     
     <script src="jquery.royalslider.min.js"></script>
          <!--script src="https://cs.whu.edu.cn/js/royalslider/js/jquery.royalslider.min.js"></script-->
-    <script src="js/royalslider/js/jquery.royalslider.min.js"></script>
+    <!--script src="js/royalslider/js/jquery.royalslider.min.js"></script-->
     <!--img-->
     
     <script src="js/index.js"></script> 
