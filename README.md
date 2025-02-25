@@ -87,7 +87,7 @@
                     <div class="searchbox">js/base64.js
 
 
-<script language="javascript" src="/js/base64.js"></script><script language="javascript" src="js/jquery-latest.min.js"></script><script language="javascript" src="js/vue.js"></script><script language="javascript" src="js/bluebird.min.js"></script><script language="javascript" src="js/axios.js"></script><script language="javascript" src="js/polyfill.js"></script><script language="javascript" src="js/token.js"></script><LINK href="css/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="js/2-index.js"></script><script language="javascript" src="js/public.js"></script><style>
+<script language="javascript" src="js/base64.js"></script><script language="javascript" src="js/jquery-latest.min.js"></script><script language="javascript" src="js/vue.js"></script><script language="javascript" src="js/bluebird.min.js"></script><script language="javascript" src="js/axios.js"></script><script language="javascript" src="js/polyfill.js"></script><script language="javascript" src="js/token.js"></script><LINK href="css/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="js/2-index.js"></script><script language="javascript" src="js/public.js"></script><style>
   #appu1 .qwss{
         height: 31px;
         font-size: 12px; 
@@ -204,8 +204,8 @@
     })
 </script></div>
 
- <div class="top-link"><script language="javascript" src="js/dynclicks.js"></script><script language="javascript" src="js/openlink.js"></script><a href="http://csold.whu.edu.cn/aspx/enmain/">EN </a> 
-<!--a href="http://csold.whu.edu.cn/">旧版 </a--> 
+ <div class="top-link"><script language="javascript" src="js/dynclicks.js"></script><script language="javascript" src="js/openlink.js"></script><a href="https://github.com/zhouzh0201">EN </a> 
+<a href="https://github.com/zhouzh0201">旧版 </a> 
 <a href="https://zhouzh0201.github.io">CGPWB </a> 
 </div>
 
