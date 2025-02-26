@@ -170,11 +170,11 @@ Graphics and Interactive Techniques:
 <div>
 3D Reconstruction:
 <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~quan/ ">权龍/Long Quan</a>
-   </div>
+ 
 <div>
 3D Visualization:
 <li> <img src="../k2/redball.gif"/><a href="http://www.huamin.org/index.htm ">屈華民/Huamin Qu</a> <p> <font color="red"> We are looking for multiple Postdoc, PhD, Mphil, and RA/Intern:</font><br><a href="http://www.huamin.org/awards.htm"> For potential PhD, Mphil, MscIT, and UROP students </a> <br> </p>
-</div>
+ 
 <div>
 Medical Image Analysis:
 <a href="/admin/people/faculty/profile/jhc">Hao Chen</a>,
@@ -200,8 +200,8 @@ Medical Image Analysis:
 Virtual Reality and Augmented Reality:
 <li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~mxj">麻曉娟/Xiaojuan Ma</a>,<p> <font color="red">We welcome graduate students, post-docs, and visiting interns/scholars. Please send me your CV if your are interested in this topic or have any question.</font>
 <li> <img src="../k2/redball.gif"/><a href="http://www.huamin.org/index.htm ">屈华民/Huamin Qu</a><font color="red">We are looking for multiple Postdoc, PhD, Mphil, and RA/Intern:<a href="http://www.huamin.org/awards.htm"> 
-For potential PhD, Mphil, MscIT, and UROP students</a></font></p><li>
-</div>
+For potential PhD, Mphil, MscIT, and UROP students</a></font><li>
+ 
 <div>
 Learning and Education:
 <a href="/admin/people/faculty/profile/mxj">Xiaojuan Ma</a>,
@@ -225,15 +225,24 @@ Computer Music:
 </div>
 <div>
 Human-Robot Interaction:
-<a href="/admin/people/faculty/profile/mxj">Xiaojuan Ma</a>
-</div>
+<li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~mxj">麻曉娟/Xiaojuan Ma</a>,<p> <font color="red">We welcome graduate students, post-docs, and visiting interns/scholars. Please send me your CV if your are interested in this topic or have any question.</font> 
+ 
     </div>
     <div class="centers">
         <h5 class="subtitle">Affiliated Labs &amp; Centers</h5>
         <p>
-<a href="https://hci.cse.ust.hk/">Human-Computer Interaction Initiative</a>
+<li> <img src="../k2/redball.gif"/><a href="https://hci.cse.ust.hk/ ">Human-Computer Interaction Initiative</a>  <p class="mt-2">
+                            We are looking for Postdoc, PhD, MPhil, and Visiting Intern.
+                        </p>
+                        <p class="mt-2">
+                            <a href="https://www.cse.ust.hk/~mxj/" class="link">For potential PhD, MPhil, MScIT, and
+                                UROP students</a>
+                        </p>
+
+
+ 
         </p>
-    </div>
+  
 </div>
 <!--****************-->
   <hr noshade="" />
