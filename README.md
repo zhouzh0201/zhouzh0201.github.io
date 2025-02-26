@@ -554,7 +554,7 @@
      <!--/div-->
 <!--body-->
 </footer>
-<footer style="background-color:#0000ff;width:100%; height:80px;">
+<footer style="background-color:#ffff00;width:80%; height:80px;">
   <div class="bot">	
     <div class="container">
       <div class="footer-footer">	
@@ -568,7 +568,7 @@
 	      </div> 
 	    </div> 
 	 </div> 
-    </div> 
+   
 </footer>
 <!--/body-->	
 <script src="static/jquery.js"></script>
