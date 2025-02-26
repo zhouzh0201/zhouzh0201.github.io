@@ -566,9 +566,9 @@
 		 </div> 
 	      </div> 
 	    </div> 
-	 </div> 
+	 
    
-</footer-->
+<!--/footer-->
 <!--/body-->	
 <script src="static/jquery.js"></script>
 <script src="static/bootstrap/js/bootstrap.js"></script>
