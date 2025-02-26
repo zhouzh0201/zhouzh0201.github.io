@@ -88,8 +88,8 @@ Language Technologies and Text Mining:
    <li><a href="/admin/people/faculty/profile/yqsong">宋陽秋/Yangqiu Song</a>,</li>
    <li><a href="https://cse.hkust.edu.hk/faculty/dekai/ ">吴德愷/Dekai Wu</a>,</li>
    <li><a href=" https://cse.hkust.edu.hk/faculty/lzhang/">张连文/Nevin Zhang</a></li>
- </ul>
-</div>
+ 
+ 
 <div class="centers">
   <ul class=" clearfix"> 
 Computer Vision and Image Processing:
