@@ -169,11 +169,11 @@ Graphics and Interactive Techniques:
  </div>
 <div>
 3D Reconstruction:
-<a href="/admin/people/faculty/profile/quan">Long Quan</a>
+<li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~quan/ ">权龍/Long Quan</a>
    </div>
 <div>
 3D Visualization:
-<a href="/admin/people/faculty/profile/huamin">Huamin Qu</a>
+<li> <img src="../k2/redball.gif"/><a href="http://www.huamin.org/index.htm ">屈華民/Huamin Qu</a> <p> <font color="red"> We are looking for multiple Postdoc, PhD, Mphil, and RA/Intern:</font><br><a href="http://www.huamin.org/awards.htm"> For potential PhD, Mphil, MscIT, and UROP students </a> <br> </p>
 </div>
 <div>
 Medical Image Analysis:
@@ -198,8 +198,9 @@ Medical Image Analysis:
         <h5 class="subtitle">Subareas</h5>
 <div>
 Virtual Reality and Augmented Reality:
-<a href="/admin/people/faculty/profile/mxj">Xiaojuan Ma</a>,
-<a href="/admin/people/faculty/profile/huamin">Huamin Qu</a>
+<li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~mxj">麻曉娟/Xiaojuan Ma</a>,<p> <font color="red">We welcome graduate students, post-docs, and visiting interns/scholars. Please send me your CV if your are interested in this topic or have any question.</font>
+<li> <img src="../k2/redball.gif"/><a href="http://www.huamin.org/index.htm ">屈华民/Huamin Qu</a><font color="red">We are looking for multiple Postdoc, PhD, Mphil, and RA/Intern:<a href="http://www.huamin.org/awards.htm"> 
+For potential PhD, Mphil, MscIT, and UROP students</a></font></p><li>
 </div>
 <div>
 Learning and Education:
