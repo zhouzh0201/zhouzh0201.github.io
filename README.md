@@ -263,7 +263,7 @@
        <ul class="nav_item fadeInUp">
          <li><a href="k1">k1</a></li>
          <li><a href="k2">k2</a></li>
-         <li><a href="xygk/xrld.htm">k3</a></li>
+         <li><a href="k3">k3</a></li>
 	         <!--a href="Kong five">kong five</a--> 
       </ul>        
  </li>     
