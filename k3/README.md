@@ -152,12 +152,12 @@ Vision, Recognition and Learning:
 <li> <img src="../k2/redball.gif"/><a href="https://cqf.io">陈启峰/Qifeng Chen</a>, <p><font color="red">If you are experienced in ACM-ICPC or interested in doing PhD/MPhil with me at HKUST, please apply for</font>
                     <a href="https://www.cse.ust.hk/pg/admissions/recruiting/">Early Admission.</a></li>
                     
-<li> <img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kwangting-tim-cheng-timcheng#rPgSupervision ">鄭光廷/Tim Cheng</a>,
-<a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=albert-chi-shing-chung-achung#rPgSupervision ">钟志成/Albert Chung</a>,</li>
+<li> <img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kwangting-tim-cheng-timcheng#rPgSupervision ">鄭光廷/Tim Cheng</a>,</li>
+<li> <img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=albert-chi-shing-chung-achung#rPgSupervision ">钟志成/Albert Chung</a>,</li>
 <li> <img src="../k2/redball.gif"/><a href="https://jiaya.me/home">贾佳佳/Jiaya Jia</a>,<p> <font color="red"> ⇒ Join our research team in 2025 or later working on Large Language (and Vision) Model (LVLM) projects! We only admit 1) top-ranking students from top universities, 2) world-level programming competition/challenge winners, and 3) students who published high-quality papers in this field.</font></p></li>
 <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~psander">辛達德/Pedro Sander</a>,</li>
 <li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~cktang/bio.html">邓智强/Chi-Keung Tang</a>,</li>
-<li><a href="https://www.danxurgb.net ">徐旦/Dan Xu</a><strong><font color="#a82e2e">Multiple PhD/MPhil/Postdoc/RA positions available for 2025 Spring/Fall in our lab. Please drop me an email with your CV if you are interested.</font></strong>&nbsp;</li>
+<li> <img src="../k2/redball.gif"/><a href="https://www.danxurgb.net ">徐旦/Dan Xu</a><strong><font color="#a82e2e">Multiple PhD/MPhil/Postdoc/RA positions available for 2025 Spring/Fall in our lab. Please drop me an email with your CV if you are interested.</font></strong>&nbsp;</li>
 </div>
 <div>
 Graphics and Interactive Techniques:
