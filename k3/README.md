@@ -144,15 +144,15 @@ Large Language-Vision Models:
         <h5 class="subtitle">Subareas</h5>
 <div>
 Vision, Recognition and Learning:
-<a href="/admin/people/faculty/profile/jhc">Hao Chen</a>,
-<a href="/admin/people/faculty/profile/longchen">Long Chen</a>,
-<a href="/admin/people/faculty/profile/cqf">Qifeng Chen</a>,
-<a href="/admin/people/faculty/profile/timcheng">Tim Cheng</a>,
-<a href="/admin/people/faculty/profile/achung">Albert Chung</a>,
-<a href="/admin/people/faculty/profile/jia">Jiaya Jia</a>,
-<a href="/admin/people/faculty/profile/psander">Pedro Sander</a>,
-<a href="/admin/people/faculty/profile/cktang">Chi-Keung Tang</a>,
-<a href="/admin/people/faculty/profile/danxu">Dan Xu</a>
+<a href="https://cse.hkust.edu.hk/~jhc">Hao Chen</a>,
+<a href="https://zjuchenlong.github.io">Long Chen</a>,
+<a href="https://cqf.io">Qifeng Chen</a>,
+<a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kwangting-tim-cheng-timcheng#rPgSupervision ">Tim Cheng</a>,
+<a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=albert-chi-shing-chung-achung#rPgSupervision ">Albert Chung</a>,
+<a href="https://jiaya.me/home">贾佳佳/Jiaya Jia</a>,
+<a href="https://cse.hkust.edu.hk/~psander">辛達德/Pedro Sander</a>,
+<a href=" https://cse.hkust.edu.hk/~cktang/bio.html">邓智强/Chi-Keung Tang</a>,
+<li><a href="https://www.danxurgb.net ">徐旦/Dan Xu</a><strong><font color="#a82e2e">Multiple PhD/MPhil/Postdoc/RA positions available for 2025 Spring/Fall in our lab. Please drop me an email with your CV if you are interested.</font></strong>&nbsp;</li>
 </div>
 <div>
 Graphics and Interactive Techniques:
