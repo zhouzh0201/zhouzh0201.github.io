@@ -553,7 +553,7 @@
      <!--/div-->
 <!--body-->
 </footer>
-<footer style="background-color:#ffff00;width:1200px; height:80px;">
+<footer style="background-color:#ffff00;width:1000px; height:80px;">
   <div class="bot">	
     <div class="container">
       <div class="footer-footer">	
