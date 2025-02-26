@@ -83,7 +83,7 @@ Machine Learning:
 Language Technologies and Text Mining:
      <li> <img src="../k2/redball.gif"/><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <font color="red">We are actively recruiting students for our PhD, MPhil,</font>  and intern positions in 2025. HKUST undergraduates are also welcome to take an independent study course with us. Apply via this form if interested!
 
-   <li> <img src="../k2/redball.gif"/><a href=" https://jxhe.github.io/">何俊賢/Junxian He</a>,<font color="red"> Prospective Students: I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for<h3>  2026 Fall</h3>,</font> I encourage you to reach out early to ensure consideration. I also have several research assistant positions opening starting anytime. Please drop me an email if you are interested.
+   <li> <img src="../k2/redball.gif"/><a href=" https://jxhe.github.io/">何俊賢/Junxian He</a>,<font color="red"> Prospective Students: I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for<b> 2026 Fall</b>,</font> I encourage you to reach out early to ensure consideration. I also have several research assistant positions opening starting anytime. Please drop me an email if you are interested.
    <li><a href="/admin/people/faculty/profile/mak">麦灿荣/Brian Mak</a>,</li>
    <li><a href="/admin/people/faculty/profile/yqsong">宋陽秋/Yangqiu Song</a>,</li>
    <li><a href="https://cse.hkust.edu.hk/faculty/dekai/ ">吴德愷/Dekai Wu</a>,</li>
