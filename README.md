@@ -261,7 +261,7 @@
  <li>
   <a class="dropdown " href="javascript:;" title="CGPWS">kong five</a>      
        <ul class="nav_item fadeInUp">
-         <li><a href="xygk/xyjj.htm">k1</a></li>
+         <li><a href="k1">k1</a></li>
          <li><a href="xygk/lsyg.htm">k2</a></li>
          <li><a href="xygk/xrld.htm">k3</a></li>
 	         <!--a href="Kong five">kong five</a--> 
