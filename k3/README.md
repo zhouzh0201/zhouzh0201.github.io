@@ -144,20 +144,20 @@ Large Language-Vision Models:
         <h5 class="subtitle">Subareas</h5>
 <div>
 Vision, Recognition and Learning:
-<li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc">陈浩/Hao Chen</a>,<p>
+    <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc">陈浩/Hao Chen</a>,<p>
 <span style="color:rgb(255, 0, 0); font-weight:bold"> 
 *NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science (particually in Computational Pathology and Multi-omics) and XR for Computer-Assisted Intervention. Strong self-motivation is preferred (<a href="https://cse.hkust.edu.hk/~jhc/20240531english.pdf">details</a>)</span> 
  
-<li> <img src="../k2/redball.gif"/><a href="https://zjuchenlong.github.io">陈龙/Long Chen</a>, <font color="green"> As for <b>Ph.D. and M.Phil</b>. positions, we always have the openings all year around</font></li>
-<li> <img src="../k2/redball.gif"/><a href="https://cqf.io">陈启峰/Qifeng Chen</a>, <p><font color="red">If you are experienced in ACM-ICPC or interested in doing PhD/MPhil with me at HKUST, please apply for</font>
+    <li> <img src="../k2/redball.gif"/><a href="https://zjuchenlong.github.io">陈龙/Long Chen</a>, <font color="green"> As for <b>Ph.D. and M.Phil</b>. positions, we always have the openings all year around</font></li>
+    <li> <img src="../k2/redball.gif"/><a href="https://cqf.io">陈启峰/Qifeng Chen</a>, <p><font color="red">If you are experienced in ACM-ICPC or interested in doing PhD/MPhil with me at HKUST, please apply for</font>
                     <a href="https://www.cse.ust.hk/pg/admissions/recruiting/">Early Admission.</a> 
                     
-<li> <img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kwangting-tim-cheng-timcheng#rPgSupervision ">鄭光廷/Tim Cheng</a>,</li>
-<li> <img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=albert-chi-shing-chung-achung#rPgSupervision ">钟志成/Albert Chung</a>,</li>
-<li> <img src="../k2/redball.gif"/><a href="https://jiaya.me/home">贾佳佳/Jiaya Jia</a>,<p> <font color="red"> ⇒ Join our research team in 2025 or later working on Large Language (and Vision) Model (LVLM) projects! We only admit 1) top-ranking students from top universities, 2) world-level programming competition/challenge winners, and 3) students who published high-quality papers in this field.</font></p></li>
-<li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~psander">辛達德/Pedro Sander</a>,</li>
-<li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~cktang/bio.html">邓智强/Chi-Keung Tang</a>,</li>
-<li> <img src="../k2/redball.gif"/><a href="https://www.danxurgb.net ">徐旦/Dan Xu</a><strong><font color="#a82e2e">Multiple PhD/MPhil/Postdoc/RA positions available for 2025 Spring/Fall in our lab. Please drop me an email with your CV if you are interested.</font></strong>&nbsp;</li>
+    <li> <img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kwangting-tim-cheng-timcheng#rPgSupervision ">鄭光廷/Tim Cheng</a>,</li>
+    <li> <img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=albert-chi-shing-chung-achung#rPgSupervision ">钟志成/Albert Chung</a>,</li>
+    <li> <img src="../k2/redball.gif"/><a href="https://jiaya.me/home">贾佳佳/Jiaya Jia</a>,<p> <font color="red"> ⇒ Join our research team in 2025 or later working on Large Language (and Vision) Model (LVLM) projects! We only admit 1) top-ranking students from top universities, 2) world-level programming competition/challenge winners, and 3) students who published high-quality papers in this field.</font></p></li>
+    <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~psander">辛達德/Pedro Sander</a>,</li>
+    <li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~cktang/bio.html">邓智强/Chi-Keung Tang</a>,</li>
+    <li> <img src="../k2/redball.gif"/><a href="https://www.danxurgb.net ">徐旦/Dan Xu</a><strong><font color="#a82e2e">Multiple PhD/MPhil/Postdoc/RA positions available for 2025 Spring/Fall in our lab. Please drop me an email with your CV if you are interested.</font></strong>&nbsp;</li>
  
 <div>
 Graphics and Interactive Techniques:
@@ -169,11 +169,11 @@ Graphics and Interactive Techniques:
  </div>
 <div>
 3D Reconstruction:
-<li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~quan/ ">权龍/Long Quan</a>
+    <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~quan/ ">权龍/Long Quan</a>
  
 <div>
 3D Visualization:
-<li> <img src="../k2/redball.gif"/><a href="http://www.huamin.org/index.htm ">屈華民/Huamin Qu</a> <p> <font color="red"> We are looking for multiple Postdoc, PhD, Mphil, and RA/Intern:</font><br><a href="http://www.huamin.org/awards.htm"> For potential PhD, Mphil, MscIT, and UROP students </a> <br> </p>
+   <li> <img src="../k2/redball.gif"/><a href="http://www.huamin.org/index.htm ">屈華民/Huamin Qu</a> <p> <font color="red"> We are looking for multiple Postdoc, PhD, Mphil, and RA/Intern:</font><br><a href="http://www.huamin.org/awards.htm"> For potential PhD, Mphil, MscIT, and UROP students </a> <br> </p>
  
 <div>
 Medical Image Analysis:
@@ -198,8 +198,8 @@ Medical Image Analysis:
         <h5 class="subtitle">Subareas</h5>
 <div>
 Virtual Reality and Augmented Reality:
-<li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~mxj">麻曉娟/Xiaojuan Ma</a>,<p> <font color="red">We welcome graduate students, post-docs, and visiting interns/scholars. Please send me your CV if your are interested in this topic or have any question.</font>
-<li> <img src="../k2/redball.gif"/><a href="http://www.huamin.org/index.htm ">屈华民/Huamin Qu</a><font color="red">We are looking for multiple Postdoc, PhD, Mphil, and RA/Intern:<a href="http://www.huamin.org/awards.htm"> 
+   <li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~mxj">麻曉娟/Xiaojuan Ma</a>,<p> <font color="red">We welcome graduate students, post-docs, and visiting interns/scholars. Please send me your CV if your are interested in this topic or have any question.</font>
+   <li> <img src="../k2/redball.gif"/><a href="http://www.huamin.org/index.htm ">屈华民/Huamin Qu</a><font color="red">We are looking for multiple Postdoc, PhD, Mphil, and RA/Intern:<a href="http://www.huamin.org/awards.htm"> 
 For potential PhD, Mphil, MscIT, and UROP students</a></font><li>
  
 <div>
@@ -225,31 +225,24 @@ Computer Music:
 </div>
 <div>
 Human-Robot Interaction:
-<li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~mxj">麻曉娟/Xiaojuan Ma</a>,<p> <font color="red">We welcome graduate students, post-docs, and visiting interns/scholars. Please send me your CV if your are interested in this topic or have any question.</font> 
+    <li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~mxj">麻曉娟/Xiaojuan Ma</a>,<p> <font color="red">We welcome graduate students, post-docs, and visiting interns/scholars. Please send me your CV if your are interested in this topic or have any question.</font> 
  
-    </div>
     <div class="centers">
         <h5 class="subtitle">Affiliated Labs &amp; Centers</h5>
         <p>
-<li> <img src="../k2/redball.gif"/><a href="https://hci.cse.ust.hk/ ">Human-Computer Interaction Initiative</a>  <p class="mt-2">
-                            We are looking for Postdoc, PhD, MPhil, and Visiting Intern.
-                        </p>
-                        <p class="mt-2">
-                            <a href="https://www.cse.ust.hk/~mxj/" class="link">For potential PhD, MPhil, MScIT, and
-                                UROP students</a>
-                        </p>
+   <li> <img src="../k2/redball.gif"/><a href="https://hci.cse.ust.hk/ ">Human-Computer Interaction Initiative</a>  <p class="mt-2">  font color="red">We are looking for Postdoc, PhD, MPhil, and Visiting Intern.
+               </p> <p class="mt-2"> <a href="https://www.cse.ust.hk/~mxj/" class="link">For potential PhD, MPhil, MScIT, and  UROP students</a></font>   </p>
 
-
- 
-        </p>
-  
-</div>
 <!--****************-->
   <hr noshade="" />
-    
-
+ 
 <!--*********footer*******-->
   <div align="center">
+
+
+
+
+   
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
         <br />
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
