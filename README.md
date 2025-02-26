@@ -526,7 +526,7 @@
 	<div class="b_bot">
   	 <div class="xhe">
   	  <div class="swiper">
-  	    <div class="swiper-wrapper">   
+  	        <div class="swiper-wrapper">   
                 <small><font color="#ff0000">friendly link</font></small><br>				 					
 		<div class="swiper-slide" style="width:50px"> </div>
 		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>                	
@@ -553,6 +553,8 @@
        <!--/div-->   
      <!--/div-->
 <!--body-->
+</footer>
+<footer style="background-color:#0000ff;width:100%; height:80px;">
 <div class="container">
 	
 <!--div align="center"-->
