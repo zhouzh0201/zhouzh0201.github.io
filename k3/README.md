@@ -230,18 +230,14 @@ Human-Robot Interaction:
     <div class="centers">
         <h5 class="subtitle">Affiliated Labs &amp; Centers</h5>
         <p>
-   <li> <img src="../k2/redball.gif"/><a href="https://hci.cse.ust.hk/ ">Human-Computer Interaction Initiative</a>  <p class="mt-2">  font color="red">We are looking for Postdoc, PhD, MPhil, and Visiting Intern.
-               </p> <p class="mt-2"> <a href="https://www.cse.ust.hk/~mxj/" class="link">For potential PhD, MPhil, MScIT, and  UROP students</a></font>   </p>
+   <li> <img src="../k2/redball.gif"/><a href="https://hci.cse.ust.hk/ ">Human-Computer Interaction Initiative</a>  <p class="mt-2">  <font color="red">We are looking for Postdoc, PhD, MPhil, and Visiting Intern.</font> 
+               </p> <p class="mt-2"> <a href="https://www.cse.ust.hk/~mxj/" class="link">For potential PhD, MPhil, MScIT, and  UROP students</a>  </p>
 
 <!--****************-->
   <hr noshade="" />
  
 <!--*********footer*******-->
   <div align="center">
-
-
-
-
    
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
         <br />
