@@ -146,11 +146,11 @@ Large Language-Vision Models:
 Vision, Recognition and Learning:
 <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc">陈浩/Hao Chen</a>,<p>
 <span style="color:rgb(255, 0, 0); font-weight:bold"> 
-*NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science (particually in Computational Pathology and Multi-omics) and XR for Computer-Assisted Intervention. Strong self-motivation is preferred (<a href="https://cse.hkust.edu.hk/~jhc/20240531english.pdf">details</a>)</span></li>
+*NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science (particually in Computational Pathology and Multi-omics) and XR for Computer-Assisted Intervention. Strong self-motivation is preferred (<a href="https://cse.hkust.edu.hk/~jhc/20240531english.pdf">details</a>)</span> 
  
 <li> <img src="../k2/redball.gif"/><a href="https://zjuchenlong.github.io">陈龙/Long Chen</a>, <font color="green"> As for <b>Ph.D. and M.Phil</b>. positions, we always have the openings all year around</font></li>
 <li> <img src="../k2/redball.gif"/><a href="https://cqf.io">陈启峰/Qifeng Chen</a>, <p><font color="red">If you are experienced in ACM-ICPC or interested in doing PhD/MPhil with me at HKUST, please apply for</font>
-                    <a href="https://www.cse.ust.hk/pg/admissions/recruiting/">Early Admission.</a></li>
+                    <a href="https://www.cse.ust.hk/pg/admissions/recruiting/">Early Admission.</a> 
                     
 <li> <img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kwangting-tim-cheng-timcheng#rPgSupervision ">鄭光廷/Tim Cheng</a>,</li>
 <li> <img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=albert-chi-shing-chung-achung#rPgSupervision ">钟志成/Albert Chung</a>,</li>
@@ -158,7 +158,7 @@ Vision, Recognition and Learning:
 <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~psander">辛達德/Pedro Sander</a>,</li>
 <li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~cktang/bio.html">邓智强/Chi-Keung Tang</a>,</li>
 <li> <img src="../k2/redball.gif"/><a href="https://www.danxurgb.net ">徐旦/Dan Xu</a><strong><font color="#a82e2e">Multiple PhD/MPhil/Postdoc/RA positions available for 2025 Spring/Fall in our lab. Please drop me an email with your CV if you are interested.</font></strong>&nbsp;</li>
-</div>
+ 
 <div>
 Graphics and Interactive Techniques:
 <a href="/admin/people/faculty/profile/huamin">Huamin Qu</a>,
@@ -166,11 +166,11 @@ Graphics and Interactive Techniques:
 <a href="/admin/people/faculty/profile/psander">Pedro Sander</a>,
 <a href="/admin/people/faculty/profile/taicl">Chiew-Lan Tai</a>,
 <a href="/admin/people/faculty/profile/cktang">Chi-Keung Tang</a>
-</div>
+ </div>
 <div>
 3D Reconstruction:
 <a href="/admin/people/faculty/profile/quan">Long Quan</a>
-</div>
+   </div>
 <div>
 3D Visualization:
 <a href="/admin/people/faculty/profile/huamin">Huamin Qu</a>
@@ -180,13 +180,12 @@ Medical Image Analysis:
 <a href="/admin/people/faculty/profile/jhc">Hao Chen</a>,
 <a href="/admin/people/faculty/profile/achung">Albert Chung</a>
 </div>
-    </div>
     <div class="centers">
         <h5 class="subtitle">Affiliated Labs &amp; Centers</h5>
         <p>
 <a href="http://vis.cse.ust.hk/">VisLab</a>
         </p>
-    </div>
+  
 </div>
 <!--/div-->
 <!--****************-->
