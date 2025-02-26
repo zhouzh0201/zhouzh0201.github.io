@@ -526,7 +526,7 @@
 	<div class="b_bot">
   	 <div class="xhe">
   	  <div class="swiper">
-  	        <div class="swiper-wrapper"></div>	
+  	        <div class="swiper-wrapper">	
                 <small><font color="#ff0000">friendly link</font></small>			 				
 		<div class="swiper-slide" style="width:50px"> </div>
 		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>                	
@@ -541,7 +541,7 @@
 		<small><a href="https://www.nature.com" >Nature</a> </small>			
 		<div class="swiper-slide" style="width:50px"></div>	
 		<small><a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a></small><br> 
-					
+		</div>			
 	    
 <!-- button -->
 			<div class="swiper-button-prev"></div>
@@ -553,7 +553,7 @@
      <!--/div-->
 <!--body-->
 </footer>
-<footer style="background-color:#ffff00;width:800px; height:80px;">
+<footer style="background-color:#ffff00;width:1200px; height:80px;">
   <div class="bot">	
     <div class="container">
       <div class="footer-footer">	
