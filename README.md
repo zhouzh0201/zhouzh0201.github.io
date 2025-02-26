@@ -503,18 +503,18 @@
  
  
  <!--body-->
-   <footer style="background-color:#00ffff;width:100%; height:150px;">
+   <footer style="background-color:#00ffff;width:100%; height:80px;">
 <div class="bot"><!-- ****** -->
   <div class="container">
          <div class="footer-footer">
-<script type="text/javascript">
+<!--script type="text/javascript"-->
   $(".kstd-list-li").mouseover(function(){
     $(this).children(":first").css("background-color","#00ffff");
   });
   $(".kstd-list-li").mouseout(function(){
     $(this).children(":first").css("background-color","#747474");
   });
-</script>
+<!--/script-->
 
 
   
@@ -550,10 +550,13 @@
            </div>
 	  </div>
  	</div>
-       </div>   
-     </div>
+       <!--/div-->   
+     <!--/div-->
 <!--body-->
+<div class="container">
+	
 <!--div align="center"-->
+
       <!--small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small-->
       <br>
       <!--small><a href="https://www.whu.edu.cn/">Wuhan University</a></small-->
