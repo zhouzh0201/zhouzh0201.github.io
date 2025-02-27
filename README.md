@@ -326,7 +326,7 @@
 <hr noshade="">
 
  <!----*************------> 
- <aside  style="background-color:#ff6ec7;width:100%; height:800%;">  
+ <aside  style="background-color:#ffff00;width:100%; height:200px;">  
  
   <div class="container">
      <div class="row"> 
@@ -341,7 +341,7 @@
 <hr noshade="">
   <!--***************ok*****************-->
 <!--****************************aside*************-->		   
-   <aside  style="background-color:#ff6ec7;width:100%; height:800%;">  
+   <aside  style="background-color:#ff6ec7;width:100%; height:200%;">  
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
