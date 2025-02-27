@@ -354,7 +354,7 @@
   <!--header class="header"-->
      <!--div class="container"--> 
         <!--img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong"-->
-         <br>
+       
         <!--div class="profile-content pull-center"-->   
           <!--div class="profile-content pull-center" align="center"-->  
           <!--h1 class="name">CGPWB's the page is under construction.......  </h1-->  
@@ -415,12 +415,12 @@
                 </a>
               </li-->
             <!--/ul-->
-        </div> 
+     
      <!--/div-->  
    <!--/div-->
      <!--td width="500"-->
 
-         <br>
+     
          <!-- ResearchGate:  <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
         
          <br>
@@ -435,7 +435,7 @@
            <br>
            Github:  <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a> --> 
           
-          <br>
+    
   <!--/div-->
   
  
@@ -464,10 +464,10 @@
  
  
  <!--body-->
-   <footer style="background-color:#00ffff;width:100%; height:80px;">
-<div class="bot"><!-- ****** -->
-  <div class="container">
-         <div class="footer-footer">
+   <!--footer style="background-color:#00ffff;width:100%; height:80px;">
+<!--div class="bot"><!-- ****** -->
+  <!--div class="container">
+         <!--div class="footer-footer">
 <!--script type="text/javascript">
   $(".kstd-list-li").mouseover(function(){
     $(this).children(":first").css("background-color","#00ffff");
@@ -507,13 +507,13 @@
 <!-- button -->
 			<div class="swiper-button-prev"></div>
 			<div class="swiper-button-next"></div>
-           </div>
-	  </div>
- 	</div>
+           </div-->
+	  </div-->
+ 	</div-->
        <!--/div-->   
      <!--/div-->
 <!--body-->
-</footer>
+</footer-->
 <!--footer style="background-color:#0000ff;width:100%; height:80px;">
   <div class="bot">	
     <div class="container">
