@@ -524,7 +524,7 @@
 
 <hr noshade="">
 
-<footer style="background-color:#0000ff;width:80%; height:80px;">
+<footer style="background-color:#0000ff;width:100%; height:80px;">
 <div class="bot"><!-- ****** -->
   <div class="container">
          <div class="footer-footer">
@@ -537,8 +537,6 @@
   });
 </script>
 
-
-  
    <!--div class="profile-content   pull-left" align="left"-->
      <!-- **** -->
 		<div class="t_zz"></div>
