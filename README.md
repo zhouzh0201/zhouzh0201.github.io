@@ -503,12 +503,10 @@
 		<small><a href="https://www.nature.com" >Nature</a> </small>			
 		<div class="swiper-slide" style="width:50px"></div>	
 		<small><a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a></small><br> 
-		</div>			
-	     </div>
- 	  </div>
-       <!--/div-->   
-     <!--/div-->
-<!--body-->
+	      </div>			
+	    </div>
+ 	 </div>
+    </div>   
 </footer>
 
 
