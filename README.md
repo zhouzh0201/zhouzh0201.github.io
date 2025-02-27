@@ -58,9 +58,9 @@
       <!--title>home page</title-->
 </head> 
 
-<body>
-      <div class="header">
-        <div class="container clearfix">
+1 <body>
+      2 <div class="header">
+        3 <div class="container clearfix">
               <!-- 网站logo -->
             
 <!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
@@ -82,9 +82,9 @@
             </button>
               <!--span class="navbar-brand"-->
                <!--font href="index.html" color="#fff0000">CGPWS</font-->
-           <div class="nav">
-                <div class="header-right">
-                    <div class="searchbox"> 
+          4 <div class="nav">
+               5 <div class="header-right">
+                 6   <div class="searchbox"> 
 
 
 <script language="javascript" src="js/base64.js"></script><script language="javascript" src="js/jquery-latest.min.js"></script><script language="javascript" src="js/vue.js"></script><script language="javascript" src="js/bluebird.min.js"></script><script language="javascript" src="js/axios.js"></script><script language="javascript" src="js/polyfill.js"></script><script language="javascript" src="js/token.js"></script><LINK href="css/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="js/2-index.js"></script><script language="javascript" src="js/public.js"></script><style>
@@ -116,16 +116,16 @@
 </style>    
 <div id="divu1"></div>
 <script type="text/html" id="htmlu1">
-    <div id="appu1">
-        <div v-if="!isError">
+   7 <div id="appu1">
+      8  <div v-if="!isError">
             <input type="text" class="search_kang" placeholder="全文搜索" autocomplete=off v-model=query.keyWord @keyup.enter="onSubmit">
             <img src="img/link-fenge.png" class="link-fenge">
             <input type="image" class="search-button" src="img/search.png" style="cursor: hand"  name="submit_button"  v-on:click="onSubmit()"/>
-        </div>
-        <div v-if="isError" style="color: #b30216; font-size:18px;text-align: center;padding:20px;">img/search.png
+       8 </div>
+       9 <div v-if="isError" style="color: #b30216; font-size:18px;text-align: center;padding:20px;">img/search.png
             应用维护中！
-        </div>
-    </div>
+       9 </div>
+   7 </div>
 </script>
 
 <script>
@@ -202,17 +202,17 @@
             },
         }
     })
-</script></div>
+</script> 6 </div>
 
- <div class="top-link"><script language="javascript" src="js/dynclicks.js"></script><script language="javascript" src="js/openlink.js"></script><a href="https://github.com/zhouzh0201">EN </a> 
+10 <div class="top-link"><script language="javascript" src="js/dynclicks.js"></script><script language="javascript" src="js/openlink.js"></script><a href="https://github.com/zhouzh0201">EN </a> 
 <a href="https://github.com/zhouzh0201">旧版 </a> 
 <a href="https://zhouzh0201.github.io">CGPWB </a> 
-</div>
+10 </div>
 
-                </div>
+               5 </div>
                 <!--  网站导航开始 -->
-<div class="hezi">
-                    <div>
+11 <div class="hezi">
+                   12 <div>
                         <ul class="daohang clearfix">
  <li>
     <a href="https://zhouzh0201.github.io" title="personal page">首页</a>
@@ -281,28 +281,28 @@
       </ul>     		
 </li>
                     </ul> 
-                </div>          	
-           </div>  
+               12 </div>          	
+          11 </div>  
 	   <!--  网站导航结束 --> 
      <!--*************navbar over******************-->
-        </div>
-     </div>
- </div>
+      4  </div>
+   3  </div>
+2 </div>
       <!--/nav--> 
    <!--/nav-->   
-<!--/body-->  
+1 </body>  
 
-<!--body-->
+ <body>
  <!--网站轮播-->	
  <!--img star-->
-    <div class="banner">
-        <div class="sliderContainer fullWidth clearfix">
-            <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
+    1 <div class="banner">
+       2  <div class="sliderContainer fullWidth clearfix">
+          3  <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
                
-               <div class="rsContent">
+              4 <div class="rsContent">
                 <a href="" target="_blank">
                   <img class="rsImg" src="2025021802.jpg" alt="" /> </a>
-	       </div>   
+	      4 </div>   
                <div class="rsContent">
                    <a href="" target="_blank">
                     <img class="rsImg" src="2025011402.jpg" alt="" /> </a>
@@ -316,9 +316,9 @@
                    <img class="rsImg" src="2025xinnian.jpg" alt="" /> </a>
                </div> 
               <!--********-->
-            </div>
-        </div>
-    </div>
+           3 </div>
+       2 </div>
+   1 </div>
   <!--img over-->
  <!--网站轮播结束-->
  <!--***************ok*****************-->
