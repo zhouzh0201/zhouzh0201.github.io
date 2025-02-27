@@ -323,56 +323,17 @@
  <!--网站轮播结束-->
  <!--***************ok*****************-->
 
-<hr noshade="">
- <!--内容开始-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-<hr noshade="">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<hr noshade="">
+<!--hr noshade=""-->
+ <!--内容开始--> 
+<!--hr noshade=""-->
+<!--hr noshade=""-->
 
 
 <!--star-->
   <!--***************ok*****************-->
 <!--****************************aside*************-->
 		   
-   <aside  style="background-color:#ff6ec7;width:100%; height:800%;">  
+   <!--aside  style="background-color:#ff6ec7;width:100%; height:800%;">  
       <!--aside  class="right-aside"-->
          <div class="container">  
 	   <!--div class="right-aside"-->  
@@ -385,11 +346,11 @@
            
            </div>    
          <!--/div--> 
-       <!--/aside-->
-  </aside>
+       </aside-->
+  </aside-->
 <!--****************************aside*************-->
  <!--***************ok*****************-->
- <hr noshade="#ff0000 ">
+ <!--hr noshade="#ff0000 "-->
   <!--header class="header"-->
      <div class="container"> 
         <!--img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong"-->
