@@ -205,7 +205,7 @@
 </script>  </div>
 
  <div class="top-link"><script language="javascript" src="js/dynclicks.js"></script><script language="javascript" src="js/openlink.js"></script><a href="https://github.com/zhouzh0201">EN </a> 
-<a href="https://github.com/zhouzh0201">旧版 </a> 
+<a href="https://github.com/zhouzh0201">old v. </a> 
 <a href="https://zhouzh0201.github.io">CGPWB </a> 
  </div>
 
@@ -215,7 +215,7 @@
                     <div>
                         <ul class="daohang clearfix">
  <li>
-    <a href="https://zhouzh0201.github.io" title="personal page">首页</a>
+    <a href="https://zhouzh0201.github.io" title="personal page">Home Page</a>
 </li>    
            <!--li class="active"><a href="index.html"> CGPWS</a></li-->
 <li>
