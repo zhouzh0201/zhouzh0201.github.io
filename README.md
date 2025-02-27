@@ -504,12 +504,14 @@
 		<div class="swiper-slide" style="width:50px"></div>	
 		<small><a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a></small><br> 
 	      </div>			
-	    </div>
- 	 </div>
-    </div>   
-</footer>
-
-
+	     </div>
+ 	   </div>
+         </div>   
+      </footer>
+       </div>  
+     </div>  
+   </div>  
+ </footer> 
 <hr noshade="">
 
 <footer style="background-color:#0000ff;width:100%; height:80px;">
