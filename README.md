@@ -323,10 +323,10 @@
  <!--网站轮播结束-->
  <!--***************ok*****************-->
 
-<!--hr noshade=""-->
+<hr noshade="">
  <!--内容开始--> 
-<!--hr noshade=""-->
-<!--hr noshade=""-->
+<hr noshade="">
+<hr noshade="">
 
 
 <!--star-->
@@ -534,6 +534,6 @@
 <!--script src="static/jquery.js"></script-->
 <!--script src="static/bootstrap/js/bootstrap.js"></script-->
 
-<!--/body-->
+</body>
 <!--/html-->   
  
