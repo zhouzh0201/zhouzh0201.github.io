@@ -524,9 +524,9 @@
  
       <!--small><a href="https://www.whu.edu.cn/">Wuhan University</a></small-->
       <!--small>License ing......</small-->
-		 </div> 
-	      </div> 
-	    </div> 
+		 <!--/div--> 
+	      <!--/div--> 
+	    <!--/div--> 
 	 
    
 <!--/footer-->
