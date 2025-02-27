@@ -202,7 +202,7 @@
             },
         }
     })
-</script> 6 </div>
+</script>  </div>
 
  <div class="top-link"><script language="javascript" src="js/dynclicks.js"></script><script language="javascript" src="js/openlink.js"></script><a href="https://github.com/zhouzh0201">EN </a> 
 <a href="https://github.com/zhouzh0201">旧版 </a> 
