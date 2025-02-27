@@ -580,7 +580,7 @@
      <!-- **** -->
 		<!--div class="t_zz"></div-->
 
-		<!--footer>
+		<footer>
 	<div class="b_bot">
   	 <div class="xhe">
   	  <div class="swiper">
@@ -604,13 +604,14 @@
 <!-- button -->
 			<!--div class="swiper-button-prev"></div-->
 			<!--div class="swiper-button-next"></div-->
-           <!--/div-->
-	  <!--/div-->
- 	<!--/div-->
+           </div>
+	  </div>
+ 	</div>
        <!--/div-->   
      <!--/div-->
 <!--body-->
-<!--/footer-->
+</footer>
+
 <!--footer style="background-color:#0000ff;width:100%; height:80px;">
   <div class="bot">	
     <div class="container">
