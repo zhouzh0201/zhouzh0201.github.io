@@ -325,7 +325,15 @@
 
 <hr noshade="">
 
- <!--内容开始--> 
+ <!----*************------>
+  <div class="container">
+     <div class="row"> 
+	<marquee scrolldelay="1" height="50px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
+	<h4> The page is under construction.......</h4> 
+	 </marquee>
+        </div>
+     </div>
+  <!----*************------>    
 
 <hr noshade="">
 
@@ -336,13 +344,11 @@
       <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
-	  
           <h3>
 	  <a href="https://github.com/deepseek-ai">DeepSeek</a>  
 	  <a href="https://www.deepseek.com"><img src="148330874.png" height="50px" style="margin-bottom:-2px"></a>  
           <a href="http://www.grok.com.cn"> Grok CN</a> 
-	  </h3>
-           
+	  </h3>    
            </div>    
          </div> 
        </aside>
