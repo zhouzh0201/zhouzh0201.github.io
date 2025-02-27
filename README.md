@@ -535,5 +535,5 @@
 <!--script src="static/bootstrap/js/bootstrap.js"></script-->
 
 </body>
-<!--/html-->   
+</html>   
  
