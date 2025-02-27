@@ -344,15 +344,15 @@
           <a href="http://www.grok.com.cn"> Grok CN</a> 
 	  </h3-->
            
-           </div-->    
-         </div--> 
-       </aside-->
-  </aside-->
+           <!--/div-->    
+         <!--/div--> 
+       <!--/aside-->
+  <!--/aside-->
 <!--****************************aside*************-->
  <!--***************ok*****************-->
  <!--hr noshade="#ff0000 "-->
   <!--header class="header"-->
-     <div class="container"> 
+     <!--div class="container"--> 
         <!--img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong"-->
          <br>
         <!--div class="profile-content pull-center"-->   
