@@ -325,108 +325,10 @@
 
 <hr noshade="">
 
-
-
-
-
-
-
-
-
-
-
-
-
  <!--内容开始--> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <hr noshade="">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<hr noshade="">
-
-
-<!--star-->
   <!--***************ok*****************-->
 <!--****************************aside*************-->
 		   
@@ -447,6 +349,12 @@
   </aside>
 <!--****************************aside*************-->
  <!--***************ok*****************-->
+
+<hr noshade="">
+
+
+
+ 
  <!--hr noshade="#ff0000 "-->
   <!--header class="header"-->
      <!--div class="container"--> 
@@ -558,6 +466,7 @@
  <!--***************ok*****************-->
      
 
+ <hr noshade="">
  
  
  <!--body-->
@@ -607,10 +516,16 @@
            </div>
 	  </div>
  	</div>
-       </div>   
-     </div>
+       <!--/div-->   
+     <!--/div-->
 <!--body-->
 </footer>
+
+
+
+<hr noshade="">
+
+
 
 <!--footer style="background-color:#0000ff;width:100%; height:80px;">
   <div class="bot">	
@@ -632,6 +547,6 @@
 <!--script src="static/jquery.js"></script-->
 <!--script src="static/bootstrap/js/bootstrap.js"></script-->
 
-</body>
-</html>   
+<!--/body-->
+<!--/html-->   
  
