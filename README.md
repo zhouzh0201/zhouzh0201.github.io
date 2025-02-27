@@ -522,25 +522,44 @@
 </footer>
 
 
-
 <hr noshade="">
 
-
-
 <footer style="background-color:#0000ff;width:80%; height:80px;">
+<div class="bot"><!-- ****** -->
+  <div class="container">
+         <div class="footer-footer">
+<script type="text/javascript">
+  $(".kstd-list-li").mouseover(function(){
+    $(this).children(":first").css("background-color","#00ffff");
+  });
+  $(".kstd-list-li").mouseout(function(){
+    $(this).children(":first").css("background-color","#747474");
+  });
+</script>
+
+
+  
+   <!--div class="profile-content   pull-left" align="left"-->
+     <!-- **** -->
+		<div class="t_zz"></div>
+
   <div class="bot">	
     <div class="container">
       <div class="footer-footer">	
          <div align="center">
             <div class="t_zz"></div> 
       <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small>
- 
       <small><a href="https://www.whu.edu.cn/">Wuhan University</a></small>
       <small>License ing......</small>
 		 </div> 
 	      </div> 
 	    </div>   
          </div>  
+     </div>  
+  </div>  
+</div>  
+
+  
 </footer>
 
 
