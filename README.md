@@ -527,7 +527,7 @@
 
 
 
-<footer style="background-color:#0000ff;width:90%; height:80px;">
+<footer style="background-color:#0000ff;width:80%; height:80px;">
   <div class="bot">	
     <div class="container">
       <div class="footer-footer">	
