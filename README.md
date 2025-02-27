@@ -481,9 +481,9 @@
   
    <!--div class="profile-content   pull-left" align="left"-->
      <!-- **** -->
-		<div class="t_zz"></div>
+		<!--div class="t_zz"></div-->
 
-		<footer>
+		<!--footer>
 	<div class="b_bot">
   	 <div class="xhe">
   	  <div class="swiper">
