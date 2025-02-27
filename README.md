@@ -472,29 +472,23 @@
  <!--body-->
    <footer style="background-color:#00ffff;width:100%; height:80px;">
 <div class="bot"><!-- ****** -->
-  <div class="container">
-         <div class="footer-footer">
-<script type="text/javascript">
+   <div class="container">
+     <div class="footer-footer">
+ <script type="text/javascript">
   $(".kstd-list-li").mouseover(function(){
     $(this).children(":first").css("background-color","#00ffff");
   });
   $(".kstd-list-li").mouseout(function(){
     $(this).children(":first").css("background-color","#747474");
   });
-</script>
-
-
-  
-   <!--div class="profile-content   pull-left" align="left"-->
-     <!-- **** -->
-		<div class="t_zz"></div>
-
-		<footer>
-	<div class="b_bot">
-  	 <div class="xhe">
-  	  <div class="swiper">
-  	        <div class="swiper-wrapper">	
-                <small><font color="#ff0000">friendly link</font></small>			 				
+ </script>
+	<div class="t_zz"></div>
+ <footer>
+    <div class="b_bot">
+       <div class="xhe">
+  	 <div class="swiper">
+  	    <div class="swiper-wrapper">	
+                <small><font color="#ff0000">friendly link</font></small>			 			
 		<div class="swiper-slide" style="width:50px"> </div>
 		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>                	
 		<div class="swiper-slide" style="width:50px"></div>	
@@ -502,20 +496,16 @@
 		<div class="swiper-slide" style="width:50px"></div>	
 		<small><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscse" target="_blank"> cscse</a> </small><br> 		
 		<div class="swiper-slide" style="width:50px"></div>
-		<small><a href=" https://gradsch.hku.hk"> HKU graduate school</a></small>		        <div class="swiper-slide" style="width:50px"></div>
+		<small><a href=" https://gradsch.hku.hk"> HKU graduate school</a></small>		       
+		<div class="swiper-slide" style="width:50px"></div>
                 <small><a href="https://www.science.org/journal/science">Science</a></small> <br>  
 		<div class="swiper-slide" style="width:50px"></div>
 		<small><a href="https://www.nature.com" >Nature</a> </small>			
 		<div class="swiper-slide" style="width:50px"></div>	
 		<small><a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a></small><br> 
 		</div>			
-	    
-<!-- button -->
-			<!--div class="swiper-button-prev"></div-->
-			<!--div class="swiper-button-next"></div-->
-           </div>
-	  </div>
- 	</div>
+	     </div>
+ 	  </div>
        <!--/div-->   
      <!--/div-->
 <!--body-->
