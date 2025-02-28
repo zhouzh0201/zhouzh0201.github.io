@@ -474,12 +474,17 @@
    <div class="index-research index-research1">
         <div class="container">
             <div class="index-title  clearfix">
-                <h3><img src="icon-new.png"><font color="blue">scince study </font></h3>
-            </div>   
+                <h3><img src="icon-new.png"><font color="blue">scince study </font></h3>		    
+            </div>  
+               <div class="research-swiper">
+            <h3><a href="https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h3>
+              </div>
+            
                   <div class="cont">
                      <div class="cont-box latest" style="display: block;">
 		<h3> <a href="https://zhouzh0201.github.io/k1"> <font color="blue">more</font> </a></h3>   
                      </div>
+			  
                   </div>
                
   
