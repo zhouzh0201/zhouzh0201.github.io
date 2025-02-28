@@ -65,8 +65,8 @@
             
 <!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
 <a href="https://zhouzh0201.github.io " class="logo">
-    <img src="../img/jianmo2.jpg" class="logo-img"><b><font color="#ff0000">CGPWB</font></b>
-</a>
+    <img src="../img/jianmo2.jpg" class="logo-img"><font color="#ff0000">CGPWB</font>
+    </a>
  
      <!--navbar star--> 
    <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
