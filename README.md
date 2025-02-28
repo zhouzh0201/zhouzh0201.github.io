@@ -561,6 +561,41 @@
 
 <hr noshade="">
 
+ <!--底部开始-->
+    <div class="footer">
+
+        <div class="container clearfix">
+
+            <div class="footer-top">
+                <!-- 底部logo -->
+
+  <!-- 联系我们 -->
+
+                <div class="footer-us">
+                    <h3 class="footer-title">联系我们<span> / Contact us</span></h3>
+                       <script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p>地址：湖北省武汉市八一路武汉大学</p> 
+<p>电话：027-68775361 027-68775363</p> 
+<p>邮箱：computer@whu.edu.cn</p></p>
+                </div>
+            </div>
+
+
+
+        </div>
+
+
+        <div class="copy">
+            <p><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>Copyright © 2023-2028 武汉大学计算机学院 版权所有.</p></p>
+        </div>
+
+    </div>
+
+    <!--底部结束-->
+
+<!--***************************--/>
+
 
 
 <!--/body-->	
