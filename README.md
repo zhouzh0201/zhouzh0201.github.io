@@ -469,7 +469,27 @@
 
  <!--***************ok*****************-->
 <!--****************************aside*************-->
-  
+ <!-- 科学动态 -->
+ 
+   <div class="index-research index-research1">
+        <div class="container">
+            <div class="index-title  clearfix">
+                <h3><img src="images/icon-research.png">科研动态</h3>
+		 <a href="kxyj/kyjz.htm" target="_blank" class="more">查看更多</a>   
+            </div>
+
+             <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+  <script>_showDynClickBatch(['dynclicks_u21_48431','dynclicks_u21_43521','dynclicks_u21_43011','dynclicks_u21_38141','dynclicks_u21_33661','dynclicks_u21_4391'],[48431,43521,43011,38141,33661,4391],"wbnews", 1852176512)</script>
+  </div>
+                <div class="swiper-pagination"></div>
+            </div>
+
+        </div>
+
+    </div>  
+<!-- over -->
+    
 <!--****************************aside*************-->
  <!--***************ok*****************-->
      
