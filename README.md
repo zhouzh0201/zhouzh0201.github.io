@@ -475,7 +475,7 @@
         <div class="container">
             <div class="index-title  clearfix">
                 <h3><img src="icon-new.png">科研动态</h3>
-		 <a href="k1" target="_blank" class="more">more</a>   
+		 <a href="https://zhouzh0201.github.io/Kong%20five" target="_blank" class="more">more</a>   
              </div>
                  <h3>research</h3>
              <div class="swiper mySwiper">
