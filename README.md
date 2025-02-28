@@ -1,7 +1,6 @@
  
 
-</body>
-</html>
+ 
 <html>
   
 <head>
