@@ -573,7 +573,7 @@
 
                 <div class="footer-us">
                     <h3 class="footer-title">联系我们<span> / Contact us</span></h3>
-                       <script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+                       <script language="javascript" src="js/mp4video.js"></script>
 <p>地址：湖北省武汉市八一路武汉大学</p> 
 <p>电话：027-68775361 027-68775363</p> 
 <p>邮箱：computer@whu.edu.cn</p></p>
