@@ -475,7 +475,7 @@
         <div class="container">
             <div class="index-title  clearfix">
                 <h3><img src="../Kong five/icon-new.png">科研动态</h3>
-		 <a href="kxyj/kyjz.htm" target="_blank" class="more">查看更多</a>   
+		 <a href="k1" class="more">more</a>   
              </div>
 
              <div class="swiper mySwiper">
