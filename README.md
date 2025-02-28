@@ -474,7 +474,7 @@
    <div class="index-research index-research1">
         <div class="container">
             <div class="index-title  clearfix">
-                <h3><img src="../Kong five/icon-new.png">科研动态</h3>
+                <h3><img src="Kong five/icon-new.png">科研动态</h3>
 		 <a href="k1" target="_blank" class="more">more</a>   
              </div>
                  <h3>research</h3>
