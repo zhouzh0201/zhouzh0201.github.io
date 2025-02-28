@@ -470,7 +470,7 @@
  <!--***************ok*****************-->
 <!--****************************aside*************-->
  <!-- 科学动态 -->
-   <aside style="background-img:src="icon-new.png";width:100%; height:200px;">  
+   <aside style="background-img:src="icon-new.png; width:100%; height:200px;">  
    <div class="index-research index-research1">
         <div class="container">
             <div class="index-title  clearfix">
