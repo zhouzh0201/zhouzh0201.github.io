@@ -470,7 +470,7 @@
  <!--***************ok*****************-->
 <!--****************************aside*************-->
  <!-- 科学动态 -->
-   <h3> scince research</h3>
+   
    <div class="index-research index-research1">
         <div class="container">
             <div class="index-title  clearfix">
@@ -478,7 +478,7 @@
             </div>   
                   <div class="cont">
                      <div class="cont-box latest" style="display: block;">
-		 <a href="https://zhouzh0201.github.io/k1"><b><font color="blue">more</font></b></a>   
+		<h3> <a href="https://zhouzh0201.github.io/k1"> <font color="blue">more</font> </a></h3>   
                      </div>
                   </div>
                
