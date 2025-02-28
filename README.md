@@ -474,7 +474,7 @@
    <div class="index-research index-research1">
         <div class="container">
             <div class="index-title  clearfix">
-                <h3><img src="icon-new.png">科研动态</h3>
+                <h3><img src="icon-new.png"><font color="blue">scince study </font></h3>
             </div>   
                   <div class="cont">
                      <div class="cont-box latest" style="display: block;">
