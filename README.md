@@ -494,9 +494,12 @@
         <div class="container">
             <div class="index-title  clearfix">  
 
-<!--*******************-->       
-        <style type="text/css">
-	/*style.css*/
+<!--*******************-->    
+ <body>
+       <div class="header">
+	<!--*******************-->     
+
+          <style type="text/css">
 	  body{
 		background-image:url('../img/oif3.png');
 		background-repeat:no-repeat;
@@ -504,11 +507,11 @@
                 background-position:center;
                 background-size:cover;
 	  }
-   <link rel="stylesheet" href="styles.css">
-      <body>
-	    <h4>this is a picture bachground page.</h4>
-		       <!--***********add*-->     
-      </body>
+	</style>	
+	       <body>
+		       <!--h4>this is a picture bachground page.</h4-->
+		       <!--***********add*-->
+	       </body>
 	<!--/style-->	
          <div class="i0w i2sw">
                  <img src="../img/wf1_jz2.png" alt="" class="w100 i0 i2">
@@ -534,7 +537,9 @@
            </div>
         </div>
      </div> 
- 
+ </div>
+ </div>
+ </body>
 <!-- over -->
     
 <!--****************************aside*************-->
