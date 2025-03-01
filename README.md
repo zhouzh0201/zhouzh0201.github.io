@@ -526,7 +526,7 @@
               </div>          
                   <div class="cont">
                      <div class="cont-box latest" style="display: block;">
-		<h3> <a href="https://zhouzh0201.github.io/k1"> <font color="blue">more</font> </a></h3>   
+		<!--h3> <a href="https://zhouzh0201.github.io/k1"> <font color="blue">more</font> </a></h3-->   
                      </div>		  
                   </div>
              <div class="swiper mySwiper">
