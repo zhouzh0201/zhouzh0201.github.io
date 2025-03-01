@@ -62,7 +62,8 @@
 
  <body>
        <div class="header">
-	<style type="text/ccs">
+	<!--*******************-->       
+        <style type="text/ccs">
 	  body{
 		background-image:url("../img/oif3.png");
 		background-repeat:no-repea;
@@ -71,6 +72,11 @@
                 background-size:cover;
 	  }
 	</style>	
+         <div class="i0w i2sw">
+                 <img src="new2024/images/f_fl1_jz2s.png" alt="" class="w100 i0 i2">
+                 <img src="new2024/images/f_fl1_dy2s.png" alt="" class="w100 d0 d2">                          
+         </div>
+	<!--***************-->
         <div class="container clearfix">
               <!-- 网站logo -->
             
@@ -483,6 +489,23 @@
    <div class="index-research index-research1">
         <div class="container">
             <div class="index-title  clearfix">
+
+<!--*******************-->       
+        <style type="text/ccs">
+	  body{
+		background-image:url("../img/oif3.png");
+		background-repeat:no-repea;
+		background-attachment:fixed;
+                background-position:center;
+                background-size:cover;
+	  }
+	</style>	
+         <div class="i0w i2sw">
+                 <img src="new2024/images/f_fl1_jz2s.png" alt="" class="w100 i0 i2">
+                 <img src="new2024/images/f_fl1_dy2s.png" alt="" class="w100 d0 d2">                          
+         </div>
+	<!--***************-->
+      
                 <h3><img src="icon-new.png"><font color="blue">scince study </font></h3>		    
             </div>  
                <div class="research-swiper">
