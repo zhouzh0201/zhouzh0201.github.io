@@ -74,7 +74,7 @@
 	</style>	
          <div class="i0w i2sw">
                  <img src="../img/oif3.png" alt="" class="w100 i0 i2">
-                 <img src="new2024/images/f_fl1_dy2s.png" alt="" class="w100 d0 d2">                          
+                 <img src="../img/wf1_jz2.png" alt="" class="w100 d0 d2">                          
          </div>
 	<!--***************-->
         <div class="container clearfix">
@@ -501,7 +501,7 @@
 	  }
 	</style>	
          <div class="i0w i2sw">
-                 <img src="new2024/images/f_fl1_jz2s.png" alt="" class="w100 i0 i2">
+                 <img src="../img/wf1_jz2.png" alt="" class="w100 i0 i2">
                  <img src="new2024/images/f_fl1_dy2s.png" alt="" class="w100 d0 d2">                          
          </div>
 	<!--***************-->
