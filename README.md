@@ -73,7 +73,7 @@
 	  }
 	</style>	
 	       <body>
-		       <h4>this is a picture bachground page.</h4>
+		       <!--h4>this is a picture bachground page.</h4-->
 		       <!--***********add*-->
 	       </body>
          <div class="i0w i2sw">
