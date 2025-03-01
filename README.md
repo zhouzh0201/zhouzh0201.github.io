@@ -63,7 +63,7 @@
  <body>
        <div class="header">
 	<!--*******************-->       
-        <style type="text/ccs">
+        <style type="text/css">
 	  body{
 		background-image:url('../img/oif3.png');
 		background-repeat:no-repeat;
@@ -492,11 +492,11 @@
     
    <div class="index-research index-research1">
         <div class="container">
-            <div class="index-title  clearfix">
+            <div class="index-title  clearfix">  
 
 <!--*******************-->       
-        <!--style type="text/ccs"-->
-	/*style.ccs*/
+        <style type="text/css">
+	/*style.css*/
 	  body{
 		background-image:url('../img/oif3.png');
 		background-repeat:no-repeat;
@@ -504,7 +504,7 @@
                 background-position:center;
                 background-size:cover;
 	  }
-   <link rel="stylesheet" href="styles.ccs">
+   <link rel="stylesheet" href="styles.css">
       <body>
 	    <h4>this is a picture bachground page.</h4>
 		       <!--***********add*-->     
