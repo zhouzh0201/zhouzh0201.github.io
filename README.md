@@ -520,7 +520,7 @@
 	<!--***************-->
       
                 <h3><img src="icon-new.png"><font color="blue">scince study </font></h3>		    
-            </div>  
+          
                <div class="research-swiper">
             <h3><a href="https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h3>
               </div>          
@@ -535,8 +535,8 @@
                 </div>
                 <div class="swiper-pagination"></div>
            </div>
-         </div>
-        </div> 
+         
+     
       </body>
     </div>
    </div>
