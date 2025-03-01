@@ -65,13 +65,17 @@
 	<!--*******************-->       
         <style type="text/ccs">
 	  body{
-		background-image:url("../img/oif3.png");
-		background-repeat:no-repea;
+		background-image:url('../img/oif3.png');
+		background-repeat:no-repeat;
 		background-attachment:fixed;
                 background-position:center;
                 background-size:cover;
 	  }
 	</style>	
+	       <body>
+		       <h4>this is a pecture bachground page.</h4>
+		       <!--***********add*-->
+	       </body>
          <div class="i0w i2sw">
                  <img src="../img/oif3.png" alt="" class="w100 i0 i2">
                  <img src="../img/wf1_jz2.png" alt="" class="w100 d0 d2">                          
