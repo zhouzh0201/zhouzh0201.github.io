@@ -501,7 +501,7 @@
 
           <style type="text/css">
 	  body{
-		background-image:url('../img/oif3.png');
+		background-image:url('../img/wfl1_jz2s.png');
 		background-repeat:no-repeat;
 		background-attachment:fixed;
                 background-position:center;
