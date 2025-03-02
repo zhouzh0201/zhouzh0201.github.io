@@ -292,7 +292,7 @@
                     <h5><img src="icon-new.png" />  Department of Computer Science  </h5>   
                  </div>
                       <ul class=" clearfix">
-                        <li class="active"><a href="https://zhouzh0201.github.io/k2/">26fall admisstion supervisor</a></li>
+                        <li class="active"><a href="https://github.com/zhouzh0201/zhouzh0201.github.io/tree/main/k3 ">26fall admisstion supervisor</a></li>
                         <!--li><a href="https://github.com/zhouzh0201/zhouzh0201.github.io/tree/main/k3 ">lab&institute</a></li-->
                         <!--li><a href="k2">research group</a></li-->                     
                         <!--li><a href="k2">26fall open positions</a></li-->
