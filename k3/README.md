@@ -248,20 +248,20 @@ Human-Robot Interaction:
 
 <p><strong>
  <li>  潘 永 安https://eeawpoon.people.ust.hk/</li> 
- <li>  <img src="../k2/redball.gif" /><a href= " https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html "> 劉 堅 能/Vincent LAU </a> <font color="red"> Ph.D. Vacancy (Theoretical Research) There are a few limited Ph.D. vacancies</font>There are a few limited vacancies for MPhil/Ph.D with focus on applied research</li> 
+ <li>  <img src="../k2/redball.gif" /><a href= " https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html "> 劉 堅 能/Vincent LAU</a> <font color="red"> Ph.D. Vacancy (Theoretical Research) There are a few limited Ph.D. vacancies</font>There are a few limited vacancies for MPhil/Ph.D with focus on applied research</li> 
   <li> 陳 文 新https://ece.hkust.edu.hk/mcha </li> 
  <li>  陳 敬 https://eekjchen.home.ece.ust.hk/</li> 
 
-   <li>  <img src="../k2/redball.gif" /><a href= " https://mirs.hkust.edu.hk/openings/">沈亚静/Yajing SHEN</a> <font color="red">PhD(1 vacancy: Fall 2025)</font> </li> 
-       <li>  <img src="../k2/redball.gif" /><a href= "https://yuegroup.hkust.edu.hk/ ">岳志伟/ Chik Patrick YUE</a> <font color="red"> Opening positions for MPhil, PhD students, post-doc and visiting assistant professor. </font> </li> 
- <li>  <img src="../k2/redball.gif" /><a href= " https://eeyuan.home.ece.ust.hk/">袁杰 </a> <font color="red">Opening Positions </font>Post-doc and PHD positions are available for motivated and competitive individuals in following areas: </font></li> 
- <li>  <img src="../k2/redball.gif" /><a href= "https://eezfan.home.ece.ust.hk/">范 智 勇 </a> <font color="red">Open Positions:	We are seeking highly motivated student and postdoc candidates ,Students and postdocs with strong motivation for cutting-edge research on nanotechnology are welcome to join us </font></li> 
+     <li>  <img src="../k2/redball.gif" /><a href= " https://mirs.hkust.edu.hk/openings/">沈亚静/Yajing SHEN</a> <font color="red">PhD(1 vacancy: Fall 2025)</font> </li> 
+      <li>  <img src="../k2/redball.gif" /><a href= "https://yuegroup.hkust.edu.hk/ ">岳志伟/ Chik Patrick YUE</a> <font color="red"> Opening positions for MPhil, PhD students, post-doc and visiting assistant professor. </font> </li> 
+     <li>  <img src="../k2/redball.gif" /><a href= " https://eeyuan.home.ece.ust.hk/">袁杰 </a> <font color="red">Opening Positions </font>Post-doc and PHD positions are available for motivated and competitive individuals in following areas:  </li> 
+     <li>  <img src="../k2/redball.gif" /><a href= "https://eezfan.home.ece.ust.hk/">范 智 勇 </a> <font color="red">Open Positions:	We are seeking highly motivated student and postdoc candidates ,Students and postdocs with strong motivation for cutting-edge research on nanotechnology are welcome to join us </font></li> 
    <li>  <img src="../k2/redball.gif" /><a href=" "> Qifeng CHEN 陳 启 峰  </a> </li> 
    <li>  <img src="../k2/redball.gif" /><a href="https://vsdl.hkust.edu.hk/ "> 鄭 光 廷/Kwang-Ting Tim CHENG  </a> <font color="red">	 </font>
 We are actively seeking highly self-motivated postdoctoral researchers. </li> 
    <li>  <img src="../k2/redball.gif" /><a href="https://pascale.home.ece.ust.hk/ "> 馮 雁/Pascale Ngan FUNG   </a></li> 
    <li>  <img src="../k2/redball.gif" /><a href=" ">Xiaomeng LI 李 小 萌   </a><font color="red">	 </font></li> 
-   <li>  <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/">繆 偉 豪/Wai Ho MOW </a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li> 
+   <li>  <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/">繆 偉 豪/Wai Ho MOW</a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li> 
    <li>  <img src="../k2/redball.gif" /><a href=" "> Ross MURCH 穆 樂 思  </a><font color="red">	 </font></li> 
    <li>  <img src="../k2/redball.gif" /><a href=" "> Daniel PEREZ PALOMAR 鋒 西 龍  </a><font color="red">	 </font></li> 
    <li>  <img src="../k2/redball.gif" /><a href=" ">Bertram Emil SHI 施 毅 明 </a><font color="red">	 </font></li> 
