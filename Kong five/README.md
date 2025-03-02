@@ -293,15 +293,15 @@
                     <h5><img src="icon-new.png" />  Department of Computer Science  </h5>   
                  </div>
                       <ul class=" clearfix">
-                        <li class="active"><a href="https://github.com/zhouzh0201/zhouzh0201.github.io/tree/main/k3 ">26fall admisstion supervisor</a></li>
-                        <!--li><a href="https://github.com/zhouzh0201/zhouzh0201.github.io/tree/main/k3 ">lab&institute</a></li-->
+                        <li class="active"><a href="https://zhouzh0201.github.io/k3/ ">26fall admisstion supervisor</a></li>
+                        <!--li><a href="https://zhouzh0201.github.io/k3/ ">lab&institute</a></li-->
                         <!--li><a href="k2">research group</a></li-->                     
                         <!--li><a href="k2">26fall open positions</a></li-->
                     </ul> 
                   </div>
                     <div class="cont">
                     <div class="cont-box latest" style="display: block;">
-                        <a href="https://github.com/zhouzh0201/zhouzh0201.github.io/tree/main/k3 " target="_blank" class="more">more</a> 
+                        <a href=" https://zhouzh0201.github.io/k3/" target="_blank" class="more">more</a> 
                        <ul class="clearfix"> 
 
 
@@ -322,7 +322,7 @@
                  </div>
                <div class="item">
                     <ul class=" clearfix">
-                        <li class="active"><a href=" https://zhouzh0201.github.io/k2/ ">26fall admisstion supervisor</a></li>
+                        <li class="active"><a href="https://zhouzh0201.github.io/k3 ">26fall admisstion supervisor</a></li>
                         <!--li><a href="k1">Robotics </a></li-->
                         <!--li><a href="k1">Embodied AI</a></li-->                     
                          <!--li><a href="k1">26fall open positions</a></li-->
@@ -330,7 +330,7 @@
                  </div>
                     <div class="cont">
                       <div class="cont-box latest" style="display: block;">
-                      <a href="https://zhouzh0201.github.io/k2/" class="more">more</a>  
+                      <a href="https://zhouzh0201.github.io/k3" class="more">more</a>  
               <ul class="clearfix">
 8888888888888888
 
