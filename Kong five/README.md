@@ -281,7 +281,8 @@
              </div>
           </div> 
      <!--***********************ok*******************-->     
-
+<hr noshade="" />
+<hr noshade="" />
  <body>
  <div class="container"> 
    <div class="region"> <h3>The Hong Kong University of Science and Technology </h3></div>
@@ -352,15 +353,15 @@
 
 
    
-	
-     
+<hr noshade="" />	
+ <hr noshade="" />    
      <div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div>
    <!--4.1%%%%%%%%%-->    
 
 
       
-     
-     
+   <hr noshade="" />  
+    <hr noshade="" /> 
        <div class="region"> <h3>The City Universityof  Hong Kong </h3></div>
   
    <!--5.1%%%%%%%%%-->
