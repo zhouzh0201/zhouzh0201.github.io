@@ -245,9 +245,10 @@ Human-Robot Interaction:
 <p>This area is devoted to the development of theory and algorithms in a variety of domains such as Big Data Analytics, Artificial Intelligence, Speech and Language Processing, Financial Analytics, Computational Biology, Bioinformatics, Neural Engineering, Deep Learning, and Signal Processing.</p>
 <div class="centers">
 <ul class=" clearfix"> 
+
 <p><strong>
  <li>  潘 永 安https://eeawpoon.people.ust.hk/</li> 
- <li>  <img src="../k2/redball.gif" /><a href= " https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html "> 劉 堅 能/Vincent LAU </a> <font color="red"> Ph.D. Vacancy (Theoretical Research) </font></li> 
+ <li>  <img src="../k2/redball.gif" /><a href= " https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html "> 劉 堅 能/Vincent LAU </a> <font color="red"> Ph.D. Vacancy (Theoretical Research) There are a few limited Ph.D. vacancies</font>There are a few limited vacancies for MPhil/Ph.D with focus on applied research</li> 
   <li> 陳 文 新https://ece.hkust.edu.hk/mcha </li> 
  <li>  陳 敬 https://eekjchen.home.ece.ust.hk/</li> 
 
@@ -260,7 +261,7 @@ Human-Robot Interaction:
 We are actively seeking highly self-motivated postdoctoral researchers. </li> 
    <li>  <img src="../k2/redball.gif" /><a href="https://pascale.home.ece.ust.hk/ "> 馮 雁/Pascale Ngan FUNG   </a></li> 
    <li>  <img src="../k2/redball.gif" /><a href=" ">Xiaomeng LI 李 小 萌   </a><font color="red">	 </font></li> 
-   <li>  <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/ ">繆 偉 豪/Wai Ho MOW   </a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li> 
+   <li>  <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/">繆 偉 豪/Wai Ho MOW </a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li> 
    <li>  <img src="../k2/redball.gif" /><a href=" "> Ross MURCH 穆 樂 思  </a><font color="red">	 </font></li> 
    <li>  <img src="../k2/redball.gif" /><a href=" "> Daniel PEREZ PALOMAR 鋒 西 龍  </a><font color="red">	 </font></li> 
    <li>  <img src="../k2/redball.gif" /><a href=" ">Bertram Emil SHI 施 毅 明 </a><font color="red">	 </font></li> 
@@ -281,14 +282,16 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
 
 <p>In recent years, wireless communications and networking has become extremely important throughout the world and in particular for the Mainland and Hong Kong.  This area includes emerging Wireless Communications, IoT Systems, 6G, Machine Learning, Ambient RF Systems, Edge Computing and Communications, Computer Networking, Visible Light Communications, Coding and Information theory.</p>
 
-<p><strong>Khaled BEN LETAIEF 李 德 富  
- |  Vincent Kin Nang LAU 劉 堅 能  
- |  Wai Ho MOW 繆 偉 豪  
- |  Ross MURCH 穆 樂 思  
+<p><strong>
+ <li>  <img src="../k2/redball.gif" /><a href=" ">Khaled BEN LETAIEF 李 德 富  </a><font color="red">	 </font></li>  
+ | <li>  <img src="../k2/redball.gif" /><a href=" https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html ">劉 堅 能/ Vincent Kin Nang LAU   </a><font color="red">	 Ph.D. Vacancy (Theoretical Research) There are a few limited Ph.D. vacancies</font>There are a few limited vacancies for MPhil/Ph.D with focus on applied research </li>  
+ | <li>  <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/ "> 繆 偉 豪/ Wai Ho MOW </a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li> 
+ |  <li>  <img src="../k2/redball.gif" /><a href=" ">Ross MURCH 穆 樂 思   </a><font color="red">	 </font></li> 
  |<br />
      <li>  <img src="../k2/redball.gif" /><a href="https://ece.hkust.edu.hk/eealbert">王 啓 新/Kai Sun Albert WONG</a></li>
- |  Jun ZHANG 張 軍  
- |  Zili MENG 孟 子 立</strong></p>
+ |  <li>  <img src="../k2/redball.gif" /><a href=" ">Jun ZHANG 張 軍  </a><font color="red">	 </font></li>  
+ |  <li>  <img src="../k2/redball.gif" /><a href=" ">Zili MENG 孟 子 立 </a><font color="red">	 </font></li> 
+ </strong></p>
 
 <p> </p>
  
