@@ -281,10 +281,11 @@
              </div>
           </div> 
      <!--***********************ok*******************-->     
- <!--3.1%%%%%%%%%-->
+
  <body>
  <div class="container"> 
    <div class="region"> <h3>The Hong Kong University of Science and Technology </h3></div>
+	  <!--3.1%%%%%%%%%-->
        <div class="index-three">
            <div class="container">
               <div class="index-notice">
@@ -347,12 +348,25 @@
                  </div>       
              </div>
           </div>  
-	  
-     <div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div>
-       <div class="region"> <h3>The City Universityof  Hong Kong </h3></div>
-  <!--***********************ok*******************-->     
- <!--4.1%%%%%%%%%-->    
+
+
+
+   
+	
      
+     <div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div>
+   <!--4.1%%%%%%%%%-->    
+
+
+      
+     
+     
+       <div class="region"> <h3>The City Universityof  Hong Kong </h3></div>
+  
+   <!--5.1%%%%%%%%%-->
+  <!--***********************ok*******************-->   
+  
+
        
       
     </div> 
