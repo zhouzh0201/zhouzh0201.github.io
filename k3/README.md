@@ -250,7 +250,7 @@ Human-Robot Interaction:
   <li> 王 啓 新https://ece.hkust.edu.hk/eealbert</li> 
   <li> 陳 文 新https://ece.hkust.edu.hk/mcha </li> 
  <li>  陳 敬 https://eekjchen.home.ece.ust.hk/</li> 
- <li>  <img src="../k2/redball.gif" /><a href= https://eezfan.home.ece.ust.hk/范 智 勇 </a> <font color="red">Open Positions:	We are seeking highly motivated student and postdoc candidates ,Students and postdocs with strong motivation for cutting-edge research on nanotechnology are welcome to join us </font></li> 
+ <li>  <img src="../k2/redball.gif" /><a href= "https://eezfan.home.ece.ust.hk/">范 智 勇 </a> <font color="red">Open Positions:	We are seeking highly motivated student and postdoc candidates ,Students and postdocs with strong motivation for cutting-edge research on nanotechnology are welcome to join us </font></li> 
    <li>  <img src="../k2/redball.gif" /><a href=" "> Qifeng CHEN 陳 启 峰  </a> </li> 
    <li>  <img src="../k2/redball.gif" /><a href="https://vsdl.hkust.edu.hk/ "> 鄭 光 廷/Kwang-Ting Tim CHENG  </a> <font color="red">	 </font>
 We are actively seeking highly self-motivated postdoctoral researchers. </li> 
