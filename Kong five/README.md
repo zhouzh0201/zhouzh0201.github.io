@@ -312,11 +312,46 @@
                    </div>       
                </div>
             </div>
-            <!--3.2%%%%%%%%%-->
-  
+            <!--3.2%%%%%%%%%-->          
+    <div class="index-second">
+           <div class="container">
+              <div class="index-notice">
+                 <div class="index-title  clearfix">
+                      <h5><img src="icon-new.png" />Department of Electrical and Electronic Engineering </h5>  
+                 </div>
+               <div class="item">
+                    <ul class=" clearfix">
+                        <li class="active"><a href=" https://zhouzh0201.github.io/k2/ ">26fall admisstion supervisor</a></li>
+                        <!--li><a href="k1">Robotics </a></li-->
+                        <!--li><a href="k1">Embodied AI</a></li-->                     
+                         <!--li><a href="k1">26fall open positions</a></li-->
+                    </ul>
+                 </div>
+                    <div class="cont">
+                      <div class="cont-box latest" style="display: block;">
+                      <a href="https://zhouzh0201.github.io/k2/" class="more">more</a>  
+              <ul class="clearfix">
+8888888888888888
+
+<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                    
+                       </ul> 	 
+<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
+   <span class="p_no_d">1</span>
+   <span class="p_no">   <a href="tzgg/56.htm">2</a></span><span class="p_no">
+     <a href="tzgg/55.htm">3</a></span><span class="p_no">
+     <a href="tzgg/54.htm">4</a></span><span class="p_no">
+     <a href="tzgg/53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="tzgg/1.htm">57</a></span><span class="p_next p_fun"><a href="tzgg/56.htm">next page</a></span><span class="p_last p_fun"><a href="tzgg/1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_50421','dynclicks_u6_50381','dynclicks_u6_50361','dynclicks_u6_50201','dynclicks_u6_50261','dynclicks_u6_50171','dynclicks_u6_49971','dynclicks_u6_49911','dynclicks_u6_49701','dynclicks_u6_49551','dynclicks_u6_48901','dynclicks_u6_48871','dynclicks_u6_48831','dynclicks_u6_48801','dynclicks_u6_48771'],[50421,50381,50361,50201,50261,50171,49971,49911,49701,49551,48901,48871,48831,48801,48771],"wbnews", 1852176512)</script>
+    </div>                   
+                                                
+                    </div>
+                 </div>       
+             </div>
+          </div>  
+	  
      <div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div>
        <div class="region"> <h3>The City Universityof  Hong Kong </h3></div>
-     
+  <!--***********************ok*******************-->     
+ <!--4.1%%%%%%%%%-->    
      
        
       
