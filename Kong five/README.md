@@ -300,11 +300,11 @@
                   </div>
                     <div class="cont">
                     <div class="cont-box latest" style="display: block;">
-                        <a href="https://zhouzh0201.github.io/k2/" target="_blank" class="more">more</a> 
+                        <a href="k3" target="_blank" class="more">more</a> 
                        <ul class="clearfix"> 
 
 
-88888888888888888888888888888888888888888888
+8888888888888
 
    
                          </ul>                 
