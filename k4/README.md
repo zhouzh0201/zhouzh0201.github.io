@@ -120,7 +120,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 
 
     <li> <img src="../k2/redball.gif" /> <a href="https://www4.comp.polyu.edu.hk/~cswjli/"> 李文杰 </a> <font color="red"> Research Position Opening: I am looking for postdocs, research associates/assistants </font> </li> 
-    <li> <img src="../k4/0031.gif" /> <a href="https://web.comp.polyu.edu.hk/csbxiao/"> 肖斌 </a><font color="red"> Ph.D. Opportunity: In general, we are looking for good Ph.D. candidates all year around (fellowship HK$18,890 per month) </font> We still have a number of positions for the 2025 academic year. </li> 
+    <li> <img src="../k4/0031.gif" /> <a href="https://web.comp.polyu.edu.hk/csbxiao/"> </a><font color="red">肖斌  Ph.D. Opportunity: In general, we are looking for good Ph.D. candidates all year around (fellowship HK$18,890 per month) </font> We still have a number of positions for the 2025 academic year. </li> 
  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
