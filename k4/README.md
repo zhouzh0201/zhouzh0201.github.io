@@ -104,7 +104,7 @@
  <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csyliu/ ">刘燕/ LIU Yan Fiona</a><font color="red"> Recruitment</font>Three projects are recruiting postdoc researchers, PhD students, research associates, and research assistants.</li> 
         
 <p>2. Cyber Security and Privacy Group Leader: Prof.罗霞璞/ LUO Daniel   </p>
-<li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~csxluo/ "> 罗夏樸/ LUO Daniel</a><font color="red">Master of Engineering,Daniel received his B.S. in Communication Engineering and M.S. in Communications and Information Systems from  Wuhan University,Looking for highly motivated Postdoctoral fellow and PhD/MPhil students</font> in the areas of Mobile/IoT/System Security, Blockchain/Smart Contract, Software Engineering, Network Security and Privacy, Internet Measurement, and Performance Evaluation. Please contact me if you have interests.</li> 
+<li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~csxluo/ "> 罗夏樸/ LUO Daniel Alumni</a><font color="red">Master of Engineering,Daniel received his B.S. in Communication Engineering and M.S. in Communications and Information Systems from  Wuhan University,Looking for highly motivated Postdoctoral fellow and PhD/MPhil students</font> in the areas of Mobile/IoT/System Security, Blockchain/Smart Contract, Software Engineering, Network Security and Privacy, Internet Measurement, and Performance Evaluation. Please contact me if you have interests.</li> 
 <p>3. Data Science, Information Retrieval and Human Computer Interaction Group Leader: Prof.姚文龙/ YIU Man Lung Ken</p>
 <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csmlyiu/ ">姚文龙/ YIU Man Lung Ken</a><font color="red">
 To PhD applicants: please follow the procedure stated <a href="https://dbgroup.comp.polyu.edu.hk/?page_id=32">here</a>; I do not reply to any unsolicited email.</font> </li>
@@ -114,11 +114,13 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 <p>6. Vision, Language and Graphics Group Leader: Prof.陈昌文/ CHEN Changwen,Interim Dean of Faculty of Computer and Mathematical Sciences,</p>
 <li> <img src="../k2/redball.gif" /><a href="https://chenlab.comp.polyu.edu.hk/? ">.陈昌文/ CHEN Changwen</a><font color="red">Recruitment</font> Please refer to the requirements for different positions within our research group. If you are interested in applying, please send an email to: changwen.chen AT polyu.edu.hk..Ph.D. StudentApplicants should have a Bachelor’s and Master’s degree in Computer Science, Artificial Intelligence, Mathematics, Statistics, or related subjects.</li>
 
-<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
- <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+ <li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~csjcao/">曹建农</a><font color="red">Recruitment,I am looking for strongly motivated PhD students,Research Assistant and Postdoctoral Fellow to join our research group.</font>he is Dean of Graduate School</li> 
+ <li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~csqli/">李青/ LI Qing</a><font color="red"></font>Chair Professor of Data Science and Head</li> 
+  <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/cslzhang/">张磊/ZHANG Lei John</a><font color="red"></font>Chair Professor of Computer Vision and Image Analysis</li> 
+
+
+ <li> <img src="../k2/redball.gif" /> <a href="https://www4.comp.polyu.edu.hk/~cswjli/"> 李文杰 </a> <font color="red"> Research Position Opening: I am looking for postdocs, research associates/assistants </font> </li> 
+<p><li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csbxiao/">肖斌</a><font color="red">Ph.D. Opportunity: In general, we are looking for good Ph.D. candidates all year around (fellowship HK$18,890 per month) </font>We still have a number of positions for the 2025 academic year. </li></p>
  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
