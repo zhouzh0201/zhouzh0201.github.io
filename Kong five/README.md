@@ -285,7 +285,7 @@
 <hr noshade="" />
  <body>
  <div class="container"> 
-   <div class="region"> <h3>The Hong Kong University of Science and Technology </h3></div>
+   <div class="region"> <h3><a href="https://hkust.edu.hk/zh-hant">The Hong Kong University of Science and Technology</a> </h3></div>
 	  <!--3.1%%%%%%%%%-->
        <div class="index-three">
            <div class="container">
@@ -320,7 +320,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                      <h5><img src="icon-new.png" /> <a href="https://ece.hkust.edu.hk/">Department of Electrical and Electronic Engineering</a>  </h5>  
+                      <h5><img src="icon-new.png" /> <a href="https://ece.hkust.edu.hk/">DEPARTMENT OF ELECTRONIC & COMPUTER ENGINEERING</a>  </h5>  
                  </div>
                <div class="item">
                     <ul class=" clearfix">
