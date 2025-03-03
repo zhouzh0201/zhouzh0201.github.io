@@ -57,10 +57,10 @@
     <a href=" https://www.polyu.edu.hk/fcms/">Faculty of Computer and Mathematical Sciences</a>,<br />
     <p> <a href="https://www.polyu.edu.hk/dsai/"> Department of Data Science and Artificial Intelligence</a>,</p> 
     <a href="https://www.polyu.edu.hk/comp/"> Department of Computing </a><br />
- 
+     <p><a href="https://www.polyu.edu.hk/feng/">the Faculty of Engineering</a>,</p>
+      <p><a href="https://www.polyu.edu.hk/eee/">Department of Electrical and Electronic Engineering</a></p>
  <hr noshade="" />
 <p> k4-1 frist page</p>
-
   <p> <a href="https://www.polyu.edu.hk/dsai/"> Department of Data Science and Artificial Intelligence</a>,</p> 
  <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
@@ -77,7 +77,7 @@
        <li>  <img src="../k2/redball.gif"/><a href="https://www.polyu.edu.hk/dsai/people/academic-staff/jiangbinyan/ "> 江滨燕/JIANG Binyan</a></li> 
      <p> Professors</p>
        <li>  <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/dsai/people/academic-staff/huangjian/ "> 黄健/HUANG Jian</a></li> 
-       <li>  <img src="../k2/redball.gif" /><a href="https://chengqi-zhang.github.io/ ">张成奇/ZHANG Chengqi  </a><font color="red">PhD opportunities:</font>If you believe that you are an excellent PhD candidate in AI related research area, and you are interested in to pursuit PhD study under my supervision, please feel free to send me your CV and research proposal. </li>
+       <li>  <img src="../k2/redball.gif" /><a href="https://chengqi-zhang.github.io/ ">张成奇/ZHANG Chengqi  </a><font color="red">PhD. opportunities:</font>If you believe that you are an excellent PhD candidate in AI related research area, and you are interested in to pursuit PhD study under my supervision, please feel free to send me your CV and research proposal. </li>
        <li>  <img src="../k2/redball.gif" /><a href=" ">齐厚铎/QI Houduo </a> <font color="red"></font></li> 
 <p>Associate Professors</p>
       
@@ -85,16 +85,33 @@
        <li>  <img src="../k2/redball.gif" /><a href=" https://web.comp.polyu.edu.hk/cskchung/">钟福丽/ CHUNG F.L. Korris </a> <font color="red">Please contact me for the Hong Kong PhD Fellowship scheme's application details if you are interested in my research areas.</font></li> 
         <li>  <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/wenhua/ ">华温/HUA Wen</a> <font color="red"></font></li> 
        <li>  <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/dsai/people/academic-staff/liucatherine/ ">刘凯琳 Catherine C</a> <font color="red">Master of Science, Wuhan University</font></li> 
-        <li>  <img src="../k2/redball.gif" /><a href=" ">吴晓明/WU Xiao Ming</a> <font color="red">We are always seeking motivated and dedicated individuals to join our group!</font>  Positions including PhD/MPhil, Postdoc, and Research Assistant/Associate are subject to funding availability. We offer competitive salaries, a positive enviroment for learning and doing research, and opportunities to gain research experience and advance your career. Interested applicants may send their resume to me. Preference will be given to applicants with exposure/experience in machine learning and artificial intelligence, good programming skills, and solid mathematical background.</li> 
+        <li>  <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~csxmwu/ ">吴晓明/WU Xiao Ming</a> <font color="red">We are always seeking motivated and dedicated individuals to join our group!</font>  Positions including PhD/MPhil, Postdoc, and Research Assistant/Associate are subject to funding availability. We offer competitive salaries, a positive enviroment for learning and doing research, and opportunities to gain research experience and advance your career. Interested applicants may send their resume to me. Preference will be given to applicants with exposure/experience in machine learning and artificial intelligence, good programming skills, and solid mathematical background.</li> 
   <p>Assistant Professors</p>
-      <li>  <img src="../k2/redball.gif" /><a href=" ">程然/ CHENG Ran</a></li> 
-      <li>  <img src="../k2/redball.gif" /><a href=" ">程然/ CHENG Ran</a></li> 
- <li>  <img src="../k2/redball.gif" /><a href=" ">程然/ CHENG Ran</a></li> 
+      <li>  <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/ama/profile/rjhan/index.html ">韩瑞建/ HAN Ruijian</a>I am looking for PhD students and Postdoctoral researchers interested in ranking data and online data analysis.</li> 
+      <li>  <img src="../k2/redball.gif" /><a href="https://wanyu-lin.github.io/ ">林婉玉/ LIN Wanyu</a><font color="red">We are looking for motivated Post-Doctoral Fellows and Ph.D. Students </font>who are interested and experienced in AI for Science and trustworthy AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred. </li> 
+      
+ <li>  <img src="../k2/redball.gif" /><a href="https://www.mindlab-ai.com/jobs ">吴继斌/Jibin Wu </a><font color="red">AVAILABLE POSITIONS</font>We are currently seeking self-motivated individuals to join our team, including Ph.D. students, Postdoctoral Fellows, and Research Assistants. If you have a passion for cutting-edge AI research and would like to be part of our team, kindly reach out to us via Email (jibin.wu@polyu.edu.hk). Please include your CV along with a summary of your research background in the email.</li> 
  <li>  <img src="../k2/redball.gif" /><a href=" ">程然/ CHENG Ran</a></li> 
       
-     </ul>
-     
+       </ul>
+      </div>
+      
+ <div class="centers">
+      <ul class=" clearfix"> 
+      <a href="https://www.polyu.edu.hk/comp/"> Department of Computing </a><br />
+
+       </ul>
    </div>
+
+
+
+
+
+
+
+
+
+   
  <div class="centers">
      <ul class=" clearfix"> 
      </ul>
