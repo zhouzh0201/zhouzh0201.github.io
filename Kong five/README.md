@@ -81,15 +81,15 @@
  <hr noshade="" />
  <body>
    <div class="container">
-     <div class="region"> <h3>The University of Hong Kong</h3></div>
-      <!--div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div-->
+     <div class="region"> <h3><a href="https://www.hku.hk/">The University of Hong Kong</a></h3></div>
+      <!--div class="region <h3>The Hong Kong Polytechnic University  </h3></div-->
      <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
       <!--1.1 %%%%%%%%%-->
      <div class="index-three">
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h5><img src="icon-new.png">  Department of Computer Science  </h5>
+                    <h5><img src="icon-new.png"><a href="[ https://www.cds.hku.hk/](https://www.cs.hku.hk/)"> Department of Computer Science </a> </h5>
          <!----*************------>
   <div class="container">
      <div class="row"> 
@@ -152,7 +152,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                      <h5><img src="icon-new.png">Department of Electrical and Electronic Engineering </h5>  
+                      <h5><img src="icon-new.png"><a href="https://www.eee.hku.hk/">Department of Electrical and Electronic Engineering</a> </h5>  
   
                  </div>
                  <div class="item">
