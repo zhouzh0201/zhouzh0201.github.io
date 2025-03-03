@@ -74,10 +74,10 @@
     <p>Head and Chair Professor of Computational Intelligence</p>
        <li>  <img src="../k2/redball.gif" /><a href=" https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/"> 陈凯/TAN Kay Chen</a> </li>   
      <p>Associate Head (Teaching) and Associate Professor</p>     
-       <li>  <img src="../k2/redball.gif/"><a href="https://www.polyu.edu.hk/dsai/people/academic-staff/jiangbinyan/ "> 江滨燕/JIANG Binyan</a></li> 
+       <li>  <img src="../k2/redball.gif"/><a href="https://www.polyu.edu.hk/dsai/people/academic-staff/jiangbinyan/ "> 江滨燕/JIANG Binyan</a></li> 
      <p> Professors</p>
        <li>  <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/dsai/people/academic-staff/huangjian/ "> 黄健/HUANG Jian</a></li> 
-       <li>  <img src="../k2/redball.gif" /><a href="https://chengqi-zhang.github.io/ ">张成奇/ZHANG Chengqi</a> <font color="red">PhD opportunities:</font>If you believe that you are an excellent PhD candidate in AI related research area, and you are interested in to pursuit PhD study under my supervision, please feel free to send me your CV and research proposal.</a> </li>
+       <li>  <img src="../k2/redball.gif" /><a href="https://chengqi-zhang.github.io/ ">张成奇/ZHANG Chengqi  </a><font color="red">PhD opportunities:</font>If you believe that you are an excellent PhD candidate in AI related research area, and you are interested in to pursuit PhD study under my supervision, please feel free to send me your CV and research proposal. </li>
        <li>  <img src="../k2/redball.gif" /><a href=" ">齐厚铎/QI Houduo </a> <font color="red"></font></li> 
 <p>Associate Professors</p>
       
