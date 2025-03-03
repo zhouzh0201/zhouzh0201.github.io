@@ -95,11 +95,27 @@
       
        </ul>
       </div>
-      
+    <p> k4-1 second page</p>  
  <div class="centers">
       <ul class=" clearfix"> 
       <a href="https://www.polyu.edu.hk/comp/"> Department of Computing </a><br />
+<p>Research Groups </p>
+<p>1. Artificial Intelligence and Robotics,Group Leader: Dr LIU Yan Fiona</p>
+ <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csyliu/ ">刘燕/ LIU Yan Fiona</a><font color="red"> Recruitment</font>Three projects are recruiting postdoc researchers, PhD students, research associates, and research assistants.</li> 
+        
+<p>2. Cyber Security and Privacy Group Leader: Prof.罗霞璞/ LUO Daniel   </p>
+<li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~csxluo/ "> 罗夏樸/ LUO Daniel</a><font color="red">Master of Engineering,Daniel received his B.S. in Communication Engineering and M.S. in Communications and Information Systems from  Wuhan University,Looking for highly motivated Postdoctoral fellow and PhD/MPhil students</font> in the areas of Mobile/IoT/System Security, Blockchain/Smart Contract, Software Engineering, Network Security and Privacy, Internet Measurement, and Performance Evaluation. Please contact me if you have interests.</li> 
+<p>3. Data Science, Information Retrieval and Human Computer Interaction Group Leader: Prof.姚文龙/ YIU Man Lung Ken</p>
+<li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csmlyiu/ ">姚文龙/ YIU Man Lung Ken</a><font color="red">
+To PhD applicants: please follow the procedure stated <a href="https://dbgroup.comp.polyu.edu.hk/?page_id=32">here</a>; I do not reply to any unsolicited email.</font> </li>
 
+<p>4. Fundamentals and Software Group Leader: Dr WANG Qixin</p>
+<p>5. Networking and Mobile Computing Group Leader: Prof. WANG Dan</p>
+<p>6. Vision, Language and Graphics Group Leader: Prof. CHEN Changwen</p>
+
+<p></p>
+
+        
        </ul>
    </div>
 
