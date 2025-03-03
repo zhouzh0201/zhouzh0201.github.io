@@ -291,7 +291,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h5><img src="icon-new.png" />  Department of Computer Science  </h5>   
+                    <h5><img src="icon-new.png" />https://cse.hkust.edu.hk/"> Department of Computer Science </a> </h5>   
                  </div>
 		   <div class="item"> 
                       <ul class=" clearfix">
@@ -320,7 +320,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                      <h5><img src="icon-new.png" />Department of Electrical and Electronic Engineering </h5>  
+                      <h5><img src="icon-new.png" /> <a href="https://ece.hkust.edu.hk/">Department of Electrical and Electronic Engineering</a>  </h5>  
                  </div>
                <div class="item">
                     <ul class=" clearfix">
