@@ -39,7 +39,7 @@
            <!--li><a href="../teaching">Teaching</a></li-->
            <li><a href="../service">Service</a></li>
            <li><a href="../Kong Five">Kong Five</a></li>
-           <li class="active"><a href="k3">K4</a></li>   
+           <li class="active"><a href="k4">K4</a></li>   
            <li><a href="../Contact me">Contact me</a></li>
         </ul>
       </div>
