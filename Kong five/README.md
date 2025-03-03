@@ -216,7 +216,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h5><img src="icon-new.png">  Department of Computer Science  </h5>   
+                    <h5><img src="icon-new.png"> <a href=" https://www.cse.cuhk.edu.hk/"> Department of Computer Science </a></h5>   
                  </div>
                  <div class="item">
                     <ul class=" clearfix">
@@ -246,7 +246,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                      <h5><img src="icon-new.png">Department of Electrical and Electronic Engineering </h5>  
+                      <h5><img src="icon-new.png"><a href=" http://www.ee.cuhk.edu.hk/en-gb/ ">   Electronic Engineering Department</a></h5>  
                  </div>
                <div class="item">
                     <ul class=" clearfix">
