@@ -95,7 +95,7 @@
       
        </ul>
       </div>
-    <p> k4-1 second page</p>  
+    <p> k4-2 second page</p>  
  <div class="centers">
       <ul class=" clearfix"> 
       <a href="https://www.polyu.edu.hk/comp/"> Department of Computing </a><br />
@@ -109,13 +109,20 @@
 <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csmlyiu/ ">姚文龙/ YIU Man Lung Ken</a><font color="red">
 To PhD applicants: please follow the procedure stated <a href="https://dbgroup.comp.polyu.edu.hk/?page_id=32">here</a>; I do not reply to any unsolicited email.</font> </li>
 
-<p>4. Fundamentals and Software Group Leader: Dr WANG Qixin</p>
-<p>5. Networking and Mobile Computing Group Leader: Prof. WANG Dan</p>
-<p>6. Vision, Language and Graphics Group Leader: Prof. CHEN Changwen</p>
+<p>4. Fundamentals and Software Group Leader:王启欣/ Dr WANG Qixin</p>
+<p>5. Networking and Mobile Computing Group Leader: Prof.王丹/ WANG Dan</p>
+<p>6. Vision, Language and Graphics Group Leader: Prof.陈昌文/ CHEN Changwen,Interim Dean of Faculty of Computer and Mathematical Sciences,</p>
+<li> <img src="../k2/redball.gif" /><a href="https://chenlab.comp.polyu.edu.hk/? ">.陈昌文/ CHEN Changwen</a><font color="red">Recruitment</font> Please refer to the requirements for different positions within our research group. If you are interested in applying, please send an email to: changwen.chen AT polyu.edu.hk..Ph.D. StudentApplicants should have a Bachelor’s and Master’s degree in Computer Science, Artificial Intelligence, Mathematics, Statistics, or related subjects.</li>
 
-<p></p>
-
-        
+<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+ <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+ <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+ <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+ <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
        </ul>
    </div>
 
