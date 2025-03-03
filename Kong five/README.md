@@ -293,6 +293,7 @@
                  <div class="index-title  clearfix">
                     <h5><img src="icon-new.png" />  Department of Computer Science  </h5>   
                  </div>
+		   <div class="item"> 
                       <ul class=" clearfix">
                         <li class="active"><a href="https://zhouzh0201.github.io/k3/ ">26fall admisstion supervisor</a></li>
                         <!--li><a href="https://zhouzh0201.github.io/k3/ ">lab&institute</a></li-->
@@ -307,8 +308,7 @@
      <li>  <img src="../k2/redball.gif" /><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></li>  
      <li>  <img src="../k2/redball.gif" /><a href=" https://jxhe.github.io/">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b></li><br />
      <li><img src="../k2/redball.gif" /><a href="https://cse.hkust.edu.hk/~jamesk ">郭天佑/ James Tin-Yau KWOK/James Kwok</a>,<b><font color="red">Research positions are now available for PhD/MPhil students (in the areas of AI/ML/CV/NLP)for theupcoming Fall 2025! If you're interested, please fill out this <a href="https://forms.gle/QR1YSck2x45yeAru5">form</a> to get started.Research internship and undergrad research positions are also available.</font></b></li>
-     <li> <img src="../k2/redball.gif" /><a href="https://sites.google.com/view/dyyeung ">杨楊瓞仁/Dit-Yan Yeung</a>,</li>
-     <li> <img src="../k2/redball.gif" /> <a href=" https://cse.hkust.edu.hk/faculty/lzhang ">张连文/Nevin Zhang</a></li>
+     
                           </ul>                           
                        </div>
                    </div>       
@@ -349,7 +349,7 @@
      <a href="tzgg/54.htm">4</a></span><span class="p_no">
      <a href="tzgg/53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="tzgg/1.htm">57</a></span><span class="p_next p_fun"><a href="tzgg/56.htm">next page</a></span><span class="p_last p_fun"><a href="tzgg/1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_50421','dynclicks_u6_50381','dynclicks_u6_50361','dynclicks_u6_50201','dynclicks_u6_50261','dynclicks_u6_50171','dynclicks_u6_49971','dynclicks_u6_49911','dynclicks_u6_49701','dynclicks_u6_49551','dynclicks_u6_48901','dynclicks_u6_48871','dynclicks_u6_48831','dynclicks_u6_48801','dynclicks_u6_48771'],[50421,50381,50361,50201,50261,50171,49971,49911,49701,49551,48901,48871,48831,48801,48771],"wbnews", 1852176512)</script>
     </div>                   
-                                                
+                        </div>                          
                     </div>
                  </div>       
              </div>
