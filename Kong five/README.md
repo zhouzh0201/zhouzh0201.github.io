@@ -291,7 +291,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                    <h5><img src="icon-new.png" />https://cse.hkust.edu.hk/"> Department of Computer Science </a> </h5>   
+                    <h5><img src="icon-new.png" /><a href="https://cse.hkust.edu.hk/"> Department of Computer Science </a> </h5>   
                  </div>
 		   <div class="item"> 
                       <ul class=" clearfix">
