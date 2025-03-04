@@ -315,7 +315,9 @@
                </div>
             </div>
 	</div>
-            <!--3.2%%%%%%%%%-->          
+ 
+            <!--3.2%%%%%%%%%-->    
+	    
     <div class="index-second">
            <div class="container">
               <div class="index-notice">
@@ -390,8 +392,36 @@
                </div>
             </div>
 	</div>
-            <!--3.2%%%%%%%%%-->    
-                           
+            <!--4.2%%%%%%%%%-->    
+         <div class="index-three">
+           <div class="container">
+              <div class="index-notice">
+                 <div class="index-title  clearfix">
+                    <h5><img src="icon-new.png" /><a href=" https://www.polyu.edu.hk/comp/ ">Department of Computing</a> </h5>   
+                 </div>                      
+               <div class="item"> 
+                      <ul class=" clearfix">
+                        <li class="active"><a href=" https://zhouzh0201.github.io/k4/">26fall admisstion supervisor</a></li>
+                        <!--li><a href="https://zhouzh0201.github.io/k3/ ">lab&institute</a></li-->
+                        <!--li><a href="k2">research group</a></li-->                     
+                        <!--li><a href="k2">26fall open positions</a></li-->
+                    </ul> 
+                </div>
+              <div class="cont">
+                    <div class="cont-box latest" style="display: block;">
+                        <a href="https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a> 
+                         <ul class="clearfix"> 
+    <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csyliu/ ">刘燕/ LIU Yan Fiona</a><font color="red"> Recruitment</font>Three projects are recruiting postdoc researchers, PhD students, research associates, and research assistants.</li> 
+     <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csmlyiu/ ">姚文龙/ YIU Man Lung Ken</a><font color="red">
+To PhD applicants: please follow the procedure stated <a href="https://dbgroup.comp.polyu.edu.hk/?page_id=32">here</a>; I do not reply to any unsolicited email.</font> </li>
+      <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csbxiao/"> 肖斌 /Bin Xiao</a><font color="red">  Ph.D. Opportunity: In general, we are looking for good Ph.D. candidates all year around (fellowship HK$18,890 per month)  </font> We still have a number of positions for the 2025 academic year. <img src="../k4/0031.gif" /></li> 
+    
+                         </ul>                           
+                       </div>
+                   </div>       
+               </div>
+            </div>
+	</div>
       
    <hr noshade="" />  
     <hr noshade="" /> 
