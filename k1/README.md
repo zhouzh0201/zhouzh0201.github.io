@@ -41,7 +41,7 @@
            <li><a href="../team">Team</a></li>
            <!--li><a href="../teaching">Teaching</a></li-->
            <li><a href="../service">Service</a></li>
-           <li><a href="../Kong Five">Kong Five</a></li>
+           <li><a href="../Kong five">Kong Five</a></li>
            <li class="active"><a href="k1">K1</a></li>   
            <li><a href="../Contact me">Contact me</a></li>
         </ul>
