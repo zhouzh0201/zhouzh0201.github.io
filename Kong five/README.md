@@ -415,8 +415,17 @@
      <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csmlyiu/ ">姚文龙/ YIU Man Lung Ken</a><font color="red">
 To PhD applicants: please follow the procedure stated <a href="https://dbgroup.comp.polyu.edu.hk/?page_id=32">here</a>; I do not reply to any unsolicited email.</font> </li>
       <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csbxiao/"> 肖斌 /Bin Xiao</a><font color="red">  Ph.D. Opportunity: In general, we are looking for good Ph.D. candidates all year around (fellowship HK$18,890 per month)  </font> We still have a number of positions for the 2025 academic year. <img src="../k4/0031.gif" /></li> 
+         </ul>    
+   <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
+   <span class="p_no_d">1</span>
+   <span class="p_no">   <a href="tzgg/56.htm">2</a></span><span class="p_no">
+     <a href="tzgg/55.htm">3</a></span><span class="p_no">
+     <a href="tzgg/54.htm">4</a></span><span class="p_no">
+     <a href="tzgg/53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="tzgg/1.htm">57</a></span><span class="p_next p_fun"><a href="tzgg/56.htm">next page</a></span><span class="p_last p_fun"><a href="tzgg/1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_50421','dynclicks_u6_50381','dynclicks_u6_50361','dynclicks_u6_50201','dynclicks_u6_50261','dynclicks_u6_50171','dynclicks_u6_49971','dynclicks_u6_49911','dynclicks_u6_49701','dynclicks_u6_49551','dynclicks_u6_48901','dynclicks_u6_48871','dynclicks_u6_48831','dynclicks_u6_48801','dynclicks_u6_48771'],[50421,50381,50361,50201,50261,50171,49971,49911,49701,49551,48901,48871,48831,48801,48771],"wbnews", 1852176512)</script>
+    </div>                
+   
+
     
-                         </ul>                           
                        </div>
                    </div>       
                </div>
@@ -425,6 +434,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
       
    <hr noshade="" />  
     <hr noshade="" /> 
+    
      <body>
  <div class="container"> 
        <div class="region"> <h3>The City Universityof  Hong Kong </h3></div>
