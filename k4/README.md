@@ -59,8 +59,10 @@
     <a href="https://www.polyu.edu.hk/comp/"> Department of Computing </a><br />
      <p><a href="https://www.polyu.edu.hk/feng/">the Faculty of Engineering</a>,</p>
       <p><a href="https://www.polyu.edu.hk/eee/">Department of Electrical and Electronic Engineering</a></p>
+      
  <hr noshade="" />
 <p> k4-1 frist page</p>
+
   <p> <a href="https://www.polyu.edu.hk/dsai/"> Department of Data Science and Artificial Intelligence</a>,</p> 
  <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
@@ -114,21 +116,69 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 <p>6. Vision, Language and Graphics Group Leader: Prof.陈昌文/ CHEN Changwen,Interim Dean of Faculty of Computer and Mathematical Sciences,</p>
 <li> <img src="../k2/redball.gif" /><a href="https://chenlab.comp.polyu.edu.hk/? ">.陈昌文/ CHEN Changwen</a><font color="red">Recruitment</font> Please refer to the requirements for different positions within our research group. If you are interested in applying, please send an email to: changwen.chen AT polyu.edu.hk..Ph.D. StudentApplicants should have a Bachelor’s and Master’s degree in Computer Science, Artificial Intelligence, Mathematics, Statistics, or related subjects.</li>
 
- <li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~csjcao/">曹建农</a><font color="red">Recruitment,I am looking for strongly motivated PhD students,Research Assistant and Postdoctoral Fellow to join our research group.</font>he is Dean of Graduate School</li> 
- <li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~csqli/">李青/ LI Qing</a><font color="red"></font>Chair Professor of Data Science and Head</li> 
-  <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/cslzhang/">张磊/ZHANG Lei John</a><font color="red"></font>Chair Professor of Computer Vision and Image Analysis</li> 
+ <p>other  PhD supervisor</p>
 
+  <li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~csjcao/">曹建农</a><font color="red">Recruitment,I am looking for strongly motivated PhD students,Research Assistant and Postdoctoral Fellow to join our research group.</font>he is Dean of Graduate School</li> 
+  <li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~csqli/">李青/ LI Qing</a><font color="red"></font>Chair Professor of Data Science and Head</li> 
+  <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/cslzhang/">张磊/ZHANG Lei John</a><font color="red"></font>Chair Professor of Computer Vision and Image Analysis</li> 
+  
 
     <li> <img src="../k2/redball.gif" /> <a href="https://www4.comp.polyu.edu.hk/~cswjli/"> 李文杰 </a> <font color="red"> Research Position Opening: I am looking for postdocs, research associates/assistants </font> </li> 
-    <li> <a href="https://web.comp.polyu.edu.hk/csbxiao/"> 肖斌 /Bin Xiao</a><font color="red">  Ph.D. Opportunity: In general, we are looking for good Ph.D. candidates all year around (fellowship HK$18,890 per month)  </font> We still have a number of positions for the 2025 academic year. <img src="../k4/0031.gif" /></li> 
- <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
- <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
- <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-       </ul>
+    <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csbxiao/"> 肖斌 /Bin Xiao</a><font color="red">  Ph.D. Opportunity: In general, we are looking for good Ph.D. candidates all year around (fellowship HK$18,890 per month)  </font> We still have a number of positions for the 2025 academic year. <img src="../k4/0031.gif" /></li> 
+    
+ <p><li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~hongxyang/">杨红霞/Hongxia Yang
+Associate Dean</a><font color="red">Open positions:</font> I am currently seeking to recruit fully funded Ph.D. students and postdocs who are interested in specializing in Generative AI and decentralized computing. Please feel free to send me an email with your CV. Self-funded visiting students and scholars are also welcome to apply.</li></p>
+
+ <p><li> <img src="../k2/redball.gif" /><a href="https://wenqifan03.github.io/">范文琪/Wenqi Fan</a><font color="red">Openings: Our research group are actively recruiting self-motivated Postdoc, Ph.D. students, Dual PhD Degree students, MPhil/Msc, and Research Assistants, etc.</font>Welcome to contact me if you are interested in interdisciplinary research (collaborating with our group) using Data Mining/Machine Learning/Artificial Intelligence!</li></p>
+ 
+ <p><li> <img src="../k2/redball.gif" /><a href="https://www4.comp.polyu.edu.hk/~jing1li/">李菁/Jing Li </a><font color="red">I'm excited to work with a wonderful team of research students and staff</font>! Drop me your CV if you are interested in joining our team as a PhD/Research Associate/Research Assistant/Post-doc.</li></p>
+ 
+  <p><li> <img src="../k2/redball.gif" /><a href="https://yang7879.github.io/">杨博/Bo Yang</a><font color="red">Openings (Sep 2024 - ):</font>Several fully funded PostDoc/PhD/RA positions for 3D Vision/Robot Learning are available now. Email me with your CV and transcripts!
+(All emails/CVs are carefully read and evaluated. Only matched candidates will be responded.)</li></p>
+ 
+  <p><li> <img src="../k2/redball.gif" /><a href="https://skyhehe123.github.io/">何晨航/Chenhang HE</a><font color="red">Join Us!
+Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</font></li></p>
+</ul>
    </div>
+   
+ <hr noshade="" /> 
+ 
+   <p> k4-3 three page</p>  
+ <div class="centers">
+      <ul class=" clearfix"> 
+     <p><a href="https://www.polyu.edu.hk/feng/">the Faculty of Engineering</a>,</p>
+      <p><a href="https://www.polyu.edu.hk/eee/">Department of Electrical and Electronic Engineering</a></p>
+ 
+   <p>Research Themes and Strength</p>
+   <p>Artificial Intelligence and Robotics </p> 
+   <p>Leader:	Professor麦明华/ M. W. Mak</p>
+    <p><li> <img src="../k2/redball.gif" /><a href="">麦明华/ M. W. Mak</a><font color="red"></font></li></p>
+    <p>Deputy Leader::	Professor	林健豪/ Kenneth Lam</p> 
+   <p>Members:	Prof.	陈奕亮 Y.L. Chan, /Prof 周立鹏 L.P. Chau ,/Prof胡浩 H. Hu,/ Prof.罗婉婷 Bonnie Law,/Prof.李国强 K.A. Lee, Dr…</p> 
+   <p>The AISP group conducts cutting-edge research in artificial intelligence, machine intelligence, and signal processing.The group applies AI and signal processing to :
+       •    Computer vision, 3D scene analysis, and 3D object recognition (Prof. 林健豪Kenneth Lam, Prof.周立鹏 L.P. Chau, Dr. Luca Rossi, and Dr. Yi Wang)/
+        •    Image and video processing (Dr. Daniel Lun, 陈奕亮/Dr. Y.L. Chan, and Dr. 陈启智/Chris Chan)
+        •    Computational intelligence, intelligent control, robotics (Dr 梁志坚/Frank Leung)
+    </p> 
+   <p></p> 
+   <p></p> 
+ <p>other  PhD supervisor</p>
 
+ 周立培https://www.eie.polyu.edu.hk/~lpchau/Recruitment:[PhD Scholarship] I am looking for self-motivated PhD students (several positions) with strong background in large language model, egocentric computer vision, perception for autonomous driving, and 3D computer vision.
+ 
+  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
 
+no
+
+       
+</ul>
+   </div>
+ <hr noshade="" /> 
 
 
 
