@@ -235,7 +235,8 @@ Human-Robot Interaction:
                </p> <p class="mt-2"> <a href="https://www.cse.ust.hk/~mxj/" class="link">For potential PhD, MPhil, MScIT, and  UROP students</a>  </p>
 
 <!--****************-->
-<p> k3-2 frist page</p>
+ <hr noshade="" /> 
+<p> k3-2 second page</p>
  <p> <a href="https://ece.hkust.edu.hk/"> DEPARTMENT OF ELECTRONIC & COMPUTER ENGINEERING</a></p> 
    <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
