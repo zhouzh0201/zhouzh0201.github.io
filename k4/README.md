@@ -153,32 +153,40 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
       <p>Research Themes and Strength</p>
       <p>Artificial Intelligence and Robotics </p> 
       <p>Leader:	Professor麦明华/ M. W. Mak</p>
-        <li> <img src="../k2/redball.gif" /><a href="">麦明华/ M. W. Mak</a><font color="red"></font></li>
-        <li><img src="../k2/redball.gif" /><a href="">Deputy Leader::	Professor	林健豪/ Kenneth Lam</a><font color="red"></font></li> 
+      <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/en/eee/research/research-highlight/prof-mw-mak/">麦明华/ M. W. Mak</a><font color="red"></font></li>
+      <li><img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/eee/research/research-highlight/prof-kenneth-lam/">Deputy Leader::	Professor	林健豪/ Kenneth Lam</a><font color="red"></font></li> 
       <p>Members:	Prof.</p> 
-      <li><img src="../k2/redball.gif" /><a href="">陈奕亮/ Y.L. Chan,</a><font color="red"></font></li>
-      <li><img src="../k2/redball.gif" /><a href="">  周立鹏 /L.P. Chau</a><font color="red"></font></li>
-      <li><img src="../k2/redball.gif" /><a href=""> 胡浩/ H. Hu</a><font color="red"></font></li>
-      <li><img src="../k2/redball.gif" /><a href="">  罗婉婷/ Bonnie Law</a><font color="red"></font></li>
-      <li><img src="../k2/redball.gif" /><a href=""> 李国强/ K.A. Lee,</a><font color="red"></font></li>
-      <p>The AISP group conducts cutting-edge research in artificial intelligence, machine intelligence, and signal processing.The group applies AI and signal processing to :  </p> 
+      <li><img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/eee/research/research-highlight/dr-yl-chan/">陈奕亮/ Y.L. Chan,</a><font color="red"></font></li>
+        <li><img src="../k2/redball.gif" /><a href="https://www.eie.polyu.edu.hk/~lpchau/">周立培/L.P. Chau</a> <font color="red">Recruitment:[PhD Scholarship] I am looking for self-motivated PhD students (several positions)</font> with strong background in large language model, egocentric computer vision, perception for autonomous driving, and 3D computer vision. </li> 
+ 
+      <li><img src="../k2/redball.gif" /><a href=" "> </a><font color="red"></font></li>
+      
+      <li><img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/eee/research/research-highlight/prof-h-hu/"> 胡浩/ H. Hu</a><font color="red"></font></li>
+      <li><img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/eee/research/research-highlight/dr-bonnie-law/"> 罗婉婷/ Bonnie Law</a><font color="red"></font></li>
+      <li><img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/eee/research/research-highlight/dr-lee-kong-aik/"> 李国强/ K.A. Lee,</a><font color="red"></font></li>
+      <p>The AISP group conducts cutting-edge research in artificial intelligence, machine intelligence, and signal processing.The group applies AI and signal processing to :</p> 
          <p> •  Computer vision, 3D scene analysis, and 3D object recognition  </p> 
-       <li><img src="../k2/redball.gif" /><a href=""> 林健豪/Kenneth Lam</a><font color="red"></font></li>
-       <li><img src="../k2/redball.gif" /><a href="">周立鹏/ L.P. Chau</a><font color="red"></font></li>
-       <li><img src="../k2/redball.gif" /><a href="">/Luca Rossi</a><font color="red"></font></li>
-       <li><img src="../k2/redball.gif" /><a href="">/Yi Wang</a><font color="red"></font></li>
+       <li><img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/eee/research/research-highlight/prof-kenneth-lam/"> 林健豪/Kenneth Lam</a><font color="red"></font></li>
+       <li><img src="../k2/redball.gif" /><a href="https://www.eie.polyu.edu.hk/~lpchau/">周立培/ L.P. Chau</a><font color="red"></font></li>
+       <li><img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-luca-rossi/">威尼斯/Luca Rossi</a><font color="red">Research assistant, PhD, and postdoctoral opportunities at PolyU</font></li>
+       <li><img src="../k2/redball.gif" /><a href="https://wangyintu.github.io/">王毅/Yi Wang</a><font color="red">Recruitment:We are actively recruiting image/video processing, computer vision</font>, 3D vision, and self-motivated PhD (including self-finance students) to join our research group at Hong Kong Polytechnic University. Strong candidates can contact me to be nominated for the prestigious Hong Kong PhD Fellowship Scheme (HKPFS) and Dual PhD Degree (2+2) for specific universities.</li>
          <p> •   Image and video processing  </p>  
-       <li><img src="../k2/redball.gif" /><a href="">陈奕亮 /Daniel Lun, </a><font color="red"></font></li>
-       <li><img src="../k2/redball.gif" /><a href="">/Y.L. Chan</a><font color="red"></font></li>
+       <li><img src="../k2/redball.gif" /><a href="">/Daniel Lun, </a><font color="red"></font></li>
+       <li><img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/eee/research/research-highlight/dr-yl-chan/">陈奕亮/Y.L. Chan</a><font color="red"></font></li>
        <li><img src="../k2/redball.gif" /><a href=""> 陈启智/Chris Chan</a><font color="red"></font></li>
-          <p> •    Computational intelligence, intelligent control, robotics  </p> 
+          <p> •  Computational intelligence, intelligent control, robotics  </p> 
        <li><img src="../k2/redball.gif" /><a href=""> 梁志坚/Frank Leung</a><font color="red"></font></li>
   
  <p>other  PhD supervisor</p>
 
-     <li><img src="../k2/redball.gif" /><a href="https://www.eie.polyu.edu.hk/~lpchau/">周立培</a> <font color="red">Recruitment:[PhD Scholarship] I am looking for self-motivated PhD students (several positions)</font> with strong background in large language model, egocentric computer vision, perception for autonomous driving, and 3D computer vision. </li> 
- 
+   
     <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
+ <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
+ <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
+ <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
+ <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
+
+    
     <p>no</p>        
 </ul>
    </div>
