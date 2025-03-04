@@ -97,6 +97,7 @@
       
        </ul>
       </div>
+   <hr noshade="" />     
     <p> k4-2 second page</p>  
  <div class="centers">
       <ul class=" clearfix"> 
@@ -143,52 +144,37 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
    
  <hr noshade="" /> 
  
-   <p> k4-3 three page</p>  
+      <p> k4-3 three page</p>  
  <div class="centers">
       <ul class=" clearfix"> 
-     <p><a href="https://www.polyu.edu.hk/feng/">the Faculty of Engineering</a>,</p>
+      <p><a href="https://www.polyu.edu.hk/feng/">the Faculty of Engineering</a>,</p>
       <p><a href="https://www.polyu.edu.hk/eee/">Department of Electrical and Electronic Engineering</a></p>
  
-   <p>Research Themes and Strength</p>
-   <p>Artificial Intelligence and Robotics </p> 
-   <p>Leader:	Professor麦明华/ M. W. Mak</p>
-    <p><li> <img src="../k2/redball.gif" /><a href="">麦明华/ M. W. Mak</a><font color="red"></font></li></p>
-    <p>Deputy Leader::	Professor	林健豪/ Kenneth Lam</p> 
-   <p>Members:	Prof.	陈奕亮 Y.L. Chan, /Prof 周立鹏 L.P. Chau ,/Prof胡浩 H. Hu,/ Prof.罗婉婷 Bonnie Law,/Prof.李国强 K.A. Lee, Dr…</p> 
-   <p>The AISP group conducts cutting-edge research in artificial intelligence, machine intelligence, and signal processing.The group applies AI and signal processing to :
-       •    Computer vision, 3D scene analysis, and 3D object recognition (Prof. 林健豪Kenneth Lam, Prof.周立鹏 L.P. Chau, Dr. Luca Rossi, and Dr. Yi Wang)/
+      <p>Research Themes and Strength</p>
+      <p>Artificial Intelligence and Robotics </p> 
+      <p>Leader:	Professor麦明华/ M. W. Mak</p>
+      <p><li> <img src="../k2/redball.gif" /><a href="">麦明华/ M. W. Mak</a><font color="red"></font></li></p>
+      <p>Deputy Leader::	Professor	林健豪/ Kenneth Lam</p> 
+      <p>Members:	Prof.	陈奕亮 Y.L. Chan, /Prof 周立鹏 L.P. Chau ,/Prof胡浩 H. Hu,/ Prof.罗婉婷 Bonnie Law,/Prof.李国强 K.A. Lee, Dr…</p> 
+      <p>The AISP group conducts cutting-edge research in artificial intelligence, machine intelligence, and signal processing.The group applies AI and signal processing to :
+        •    Computer vision, 3D scene analysis, and 3D object recognition (Prof. 林健豪Kenneth Lam, Prof.周立鹏 L.P. Chau, Dr. Luca Rossi, and Dr. Yi Wang)/
         •    Image and video processing (Dr. Daniel Lun, 陈奕亮/Dr. Y.L. Chan, and Dr. 陈启智/Chris Chan)
         •    Computational intelligence, intelligent control, robotics (Dr 梁志坚/Frank Leung)
     </p> 
-   <p></p> 
-   <p></p> 
+   
+  
  <p>other  PhD supervisor</p>
 
- 周立培https://www.eie.polyu.edu.hk/~lpchau/Recruitment:[PhD Scholarship] I am looking for self-motivated PhD students (several positions) with strong background in large language model, egocentric computer vision, perception for autonomous driving, and 3D computer vision.
+     <p>周立培https://www.eie.polyu.edu.hk/~lpchau/Recruitment:[PhD Scholarship] I am looking for self-motivated PhD students (several positions) with strong background in large language model, egocentric computer vision, perception for autonomous driving, and 3D computer vision. </p> 
  
-  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-  <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-<p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
-
-no
-
-       
+    <p><li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li></p>
+    <p>no</p>        
 </ul>
    </div>
  <hr noshade="" /> 
-
-
-
-
-
-
-
    
  <div class="centers">
      <ul class=" clearfix"> 
      </ul>
-</div>
+ </div>
 
