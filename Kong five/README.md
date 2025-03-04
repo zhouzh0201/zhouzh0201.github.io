@@ -398,7 +398,7 @@
               <div class="index-notice">
                  <div class="index-title  clearfix">
                     <h5><img src="icon-new.png" /> <a href=" https://www.polyu.edu.hk/comp/ ">Department of Computing</a> </h5>
-		   <h3>  <a href="https://zhouzh0201.github.io/k4/"> <img src="icon-new.png" />26fall admisstion supervisor <img src="icon-new.png" />more</a>  </h3>
+		   <h5>  <a href="https://zhouzh0201.github.io/k4/"><img src="../k4/image024.gif" />26fall admisstion supervisor <img src="../k4/image024.gif" />more</a> </h5>
             
                  </div>                      
                <div class="item"> 
