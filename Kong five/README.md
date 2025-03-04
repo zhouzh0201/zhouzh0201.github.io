@@ -361,9 +361,37 @@
  <body>
  <div class="container"> 
      <div class="region"> <h3>The Hong Kong Polytechnic University  </h3></div>
-   <!--4.1%%%%%%%%%-->    
-  </div>  
-
+   <!--4.1%%%%%%%%%-->  
+  <div class="index-three">
+           <div class="container">
+              <div class="index-notice">
+                 <div class="index-title  clearfix">
+                    <h5><img src="icon-new.png" /><a href="https://www.polyu.edu.hk/dsai/ ">Department of Data Science and Artificial Intelligence </a> </h5>   
+                 </div>  
+                <div class="item"> 
+                      <ul class=" clearfix">
+                        <li class="active"><a href=" https://zhouzh0201.github.io/k4/">26fall admisstion supervisor</a></li>
+                        <!--li><a href="https://zhouzh0201.github.io/k3/ ">lab&institute</a></li-->
+                        <!--li><a href="k2">research group</a></li-->                     
+                        <!--li><a href="k2">26fall open positions</a></li-->
+                    </ul> 
+                </div>
+                  <div class="cont">
+                    <div class="cont-box latest" style="display: block;">
+                        <a href="https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a> 
+                         <ul class="clearfix"> 
+     <li>  <img src="../k2/redball.gif" /><a href="https://chengqi-zhang.github.io/ ">张成奇/ZHANG Chengqi  </a><font color="red">PhD. opportunities:</font>If you believe that you are an excellent PhD candidate in AI related research area, and you are interested in to pursuit PhD study under my supervision, please feel free to send me your CV and research proposal. </li>
+     <li>  <img src="../k2/redball.gif" /><a href=" https://web.comp.polyu.edu.hk/cskchung/">钟福丽/ CHUNG F.L. Korris </a> <font color="red">Please contact me for the Hong Kong PhD Fellowship scheme's application details if you are interested in my research areas.</font></li>	
+     <li>  <img src="../k2/redball.gif" /><a href="https://wanyu-lin.github.io/ ">林婉玉/ LIN Wanyu</a><font color="red">We are looking for motivated Post-Doctoral Fellows and Ph.D. Students </font>who are interested and experienced in AI for Science and trustworthy AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred. </li> 
+      				 
+                         </ul>                           
+                       </div>
+                   </div>       
+               </div>
+            </div>
+	</div>
+            <!--3.2%%%%%%%%%-->    
+                           
       
    <hr noshade="" />  
     <hr noshade="" /> 
