@@ -50,11 +50,10 @@
 <!--****************-->
 <div class="container" style="margin-top: 50px;"> 
    <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
-  <p> <a href="https://www.cityu.edu.hk/"> k5 The Hong Kong Polytechnic University (PolyU) </a>,</p> <br />
+  <p> <a href="https://www.cityu.edu.hk/"> k5  City University of Hong Kong(CityUHK)</a>,</p>  
 <p> Admission for 2025-26,<a href=" https://www.cityu.edu.hk/sgs/">Chow Yei Ching School of Graduate Studies</a> </p>
-<p><a href="https://www.cityu.edu.hk/cc/ ">College of Computing</a>,</p><br />
-
-<p><a href="https://www.cityu.edu.hk/cs/"> Department of Computer Science</a></p><br />
+<p><a href="https://www.cityu.edu.hk/cc/ ">College of Computing</a>,</p> 
+<p><a href="https://www.cityu.edu.hk/cs/"> Department of Computer Science</a></p> 
 <p><a href="https://www.ds.cityu.edu.hk/">Department of Data Science</a></p><br />
  <hr noshade="" />
 <p> k5-1 frist page</p>
@@ -62,7 +61,31 @@
  <p> <a href="https://www.cityu.edu.hk/cs/ "> Department of Computer Science </a>,</p> 
  <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
- <p>  https://www.cs.cityu.edu.hk/research/research-areas/computer-vision</p>
+ <p><a href=" https://www.cs.cityu.edu.hk/research/research-areas/computer-vision">computer-vision</a></p>
+<p> Faculty</p> 
+<li>https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html</li>
+陈安东尼教授 Prof CHAN, Antoni Bert
+董敏静教授Prof DONG, Minjing
+叶浩然教授Prof IP, Horace H S
+侯俊辉教授Prof HOU, Junhui
+刘伟生教授Prof LAU, Rynson WH
+梁浩华教授Prof LEUNG, Howard
+廖静教授Prof LIAO, Jing
+马佳伟教授Prof MA, Jiawei
+马可德教授Prof MA, Kede
+马子烨教授Prof MA, Ziye
+王世琪教授Prof WANG, Shiqi
+黄侯山教授Prof WONG, Hau San
+ <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
+ <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
+ <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
+ <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
+ <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
+ 
+ <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
+ <li> <img src="../k2/redball.gif" /><a href=" "><font color="#ff0000"></font></a></li>
+ <li> <img src="../k2/redball.gif" /><a href=" "><font color="#ff0000"></font></a></li>
+      
  <p> https://www.cs.cityu.edu.hk/research/research-areas/image-and-video-processing </p>
  <p> https://www.cs.cityu.edu.hk/research/research-areas/machine-learning </p>
  <p> https://www.cs.cityu.edu.hk/research/research-areas/computer-graphics </p>
