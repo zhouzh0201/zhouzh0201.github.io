@@ -98,6 +98,7 @@
               <div class="index-notice">
                  <div class="index-title  clearfix">
                     <h5><img src="icon-new.png"><a href="https://www.cs.hku.hk/"> Department of Computer Science </a> </h5>
+		    </div> 
          <!----*************------>
   <div class="container">
      <div class="row"> 
