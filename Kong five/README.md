@@ -82,36 +82,21 @@
 ***
 ****
 *****
-
-
-
  <hr noshade="" />
 *
 **
 ***
 ****
 *****
-
-
-
-
-  <hr noshade="" />
-*
-**
-***
-****
-*****
-
-
-
-
    <hr noshade="" />
  <body>
    <div class="container">
      <div class="region"> <h3><a href="https://www.hku.hk/">The University of Hong Kong</a></h3></div>
       <!--div class="region <h3>The Hong Kong Polytechnic University  </h3></div-->
      <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
-      <!--1.1 %%%%%%%%%-->
+   
+	   
+    <!--1.1 %%%%%%%%%-->
      <div class="index-three">
            <div class="container">
               <div class="index-notice">
@@ -173,7 +158,9 @@
              </div>
            </div>     
 
-              <!--1.2.%%%%%%%%%-->
+           
+	      
+       <!--1.2.%%%%%%%%%-->
      <!--div class="region"> *HKU  Department of Electrical and Electronic Engineering* </div-->
         <div class="index-second">
            <div class="container">
@@ -237,6 +224,8 @@
 <div class="container">
   <div class="region"> <h3><a href=" https://www.cuhk.edu.hk/english/">The Chinese  University of Hong  Kong</a></h3></div>
 
+
+  
   <!--2.1.%%%%%%%%%-->
      <div class="index-three">
    
@@ -268,7 +257,9 @@
                </div>
             </div>
          </div>  
-           <!--2.2%%%%%%%%%-->
+         
+	   
+    <!--2.2%%%%%%%%%-->
     <div class="index-second">
            <div class="container">
               <div class="index-notice">
@@ -313,7 +304,10 @@
  <body>
  <div class="container"> 
    <div class="region"> <h3><a href="https://hkust.edu.hk/zh-hant">The Hong Kong University of Science and Technology</a> </h3></div>
-	  <!--3.1%%%%%%%%%-->
+	
+	 
+  
+  <!--3.1%%%%%%%%%-->
        <div class="index-three">
            <div class="container">
               <div class="index-notice">
@@ -343,7 +337,8 @@
             </div>
 	</div>
  
-            <!--3.2%%%%%%%%%-->    
+         
+	    <!--3.2%%%%%%%%%-->    
 	    
     <div class="index-second">
            <div class="container">
@@ -390,7 +385,9 @@
  <body>
  <div class="container"> 
      <div class="region"> <h3> <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> </h3></div>  
-   <!--4.1%%%%%%%%%-->  
+
+	 
+  <!--4.1%%%%%%%%%-->  
   <div class="index-three">
            <div class="container">
               <div class="index-notice">
@@ -419,7 +416,9 @@
                </div>
             </div>
 	</div>
-            <!--4.2%%%%%%%%%-->    
+         
+	    
+     <!--4.2%%%%%%%%%-->    
          <div class="index-second">
            <div class="container">
               <div class="index-notice">
@@ -465,6 +464,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
  <div class="container"> 
        <div class="region"> <h3><a href="https://www.cityu.edu.hk/ "> The City Universityof  Hong Kong </a> </h3></div>
   
+ 
    <!--5.1%%%%%%%%%-->
  <div class="index-three">
            <div class="container">
