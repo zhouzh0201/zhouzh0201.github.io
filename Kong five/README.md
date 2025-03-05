@@ -169,6 +169,7 @@
                  <div class="index-title  clearfix">
                       <h5><img src="icon-new.png"><a href="https://www.eee.hku.hk/">Department of Electrical and Electronic Engineering</a> </h5>  
                  <!----*************------>    
+		   <!----*************------>    
                  </div>
                  <div class="item">
                     <ul class=" clearfix">
@@ -180,7 +181,7 @@
                  </div>
                     <div class="cont">
                      <div class="cont-box latest" style="display: block;">
-                        <a href="https://zhouzh0201.github.io/k1/" class="more">more</a>        
+                        <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>        
 		       <h3>computer-vision</h3>
 		       <ul class="clearfix">
 
@@ -205,18 +206,28 @@
       </a>
    </li> 
  
-<li> <a href="https://xjqi.github.io/ ">齐小娟</a>, Xiaojuan Qi  , Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab,<a href="https://www.dvlab.ai/ ">Deep Vision Lab （DVLab)</a><font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>	
-<a href="https://xjqi.github.io/ ">齐小娟 </a>,Xiaojuan Qi,<a href="https://xjqi.github.io/cvmi.html ">Computer Vision and Machine Intelligence Lab (CVMI Lab)</a> ,<a href="https://www.dvlab.ai/ ">Deep Vision Lab</a>. The Deep Vision Lab (DVLab) is a top-tier research institute on computer vision and machine learning established by Prof. Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<font color="#ff0000">Join DV Lab in 2022 or later working on exciting and innovative computer vision + machine learning projects! We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.</font>   <span>2025.03.05</span> </li>  
+<li> <a href="https://xjqi.github.io/ ">齐小娟</a>,
+	  Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab,
+	<a href="https://www.dvlab.ai/ ">Deep Vision Lab （DVLab)</a><font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>	
+<a href="https://xjqi.github.io/ ">齐小娟 </a>, 
+	<a href="https://xjqi.github.io/cvmi.html ">Computer Vision and Machine Intelligence Lab (CVMI Lab)</a> ,
+	<a href="https://www.dvlab.ai/ ">Deep Vision Lab</a>. 
+	The Deep Vision Lab (DVLab) is a top-tier research institute on computer vision and machine learning established by Prof. Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.
+	<font color="#ff0000">Join DV Lab in 2022 or later working on exciting and innovative computer vision + machine learning projects! We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.</font>   
+	<span>2025.03.05</span> 
+</li>  
 	
- <li><a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a> <font color="#ff0000">Ph.D. students, postdocs and interns We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</font>.
+ <li><a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a> 
+	 <font color="#ff0000">Ph.D. students, postdocs and interns, We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</font>.
 	 <p>Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction.</p>
-	 <a href="https://yanchaoyang.github.io/ ">Click here</a> <span>2025.03.05</span>
+	 <a href="https://yanchaoyang.github.io/ ">Click here</a> 
+	 <span>2025.03.05</span>
  </li>  
-<li><a href="https://datascience.hku.hk/people/ping-luo/"> 罗平</a> <font color="#ff0000">We are actively recrui Joint Laboratory</font>Research Interests:Computer Vision, Machine Learning, Deep Learning.<a href="http://luoping.me/ ">Click here</a><span>202503.05</span> </li>  
-
-
-
-
+<li><a href="https://datascience.hku.hk/people/ping-luo/"> 罗平</a> 
+	<font color="#ff0000">We are actively recrui Joint Laboratory</font>
+         Research Interests:Computer Vision, Machine Learning, Deep Learning.
+	<a href="http://luoping.me/ ">Click here</a>
+	<span>2025.03.05</span> </li>  
 
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                                  
                          </ul> 
