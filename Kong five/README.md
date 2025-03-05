@@ -163,7 +163,7 @@
 	      
        <!--1.2.%%%%%%%%%-->
       
-        <div class="index-second">
+        <div class="index-frist">
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
