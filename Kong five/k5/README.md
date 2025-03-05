@@ -80,7 +80,7 @@
  <p> Faculty</p>
        <li><img src= "../../k2/redball.gif" /><a href="https://www.cs.cityu.edu.hk/~abchan/">陈斌教授/Antoni B. Chan</a><font color="#ff0000">Opportunities,Information for Prospective Graduate Students</font></li> 
      <p>Postgraduate Students</p>
-       <li><img src= "../../k2/redball.gif"/><a href="https://jiuniu.ruantang.top/">Jiuniu WANG,Alibaba DAMO Academy</a><font color="#ff0000"> I am hiring academic interns recently</font></li> 
+       <li><img src= "../../k2/redball.gif"/><a href="https://jiuniu.ruantang.top/">王金牛/Jiuniu WANG,Alibaba DAMO Academy</a><font color="#ff0000"> I am hiring academic interns recently</font></li> 
      
        <hr noshade="" />  
 
@@ -89,8 +89,8 @@
  <p>  </p>
        
      
-       <li><img src= "../../k2/redball.gif"/><a href="https://www.cityu.edu.hk/stfprofile/cplau27.htm">刘振邦/Samuel Chun Pong LAU</a><font color="#ff0000">Openings:I am looking for highly motivated Ph.D. students with a background in computer science, data science, mathematics, statistics or related fields. Please send your CV and transcript(s) to cplau27@cityu.edu.hk if you are interested.</font>Research Interest: Machine Learning, Computer Vision, Biometrics, Adversarial Robustness, Generative AI, Scientific Computing,</li>  
-   <p>Selected Publications/Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection/分段和完整：使用强大的补丁检测保护对象检测器免受对抗性补丁攻击/</p>
+       <li><img src= "../../k2/redball.gif"/><a href="https://www.cityu.edu.hk/stfprofile/cplau27.htm">刘振邦/Samuel Chun Pong LAU</a><font color="#ff0000">Openings:I am looking for highly motivated Ph.D. students with a background in computer science, data science, mathematics, statistics or related fields. Please send your CV and transcript(s) to cplau27@cityu.edu.hk if you are interested.</font>Research Interest: Machine Learning, Computer Vision, Biometrics, Adversarial Robustness, Generative AI, Scientific Computing, 
+   <p> Selected Publications / Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection/分段和完整：使用强大的补丁检测保护对象检测器免受对抗性补丁攻击/</p></li> 
        
        <li><img src="../../k2/redball.gif"/><a href=" "></a><font color="#ff0000"></font></li>
        <li><img src="../../k2/redball.gif"/><a href=" "></a><font color="#ff0000"></font></li>
