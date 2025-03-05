@@ -178,8 +178,8 @@
                  </div>
                     <div class="cont">
                      <div class="cont-box latest" style="display: block;">
-                        <a href="https://zhouzh0201.github.io/k1/" class="more">more</a>
-                       <h3>computer-vision</h3>
+                        <a href="https://zhouzh0201.github.io/k1/" class="more">more</a>        
+		       <h3>computer-vision</h3>
 		       <ul class="clearfix">
 
 <li>    
