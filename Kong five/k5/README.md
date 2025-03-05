@@ -61,37 +61,35 @@
  <p> <a href="https://www.cityu.edu.hk/cs/ "> Department of Computer Science </a>,</p> 
  <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
- <p><a href=" https://www.cs.cityu.edu.hk/research/research-areas/computer-vision">computer-vision</a></p>
+ <p><a href=" https://www.cs.cityu.edu.hk/research/research-areas/computer-vision">computer-vision</a></p
+      <span>&nbsp;]&nbsp;</span>                                                                                                   
 <p> Faculty</p> 
-<li>https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html</li>
-陈安东尼教授 Prof CHAN, Antoni Bert
-董敏静教授Prof DONG, Minjing
-叶浩然教授Prof IP, Horace H S
-侯俊辉教授Prof HOU, Junhui
-刘伟生教授Prof LAU, Rynson WH
-梁浩华教授Prof LEUNG, Howard
-廖静教授Prof LIAO, Jing
-马佳伟教授Prof MA, Jiawei
-马可德教授Prof MA, Kede
-马子烨教授Prof MA, Ziye
-王世琪教授Prof WANG, Shiqi
-黄侯山教授Prof WONG, Hau San
- <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
- <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
- <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
- <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
- <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
- 
- <li> <img src="../k2/redball.gif" /><a href=" "> <font color="#ff0000"></font></a></li>
- <li> <img src="../k2/redball.gif" /><a href=" "><font color="#ff0000"></font></a></li>
- <li> <img src="../k2/redball.gif" /><a href=" "><font color="#ff0000"></font></a></li>
-      
- <p> https://www.cs.cityu.edu.hk/research/research-areas/image-and-video-processing </p>
- <p> https://www.cs.cityu.edu.hk/research/research-areas/machine-learning </p>
- <p> https://www.cs.cityu.edu.hk/research/research-areas/computer-graphics </p>
- <p> https://www.cs.cityu.edu.hk/research/research-areas/human-computer-interaction-hci </p>
- <p> https://www.cs.cityu.edu.hk/research/research-centres-labs </p>
- <p> https://www.cs.cityu.edu.hk/research/research-areas/data-science </p>
+<li><a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html/">陈安东尼教授 Prof CHAN, Antoni Bert,Willing to take PhD students: yes</a></li>
+ <li> <img src="../k2/redball.gif" /><a href=" http://visal.cs.cityu.edu.hk/jobs/">陈安东尼教授 Prof CHAN, Antoni Bert </a><font color="#ff0000">Willing to take PhD students: yes</font >I can make recommendations on students to accept.</li>
+ <li> <img src="../k2/redball.gif" /><a href=" https://www.cs.cityu.edu.hk/~minjdong/">董敏静教授Prof DONG, Minjing </a><font color="#ff0000">Willing to take PhD students: yes.I am looking for self-motivated MPhil/PhD students enrolled in the year of<b> 2026.</b></font>If you are interested in trustworthy machine learning research, computer vision, generative models, adversarial robustness, model calibration, or efficient neural networks</li>
+ <li> <img src="../k2/redball.gif" /><a href=" https://www.cityu.edu.hk/stfprofile/cship.htm">叶浩然教授Prof IP, Horace H S </a><font color="#ff0000"></font> </li>
+ <li> <img src="../k2/redball.gif" /><a href=" https://scholars.cityu.edu.hk/en/persons/junhui-hou(1e5e437a-b84d-471d-af08-5f13a2d0b1c3).html">侯俊辉教授Prof HOU, Junhui </a><font color="#ff0000">Willing to take PhD students: yes</font></li> 
+ <li> <img src="../k2/redball.gif" /><a href=" https://www.cs.cityu.edu.hk/~rynson/">刘伟生教授Prof LAU, Rynson WH</a> <font color="#ff0000"></font> </li>
+ <li> <img src="../k2/redball.gif" /><a href=" "> 梁浩华教授Prof LEUNG, Howard</a><font color="#ff0000"></font></li>
+ <li> <img src="../k2/redball.gif" /><a href="https://scholars.cityu.edu.hk/en/persons/jing-liao(45757c38-f737-420d-8a7f-73b58d30c1fd).html ">廖静教授Prof LIAO, Jing</a>interests fall in the fields of Computer Graphics, Computer Vision, Image/Video Processing<font color="#ff0000"></font></li>
+ <li> <img src="../k2/redball.gif" /><a href="https://www.cs.cityu.edu.hk/~jiaweima/ ">马佳伟教授Prof MA, Jiawei</a><font color="#ff0000">Willing to take PhD students: yes,Open Positions (New)Research Interest</font> on Machine Learning and Computer vision</li>
+   <li> <img src="../k2/redball.gif" /><a href=" https://scholars.cityu.edu.hk/en/persons/ziye-ma(00a1dafa-1b4c-4def-957b-e1dcb661fc0d).html "> 马子烨教授Prof MA, Ziye</a><font color="#ff0000">Willing to take PhD students: yes</font>His areas of focus include machine learning, mathematical optimization, and statistics. </li> 
+<li> <img src="../k2/redball.gif" /><a href=" https://scholars.cityu.edu.hk/en/persons/shiqi-wang(78640ee3-78bd-4ec2-bb65-ccfc5cb44918).html">王世琪教授Prof WANG, Shiqi </a><font color="#ff0000">Willing to take PhD students: yes</font> interests fall in the fields of image/video coding, processing, analysis and quality assessment.</li>
+
+
+   <li> <img src="../k2/redball.gif" /><a href=" ">  </a><font color="#ff0000"></font></li>
+
+   <li> <img src="../k2/redball.gif" /><a href=" "> </a><font color="#ff0000"></font></li>
+
+
+
+   
+ <p>   </p>
+ <p>  </p>
+ <p>  </p>
+ <p>  </p>
+ <p>   </p>
+ <p>   </p>
 
  
  </div>
