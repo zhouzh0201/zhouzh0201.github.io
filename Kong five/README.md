@@ -449,17 +449,27 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
                  </div>  
   <div class="item"> 
                       <ul class=" clearfix">
-                        <li class="active"><a href=" https://zhouzh0201.github.io/k4/">26fall admisstion supervisor</a></li>
+                        <li class="active"><a href="https://zhouzh0201.github.io/Kong%20five/k5/ ">26fall admisstion supervisor</a></li>
                      </ul> 
                   </div>
-
-
- 
+                  <div class="cont">
+                    <div class="cont-box latest" style="display: block;">
+                        <a href="https://zhouzh0201.github.io/Kong%20five/k5/ " target="_blank" class="more">more</a> 
+                        <ul class="clearfix">  
+  <li> <img src="../../k2/redball.gif" /><a href=" http://visal.cs.cityu.edu.hk/jobs/">陈安东尼教授 Prof CHAN, Antoni Bert </a><font color="#ff0000">Willing to take PhD students: yes</font>I can make recommendations on students to accept.</li>
+ <li> <img src=" ../../k2/redball.gif " /><a href=" https://www.cs.cityu.edu.hk/~minjdong/">董敏静教授Prof DONG, Minjing </a><font color="#ff0000">Willing to take PhD students: yes.I am looking for self-motivated MPhil/PhD students enrolled in the year of<b> 2026.</b></font>If you are interested in trustworthy machine learning research, computer vision, generative models, adversarial robustness, model calibration, or efficient neural networks</li>
+    <li> <img src=" ../../k2/redball.gif" /><a href="https://www.cs.cityu.edu.hk/~jiaweima/ ">马佳伟教授Prof MA, Jiawei</a><font color="#ff0000">Willing to take PhD students: yes,Open Positions (New)Research Interest</font> on Machine Learning and Computer vision</li>
  </div> 
+                         </ul>                           
+                       </div>
+                   </div>       
+               </div>
+            </div>
+	</div>
   <!--***********************ok*******************-->   
   
 
-       
+          <!--5.2%%%%%%%%%-->    
       
     </div> 
  </body>
