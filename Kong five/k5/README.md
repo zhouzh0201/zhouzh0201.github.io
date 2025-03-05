@@ -55,14 +55,14 @@
 <p><a href="https://www.cityu.edu.hk/cc/ ">College of Computing</a>,</p> 
 <p><a href="https://www.cityu.edu.hk/cs/"> Department of Computer Science</a></p> 
 <p><a href="https://www.ds.cityu.edu.hk/">Department of Data Science</a></p><br />
- <hr noshade="" />
+  <span>&nbsp; <hr noshade="erd" /> &nbsp;</span>
 <p> k5-1 frist page</p>
 
  <p> <a href="https://www.cityu.edu.hk/cs/ "> Department of Computer Science </a>,</p> 
  <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
  <p><a href=" https://www.cs.cityu.edu.hk/research/research-areas/computer-vision">computer-vision</a></p>
-      <span>&nbsp;]&nbsp;</span>                                                                                                   
+                                                                                                      
 <p> Faculty</p> 
 <li><a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html/">陈安东尼教授 Prof CHAN, Antoni Bert,Willing to take PhD students: yes</a></li>
  <li> <img src= "../../k2/redball.gif" /><a href=" http://visal.cs.cityu.edu.hk/jobs/">陈安东尼教授 Prof CHAN, Antoni Bert </a><font color="#ff0000">Willing to take PhD students: yes</font >I can make recommendations on students to accept.</li>
