@@ -124,12 +124,12 @@
                         <ul class="clearfix">
 <li>
     <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">
-        <p>Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR. <font color="#ff0000">the director of AI Lab</font> ，<span>2025.02.17  </span></p> <br/>
+        <p>于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR. <font color="#ff0000">the director of AI Lab</font> ，<span>2025.02.17  </span></p> <br/>
     </a>
 </li>      
 <li>
     <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB">
-        <p>Ma, Yi  
+        <p>马毅/Ma, Yi  
             <font color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,Inaugural Director of Institute of Data Science (IDS), the University of Hong Kong.   </font>  
             <span>2025.02.15     </span>  
         </p> <br/>
@@ -137,12 +137,18 @@
 </li> 
 <li>    
     <a href="https://datascience.hku.hk/" target="_blank" title="CGPWB">
-       <p>Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS), 
+       <p>马毅/Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS), 
            <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!  </font>. 
            <span>2025.02.15 </span>    
        </p> <br/>
    </a>
 </li> 
+<li><a href="https://datascience.hku.hk/ "> HKU Institute of Data Science (HKU-IDS) </a> <font color="#ff0000">HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision, </font>.Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision <span>2025.3.5  </span>    </li> 
+
+<li><a href="https://www.dvlab.ai/ "> Deep Vision Lab （DVLab </a> <font color="#ff0000">Deep Vision Lab （DVLab） </font>.is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<br /> <span>2025.3.5  </span>    </li> 
+
+<li><a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a> . <a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab</a>,<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:<a href="https://aiot.hku.hk/openings/"><i class="fa fa-hand-point-right"></i> Prospective Students</a></font>.  <span>2025.3.5  </span>  </li> 
+
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
 </ul>
  
@@ -198,7 +204,18 @@
          <span>2025.02.15</span> 
       </p> <br/>
    </a>
-</li>                                                 
+</li>  
+<li> <a href="https://xjqi.github.io/ ">齐小娟</a>, Xiaojuan Qi  , Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab,<a href="https://www.dvlab.ai/ ">Deep Vision Lab （DVLab)</a><font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>
+	
+<a href="https://xjqi.github.io/ ">齐小娟 </a>,Xiaojuan Qi,<a href="https://xjqi.github.io/cvmi.html ">Computer Vision and Machine Intelligence Lab (CVMI Lab)</a> ,<a href="https://www.dvlab.ai/ ">Deep Vision Lab</a>. The Deep Vision Lab (DVLab) is a top-tier research institute on computer vision and machine learning established by Prof. Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<font color="#ff0000">Join DV Lab in 2022 or later working on exciting and innovative computer vision + machine learning projects! We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.</font>   <span>2025.03.05</span></li>   
+
+<li><a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 </a> <font color="#ff0000">Ph.D. students, postdocs and internsWe are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</font>.Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction.<a href="https://yanchaoyang.github.io/ ">Click here</a> <span>2025.03.05</span></li>  
+<li><a href="https://datascience.hku.hk/people/ping-luo/"> 罗平</a> <font color="#ff0000">We are actively recrui Joint Laboratory</font>Research Interests:Computer Vision, Machine Learning, Deep Learning.<a href="http://luoping.me/ ">Click here</a><span>202503.05</span> </li>  
+
+
+
+
+
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                                  
                          </ul> 
  <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
