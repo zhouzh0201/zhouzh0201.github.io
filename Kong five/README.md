@@ -83,11 +83,7 @@
 ****
 *****
  <hr noshade="" />
-*
-**
-***
-****
-*****
+ 
    <hr noshade="" />
  <body>
    <div class="container">
