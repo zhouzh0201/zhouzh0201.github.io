@@ -469,8 +469,50 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
   <!--***********************ok*******************-->   
   
 
-          <!--5.2%%%%%%%%%-->    
+          <!--5.2%%%%%-->
+
+<div class="index-second">
+           <div class="container">
+              <div class="index-notice">
+                 <div class="index-title  clearfix">
+                    <h5><img src="icon-new.png" /> <a href="https://www.ds.cityu.edu.hk/ ">Department of Data Science </a> </h5>
+		   <h5>  <a href="https://zhouzh0201.github.io/Kong%20five/k5/ "><img src="../k4/image024.gif" />26fall admisstion supervisor     more</a> </h5>
+            
+                 </div>                      
+
+ <div class="item"> 
+                      <ul class=" clearfix">
+                        <!--li class="active"><a href=" https://zhouzh0201.github.io/k4/">26fall admisstion supervisor</a></li-->
+                        <!--li><a href="https://zhouzh0201.github.io/k3/ ">lab&institute</a></li-->
+                        <!--li><a href="k2">research group</a></li-->                     
+                        <!--li><a href="k2">26fall open positions</a></li-->
+                    </ul> 
+                </div>
+<div class="cont">
+                    <div class="cont-box latest" style="display: block;">
+                        <!--a href="https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a--> 
+                         <ul class="clearfix"> 
+
+<li><img src="../../k2/redball.gif" /><a href="https://www.cityu.edu.hk/stfprofile/cplau27.htm">刘振邦/Samuel Chun Pong LAU</a><font color="#ff0000">Openings:I am looking for highly motivated Ph.D. students with a background in computer science, data science, mathematics, statistics or related fields. Please send your CV and transcript(s) to cplau27@cityu.edu.hk if you are interested.</font>Research Interest: Machine Learning, Computer Vision, Biometrics, Adversarial Robustness, Generative AI, Scientific Computing, 
+   <p> Selected Publications / Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection/分段和完整：使用强大的补丁检测保护对象检测器免受对抗性补丁攻击/</p></li> 
+
+                    </ul> 
+   <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
+   <span class="p_no_d">1</span>
+   <span class="p_no">   <a href="tzgg/56.htm">2</a></span><span class="p_no">
+     <a href="tzgg/55.htm">3</a></span><span class="p_no">
+     <a href="tzgg/54.htm">4</a></span><span class="p_no">
+     <a href="tzgg/53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="tzgg/1.htm">57</a></span><span class="p_next p_fun"><a href="tzgg/56.htm">next page</a></span><span class="p_last p_fun"><a href="tzgg/1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_50421','dynclicks_u6_50381','dynclicks_u6_50361','dynclicks_u6_50201','dynclicks_u6_50261','dynclicks_u6_50171','dynclicks_u6_49971','dynclicks_u6_49911','dynclicks_u6_49701','dynclicks_u6_49551','dynclicks_u6_48901','dynclicks_u6_48871','dynclicks_u6_48831','dynclicks_u6_48801','dynclicks_u6_48771'],[50421,50381,50361,50201,50261,50171,49971,49911,49701,49551,48901,48871,48831,48801,48771],"wbnews", 1852176512)</script>
+    </div>                
+                       </div>
+                   </div>       
+               </div>
+            </div>
+	</div>
       
+   <hr noshade="" />  
+    <hr noshade="" /> 
+ <!--***********************ok*******************-->   
     </div> 
  </body>
 
@@ -479,7 +521,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 
 
 
-
+     <hr noshade="" /> 
      <!--hr-->
   <!--div class="container" style="margin-top: 800px;"-->
     <div align="center">
