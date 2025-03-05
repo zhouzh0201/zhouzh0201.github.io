@@ -61,7 +61,7 @@
  <p> <a href="https://www.cityu.edu.hk/cs/ "> Department of Computer Science </a>,</p> 
  <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
- <p><a href=" https://www.cs.cityu.edu.hk/research/research-areas/computer-vision">computer-vision</a></p
+ <p><a href=" https://www.cs.cityu.edu.hk/research/research-areas/computer-vision">computer-vision</a></p>
       <span>&nbsp;]&nbsp;</span>                                                                                                   
 <p> Faculty</p> 
 <li><a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html/">陈安东尼教授 Prof CHAN, Antoni Bert,Willing to take PhD students: yes</a></li>
