@@ -62,8 +62,8 @@
  <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
  <p><a href=" https://www.cs.cityu.edu.hk/research/research-areas/computer-vision">computer-vision</a></p>
-                                                                                                      
-<p> Faculty</p> 
+
+<p> Faculty of Department</p> 
 <li><a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html/">陈安东尼教授 Prof CHAN, Antoni Bert,Willing to take PhD students: yes</a></li>
  <li> <img src= "../../k2/redball.gif" /><a href=" http://visal.cs.cityu.edu.hk/jobs/">陈安东尼教授 Prof CHAN, Antoni Bert </a><font color="#ff0000">Willing to take PhD students: yes</font >I can make recommendations on students to accept.</li>
  <li> <img src=" ../../k2/redball.gif " /><a href=" https://www.cs.cityu.edu.hk/~minjdong/">董敏静教授Prof DONG, Minjing </a><font color="#ff0000">Willing to take PhD students: yes.I am looking for self-motivated MPhil/PhD students enrolled in the year of<b> 2026.</b></font>If you are interested in trustworthy machine learning research, computer vision, generative models, adversarial robustness, model calibration, or efficient neural networks</li>
@@ -76,47 +76,42 @@
    <li> <img src=" ../../k2/redball.gif" /><a href=" https://scholars.cityu.edu.hk/en/persons/ziye-ma(00a1dafa-1b4c-4def-957b-e1dcb661fc0d).html "> 马子烨教授Prof MA, Ziye</a><font color="#ff0000">Willing to take PhD students: yes</font>His areas of focus include machine learning, mathematical optimization, and statistics. </li> 
 <li> <img src=" ../../k2/redball.gif" /><a href=" https://scholars.cityu.edu.hk/en/persons/shiqi-wang(78640ee3-78bd-4ec2-bb65-ccfc5cb44918).html">王世琪教授Prof WANG, Shiqi </a><font color="#ff0000">Willing to take PhD students: yes</font> interests fall in the fields of image/video coding, processing, analysis and quality assessment.</li>
 
+ <p><a href=" http://visal.cs.cityu.edu.hk/">Video, Image, and Sound Analysis Lab</a><font color="#ff0000">Opportunities</font> If you want me to be your supervisor, please contact me by email </p>
+ <p> Faculty</p>
+       <li><img src= "../../k2/redball.gif" /><a href="https://www.cs.cityu.edu.hk/~abchan/">陈斌教授/Antoni B. Chan</a><font color="#ff0000">Opportunities,Information for Prospective Graduate Students</font></li> 
+     <p>Postgraduate Students</p>
+       <li><img src= "../../k2/redball.gif"/><a href="https://jiuniu.ruantang.top/">Jiuniu WANG,Alibaba DAMO Academy</a><font color="#ff0000"> I am hiring academic interns recently</font></li> 
+     
+       <hr noshade="" />  
 
-   <li> <img src=" ../../k2/redball.gif" /><a href=" ">  </a><font color="#ff0000"></font></li>
+ <p> k5-2 second page</p>
+ <p> <img src= "../../k2/redball.gif"/><a href="https://www.ds.cityu.edu.hk/">Department of Data Science</a><font color="#ff0000">Potential Supervisors:</font>  </p>
+ <p>  </p>
+       
+     
+       <li><img src= "../../k2/redball.gif"/><a href="https://www.cityu.edu.hk/stfprofile/cplau27.htm">刘振邦/Samuel Chun Pong LAU</a><font color="#ff0000">Openings:I am looking for highly motivated Ph.D. students with a background in computer science, data science, mathematics, statistics or related fields. Please send your CV and transcript(s) to cplau27@cityu.edu.hk if you are interested.</font>Research Interest: Machine Learning, Computer Vision, Biometrics, Adversarial Robustness, Generative AI, Scientific Computing,</li>  
+   <p>Selected Publications/Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection/分段和完整：使用强大的补丁检测保护对象检测器免受对抗性补丁攻击/</p>
+       
+       <li><img src="../../k2/redball.gif"/><a href=" "></a><font color="#ff0000"></font></li>
+       <li><img src="../../k2/redball.gif"/><a href=" "></a><font color="#ff0000"></font></li>
 
-   <li> <img src=" ../../k2/redball.gif" /><a href=" "> </a><font color="#ff0000"></font></li>
-
-
-
-   
- <p>   </p>
  <p>  </p>
  <p>  </p>
- <p>  </p>
  <p>   </p>
- <p>   </p>
-
- 
+ <p>   </p> 
  </div>
-
-
-
-
-
-
-
-
-
 
   </div>
  <hr noshade="" /> 
 
-
-   
+ 
  <div class="centers">
      <ul class=" clearfix"> 
      </ul>
  </div>
 
 </div></body></html>
-
-
-      
+    
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
