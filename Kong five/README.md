@@ -124,9 +124,8 @@
                  <div class="cont">
                     <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>
-                         
+               <h3>computer-visio</h3>           
                         <ul class="clearfix">
- 
 <li>
     <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">
         <p>Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR. <font color="#ff0000">the director of AI Lab</font> ，<span>2025.02.17  </span></p> <br/>
@@ -180,7 +179,8 @@
                     <div class="cont">
                      <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k1/" class="more">more</a>
-                       <ul class="clearfix">
+                       <h3>computer-visio</h3>
+		       <ul class="clearfix">
 
 <li>    
     <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">
@@ -245,7 +245,7 @@
                   <div class="cont">
                     <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k2/" target="_blank" class="more">more</a>
-                         
+            <h3>computer-visio</h3>              
                         <ul class="clearfix">
        <li>  <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~jcheng">**郑国强,</a>James Cheng<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font> </li>                             
       <li> <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/irwin.king/ ">**欧文·金</a>Irwin King,<font color="#ff0000">Multiple Positions Available </font>(September 2024)Looking for qualified PhD candidates interested in trustworthy AI, machine learning, federated learning, graph neural networks, NLP, social computing, AI, data mining, or related fields to start in August 2025.,Good self-financed candidates are also given priority.<a href=" https://misc-lab.cse.cuhk.edu.hk ">The Machine Intelligence and Social Computing (MISC) Lab</a>,</li>    
@@ -277,7 +277,9 @@
                     <div class="cont">
                       <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k2/" class="more">more</a>
-                       <ul class="clearfix">
+             <h3>computer-visio</h3>        
+		       
+	 <ul class="clearfix">
      
     <li><img src="../k2/redball.gif"/><a href="http://www.labren.org/mm">任洪亮教授/Prof REN, Hongliang</a><font color="#ff0000">There are multiple openings </font> for Postdoc/RA (and Visiting Scholar/Prof/Ph.D.) to perform research on Medical Robotics Perception &amp; AI </li>
     <li><img src="../k2/redball.gif"><a href="http://www.ee.cuhk.edu.hk/~wkma">马永健/Digital signal processing (DSP)/Prof. MA, Ken Wing Kin</a><font color="#ff0000">For these projects</font> there are vacancies for postgraduate scholarships leading to M.Phil. or Ph.D. degree. For suitable Ph.D. holders, research positions might be considered. </li>
@@ -325,6 +327,7 @@
                     <div class="cont">
                     <div class="cont-box latest" style="display: block;">
                         <a href=" https://zhouzh0201.github.io/k3/" target="_blank" class="more">more</a> 
+			 <h3>computer-visio</h3>
                        <ul class="clearfix"> 
      <li>  <img src="../k2/redball.gif" /><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></li>  
      <li>  <img src="../k2/redball.gif" /><a href=" https://jxhe.github.io/">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b></li><br />
@@ -357,7 +360,10 @@
                     <div class="cont">
                       <div class="cont-box latest" style="display: block;">
                       <a href="https://zhouzh0201.github.io/k3" class="more">more</a>  
-              <ul class="clearfix">
+           <h3>computer-visio</h3>
+	      
+       <ul class="clearfix">
+	      
 <li> @ <img src="../k2/redball.gif" /><a href="https://xmengli.github.io/ ">Xiaomeng LI 李 小 萌   </a><font color="red">	I am looking for self-motivated Postdoc/PhD/RA/Interns. Feel free to drop me an email with your CV. </font></li> 
    <li> @ <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/">繆 偉 豪/Wai Ho MOW</a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li>
 	 <li> @ <img src="../k2/redball.gif" /><a href="https://bmi.hkust.edu.hk/positions.html ">Yiwen WANG 王 怡 雯  </a><font color="red">	The Computational Cognitive Engineering Laboratory (https://bmi.ust.hk/) is on the lookout for alented PhD students</font>t, postdoctoral researchers, and research assistant professors.</li> 
@@ -405,6 +411,7 @@
                   <div class="cont">
                     <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a> 
+			  <h3>computer-visio</h3>   
                          <ul class="clearfix"> 
      <li>  <img src="../k2/redball.gif" /><a href="https://chengqi-zhang.github.io/ ">张成奇/ZHANG Chengqi  </a><font color="red">PhD. opportunities:</font>If you believe that you are an excellent PhD candidate in AI related research area, and you are interested in to pursuit PhD study under my supervision, please feel free to send me your CV and research proposal. </li>
      <li>  <img src="../k2/redball.gif" /><a href=" https://web.comp.polyu.edu.hk/cskchung/">钟福丽/ CHUNG F.L. Korris </a> <font color="red">Please contact me for the Hong Kong PhD Fellowship scheme's application details if you are interested in my research areas.</font></li>	
@@ -426,7 +433,9 @@
                     <h5><img src="icon-new.png" /> <a href=" https://www.polyu.edu.hk/comp/ ">Department of Computing</a> </h5>
 		   <h5>  <a href="https://zhouzh0201.github.io/k4/"><img src="../k4/image024.gif" />26fall admisstion supervisor     more</a> </h5>
             
-                 </div>                      
+                 </div>   
+ <h3>computer-visio</h3>
+   
                <div class="item"> 
                       <ul class=" clearfix">
                         <li class="active"><a href=" https://zhouzh0201.github.io/k4/">26fall admisstion supervisor</a></li>
@@ -472,6 +481,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
                  <div class="index-title  clearfix">
                     <h5><img src="icon-new.png" /><a href=" https://www.cityu.edu.hk/cs/ ">  Department of Computer Science </a> </h5>   
                  </div>  
+		      
   <div class="item"> 
                       <ul class=" clearfix">
                         <li class="active"><a href="https://zhouzh0201.github.io/Kong%20five/k5/ ">26fall admisstion supervisor</a></li>
@@ -480,6 +490,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
                   <div class="cont">
                     <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/Kong%20five/k5/ " target="_blank" class="more">more</a> 
+		 <h3>computer-visio</h3>	    
                         <ul class="clearfix">  
   <li> <img src="../../k2/redball.gif" /><a href=" http://visal.cs.cityu.edu.hk/jobs/">陈安东尼教授 Prof CHAN, Antoni Bert </a><font color="#ff0000">Willing to take PhD students: yes</font>I can make recommendations on students to accept.</li>
  <li> <img src=" ../../k2/redball.gif " /><a href=" https://www.cs.cityu.edu.hk/~minjdong/">董敏静教授Prof DONG, Minjing </a><font color="#ff0000">Willing to take PhD students: yes.I am looking for self-motivated MPhil/PhD students enrolled in the year of<b> 2026.</b></font>If you are interested in trustworthy machine learning research, computer vision, generative models, adversarial robustness, model calibration, or efficient neural networks</li>
@@ -504,7 +515,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 		   <h5>  <a href="https://zhouzh0201.github.io/Kong%20five/k5/ "><img src="../k4/image024.gif" />26fall admisstion supervisor     more</a> </h5>
             
                  </div>                      
-
+ <h3>computer-visio</h3>
  <div class="item"> 
                       <ul class=" clearfix">
                         <!--li class="active"><a href=" https://zhouzh0201.github.io/k4/">26fall admisstion supervisor</a></li-->
