@@ -33,14 +33,14 @@
 <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
            <li><a href="../index.html">Homepage</a></li>
-           <li><a href="../publications">Publications</a></li>
-           <li><a href="../Projects">Projects</a></li>
-           <li><a href="../team">Team</a></li>
-           <!--li><a href="../teaching">Teaching</a></li-->
-           <li><a href="../service">Service</a></li>
+           <li><a href="../../publications">Publications</a></li>
+           <li><a href="../../Projects">Projects</a></li>
+           <li><a href="../../team">Team</a></li>
+           <!--li><a href="../../teaching">Teaching</a></li-->
+           <li><a href="../../service">Service</a></li>
            <li><a href="../../Kong five">Kong Five</a></li>
            <li class="active"><a href="k5">K5</a></li>   
-           <li><a href="../Contact me">Contact me</a></li>
+           <li><a href="../../Contact me">Contact me</a></li>
         </ul>
       </div>
      </div>
