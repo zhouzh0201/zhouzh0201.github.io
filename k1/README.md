@@ -204,12 +204,12 @@ B:<br>
 </p> 
 
 
-  <h5>k1-7 sewent hpage</h5>
- <p>Faculty of Social Sciences/</p> 
-    <p> Department of Geography /</p>  
-    <p>advanced geospatial technologies (e.g., satellite remote sensing, geographical information science),</p> / 
+  <h5>k1-7 sewenth page</h5>
+ <p>Faculty of Social Sciences</p> 
+    <p> Department of Geography </p>  
+    <p>advanced geospatial technologies (e.g., satellite remote sensing, geographical information science),</p>  
     <li>47<a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a>
-      <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application/</font>   </li> 
+      <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font>   </li> 
      <p>Selected Publications: <p>
   <p>Wang, Y., Li, X., Yin, P., Yu, G., Cao, W., Liu, J., Pei, L., Hu, T., Zhou, Y., Liu, X., Huang, J., & Gong, P. (2023). Characterizing annual dynamics of urban form at the horizontal and vertical dimensions using long-term Landsat time series data. ISPRS Journal of Photogrammetry and Remote Sensing, 203, 199-210. https://doi.org/10.1016/j.isprsjprs.2023.07.025</p>
    <p> Du, Z., Yu, L., Li, X., Zhao, J., Chen, X., Xu, Y., Yang, P., Yang, J., Peng, D., Xue, Y., & Gong, P. (2023). Integrating remote sensing temporal trajectory and survey statistics to update land use/land cover maps. International Journal of Digital Earth, 16(2), 4428-4445. https://doi.org/10.1080/17538947.2023.2274422</p>
@@ -225,8 +225,8 @@ B:<br>
      <p>李文元博士/< Dr Wenyuan LI, Post-doctoral Research Fellow,/<font color="#ff0000">Research Interest: Remote sensing image processing with deep learning methods</font>,</p>
         <p>Li W., Chen K., Chen H., et al. Geographical knowledge-driven representation learning for remote sensing images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021, 60: 1-16.</p>
         <p>Li W., Chen H., Shi Z. Semantic segmentation of remote sensing images with self-supervised multitask representation learning[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14: 6438-6450.  </p>
-       <p>马一川博士/ Dr Yichuan MA,Postdoctoral Research Fellow,Ph.D. in Science and Technology of Remote Sensing,<font color="#ff0000"> Wuhan University (2019-2024),</font></p>
-        <p> 徐江磊博士/Dr Jianglei XU,Postdoctoral Research Fellow,Education: Ph.D. in Photogrammetry and Remote Sensing, <font color="#ff0000">Wuhan University(09/2020-06/2023)</font></p>
+       <p>马一川博士/ Dr Yichuan MA,<font color="#ff0000">Postdoctoral Research Fellow,Ph.D. in Science and Technology of Remote Sensing, Wuhan University (2019-2024),</font></p>
+        <p> 徐江磊博士/Dr Jianglei XU, <font color="#ff0000">Postdoctoral Research Fellow,Education: Ph.D. in Photogrammetry and Remote Sensing,Wuhan University(09/2020-06/2023)</font></p>
        <p> 张玉祥/ Yuxiang ZHANG/Postdoctoral Research Fellow/<font color="#ff0000">Research Interest:Deep learning-based remote sensing image processing</font></p>
 <p>Ph.D student, 关世康/Shikang GUAN, Research Interest: Remote sensing image process with deep learning</p>      
  </li> 
@@ -240,13 +240,14 @@ B:<br>
 <p>Selected Publications</p>
 <p>Xia, H., L. Qiao, Y. Guo, X. Ru, Y. Qin, Y. Zhou* and C. Wu* (2024). "Enhancing phenology modeling through the integration of artificial light at night effects." Remote Sensing of Environment 303: 113997.</p>
 <p></p>Xu, H., Y. Zhou*, Y. Wei, H. Guo, & X. Li. (2023). A Multirule-Based Relative Radiometric Normalization for Multisensor Satellite Images. IEEE Geoscience and Remote Sensing Letters, 20, 1-5.</P>
- <li><a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows)</li>
+
+ <li>52<a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows)</li>
      </li>
      
- <li>52<a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a><font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> 
+ <li>53<a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a><font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> 
 <p>Research Interests:Environmental remote sensing,His research interests are agroecosystem modeling, climate change impacts and adaptation, remote sensing,</p>
 </li>
-<li>52<a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a><font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font>
+<li>54<a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a><font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font>
      <p> RESEARCH POSTGRADUATE STUDENTS</p>
      <p> 李一辰/Yichen LI PhD./yichen1215@connect.hku.hk/;Remote Sensing, GIS and Deep Learning</p>
      <p>孙伟轩/Weixuan SUN,PhD/u3012361@connect.hku.hk/Remote sensing, Image processing, Deep learning</p>
