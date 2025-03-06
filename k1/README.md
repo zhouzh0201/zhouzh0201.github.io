@@ -188,10 +188,34 @@ B:<br>
 45. <a href="https://yanchaoyang.github.io">杨燕超</a>.Yanchao Yang.<font color="#ff0000"><h3>Ph.D. students, postdocs and interns!We are constantly looking for talents with strong motivation.We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h3></font>We are now accepting summer interns via the HKU Summer Research Programme (SRP), deadline is Feb. 03, 2025. High chance to get Ph.D. return offer!<br>
 
    
-<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../bkxg.htm">frist page</a></span><span class="p_prev p_fun"><a href="2.htm">previous page</a></span><span class="p_no"><a href="../bkxg.htm">1</a></span><span class="p_no"><a href="4.htm">2</a></span><span class="p_no"><a href="3.htm">3</a></span><span class="p_no"><a href="2.htm">4</a></span><span class="p_no_d">5</span><span class="p_next_d p_fun_d">next page</span><span class="p_last_d p_fun_d">end page</span></span></div><script>_showDynClickBatch(['dynclicks_u6_4585','dynclicks_u6_4561','dynclicks_u6_4176','dynclicks_u6_3326','dynclicks_u6_3327','dynclicks_u6_3328','dynclicks_u6_3336','dynclicks_u6_3340','dynclicks_u6_3347','dynclicks_u6_3348'],[4585,4561,4176,3326,3327,3328,3336,3340,3347,3348],"wbnews", 1852176512)</script> 
+<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../bkxg.htm">frist page</a></span><span class="p_prev p_fun"><a href="2.htm">previous page</a></span><span class="p_no"><a href="../bkxg.htm">1</a></span><span class="p_no"><a href="4.htm">2</a></span><span class="p_no"><a href="3.htm">3</a></span><span class="p_no"><a href="2.htm">4</a></span><span class="p_no_d">5</span><span class="p_next_d p_fun_d">next page</span><span class="p_last_d p_fun_d">end page</span></span></div>
 
+<script>_showDynClickBatch(['dynclicks_u6_4585','dynclicks_u6_4561','dynclicks_u6_4176','dynclicks_u6_3326','dynclicks_u6_3327','dynclicks_u6_3328','dynclicks_u6_3336','dynclicks_u6_3340','dynclicks_u6_3347','dynclicks_u6_3348'],[4585,4561,4176,3326,3327,3328,3336,3340,3347,3348],"wbnews", 1852176512)</script> 
+  <hr />
+  
+ <h5>k1-6 sixth page</h5>
+<p> Faculty of Science</p>
+<p>Department of Earth Sciences</p> 
+<p> Research Groups  Applied/Urban Geosciences:Group Members,
+  <a href="https://www.earthsciences.hku.hk/people/academic_staff/89/back=af3a6f1ace1fc32210286eb66ab8ef53"> Prof. Michalski， Joseph</a>
+   <font color="#ff0000">PhD Student Opportunities we can apply machine learning and AI to remote sensing analysis.</font>
+    Remote sensing, Planetary Geology and Clay Mineralogy Professor email icon jmichal@hku.hk 
+</p> 
+  
+ <p>Faculty of Social Sciences/Department of Geography / 
+    advanced geospatial technologies (e.g., satellite remote sensing, geographical information science),/ 
+    <a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG</a>
+      <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application/</font>    
+    Selected Publications:
+   <li> Wang, Y., Li, X., Yin, P., Yu, G., Cao, W., Liu, J., Pei, L., Hu, T., Zhou, Y., Liu, X., Huang, J., & Gong, P. (2023). Characterizing annual dynamics of urban form at the horizontal and vertical dimensions using long-term Landsat time series data. ISPRS Journal of Photogrammetry and Remote Sensing, 203, 199-210. https://doi.org/10.1016/j.isprsjprs.2023.07.025</li>
+    <li>Du, Z., Yu, L., Li, X., Zhao, J., Chen, X., Xu, Y., Yang, P., Yang, J., Peng, D., Xue, Y., & Gong, P. (2023). Integrating remote sensing temporal trajectory and survey statistics to update land use/land cover maps. International Journal of Digital Earth, 16(2), 4428-4445. https://doi.org/10.1080/17538947.2023.2274422</li>
+    <li>>Chen, S., Wang, J., & Gong, P. (2023). ROBOT: A spatiotemporal fusion model toward seamless data cube for global remote sensing applications. Remote Sensing of Environment, 294, 113616. https://doi.org/10.1016/j.rse.2023.113616</li
+      <li></li> Yu, L., Cao, Y., Cheng, Y., Zhao, Q., Xu, Y., Kanniah, K., Lu, H., Yang, R., & Gong, P. (2023). A study of the serious conflicts between oil palm expansion and biodiversity conservation using high-resolution remote sensing. Remote Sensing Letters, 14(6), 654-668. https://doi.org/10.1080/2150704X.2022.2063701  </li>                                        
+ </p>
 
-    <hr />
+ <p>statistics School of Computing and Data Science/
+   
+  </p>
     <div align="center">
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
         <br />
