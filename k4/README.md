@@ -184,7 +184,8 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
  <p> k4-4 fourth page</p>  
  <div class="centers">
       <ul class=" clearfix"> 
-<p>no</p>  
+
+        <p> 吴博教授</P>  
  <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/index.html "> Remote Sensing Laboratory  </a><font color="red">  </font></li>
       
      <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/lsw/charleswong.html "> 黄文星/Associate Dean  </a><font color="red"> Recruitment of PhD student:Hong Kong PhD Fellowship Scheme.Please contact Dr. Wong for more details </font>Research Overview:Use of Remote Sensing to study Urban Heat Island Effect, Urban Environmental Quality, Landslides, Vegetation and Ecosystems,</li> 
