@@ -202,7 +202,9 @@ B:<br>
     Remote sensing, Planetary Geology and Clay Mineralogy Professor email icon jmichal@hku.hk 
     </li> 
 </p> 
-  
+
+
+  <h5>k1-7 sewent hpage</h5>
  <p>Faculty of Social Sciences/</p> 
     <p> Department of Geography /</p>  
     <p>advanced geospatial technologies (e.g., satellite remote sensing, geographical information science),</p> / 
@@ -218,7 +220,7 @@ B:<br>
    <p> Liu, H., Huang, B., & Cai, J. (2023). Thick Cloud Removal Under Land Cover Changes Using Multisource Satellite Imagery and a Spatiotemporal Attention Network. IEEE Transactions on Geoscience and Remote Sensing, 61, 1-18. https://doi.org/10.1109/TGRS.2023.3236106</p>
    
     <li>49<a href=" https://geog.hku.hk/sl-liang">梁順林/Shunlin Liang/Department Head</a><font color="#ff0000">Research Interests:Remote sensing physical modeling and inversion</font>
-     <a href=" ttps://geog1.hku.hk/sliang/">梁順林/</a>Interests:Developing various satellite inversion methods and algorithms, with the recent focus on remote sensing AI foundation models.
+     <a href=" ttps://geog1.hku.hk/sliang/">梁順林</a>Interests:Developing various satellite inversion methods and algorithms, with the recent focus on remote sensing AI foundation models.
      <a href=" https://jcqrs.hku.hk/"> Director/赛马会 STEM Labs</a>LAB MEMBERS:
      <p>李文元博士/< Dr Wenyuan LI, Post-doctoral Research Fellow,/<font color="#ff0000">Research Interest: Remote sensing image processing with deep learning methods</font>,</p>
         <p>Li W., Chen K., Chen H., et al. Geographical knowledge-driven representation learning for remote sensing images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021, 60: 1-16.</p>
@@ -226,15 +228,31 @@ B:<br>
        <p>马一川博士/ Dr Yichuan MA,Postdoctoral Research Fellow,Ph.D. in Science and Technology of Remote Sensing,<font color="#ff0000"> Wuhan University (2019-2024),</font></p>
         <p> 徐江磊博士/Dr Jianglei XU,Postdoctoral Research Fellow,Education: Ph.D. in Photogrammetry and Remote Sensing, <font color="#ff0000">Wuhan University(09/2020-06/2023)</font></p>
        <p> 张玉祥/ Yuxiang ZHANG/Postdoctoral Research Fellow/<font color="#ff0000">Research Interest:Deep learning-based remote sensing image processing</font></p>
-<p>Ph.D student, 关世康/Shikang GUAN, Research Interest: Remote sensing image process with deep learning</p>       
+<p>Ph.D student, 关世康/Shikang GUAN, Research Interest: Remote sensing image process with deep learning</p>      
  </li> 
-
-
-
-       <!--**************-->
  
- <p>statistics School of Computing and Data Science/ </p>
-   
+    <li>50<a href="https://geog.hku.hk/hs-zhang ">  张宏生/Hongsheng Zhang</a><font color="#ff0000">His research</font>  is mainly focused on incorporating multiple remote sensing technologies to understand the urbanization process and its environmental and ecological impacts at various spatial and temporal scales.
+<p>Selected Publications</p>
+     <p>Wang, J., Song, G., Liddell, M., Morellato, P., Lee, C. K. F., Yang, D., Alberton, B., Detto, M., Ma, X., Zhao, Y., Yeung, H. C. H., Zhang, H., Ng, M., Nelson, B. W., Huete, A., & Wu, J. (2023). An ecologically-constrained deep learning model for tropical leaf phenology monitoring using PlanetScope satellites. Remote Sensing of Environment, 286, 113429. https://doi.org/10.1016/j.rse.2022.113429</p>
+    <p></p>Wan, L., Zhang, H. S., Lin, G. H. and Lin, H. (2019) “A Small-patched Convolutional Neural Network for Mangrove Mapping at Species Level using High-resolution Remote-sensing Image.” Annals of GIS 25(1): 45-55. DOI: 10.1080/19475683.2018.1564791</p>
+     </li>
+     <li>51<a href="https://geog.hku.hk/yy-zhou"> 周宇宇/zhou Yuyu</a><font color="#ff0000">His research focuses </font> on urban environmental change and potential solutions, utilizing geospatial technologies including remote sensing, GIS, geovisualization, spatial analytic tools, and integrated assessment modeling.   
+<p>Selected Publications</p>
+<p>Xia, H., L. Qiao, Y. Guo, X. Ru, Y. Qin, Y. Zhou* and C. Wu* (2024). "Enhancing phenology modeling through the integration of artificial light at night effects." Remote Sensing of Environment 303: 113997.</p>
+<p></p>Xu, H., Y. Zhou*, Y. Wei, H. Guo, & X. Li. (2023). A Multirule-Based Relative Radiometric Normalization for Multisensor Satellite Images. IEEE Geoscience and Remote Sensing Letters, 20, 1-5.</P>
+ <li><a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows)</li>
+     </li>
+     
+ <li>52<a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a><font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> 
+<p>Research Interests:Environmental remote sensing,His research interests are agroecosystem modeling, climate change impacts and adaptation, remote sensing,</p>
+</li>
+<li>52<a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a><font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font>
+     <p> RESEARCH POSTGRADUATE STUDENTS</p>
+     <p> 李一辰/Yichen LI PhD./yichen1215@connect.hku.hk/;Remote Sensing, GIS and Deep Learning</p>
+     <p>孙伟轩/Weixuan SUN,PhD/u3012361@connect.hku.hk/Remote sensing, Image processing, Deep learning</p>
+  </li>
+ 
+ <!--**************-->
  
     <div align="center">
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
