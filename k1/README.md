@@ -197,25 +197,45 @@ B:<br>
 <p> Faculty of Science</p>
 <p>Department of Earth Sciences</p> 
 <p> Research Groups  Applied/Urban Geosciences:Group Members,
-  <a href="https://www.earthsciences.hku.hk/people/academic_staff/89/back=af3a6f1ace1fc32210286eb66ab8ef53"> Prof. Michalski， Joseph</a>
+  <li> 46 <a href="https://www.earthsciences.hku.hk/people/academic_staff/89/back=af3a6f1ace1fc32210286eb66ab8ef53"> Prof. Michalski， Joseph</a>
    <font color="#ff0000">PhD Student Opportunities we can apply machine learning and AI to remote sensing analysis.</font>
     Remote sensing, Planetary Geology and Clay Mineralogy Professor email icon jmichal@hku.hk 
+    </li> 
 </p> 
   
- <p>Faculty of Social Sciences/Department of Geography / 
-    advanced geospatial technologies (e.g., satellite remote sensing, geographical information science),/ 
-    <a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG</a>
-      <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application/</font>    
-    Selected Publications:
-   <li> Wang, Y., Li, X., Yin, P., Yu, G., Cao, W., Liu, J., Pei, L., Hu, T., Zhou, Y., Liu, X., Huang, J., & Gong, P. (2023). Characterizing annual dynamics of urban form at the horizontal and vertical dimensions using long-term Landsat time series data. ISPRS Journal of Photogrammetry and Remote Sensing, 203, 199-210. https://doi.org/10.1016/j.isprsjprs.2023.07.025</li>
-    <li>Du, Z., Yu, L., Li, X., Zhao, J., Chen, X., Xu, Y., Yang, P., Yang, J., Peng, D., Xue, Y., & Gong, P. (2023). Integrating remote sensing temporal trajectory and survey statistics to update land use/land cover maps. International Journal of Digital Earth, 16(2), 4428-4445. https://doi.org/10.1080/17538947.2023.2274422</li>
-    <li>>Chen, S., Wang, J., & Gong, P. (2023). ROBOT: A spatiotemporal fusion model toward seamless data cube for global remote sensing applications. Remote Sensing of Environment, 294, 113616. https://doi.org/10.1016/j.rse.2023.113616</li
-      <li></li> Yu, L., Cao, Y., Cheng, Y., Zhao, Q., Xu, Y., Kanniah, K., Lu, H., Yang, R., & Gong, P. (2023). A study of the serious conflicts between oil palm expansion and biodiversity conservation using high-resolution remote sensing. Remote Sensing Letters, 14(6), 654-668. https://doi.org/10.1080/2150704X.2022.2063701  </li>                                        
- </p>
-
- <p>statistics School of Computing and Data Science/
+ <p>Faculty of Social Sciences/</p> 
+    <p> Department of Geography /</p>  
+    <p>advanced geospatial technologies (e.g., satellite remote sensing, geographical information science),</p> / 
+    <li>47<a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a>
+      <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application/</font>   </li> 
+     <p>Selected Publications: <p>
+  <p>Wang, Y., Li, X., Yin, P., Yu, G., Cao, W., Liu, J., Pei, L., Hu, T., Zhou, Y., Liu, X., Huang, J., & Gong, P. (2023). Characterizing annual dynamics of urban form at the horizontal and vertical dimensions using long-term Landsat time series data. ISPRS Journal of Photogrammetry and Remote Sensing, 203, 199-210. https://doi.org/10.1016/j.isprsjprs.2023.07.025</p>
+   <p> Du, Z., Yu, L., Li, X., Zhao, J., Chen, X., Xu, Y., Yang, P., Yang, J., Peng, D., Xue, Y., & Gong, P. (2023). Integrating remote sensing temporal trajectory and survey statistics to update land use/land cover maps. International Journal of Digital Earth, 16(2), 4428-4445. https://doi.org/10.1080/17538947.2023.2274422</p>
+   <p>Chen, S., Wang, J., & Gong, P. (2023). ROBOT: A spatiotemporal fusion model toward seamless data cube for global remote sensing applications. Remote Sensing of Environment, 294, 113616. https://doi.org/10.1016/j.rse.2023.113616</p>
+     <p>  Yu, L., Cao, Y., Cheng, Y., Zhao, Q., Xu, Y., Kanniah, K., Lu, H., Yang, R., & Gong, P. (2023). A study of the serious conflicts between oil palm expansion and biodiversity conservation using high-resolution remote sensing. Remote Sensing Letters, 14(6), 654-668. https://doi.org/10.1080/2150704X.2022.2063701 </p>                                     
+ </p> 
+<li>48<a href="https://geog.hku.hk/b-huang">黄波教授/Bo HUANG</a> <font color="#ff0000">Research Interests/Spatiotemporal /data analytics</font>  </li> 
+   <p> Liu, H., Huang, B., & Cai, J. (2023). Thick Cloud Removal Under Land Cover Changes Using Multisource Satellite Imagery and a Spatiotemporal Attention Network. IEEE Transactions on Geoscience and Remote Sensing, 61, 1-18. https://doi.org/10.1109/TGRS.2023.3236106</p>
    
-  </p>
+    <li>49<a href=" https://geog.hku.hk/sl-liang">梁順林/Shunlin Liang/Department Head</a><font color="#ff0000">Research Interests:Remote sensing physical modeling and inversion</font>
+     <a href=" ttps://geog1.hku.hk/sliang/">梁順林/</a>Interests:Developing various satellite inversion methods and algorithms, with the recent focus on remote sensing AI foundation models.
+     <a href=" https://jcqrs.hku.hk/"> Director/赛马会 STEM Labs</a>LAB MEMBERS:
+     <p>李文元博士/< Dr Wenyuan LI, Post-doctoral Research Fellow,/<font color="#ff0000">Research Interest: Remote sensing image processing with deep learning methods</font>,</p>
+        <p>Li W., Chen K., Chen H., et al. Geographical knowledge-driven representation learning for remote sensing images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021, 60: 1-16.</p>
+        <p>Li W., Chen H., Shi Z. Semantic segmentation of remote sensing images with self-supervised multitask representation learning[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14: 6438-6450.  </p>
+       <p>马一川博士/ Dr Yichuan MA,Postdoctoral Research Fellow,Ph.D. in Science and Technology of Remote Sensing, Wuhan University (2019-2024),</p>
+        <p> 徐江磊博士/Dr Jianglei XU,Postdoctoral Research Fellow,Education: Ph.D. in Photogrammetry and Remote Sensing, Wuhan University(09/2020-06/2023)</p>
+       <p> 张玉祥/ Yuxiang ZHANG/Postdoctoral Research Fellow/<font color="#ff0000">Research Interest:Deep learning-based remote sensing image processing</font></p>
+<p>Ph.D student, 关世康/Shikang GUAN, Research Interest: Remote sensing image process with deep learning</p>       
+ </li> 
+
+
+
+       
+Satellite image fusio
+ <p>statistics School of Computing and Data Science/ </p>
+   
+ 
     <div align="center">
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
         <br />
