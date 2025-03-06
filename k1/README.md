@@ -204,9 +204,9 @@ B:<br>
 </p> 
 
 
-  <h5>k1-7 sewenth page</h5>
- <p>Faculty of Social Sciences</p> 
-    <p> Department of Geography </p>  
+  <h5>k1-7 seventh page</h5>
+<k4><a href="https://web.socsc.hku.hk/">Faculty of Social Sciences</a></k4> 
+    <h4><a href="https://geog.hku.hk/">  Department of Geography</a></h4>  
     <p>advanced geospatial technologies (e.g., satellite remote sensing, geographical information science),</p>  
     <li>47<a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a>
       <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font>   </li> 
