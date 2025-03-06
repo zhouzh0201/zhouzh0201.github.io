@@ -536,6 +536,54 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 	</div>
       
    <hr noshade="" />  
+
+ <!--4.3.%%%%%h%%%%-->
+ <div class="index-three">
+     <div class="container">
+         <div class="index-notice">
+		      
+                 <div class="index-title  clearfix">
+                    <h5><img src="icon-new.png" /><a href="https://www.polyu.edu.hk/fce/ "> Faculty of Construction and Environment </a> 
+                    </h5>
+		    <h4><a href=" https://www.polyu.edu.hk/lsgi/study/rpg-scheme-item---research-postgraduate-programme/"> Department of Land Surveying and Geo-Informatics (LSGI) </a></h4>  
+		    <h3><font color="#ff0000">Remote Sensing Image Processing </font></h3>	 
+                 </div> 
+                  <div class="item">
+                     <ul class=" clearfix">
+                        <li class="active"><a href= "https://zhouzh0201.github.io/k4/"><img src=" https://zhouzh0201.github.io/k4/image024.gif " /> 26 fall admisstion supervisor </a> </li>
+                      </ul>      
+                   </div>          
+              <div class="cont">
+                    <div class="cont-box latest" style="display: block;">
+                        <a href=" https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a>
+                         <h3>computer vision/Remote Sensing Image Processing</h3>           
+                        <ul class="clearfix">
+			<p> Research Directions</p>
+<p>行星遥感实验室/摄影测量与机器人视觉实验室实验室负责人：吴博教授</P>
+<p> </P>
+<p></P>
+      <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/index.html "> Remote Sensing Laboratory  </a><font color="red">  </font></li>
+      
+     <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/lsw/charleswong.html "> 黄文星/Associate Dean  </a><font color="red"> Recruitment of PhD student:Hong Kong PhD Fellowship Scheme.Please contact Dr. Wong for more details </font>Research Overview:Use of Remote Sensing to study Urban Heat Island Effect, Urban Environmental Quality, Landslides, Vegetation and Ecosystems,</li> 
+
+     <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/lx.html"> 廖轩  /PHD Student,Bin Xiao</a><font color="red">  M.S. degree in Photogrammetry and Remote Sensing from Wuhan University, Wuhan, </font>IAO Xuan received the B.S. degree in Geographic Information Science from China University of Petroleum, Qingdao, China, in 2017 and the China in 2020. She is currently working toward the Ph.D. degree in the Department of Land Surveying and Geo-Informatics, the Hong Kong Polytechnic University. Her research interests include solar energy, image processing, and computer vision.</li> 
+     <li> <img src="../k2/redball.gif" /><a href=" "> 徐帆 /XU Fan,PHD Student</a><font color="red">  His research interests include computer vision and solar cities. </font></li> 
+     <li> <img src="../k2/redball.gif" /><a href=" "> 彭倩 /PENG Qian,Project Associate</a><font color="red"> ENG Qian has received her Bachelor degree in remote sensing science and technology at Wuhan University and Master degree in signal and information processing at University of Chinese Academy of Sciences </font><Her research interests include geospatial data processing and digital cartography./li> 
+     <li> <img src="../k2/redball.gif" /><a href=" "> 戴燕帅 /DAI Yanshuai</a><font color="red"> His research interest focuses  </font>Yanshuai is a Research Assistant at Department of Land Surveying and Geo-Informatics. on Change Detection, Building Extraction, Domain Adaptation and Forest Insect Infection Recognition based on the VHR image. He is particularly interested in building change detection based on deep learning</li> 
+
+     
+  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li> 
+  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li> 
+  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li> 
+      <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font>.</li>  
+                        </ul>  
+                    </div>
+                 </div>       
+              
+	    </div>
+       </div>
+  </div>   
+   <!--**************-->
     <hr noshade="" /> 
  <!--***********************ok*******************-->   
      <body>
