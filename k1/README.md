@@ -223,16 +223,16 @@ B:<br>
      <p>李文元博士/< Dr Wenyuan LI, Post-doctoral Research Fellow,/<font color="#ff0000">Research Interest: Remote sensing image processing with deep learning methods</font>,</p>
         <p>Li W., Chen K., Chen H., et al. Geographical knowledge-driven representation learning for remote sensing images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021, 60: 1-16.</p>
         <p>Li W., Chen H., Shi Z. Semantic segmentation of remote sensing images with self-supervised multitask representation learning[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14: 6438-6450.  </p>
-       <p>马一川博士/ Dr Yichuan MA,Postdoctoral Research Fellow,Ph.D. in Science and Technology of Remote Sensing, Wuhan University (2019-2024),</p>
-        <p> 徐江磊博士/Dr Jianglei XU,Postdoctoral Research Fellow,Education: Ph.D. in Photogrammetry and Remote Sensing, Wuhan University(09/2020-06/2023)</p>
+       <p>马一川博士/ Dr Yichuan MA,Postdoctoral Research Fellow,Ph.D. in Science and Technology of Remote Sensing,<font color="#ff0000"> Wuhan University (2019-2024),</font></p>
+        <p> 徐江磊博士/Dr Jianglei XU,Postdoctoral Research Fellow,Education: Ph.D. in Photogrammetry and Remote Sensing, <font color="#ff0000">Wuhan University(09/2020-06/2023)</font></p>
        <p> 张玉祥/ Yuxiang ZHANG/Postdoctoral Research Fellow/<font color="#ff0000">Research Interest:Deep learning-based remote sensing image processing</font></p>
 <p>Ph.D student, 关世康/Shikang GUAN, Research Interest: Remote sensing image process with deep learning</p>       
  </li> 
 
 
 
-       
-Satellite image fusio
+       <!--**************-->
+ 
  <p>statistics School of Computing and Data Science/ </p>
    
  
