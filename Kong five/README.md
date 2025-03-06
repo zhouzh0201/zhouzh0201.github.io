@@ -160,9 +160,9 @@
              </div>
            </div>     
        </div>  
-           
+             <!--1.2.%%%%%%%%%-->
 	      
-       <!--1.2.%%%%%%%%%-->
+     
         <div class="region"> <h5><img src="icon-new.png"><a href="https://www.eee.hku.hk/">Department of Electrical and Electronic Engineering</a> </h5> </div>
         <div class="index-second">
            <div class="container">
@@ -268,15 +268,15 @@
                <h3>computer vision/Remote Sensing Image Processing</h3>           
                         <ul class="clearfix">
     <li><a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a>
-      <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font>   </li> 
-     <li><a href="https://geog.hku.hk/b-huang">黄波教授/Bo HUANG</a> <font color="#ff0000">Research Interests/Spatiotemporal /data analytics</font>  </li> 
-     <li><a href=" https://geog.hku.hk/sl-liang">梁順林/Shunlin Liang/Department Head</a><font color="#ff0000">Research Interests:Remote sensing physical modeling and inversion</font> </li> 		
-        <li><a href="https://geog.hku.hk/hs-zhang ">  张宏生/Hongsheng Zhang</a><font color="#ff0000">His research</font>  is mainly focused on incorporating multiple remote sensing technologies to understand the urbanization process and its environmental and ecological impacts at various spatial and temporal scales.  </li>              
-	 <li><a href="https://geog.hku.hk/yy-zhou"> 周宇宇/zhou Yuyu</a><font color="#ff0000">His research focuses </font> on urban environmental change and potential solutions, utilizing geospatial technologies including remote sensing, GIS, geovisualization, spatial analytic tools, and integrated assessment modeling. </li>   
+      <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font>   </li> <span>2025.03.06</span>
+     <li><a href="https://geog.hku.hk/b-huang">黄波教授/Bo HUANG</a> <font color="#ff0000">Research Interests/Spatiotemporal /data analytics</font>  </li> <span>2025.03.06</span>
+     <li><a href=" https://geog.hku.hk/sl-liang">梁順林/Shunlin Liang/Department Head</a><font color="#ff0000">Research Interests:Remote sensing physical modeling and inversion</font> </li> <span>2025.03.06</span>		
+        <li><a href="https://geog.hku.hk/hs-zhang ">  张宏生/Hongsheng Zhang</a><font color="#ff0000">His research</font>  is mainly focused on incorporating multiple remote sensing technologies to understand the urbanization process and its environmental and ecological impacts at various spatial and temporal scales.  </li> <span>2025.03.06</span>             
+	 <li><a href="https://geog.hku.hk/yy-zhou"> 周宇宇/zhou Yuyu</a><font color="#ff0000">His research focuses </font> on urban environmental change and potential solutions, utilizing geospatial technologies including remote sensing, GIS, geovisualization, spatial analytic tools, and integrated assessment modeling. </li>  <span>2025.03.06</span> 
      	
-        <li><a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows)</li>
-         <li><a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a><font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> </li>
-	<li><a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a><font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font></li>
+        <li><a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows)</li><span>2025.03.06</span>
+         <li><a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a><font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> </li><span>2025.03.06</span>
+	<li><a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a><font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font></li><span>2025.03.06</span>
    	 
 		      </ul>  
                     </div>
