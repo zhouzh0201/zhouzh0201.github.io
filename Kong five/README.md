@@ -517,7 +517,7 @@
                     <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a> 
                          <ul class="clearfix"> 
-    <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csyliu/ ">刘燕/ LIU Yan Fiona</a><font color="red"> Recruitment</font>Three projects are recruiting postdoc researchers, PhD students, research associates, and research assistants.</li> 
+    <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csyliu/ ">刘燕/ LIU Yan Fiona</a><font color="red"> Recruitment</font>Three projects are recruiting postdoc researchers, PhD students, research associates, and research assistants.<span>2025.02.15</span> </li> 
      <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csmlyiu/ ">姚文龙/ YIU Man Lung Ken</a><font color="red">
 To PhD applicants: please follow the procedure stated <a href="https://dbgroup.comp.polyu.edu.hk/?page_id=32">here</a>; I do not reply to any unsolicited email.</font> </li>
       <li> <img src="../k2/redball.gif" /><a href="https://web.comp.polyu.edu.hk/csbxiao/"> 肖斌 /Bin Xiao</a><font color="red">  Ph.D. Opportunity: In general, we are looking for good Ph.D. candidates all year around (fellowship HK$18,890 per month)  </font> We still have a number of positions for the 2025 academic year. <img src="../k4/0031.gif" /></li> 
@@ -559,21 +559,20 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
                          <h3>computer vision/Remote Sensing Image Processing</h3>           
                         <ul class="clearfix">
 			<p> Research Directions</p>
-<p>行星遥感实验室/摄影测量与机器人视觉实验室实验室负责人：吴博教授</P>
+<p> 吴博教授</P>
 <p> </P>
 <p></P>
-      <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/index.html "> Remote Sensing Laboratory  </a><font color="red">  </font></li>
+      <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/index.html "> Remote Sensing Laboratory  </a><font color="red"> 黄文星 Dean   </font><span>2025.03.06</span> </li>
       
-     <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/lsw/charleswong.html "> 黄文星/Associate Dean  </a><font color="red"> Recruitment of PhD student:Hong Kong PhD Fellowship Scheme.Please contact Dr. Wong for more details </font>Research Overview:Use of Remote Sensing to study Urban Heat Island Effect, Urban Environmental Quality, Landslides, Vegetation and Ecosystems,</li> 
+     <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/lsw/charleswong.html "> 黄文星/Associate Dean  </a><font color="red"> Recruitment of PhD student:Hong Kong PhD Fellowship Scheme.Please contact Dr. Wong for more details </font>Research Overview:Use of Remote Sensing to study Urban Heat Island Effect, Urban Environmental Quality, Landslides, Vegetation and Ecosystems,<span>2025.03.06</span> </li> 
 
-     <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/lx.html"> 廖轩  /PHD Student,Bin Xiao</a><font color="red">  M.S. degree in Photogrammetry and Remote Sensing from Wuhan University, Wuhan, </font>IAO Xuan received the B.S. degree in Geographic Information Science from China University of Petroleum, Qingdao, China, in 2017 and the China in 2020. She is currently working toward the Ph.D. degree in the Department of Land Surveying and Geo-Informatics, the Hong Kong Polytechnic University. Her research interests include solar energy, image processing, and computer vision.</li> 
-     <li> <img src="../k2/redball.gif" /><a href=" "> 徐帆 /XU Fan,PHD Student</a><font color="red">  His research interests include computer vision and solar cities. </font></li> 
-     <li> <img src="../k2/redball.gif" /><a href=" "> 彭倩 /PENG Qian,Project Associate</a><font color="red"> ENG Qian has received her Bachelor degree in remote sensing science and technology at Wuhan University and Master degree in signal and information processing at University of Chinese Academy of Sciences </font><Her research interests include geospatial data processing and digital cartography.</li> 
-     <li> <img src="../k2/redball.gif" /><a href=" "> 戴燕帅 /DAI Yanshuai</a><font color="red"> His research interest focuses  </font>Yanshuai is a Research Assistant at Department of Land Surveying and Geo-Informatics. on Change Detection, Building Extraction, Domain Adaptation and Forest Insect Infection Recognition based on the VHR image. He is particularly interested in building change detection based on deep learning</li> 
+     <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/lx.html"> 廖轩  /PHD Student,Bin Xiao</a><font color="red">  M.S. degree in Photogrammetry and Remote Sensing from Wuhan University, Wuhan, </font>IAO Xuan received the B.S. degree in Geographic Information Science from China University of Petroleum, Qingdao, China, in 2017 and the China in 2020. She is currently working toward the Ph.D. degree in the Department of Land Surveying and Geo-Informatics, the Hong Kong Polytechnic University. Her research interests include solar energy, image processing, and computer vision.<span>2025.03.06</span> </li> 
+     <li> <img src="../k2/redball.gif" /><a href=" "> 徐帆 /XU Fan,PHD Student</a><font color="red">  His research interests include computer vision and solar cities. </font><span>2025.03.06</span> </li> 
+      
 
      
-  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li> 
-  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li> 
+  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font><span>2025.03.06</span> </li> 
+  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font><span>2025.03.06</span> </li> 
   <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li> 
       <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font>.</li>  
                         </ul>  
