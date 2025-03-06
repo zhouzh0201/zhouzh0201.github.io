@@ -163,12 +163,12 @@
            
 	      
        <!--1.2.%%%%%%%%%-->
-      
+        <div class="region"> <h5><img src="icon-new.png"><a href="https://www.eee.hku.hk/">Department of Electrical and Electronic Engineering</a> </h5> </div>
         <div class="index-second">
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-               <div class="region"> <h5><img src="icon-new.png"><a href="https://www.eee.hku.hk/">Department of Electrical and Electronic Engineering</a> </h5> </div> 
+              
                  <!----*************------>    
 		   <!----*************------>    
                  </div>
