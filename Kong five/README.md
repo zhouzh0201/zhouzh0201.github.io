@@ -62,7 +62,7 @@
 <style>
   .container{
     display:flex;
-    justify-content:space-botween;
+    justify-content:space-between;
     width: 100%;
   }
   .region{
@@ -159,7 +159,7 @@
                </div>
              </div>
            </div>     
-
+       </div>  
            
 	      
        <!--1.2.%%%%%%%%%-->
@@ -168,7 +168,7 @@
            <div class="container">
               <div class="index-notice">
                  <div class="index-title  clearfix">
-                      <h5><img src="icon-new.png"><a href="https://www.eee.hku.hk/">Department of Electrical and Electronic Engineering</a> </h5>  
+               <div class="region"> <h5><img src="icon-new.png"><a href="https://www.eee.hku.hk/">Department of Electrical and Electronic Engineering</a> </h5> </div> 
                  <!----*************------>    
 		   <!----*************------>    
                  </div>
