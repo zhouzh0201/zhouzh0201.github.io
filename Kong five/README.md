@@ -559,7 +559,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
                          <h3>computer vision/Remote Sensing Image Processing</h3>           
                         <ul class="clearfix">
 			<p> Research Directions</p>
-<p> 吴博教授</P>
+<!--p> 吴博教授</P-->
 <p> </P>
 <p></P>
       <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/index.html "> Remote Sensing Laboratory  </a><font color="red"> 黄文星 Dean   </font><span>2025.03.06</span> </li>
@@ -571,10 +571,10 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
       
 
      
-  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font><span>2025.03.06</span> </li> 
-  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font><span>2025.03.06</span> </li> 
-  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li> 
-      <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font>.</li>  
+  <!--li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font><span>2025.03.06</span> </li--> 
+  <!--li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font><span>2025.03.06</span> </li--> 
+  <!--li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li--> 
+      <!--li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font>.</li-->  
                         </ul>  
                     </div>
                  </div>       
