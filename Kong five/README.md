@@ -556,7 +556,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
               <div class="cont">
                     <div class="cont-box latest" style="display: block;">
                         <a href=" https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a>
-                         <h3>computer vision/Remote Sensing Image Processing</h3>           
+                         <h3><font color="#ff0000">computer vision/Remote Sensing Image Processing  Change detection</font></h3>           
                         <ul class="clearfix">
 			<p> Research Directions</p>
    
@@ -576,9 +576,17 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
        
        <li> <img src="../k2/redball.gif" /><a href="https://guoqiangshi.github.io/ "> 石国强 /Guoqiang SHI</a><font color="red"> deepseek recommend,Openings :I am looking for highly motivated PhD students, Research Assistant (RA) and Postdoctoral Researcher</font>My research interests include interferometric synthetic aperture radar (InSAR) remote sensing for urban geohazards monitoring and modelling, urban geophysics,<span>2025.03.07</span>
      </li>    
+  <h3> <font color="red">smart-vision, UAVs.</font></h3>
+      <li> <img src="../k2/redball.gif" /><a href="">尹天刚</a><font color="red">Dr. Yin would invite self-motivated postgraduate students and postdocs to join the team of 3-D sensing, modeling, and data intelligence. Please contact Dr. Yin for more information. a UAV-based hyperspectral remote sensing</font></li>
+	<li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-ran-duan/">段然/Ran DUAN</a><font color="red"> His research areas include Visual SLAM, smart-vision, UAVs.smart-vision, UAVs.</font></li> 
+         <li> ****<img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-min-zhang/">张敏/Min ZHANG</a><font color="red">Remote sensing image processing,Change detection</font>Doctor of Engineering, Wuhan University,Research Interests;Deep learning/Explainable artificial intelligence/Remote sensing image processing/Change detection</li> 
+                 <li data-toggle="tooltip" data-placement="bottom" title="Email">
+                        <a class="email-btn" href="mailto: lsgi-min.zhang@polyu.edu.hk " target="_top">
+                          🟥 Email 张敏 <i class="fa fa-envelope"></i>
+                        </a></li>
 
-  
-  
+
+   
   <!--li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font><span>2025.03.06</span> </li--> 
   <!--li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font><span>2025.03.06</span> </li--> 
   <!--li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li--> 
