@@ -561,7 +561,14 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 			<p> Research Directions</p>
    
        <li> <img src="../k2/redball.gif" /><a href="https://www-lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm ">  吴博教授/Bo Wu </a> <font color="red"> WHU alummus, .Director, Photogrammetry and Robotic Vision Laboratory,Director, Planetary Remote Sensing Laboratory,</font>Academic Interests:Photogrammetry and Robotic Vision  ,Planetary Remote Sensing and Mapping .Ph.D. in Photogrammetry and Remote Sensing - 2006, State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing, Wuhan University. 
-  <a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-wu-bo/">吴博</a>
+  <a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-wu-bo/">吴博</a>personal web </li>
+    <li data-toggle="tooltip" data-placement="bottom" title="Email">
+                        <a class="email-btn" href="mailto:bo.wu@polyu.edu.hk " target="_top">
+                          🟥  <i class="fa fa-envelope"></i>
+                        </a>
+                 </li>
+
+  
        <a href="bo.wu@polyu.edu.hk ">Email 吴博 </a> <span>2025.03.07</span> 
  
       <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/index.html "> Remote Sensing Laboratory  </a><font color="red"> 黄文星 Dean   </font> 
