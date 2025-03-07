@@ -60,6 +60,7 @@
  <hr noshade="" />
 
  <p> k3-1 frist page</p>
+ 
  <p> <a href=" https://cse.hkust.edu.hk">Department of Computer Science</a>,</p> 
     <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
@@ -260,17 +261,17 @@ Human-Robot Interaction:
      <li>  <img src="../k2/redball.gif" /><a href= " https://eeyuan.home.ece.ust.hk/">袁杰 </a> <font color="red">Opening Positions </font>Post-doc and PHD positions are available for motivated and competitive individuals in following areas:  </li> 
      <li>  <img src="../k2/redball.gif" /><a href= "https://eezfan.home.ece.ust.hk/">范 智 勇 </a> <font color="red">Open Positions:	We are seeking highly motivated student and postdoc candidates ,Students and postdocs with strong motivation for cutting-edge research on nanotechnology are welcome to join us </font></li> 
    <li> $ <img src="../k2/redball.gif" /><a href=" "> Qifeng CHEN 陳 启 峰  </a> </li> 
-  <li>  $@ <img src="../k2/redball.gif" /><a href="https://vsdl.hkust.edu.hk/ "> 鄭 光 廷/Kwang-Ting Tim CHENG  </a> <font color="red">	 </font>
+计算机视觉  <li>  $@ <img src="../k2/redball.gif" /><a href="https://vsdl.hkust.edu.hk/ "> 鄭 光 廷/Kwang-Ting Tim CHENG  </a> <font color="red">	 </font>
 We are actively seeking highly self-motivated postdoctoral researchers. </li> 
    <li> @ <img src="../k2/redball.gif" /><a href="https://pascale.home.ece.ust.hk/ "> 馮 雁/Pascale Ngan FUNG   </a></li> 
-   <li>$ @ <img src="../k2/redball.gif" /><a href="https://xmengli.github.io/ ">Xiaomeng LI 李 小 萌   </a><font color="red">	I am looking for self-motivated Postdoc/PhD/RA/Interns. Feel free to drop me an email with your CV. </font></li> 
+  计算机视觉 <li>$ @ <img src="../k2/redball.gif" /><a href="https://xmengli.github.io/ ">Xiaomeng LI 李 小 萌   </a><font color="red">	I am looking for self-motivated Postdoc/PhD/RA/Interns. Feel free to drop me an email with your CV. </font></li> 
    <li>$ @ <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/">繆 偉 豪/Wai Ho MOW</a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li> 
    <li> $<img src="../k2/redball.gif" /><a href=" "> Ross MURCH 穆 樂 思  </a><font color="red">	 </font></li> 
    <li> $ <img src="../k2/redball.gif" /><a href=" "> Daniel PEREZ PALOMAR 鋒 西 龍  </a><font color="red">	 </font></li> 
-   <li> $@ <img src="../k2/redball.gif" /><a href=" https://eebert.home.ece.ust.hk/">Bertram Emil SHI 施 毅 明 </a><font color="red">	 </font></li> 
+图像分析   <li> $@ <img src="../k2/redball.gif" /><a href=" https://eebert.home.ece.ust.hk/">Bertram Emil SHI 施 毅 明 </a><font color="red">	 </font></li> 
    <li>$ @ <img src="../k2/redball.gif" /><a href="https://eesling.home.ece.ust.hk/ ">Ling SHI 施 凌   </a><font color="red">	 </font></li> 
-   <li>$ @ <img src="../k2/redball.gif" /><a href="https://ece.hkust.edu.hk/pingtan ">Ping TAN 譚 平  </a><font color="red">	 </font></li> 
-   <li> $@ <img src="../k2/redball.gif" /><a href="https://bmi.hkust.edu.hk/positions.html ">Yiwen WANG 王 怡 雯  </a><font color="red">	The Computational Cognitive Engineering Laboratory (https://bmi.ust.hk/) is on the lookout for alented PhD students</font>t, postdoctoral researchers, and research assistant professors.</li> 
+   计算机视觉<li>$ @ <img src="../k2/redball.gif" /><a href="https://ece.hkust.edu.hk/pingtan ">Ping TAN 譚 平  </a><font color="red">	 </font></li> 
+  自适应信号处理 <li> $@ <img src="../k2/redball.gif" /><a href="https://bmi.hkust.edu.hk/positions.html ">Yiwen WANG 王 怡 雯  </a><font color="red">	The Computational Cognitive Engineering Laboratory (https://bmi.ust.hk/) is on the lookout for alented PhD students</font>t, postdoctoral researchers, and research assistant professors.</li> 
    <li>$ @ <img src="../k2/redball.gif" /><a href="https://zhiyaoxie.com/ ">Zhiyao XIE 謝 知 遙  </a><font color="red">	Ph.D. Student Recruitment </font>I am looking for motivated students to join my lab as Ph.D. students in HKUST!We still have multiple positions for Fall’25 and later enrollments. We are always hiring.We support RA or Master only if you intend to continue with a PhD in our team.</li> 
    <li>  $<img src="../k2/redball.gif" /><a href=" "> Jiang XU 須 江   </a><font color="red">	 </font></li> 
    <li> $@ <img src="../k2/redball.gif" /><a href=" https://eeyu.home.ece.ust.hk/"> 余 維 川 /Weichuan YU  </a> <b><font color="red">	
