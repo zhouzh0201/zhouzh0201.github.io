@@ -561,8 +561,8 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 			<p> Research Directions</p>
    
        <li> <img src="../k2/redball.gif" /><a href="https://www-lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm ">  吴博教授/Bo Wu </a> <font color="red"> WHU alummus, .Director, Photogrammetry and Robotic Vision Laboratory,Director, Planetary Remote Sensing Laboratory,</font>Academic Interests:Photogrammetry and Robotic Vision  ,Planetary Remote Sensing and Mapping .Ph.D. in Photogrammetry and Remote Sensing - 2006, State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing, Wuhan University. 
-  <a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-wu-bo/">吴博</a>bo.wu@polyu.edu.hk ,<span>2025.03.07</span> 
-      </li> 
+  <a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-wu-bo/"></a>bo.wu@polyu.edu.hk ,<span>2025.03.07</span> 
+       <a href=" "bo.wu@polyu.edu.hk" <bo.wu@polyu.edu.hk>">Email 吴博 </a>
  
       <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/index.html "> Remote Sensing Laboratory  </a><font color="red"> 黄文星 Dean   </font> 
      <a href="http://www.lsgi.polyu.edu.hk/rsl/lsw/charleswong.html "> 黄文星/Associate Dean  </a><font color="red"> Recruitment of PhD student:Hong Kong PhD Fellowship Scheme.Please contact Dr. Wong for more details </font>Research Overview:Use of Remote Sensing to study Urban Heat Island Effect, Urban Environmental Quality, Landslides, Vegetation and Ecosystems,   
