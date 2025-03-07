@@ -214,7 +214,7 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
  <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-xu-yang/">徐洋 WHU alummus</a>OpeningsWe welcome applications for PhD, Research Assistant, Postdoc</li> 
       <h3> <font color="red">smart-vision, UAVs.</font></h3>
  <li> <img src="../k2/redball.gif" /><a href="">尹天刚</a><font color="red">Dr. Yin would invite self-motivated postgraduate students and postdocs to join the team of 3-D sensing, modeling, and data intelligence. Please contact Dr. Yin for more information. a UAV-based hyperspectral remote sensing</font></li>
- <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-ran-duan/">段然/Ran DUAN</a><font color="red"> His research areas include Visual SLAM, smart-vision, UAV.smart-vision, UAV.</font></li> 
+ <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-ran-duan/">段然/Ran DUAN</a><font color="red"> His research areas include Visual SLAM, smart-vision, UAVs  </font></li>
  <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-li-zhiwei/">李志伟</a><font color="red">Doctor of Engineering, Wuhan University</font></li> 
  
  <li> ****<img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-min-zhang/">张敏/Min ZHANG</a><font color="red">Remote sensing image processing,Change detection</font>Doctor of Engineering, Wuhan University,Research Interests;Deep learning/Explainable artificial intelligence/Remote sensing image processing/Change detection</li> 
