@@ -184,8 +184,9 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
  <p> k4-4 fourth page</p>  
  <div class="centers">
       <ul class=" clearfix"> 
-
-        <p> 吴博教授</P>  
+   <li> <img src="../k2/redball.gif" /><a href="https://www-lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm ">  吴博教授/Bo Wu,deepseek reconmment</a><font color="red">WHU alummus, </font>.Director, Photogrammetry and Robotic Vision Laboratory,Director, Planetary Remote Sensing Laboratory,Academic Interests:Photogrammetry and Robotic Vision  ,Planetary Remote Sensing and Mapping .Ph.D. in Photogrammetry and Remote Sensing - 2006, State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing, Wuhan University. 
+  <a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-wu-bo/">吴博</a>bo.wu@polyu.edu.hk</li>  
+        <p></P>  
  <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/index.html "> Remote Sensing Laboratory  </a><font color="red">  </font></li>
       
      <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/lsw/charleswong.html "> 黄文星/Associate Dean  </a><font color="red"> Recruitment of PhD student:Hong Kong PhD Fellowship Scheme.Please contact Dr. Wong for more details </font>Research Overview:Use of Remote Sensing to study Urban Heat Island Effect, Urban Environmental Quality, Landslides, Vegetation and Ecosystems,</li> 
@@ -196,10 +197,15 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
      <li> <img src="../k2/redball.gif" /><a href=" "> 戴燕帅 /DAI Yanshuai</a><font color="red"> His research interest focuses  </font>Yanshuai is a Research Assistant at Department of Land Surveying and Geo-Informatics. on Change Detection, Building Extraction, Domain Adaptation and Forest Insect Infection Recognition based on the VHR image. He is particularly interested in building change detection based on deep learning</li> 
 
      
-  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li> 
-  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li> 
-  <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font></li> 
-      <li> <img src="../k2/redball.gif" /><a href=" "> 肖斌 /Bin Xiao</a><font color="red">  </font>.</li>  
+  <li> <img src="../k2/redball.gif" /><a href="https://guoqiangshi.github.io/ "> 石国强 /Guoqiang SHI</a><font color="red"> deepseek recommend,Openings :I am looking for highly motivated PhD students, Research Assistant (RA) and Postdoctoral Researcher</font>My research interests include interferometric synthetic aperture radar (InSAR) remote sensing for urban geohazards monitoring and modelling, urban geophysics</li> 
+  
+  <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/cv/ "> 陈武教授/Head.Wu Chen </a><font color="red">  </font>Research Overview.GNSS Applications on Transportation, Kinematic GPS, System Integration, GNSS Performance Evaluation, GPS Software Receiver, Regional GPS Network, Vehicle and Personal Navigation Systems, and Wireless Sensor Network.</li> 
+
+  
+  <li> ****<img src="../k2/redball.gif" /><a href=" "> 翁启浩 /Qihao WENG.</a><font color="red"> Remote Sensing E-learning Community for Digital Image Processing </font>Research Overview,Remote sensing, image science, geospatial artificial intelligence, geospatial computer vision, and geospatial big data, with applications in urbanization, sustainability, coastal environments and ecosystems, and global environmental change.Chair Professor of Geomatics and Artificial Intelligence</li> 
+
+  
+   
 
    
  <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
