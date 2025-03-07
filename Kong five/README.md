@@ -417,17 +417,21 @@
                     <div class="cont">
                       <div class="cont-box latest" style="display: block;">
                       <a href="https://zhouzh0201.github.io/k3" class="more">more</a>  
-           <h3>computer-vision</h3>
+           <h3>computer-vision and Image Processing:</h3>
 	      
        <ul class="clearfix">
-计算机视觉  <li>  $@ <img src="../k2/redball.gif" /><a href="https://vsdl.hkust.edu.hk/ "> 鄭 光 廷/Kwang-Ting Tim CHENG  </a> <font color="red">	 </font>	      
- 计算机视觉<li> @ <img src="../k2/redball.gif" /><a href="https://xmengli.github.io/ ">Xiaomeng LI 李 小 萌   </a><font color="red">	I am looking for self-motivated Postdoc/PhD/RA/Interns. Feel free to drop me an email with your CV. </font></li> 
- 图像分析   <li> $@ <img src="../k2/redball.gif" /><a href=" https://eebert.home.ece.ust.hk/">Bertram Emil SHI 施 毅 明 </a><font color="red">	 </font></li> 
-   计算机视觉<li>$ @ <img src="../k2/redball.gif" /><a href="https://ece.hkust.edu.hk/pingtan ">Ping TAN 譚 平  </a><font color="red">	 </font></li> 
+  <li>  $@ <img src="../k2/redball.gif" /><a href="https://vsdl.hkust.edu.hk/ "> 鄭 光 廷/Kwang-Ting Tim CHENG  </a> <font color="red">	 </font></li> 
 
-   
+ <li> @ <img src="../k2/redball.gif" /><a href="https://xmengli.github.io/ ">Xiaomeng LI 李 小 萌   </a><font color="red">	I am looking for self-motivated Postdoc/PhD/RA/Interns. Feel free to drop me an email with your CV. </font></li> 
+ 
+   <li> $@ <img src="../k2/redball.gif" /><a href=" https://eebert.home.ece.ust.hk/">Bertram Emil SHI 施 毅 明 </a><font color="red">	 </font></li> 
+ 
+ <li>$ @ <img src="../k2/redball.gif" /><a href="https://ece.hkust.edu.hk/pingtan ">Ping TAN 譚 平  </a><font color="red"> </font></li> 
+
+    <li> @ <img src="../k2/redball.gif" /><a href="https://bmi.hkust.edu.hk/positions.html ">Yiwen WANG 王 怡 雯  </a><font color="red">	The Computational Cognitive Engineering Laboratory (https://bmi.ust.hk/) is on the lookout for alented PhD students</font>t, postdoctoral researchers, and research assistant professors.</li> 
+    
    <!--li> @ <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/">繆 偉 豪/Wai Ho MOW</a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li-->
-自适应信号处理	 <li> @ <img src="../k2/redball.gif" /><a href="https://bmi.hkust.edu.hk/positions.html ">Yiwen WANG 王 怡 雯  </a><font color="red">	The Computational Cognitive Engineering Laboratory (https://bmi.ust.hk/) is on the lookout for alented PhD students</font>t, postdoctoral researchers, and research assistant professors.</li> 
+   
    <!--li> @ <img src="../k2/redball.gif" /><a href="https://zhiyaoxie.com/ ">Zhiyao XIE 謝 知 遙  </a><font color="red">	Ph.D. Student Recruitment </font>I am looking for motivated students to join my lab as Ph.D. students in HKUST!We still have multiple positions for Fall’25 and later enrollments. We are always hiring.We support RA or Master only if you intend to continue with a PhD in our team.</li--> 
    
    <!--li> @ <img src="../k2/redball.gif" /><a href=" https://eeyu.home.ece.ust.hk/"> 余 維 川 /Weichuan YU  </a> <b><font color="red">Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biology, and biomedical signal/image processing available. Please click here for detail.</font></b></li-->	
