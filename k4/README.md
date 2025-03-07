@@ -184,6 +184,10 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
  <p> k4-4 fourth page</p>  
  <div class="centers">
       <ul class=" clearfix"> 
+  <h5><a href="https://www.polyu.edu.hk/fce/ "> Faculty of Construction and Environment </a> </h5>
+  <h4><a href=" https://www.polyu.edu.hk/lsgi/study/rpg-scheme-item---research-postgraduate-programme/"> Department of Land Surveying and Geo-Informatics (LSGI) </a></h4> 
+  <h3><font color="#ff0000">Remote Sensing Image Processing </font></h3>
+        
    <li> <img src="../k2/redball.gif" /><a href="https://www-lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm ">  吴博教授/Bo Wu,deepseek reconmment</a><font color="red">WHU alummus, </font>.Director, Photogrammetry and Robotic Vision Laboratory,Director, Planetary Remote Sensing Laboratory,Academic Interests:Photogrammetry and Robotic Vision  ,Planetary Remote Sensing and Mapping .Ph.D. in Photogrammetry and Remote Sensing - 2006, State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing, Wuhan University. 
   <a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-wu-bo/">吴博</a>bo.wu@polyu.edu.hk</li>  
         <p></P>  
