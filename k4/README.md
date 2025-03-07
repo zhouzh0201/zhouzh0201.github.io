@@ -186,7 +186,7 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
       <ul class=" clearfix"> 
   <h5><a href="https://www.polyu.edu.hk/fce/ "> Faculty of Construction and Environment </a> </h5>
   <h4><a href=" https://www.polyu.edu.hk/lsgi/study/rpg-scheme-item---research-postgraduate-programme/"> Department of Land Surveying and Geo-Informatics (LSGI) </a></h4> 
-  <h3><font color="#ff0000">Remote Sensing Image Processing </font></h3>
+  <h3><font color="#ff0000">Remote Sensing Image Processing Change detection</font></h3>
         
     <li> <img src="../k2/redball.gif" /><a href="https://www-lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm ">  吴博教授/Bo Wu, Planetary Remote Sensing and Robotic Vision Laboratory </a> <font color="red"> WHU alummus, </font>.Director, Photogrammetry and Robotic Vision Laboratory,Director,  Remote Sensing Laboratory,Academic Interests:Photogrammetry and Robotic Vision  ,Planetary Remote Sensing and Mapping .Ph.D. in Photogrammetry and Remote Sensing - 2006, State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing, Wuhan University. 
       <li><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-wu-bo/">吴博</a>personal web </li>
@@ -204,26 +204,32 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
      <li> <img src="../k2/redball.gif" /><a href=" "> 徐帆 /XU Fan,PHD Student</a><font color="red">  His research interests include computer vision and solar cities. </font></li> 
      <li> <img src="../k2/redball.gif" /><a href=" "> 彭倩 /PENG Qian,Project Associate</a><font color="red"> ENG Qian has received her Bachelor degree in remote sensing science and technology at Wuhan University and Master degree in signal and information processing at University of Chinese Academy of Sciences </font>&lt;Her research interests include geospatial data processing and digital cartography.</li> 
      <li> <img src="../k2/redball.gif" /><a href=" "> 戴燕帅 /DAI Yanshuai</a><font color="red"> His research interest focuses  </font>Yanshuai is a Research Assistant at Department of Land Surveying and Geo-Informatics. on Change Detection, Building Extraction, Domain Adaptation and Forest Insect Infection Recognition based on the VHR image. He is particularly interested in building change detection based on deep learning</li> 
-
+  <p>other  PhD supervisor</p>
      
   <li> <img src="../k2/redball.gif" /><a href="https://guoqiangshi.github.io/ "> 石国强 /Guoqiang SHI</a><font color="red"> deepseek recommend,Openings :I am looking for highly motivated PhD students, Research Assistant (RA) and Postdoctoral Researcher</font>My research interests include interferometric synthetic aperture radar (InSAR) remote sensing for urban geohazards monitoring and modelling, urban geophysics</li> 
   
   <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/cv/ "> 陈武教授/Head.Wu Chen </a><font color="red">  </font>Research Overview.GNSS Applications on Transportation, Kinematic GPS, System Integration, GNSS Performance Evaluation, GPS Software Receiver, Regional GPS Network, Vehicle and Personal Navigation Systems, and Wireless Sensor Network.</li> 
 
-  
   <li> ****<img src="../k2/redball.gif" /><a href=" "> 翁启浩 /Qihao WENG.</a><font color="red"> Remote Sensing E-learning Community for Digital Image Processing </font>Research Overview,Remote sensing, image science, geospatial artificial intelligence, geospatial computer vision, and geospatial big data, with applications in urbanization, sustainability, coastal environments and ecosystems, and global environmental change.Chair Professor of Geomatics and Artificial Intelligence</li> 
-   
- <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-xu-yang/">徐洋 WHU alummus</a><font color="red">OpeningsWe welcome applications for PhD, Research Assistant, Postdoc</font></li> 
- 
+ <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-xu-yang/">徐洋 WHU alummus</a>OpeningsWe welcome applications for PhD, Research Assistant, Postdoc</li> 
+      <h3> <font color="red">smart-vision, UAVs.</font></h3>
  <li> <img src="../k2/redball.gif" /><a href="">尹天刚</a><font color="red">Dr. Yin would invite self-motivated postgraduate students and postdocs to join the team of 3-D sensing, modeling, and data intelligence. Please contact Dr. Yin for more information. a UAV-based hyperspectral remote sensing</font></li>
-
+ <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-ran-duan/">段然/Ran DUAN</a><font color="red"> His research areas include Visual SLAM, smart-vision, UAVs.smart-vision, UAVs.</font></li> 
+ <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-li-zhiwei/">李志伟</a><font color="red">Doctor of Engineering, Wuhan University</font></li> 
+ 
+ <li> ****<img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-min-zhang/">张敏/Min ZHANG</a><font color="red">Remote sensing image processing,Change detection</font>Doctor of Engineering, Wuhan University,Research Interests;Deep learning/Explainable artificial intelligence/Remote sensing image processing/Change detection</li> 
+                 <li data-toggle="tooltip" data-placement="bottom" title="Email">
+                        <a class="email-btn" href="mailto: lsgi-min.zhang@polyu.edu.hk " target="_top">
+                          🟥 Email 张敏 <i class="fa fa-envelope"></i>
+                        </a></li>
 
  
  <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
- <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
+ 
  <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
 
-      <p>other  PhD supervisor</p>
+ 
+    
  
      </ul>
  </div>
