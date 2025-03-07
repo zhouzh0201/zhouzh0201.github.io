@@ -92,7 +92,9 @@ Language Technologies and Text Mining:
  
 <div class="centers">
   <ul class=" clearfix"> 
-Computer Vision and Image Processing:
+  <h3> AI, Computer Vision and Image Processing:  </h3> .
+
+     <li> <img src="../k2/redball.gif"/><a href="https://jiaya.me/home">贾佳佳/Jiaya Jia</a>,<p> <font color="red"> ⇒ Join our research team in 2025 or later working on Large Language (and Vision) Model (LVLM) projects! We only admit 1) top-ranking students from top universities, 2) world-level programming  competition/challenge winners, and 3) students who published high-quality papers in this field.</font></p></li>
      <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc ">陈浩/Hao Chen</a>, <span style="color:rgb(255, 0, 0); font-weight:bold"> *NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science (particually in Computational Pathology and Multi-omics)</span> and XR for Computer-Assisted Intervention. Strong self-motivation is preferred (<a href="https://cse.hkust.edu.hk/~jhc/20240531english.pdf">details</a>) . </li>
 
      <li> <img src="../k2/redball.gif"/><a href="https://zjuchenlong.github.io/ ">陈隆/Long Chen</a>,  <font color="green"> As for <b>Ph.D. and M.Phil</b>. positions, we always have the openings all year around</font>. applicants from overseas countries and HK are strongly recommended.</li>
