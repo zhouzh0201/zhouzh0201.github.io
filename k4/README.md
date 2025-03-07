@@ -188,10 +188,15 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
   <h4><a href=" https://www.polyu.edu.hk/lsgi/study/rpg-scheme-item---research-postgraduate-programme/"> Department of Land Surveying and Geo-Informatics (LSGI) </a></h4> 
   <h3><font color="#ff0000">Remote Sensing Image Processing </font></h3>
         
-   <li> <img src="../k2/redball.gif" /><a href="https://www-lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm ">  吴博教授/Bo Wu, Planetary Remote Sensing and Robotic Vision Laboratory </a> <font color="red"> WHU alummus, </font>.Director, Photogrammetry and Robotic Vision Laboratory,Director,  Remote Sensing Laboratory,Academic Interests:Photogrammetry and Robotic Vision  ,Planetary Remote Sensing and Mapping .Ph.D. in Photogrammetry and Remote Sensing - 2006, State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing, Wuhan University. 
-  <a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-wu-bo/">吴博</a> bo.wu@polyu.edu.hk </li>    <p>Ph.D student</P> 
-  
- <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/index.html ">黄文星 Remote Sensing Laboratory  </a><font color="red">  </font></li>
+    <li> <img src="../k2/redball.gif" /><a href="https://www-lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm ">  吴博教授/Bo Wu, Planetary Remote Sensing and Robotic Vision Laboratory </a> <font color="red"> WHU alummus, </font>.Director, Photogrammetry and Robotic Vision Laboratory,Director,  Remote Sensing Laboratory,Academic Interests:Photogrammetry and Robotic Vision  ,Planetary Remote Sensing and Mapping .Ph.D. in Photogrammetry and Remote Sensing - 2006, State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing, Wuhan University. 
+      <li><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-wu-bo/">吴博</a>personal web </li>
+            <li data-toggle="tooltip" data-placement="bottom" title="Email">
+                        <a class="email-btn" href="mailto:bo.wu@polyu.edu.hk " target="_top">
+                          🟥 Email吴博 <i class="fa fa-envelope"></i>
+                        </a></li>
+    <p>Ph.D student</P> 
+    </li>
+    <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/index.html ">黄文星 Remote Sensing Laboratory  </a><font color="red">  </font></li>
       
      <li> <img src="../k2/redball.gif" /><a href="http://www.lsgi.polyu.edu.hk/rsl/lsw/charleswong.html "> 黄文星/Associate Dean  </a><font color="red"> Recruitment of PhD student:Hong Kong PhD Fellowship Scheme.Please contact Dr. Wong for more details </font>Research Overview:Use of Remote Sensing to study Urban Heat Island Effect, Urban Environmental Quality, Landslides, Vegetation and Ecosystems,</li> 
 
@@ -207,13 +212,13 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
 
   
   <li> ****<img src="../k2/redball.gif" /><a href=" "> 翁启浩 /Qihao WENG.</a><font color="red"> Remote Sensing E-learning Community for Digital Image Processing </font>Research Overview,Remote sensing, image science, geospatial artificial intelligence, geospatial computer vision, and geospatial big data, with applications in urbanization, sustainability, coastal environments and ecosystems, and global environmental change.Chair Professor of Geomatics and Artificial Intelligence</li> 
-
-  
    
+ <li> <img src="../k2/redball.gif" /><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-xu-yang/">徐洋 WHU alummus</a><font color="red">OpeningsWe welcome applications for PhD, Research Assistant, Postdoc</font></li> 
+ 
+ <li> <img src="../k2/redball.gif" /><a href="">尹天刚</a><font color="red">Dr. Yin would invite self-motivated postgraduate students and postdocs to join the team of 3-D sensing, modeling, and data intelligence. Please contact Dr. Yin for more information. a UAV-based hyperspectral remote sensing</font></li>
 
-   
- <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
- <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
+
+ 
  <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
  <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
  <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
