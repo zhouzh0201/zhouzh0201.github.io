@@ -163,27 +163,28 @@
                         <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>        
 		       <h3>computer-vision</h3>
 		       <ul class="clearfix">
+       <li> <a href="https://www.eee.hku.hk/~ycwu"> 吴一钟Yik-Chung Wu,</a>. <font color="#ff0000">To prospective students:    I am actively recruiting Ph.D. students</font> for topics on machine learning, signal processing, and communications.  I am looking for students who are self-motivated, with background in one or more of the following areas: mathematics, statistics, physics, machine learning or signal processing.  Due to the large amount of requesting email, I can only reply to students who can articulate their suitability in my group.  Thank you very much for your interest.<span>2025.03.07</span> </li>  
 
 <li>    
     <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">
-       <p>Prof. Xihui Liu <font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab, Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.02.15</span> 
+       <p>刘锡辉/Prof. Xihui Liu <font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. Department of EEE,HKU-MMLab, Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.03.07</span> 
        </p> 
    </a>
 </li> 
-<li>    
+<!--li>    
     <a href="https://www.eee.hku.hk/~elam/ " target="_blank" title="CGPWB">
       <p> Prof. E.Y.M. Lam,<font color="#ff0000">Positions Available </font>,Department of Electrical and Electronic Engineering,Imaging Systems Laboratory,<font color="#ff0000"> Graduate Student Openings </font>,We invite applications from Master and PhD candidates for the next academic year.<span>2025.02.15</span> 
       </p> 
     </a>
-</li>                        
-<li>    
+</li-->                        
+<!--li>    
     <a href="https://www.eee.hku.hk/~evanpeng/" target="_blank" title="CGPWB">
       <p> Evan Peng,Yifan (Evan) Peng，彭一帆 Electrical &amp; Electronic Engineering, 
          <a href="https://hku.welight.fun/"> WeLight Lab </a>, 
          <font color="#ff0000">We are looking for PhD students and Postdocs (see openings) </font>.  <span>2025.02.15</span>
         </p>   
       </a>
-   </li> 
+   </li--> 
  
 <li> <a href="https://xjqi.github.io/ ">齐小娟</a>,
 	  Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab,
@@ -202,11 +203,11 @@
 	 <a href="https://yanchaoyang.github.io/ ">Click here</a> 
 	 <span>2025.03.05</span>
  </li>  
-<li><a href="https://datascience.hku.hk/people/ping-luo/"> 罗平</a> 
+<!--li><a href="https://datascience.hku.hk/people/ping-luo/"> 罗平</a> 
 	<font color="#ff0000">We are actively recrui Joint Laboratory</font>
          Research Interests:Computer Vision, Machine Learning, Deep Learning.
 	<a href="http://luoping.me/ ">Click here</a>
-	<span>2025.03.05</span> </li>  
+	<span>2025.03.05</span> </li-->  
 
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                                  
                          </ul> 
