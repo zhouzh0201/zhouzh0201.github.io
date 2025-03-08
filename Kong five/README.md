@@ -631,7 +631,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
   <li> <img src="../../k2/redball.gif" /><a href=" http://visal.cs.cityu.edu.hk/jobs/">陈安东尼教授 Prof CHAN, Antoni Bert </a><font color="#ff0000">Willing to take PhD students: yes</font>I can make recommendations on students to accept.<span>2025.03.08</span></li>
  <li> <img src=" ../../k2/redball.gif " /><a href=" https://www.cs.cityu.edu.hk/~minjdong/">董敏静教授Prof DONG, Minjing </a><font color="#ff0000">Willing to take PhD students: yes.I am looking for self-motivated MPhil/PhD students enrolled in the year of<b> 2026.</b></font>If you are interested in trustworthy machine learning research, computer vision, generative models, adversarial robustness, model calibration, or efficient neural networks <span>2025.03.08</span></li>
     <li> <img src=" ../../k2/redball.gif" /><a href="https://www.cs.cityu.edu.hk/~jiaweima/ ">马佳伟教授Prof MA, Jiawei</a><font color="#ff0000">Willing to take PhD students: yes,Open Positions (New)Research Interest</font> on Machine Learning and Computer vision<span>2025.03.08</span></li>
- </div> 
+ 
                          </ul>                           
                        </div>
                    </div>       
