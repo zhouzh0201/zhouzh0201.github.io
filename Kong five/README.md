@@ -357,6 +357,33 @@
           </div> 
      <!--***********************ok*******************-->     
 <hr noshade="" />
+
+ <div class="index-three">
+     <div class="container">
+         <div class="index-notice">
+		      
+                 <div class="index-title  clearfix">
+                    <h5><img src="icon-new.png" /><a href=" https://www.cuhk.edu.hk/chinese/faculties/social-science.html "> Faculty of Social Science</a> 
+                    </h5>
+		    <h4><a href=" https://www.grm.cuhk.edu.hk/en/ ">Department of Geography and Resource Management</a></h4>  
+		    <h3><font color="#ff0000">Remote Sensing Image Processing </font></h3>	 
+                 </div> 
+                  <div class="item">
+                     <ul class=" clearfix">
+                        <li class="active"><a href="https://zhouzh0201.github.io/k2/ ">26 fall admisstion supervisor<img src=" https://zhouzh0201.github.io/k4/image024.gif " />  more </a> </li>
+                      </ul>      
+                   </div>          
+                   <div class="cont">
+                    <div class="cont-box latest" style="display: block;"> 
+                     <h3><font color="#ff0000">computer vision/Remote Sensing Image Processing  Change detection</font></h3>           
+                        <ul class="clearfix">
+			<p> Research Directions</p>
+    <li> <img src="../k2/redball.gif" /><a href=" https://www.grm.cuhk.edu.hk/en/profile/prof-liu-yan/">  刘岩/Prof. LIU Yan </a>BSc (Hubei U.) MSc (Central China Normal U.)PhD (U. of Queensland,Spatial Data Science<font color="red">SUGGESTED RESEARCH TOPICS FOR POSTGRADUATE STUDENTS </font>Developing spatially integrated (big) data approaches to explore contemporary social issues<span>2025.03.08</span>  </li>
+
+
+
+
+
 <hr noshade="" />
  <body>
  <div class="container"> 
