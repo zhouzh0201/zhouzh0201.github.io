@@ -587,7 +587,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
             </div>
 	</div>
       
-   <hr noshade="" />  
+   <!--hr noshade="" /-->  
 
  <!--4.3.%%%%%h%%%%-->
  <div class="index-three">
@@ -731,17 +731,11 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 	</div>
       
    <hr noshade="" />  
-    <hr noshade="" /> 
+   
  <!--***********************ok*******************-->   
- 
+    <hr noshade="" /> 
  </body>
-
-
-
-
-
-
-     <hr noshade="" /> 
+  
      <!--hr-->
   <!--div class="container" style="margin-top: 800px;"-->
     <div align="center">
