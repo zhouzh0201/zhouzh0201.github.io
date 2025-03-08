@@ -384,18 +384,17 @@
           <h3> AI, Computer Vision and Image Processing:  </h3> .
 	  
       <li> <img src="../k2/redball.gif" /><a href="https://home.cse.ust.hk/~qianzh/">张倩/Alumni</a><font color="red"> Her current research interests </font> include Internet of Things (IoT), smart health, mobile computing and sensing, wireless networking, as well as cyber security.， Dr. Zhang received the B.S., M.S., and Ph.D. degrees from Wuhan University, China, in 1994, 1996, and 1999, respectively, all in computer science.
-       <a href="https://qiansgroup.github.io/">Qian's Group</a> We are recruiting highly self-motivated PhD and MPhil students and RAs. Feel free to contact us. Here is recruitment information  
-	 <a href="https://qiansgroup.github.io/uploads/">Ph.D.student </a>and  
-         <a href="https://qiansgroup.github.io/uploads/">RA.</a> 
+         <a href="https://qiansgroup.github.io/">Qian's Group</a> We are recruiting highly self-motivated PhD and MPhil students and RAs. Feel free to contact us. Here is recruitment information  
+	 <a href="https://qiansgroup.github.io/uploads/Ph.D.student.pdf ">Ph.D.student </a>and  
+         <a href=" https://qiansgroup.github.io/uploads/RA.pdf">RA.</a> 
 	 <a href="https://qiansgroup.github.io/author/meng-xue-%E8%96%9B%E6%A2%A6/">薛梦/Postdoc</a>received the M.S. and Ph.D. degrees from Wuhan University, 
-	 <a href="https://qiansgroup.github.io/author/haiyan-hu-%E8%83%A1%E6%B5%B7%E7%87%95/ "> 胡海燕/PhD students </a>received her B.Eng degree in computer science and technology from Wuhan University (WHU) in 2020.
-       </a> 
+	 <a href="https://qiansgroup.github.io/author/haiyan-hu-%E8%83%A1%E6%B5%B7%E7%87%95/ "> 胡海燕/PhD students </a>received her B.Eng degree in computer science and technology from Wuhan University (WHU) in 2020.      
                 <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto: qianzh@cse.ust.hk" target="_top">
                           🟥 Email张倩  <i class="fa fa-envelope"></i>
                         </a>
-                 </li>  
-       <span>2025.03.07</span> 
+                 </li>   
+           <span>2025.03.07</span> 
 	</li>
  
      <li> <img src="../k2/redball.gif" /><a href="https://jiaya.me/home">贾佳佳/Jiaya Jia</a>,<p> <font color="red"> ⇒ Join our research team in 2025 or later working on Large Language (and Vision) Model (LVLM) projects! We only admit 1) top-ranking students from top universities, 2) world-level programming  competition/challenge winners, and 3) students who published high-quality papers in this field.</font></p><span>2025.03.07</span></li>
