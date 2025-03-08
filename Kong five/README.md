@@ -59,7 +59,7 @@
 </body>
 
  <!--partition-->
-<style>
+<!--style>
   .container{
     display:flex;
     justify-content:space-between;
@@ -74,7 +74,7 @@
     box-sizing:border-box;
     text-align:center;
   }
-</style>
+</style-->
 
  <hr noshade="" />
 *
