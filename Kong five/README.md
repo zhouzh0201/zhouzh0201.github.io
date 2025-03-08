@@ -166,9 +166,13 @@
        <li> <a href="https://www.eee.hku.hk/~ycwu"> 吴一钟Yik-Chung Wu,</a>. <font color="#ff0000">To prospective students:    I am actively recruiting Ph.D. students</font> for topics on machine learning, signal processing, and communications.  I am looking for students who are self-motivated, with background in one or more of the following areas: mathematics, statistics, physics, machine learning or signal processing.  Due to the large amount of requesting email, I can only reply to students who can articulate their suitability in my group.  Thank you very much for your interest.<span>2025.03.07</span> </li>  
 
 <li>    
-    <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">
-      刘锡辉/Prof. Xihui Liu </a> <p><font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. HKU-MMLab, Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.03.08</span> 
-       </p> 
+    <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">   刘锡辉/Prof. Xihui Liu </a> 
+	<font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,
+	and visiting students to join my group.
+    <a href="https://mmlab.ie.cuhk.edu.hk/people.html"> HKU-MMLab, </a>
+	      Research Interests：Computer Vision; Machine Learning; Artificial Intelligence . 
+           <span>2025.03.08</span> 
+      
    
 </li> 
 <!--li>    
