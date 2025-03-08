@@ -167,9 +167,9 @@
 
 <li>    
     <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">
-       <p>刘锡辉/Prof. Xihui Liu <font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. HKU-MMLab, Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.03.07</span> 
+      刘锡辉/Prof. Xihui Liu </a> <p><font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,and visiting students to join my group. HKU-MMLab, Research Interests：Computer Vision; Machine Learning; Artificial Intelligence .<span>2025.03.08</span> 
        </p> 
-   </a>
+   
 </li> 
 <!--li>    
     <a href="https://www.eee.hku.hk/~elam/ " target="_blank" title="CGPWB">
