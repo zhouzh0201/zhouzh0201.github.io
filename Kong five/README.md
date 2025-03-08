@@ -513,7 +513,7 @@
  <div class="container"> 
      <div class="region"> <h3> <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> </h3></div>  
        <a href="https://www.polyu.edu.hk/gs/">Graduate School the official website </a>
-	  <a href=" https://rpgadmission.polyu.edu.hk/">RPgAdmission System for Applicants </a>
+	  <a href=" https://rpgadmission.polyu.edu.hk/"> Admission System for Applicants </a>
   <!--4.1%%%%%%%%%-->  
   <div class="index-three">
            <div class="container">
