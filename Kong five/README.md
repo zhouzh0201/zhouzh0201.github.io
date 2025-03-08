@@ -228,7 +228,7 @@
                 </div>
              </div>              
         
-<hr noshade="" />
+<!--hr noshade="" /-->
 
  <!--1.3.%%%%%h%%%%-->
  <div class="index-three">
@@ -356,8 +356,8 @@
              </div>
           </div> 
      <!--***********************ok*******************-->     
-<hr noshade="" />
-
+<!--hr noshade="" /-->
+ <!--2.3%%%%%%%%%-->
  <div class="index-three">
      <div class="container">
          <div class="index-notice">
@@ -366,7 +366,7 @@
                     <h5><img src="icon-new.png" /><a href=" https://www.cuhk.edu.hk/chinese/faculties/social-science.html "> Faculty of Social Science</a> 
                     </h5>
 		    <h4><a href=" https://www.grm.cuhk.edu.hk/en/ ">Department of Geography and Resource Management</a></h4>  
-		    <h3><font color="#ff0000">Remote Sensing Image Processing </font></h3>	 
+		    <h3><font color="#ff0000">Remote Sensing   </font></h3>	 
                  </div> 
                   <div class="item">
                      <ul class=" clearfix">
@@ -374,17 +374,22 @@
                       </ul>      
                    </div>          
                    <div class="cont">
-                    <div class="cont-box latest" style="display: block;"> 
-                     <h3><font color="#ff0000">computer vision/Remote Sensing Image Processing  Change detection</font></h3>           
+                     <div class="cont-box latest" style="display: block;"> 
+                     <h3><font color="#ff0000">computer vision/Remote Sensing / spatially integrated (big) data</font></h3>           
                         <ul class="clearfix">
 			<p> Research Directions</p>
     <li> <img src="../k2/redball.gif" /><a href=" https://www.grm.cuhk.edu.hk/en/profile/prof-liu-yan/">  刘岩/Prof. LIU Yan </a>BSc (Hubei U.) MSc (Central China Normal U.)PhD (U. of Queensland,Spatial Data Science<font color="red">SUGGESTED RESEARCH TOPICS FOR POSTGRADUATE STUDENTS </font>Developing spatially integrated (big) data approaches to explore contemporary social issues<span>2025.03.08</span>  </li>
+      <li> <img src="../k2/redball.gif" /><a href="https://www.grm.cuhk.edu.hk/en/profile/prof-kan-zihan/">简子涵/ KAN Zihan</a>BSc (WuhanU) PhD (WuhanU)<font color="red"> Research Interests</font> : Spatial data analysis and modeling; GPS trajectory mining;<span>2025.03.08</span>  </li>
+                       </ul> 
+                      </div>                                                  
+                    </div>
+                 </div>       
+             </div>
+          </div> 
 
-
-
-
-
+      
 <hr noshade="" />
+
  <body>
  <div class="container"> 
    <div class="region"> <h3><a href="https://hkust.edu.hk/zh-hant">The Hong Kong University of Science and Technology</a> </h3></div>
