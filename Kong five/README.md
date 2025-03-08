@@ -480,8 +480,8 @@
  <body>
  <div class="container"> 
      <div class="region"> <h3> <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> </h3></div>  
-
-	 
+       <a href="https://www.polyu.edu.hk/gs/">Graduate School the official website </a>
+	  <a href=" https://rpgadmission.polyu.edu.hk/">RPgAdmission System for Applicants </a>
   <!--4.1%%%%%%%%%-->  
   <div class="index-three">
            <div class="container">
@@ -624,8 +624,8 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
      <body>
  <div class="container"> 
        <div class="region"> <h3><a href="https://www.cityu.edu.hk/ "> The City Universityof  Hong Kong </a> </h3></div>
-  
- 
+        <a href=" https://www.cityu.edu.hk/sgs/">Chow Yei Ching School of Graduate Studies</a> 
+        <a href=" "> </a> 
    <!--5.1%%%%%%%%%-->
  <div class="index-three">
            <div class="container">
