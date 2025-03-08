@@ -243,12 +243,12 @@
                  </div> 
                   <div class="item">
                      <ul class=" clearfix">
-                        <li class="active"><a href= "https://zhouzh0201.github.io/k1/"> 26 fall admisstion supervisor </a> </li>
+                        <li class="active"><a href= "https://zhouzh0201.github.io/k1/"> 26 fall admisstion supervisor<img src=" https://zhouzh0201.github.io/k4/image024.gif " /> more </a> </li>
                       </ul>      
                    </div>          
                 <div class="cont">
                     <div class="cont-box latest" style="display: block;">
-                        <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>
+                        <!--a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a-->
                          <h3>computer vision/Remote Sensing Image Processing</h3>           
                         <ul class="clearfix">
     <li><a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a>
