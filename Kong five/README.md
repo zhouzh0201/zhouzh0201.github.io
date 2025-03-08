@@ -570,7 +570,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
                  </div> 
                   <div class="item">
                      <ul class=" clearfix">
-                        <li class="active"><a href= "https://zhouzh0201.github.io/k4/"><img src=" https://zhouzh0201.github.io/k4/image024.gif " /> 26 fall admisstion supervisor </a> </li>
+                        <li class="active"><a href= "https://zhouzh0201.github.io/k4/"><img src=" https://zhouzh0201.github.io/k4/image024.gif " /> 26 fall admisstion supervisor more </a> </li>
                       </ul>      
                    </div>          
               <div class="cont">
