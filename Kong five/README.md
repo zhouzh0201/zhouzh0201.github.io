@@ -279,9 +279,9 @@
 <div class="container">
   <div class="region"> <h3><a href=" https://www.cuhk.edu.hk/english/">The Chinese  University of Hong  Kong</a></h3></div>
 	<a href=" https://www.gs.cuhk.edu.hk/admissions/">graduate school</a>
-	<a href="https://www.gradsch.cuhk.edu.hk/OnlineApp/login_email.aspx">  Online Application</a>
+	<a href="https://www.gradsch.cuhk.edu.hk/OnlineApp/login_email.aspx">  Online Application for PhD</a>
   <!--2.1.%%%%%h%%%%-->
-     <div class="index-three">
+     <div class="index-three"> 
    
            <div class="container">
               <div class="index-notice">
@@ -362,8 +362,8 @@
  <div class="container"> 
    <div class="region"> <h3><a href="https://hkust.edu.hk/zh-hant">The Hong Kong University of Science and Technology</a> </h3></div>
 	 <a href=" https://fytgs.hkust.edu.hk/ ">霍英东Fok Ying Tung graduate school</a>
-	   <a href="https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/online-application ">  Online Application</a>
-            <a href=" https://w5.ab.ust.hk/cgi-bin/std_nem_cgi.sh/WService=broker_5p_p/prg/pg_ap_main.r"> Postgraduate Programs (2025-2026 Entry) </a>
+	   <a href="https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/online-application ">  Online Application for PhD</a>
+            <a href=" https://w5.ab.ust.hk/cgi-bin/std_nem_cgi.sh/WService=broker_5p_p/prg/pg_ap_main.r"> Postgraduate Programs for PhD (2025-2026 Entry) </a>
   <!--3.1%%%%%%%%%-->
        <div class="index-three">
            <div class="container">
