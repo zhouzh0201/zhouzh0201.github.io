@@ -90,7 +90,7 @@
      <div class="region"> <h3><a href="https://www.hku.hk/">The University of Hong Kong</a></h3></div>
       <!--div class="region <h3>The Hong Kong Polytechnic University  </h3></div-->
      <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
-   
+         <a href=" https://gradsch.hku.hk/prospective_students/research_areas">graduate school</a>,
 	   
     <!--1.1 %%%%%%%%%-->
      <div class="index-three">
