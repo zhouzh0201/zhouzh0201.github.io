@@ -570,12 +570,12 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
                  </div> 
                   <div class="item">
                      <ul class=" clearfix">
-                        <li class="active"><a href= "https://zhouzh0201.github.io/k4/"><img src=" https://zhouzh0201.github.io/k4/image024.gif " /> 26 fall admisstion supervisor more </a> </li>
+                        <li class="active"><a href= "https://zhouzh0201.github.io/k4/">26 fall admisstion supervisor<img src=" https://zhouzh0201.github.io/k4/image024.gif " />  more </a> </li>
                       </ul>      
                    </div>          
               <div class="cont">
                     <div class="cont-box latest" style="display: block;">
-                        <a href=" https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a>
+                        <!--a href=" https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a-->
                          <h3><font color="#ff0000">computer vision/Remote Sensing Image Processing  Change detection</font></h3>           
                         <ul class="clearfix">
 			<p> Research Directions</p>
