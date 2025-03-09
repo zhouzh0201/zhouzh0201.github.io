@@ -514,13 +514,15 @@
 		       <!--***********add*-->
 	       </body>
 	<!--/style-->	
+ <head>
+	 <meta charset=[CHARSET]>
 < style>
        div{position:relative;
        }
        h4{font-size:15px;color:erd;position:absolute;top:20px;left:10px;
        }
 </style>
- 
+ </head> 
 
 <aside >
 	
