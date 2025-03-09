@@ -52,16 +52,7 @@
    <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
     
  
- <p> k3-3 frist page</p>
  
-   <h4> <a href="https://hkust.edu.hk">k3 The Hong Kong  University of Science and Technology</a> </h4>
-   <b> <a href="https://ais.hkust.edu.hk/"> Academy of Interdisciplinary Studies</a> </b>
-   <b><a href="https://isd.hkust.edu.hk/"> Division of Integrative Systems and Design</a></b>
-  <h4>deepseek recommend shaojia qi/邵琪佳,2004 fall join from COLUMBIA UNIVERSITY.</h4>
-    <li>  <img src="../k2/redball.gif" /> <a href=" https://qijiashao.github.io/">邵启佳 </a><font color="#ff6ec7">NEWS: We have multiple openings for Postdoc/PhDs/Visiting Students. For more details, please refer to Join US. Thanks!</font>
-   
-  
-         张倩
  
  <p> Admission for 2025-26,<a href="  https://fytgs.hkust.edu.hk ">霍英东Fok Ying Tung Graduate School the official website </a> </p>
     <a href=" https://fytgs.hkust.edu.hk/ ">霍英东Fok Ying Tung graduate school</a>,<br/>
@@ -85,7 +76,7 @@
 Machine Learning:
  <ul class=" clearfix"> 
 
-          <li>  <img src="../k2/redball.gif" /><a href="http://qijiashao.github.io/  deepseek recommend   邵琪佳Qijia SHAO/"><font color="blue"> Research Interest /Mobile and ubiquitous computing/Human-computer interaction</font></a></li> 
+          
   
      <li>  <img src="../k2/redball.gif" /><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></li>  
      <li>  <img src="../k2/redball.gif" /><a href=" https://jxhe.github.io/">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b></li><br/>
@@ -324,7 +315,8 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
    
   <h4>deepseek recommend shaojia qi/邵琪佳,2004 fall join from COLUMBIA UNIVERSITY.</h4>
   
-    <li>  <img src="../k2/redball.gif" /> <a href=" https://qijiashao.github.io/">邵启佳 </a><font color="#ff6ec7">NEWS: We have multiple openings for Postdoc/PhDs/Visiting Students. For more details, please refer  <a href="  https://qijiashao.github.io/student/" > to Join US</a>.Qijia Shao is always looking for highly-motivated postdoctoral researcher, Ph.D. students, and visiting students. Thanks!</font>
+    <li>  <img src="../k2/redball.gif" /> <a href=" https://qijiashao.github.io/">邵启佳 </a><font color="#ff6ec7">NEWS: We have multiple openings for Postdoc/PhDs/Visiting Students. For more details, please refer  <a href="  https://qijiashao.github.io/student/" > to Join US</a>.Qijia Shao is always looking for highly-motivated postdoctoral researcher, Ph.D. students, and visiting students. Thanks!</font
+       <img src="../k2/redball.gif" /><a href="http://qijiashao.github.io/  deepseek recommend   邵琪佳Qijia SHAO/"><font color="blue"> Research Interest /Mobile and ubiquitous computing/Human-computer interaction</font></a> 
       </li>
       
  <li>  <img src="../k2/redball.gif" /> <a href="https://isd.hkust.edu.hk/people#isd-faculty/">张倩Qian ZHANG/Acting Head of ISD / Tencent Professor of Engineering and Chair Professor of CSE</a><font color="#ff6ec7"> Dr. Zhang received the B.S., M.S., and Ph.D. degrees from Wuhan University, China, in 1994, 1996, and 1999, respectively, all in computer science. </font>
