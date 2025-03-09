@@ -514,15 +514,17 @@
 		       <!--***********add*-->
 	       </body>
 	<!--/style-->	
- <head>
+ <!--head-->
+ <aside>
 	 <meta charset="{CHARSET}">
-<style>
+ <style>
        div{position:relative;
        }
        h4{font-size:15px;color:erd;position:absolute;top:20px;left:10px;
        }
-</style>
- </head> 
+  </style>
+ </aside>
+ <!--/head--> 
 <body>
       <div> 
       <img src="../img/wf1_jz2.png" alt=""/>
