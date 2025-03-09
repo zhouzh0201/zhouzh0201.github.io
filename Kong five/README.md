@@ -400,8 +400,14 @@
                  </div>       
              </div>
           </div> 
+ <!--2.4%%%%%%%%%-->
 
-      
+  <h3> Chinese University of Hong Kong (Shenzhen). </h3>
+<li> <img src="../k2/redball.gif" /> <a href="https://sds.cuhk.edu.cn/teacher/315 ">
+张大鹏 deepseek recommend </a><font color="#ff0000">  he have been working on pattern recognition, image processing and biometrics,/font&gt;  he is a Distinguished Presidential Chair Professor in Chinese University of Hong Kong (Shenzhen). 
+  <a href="https://www4.comp.polyu.edu.hk/~csdzhang/ ">David Zhang </a><font color="#ff0000">Emeritus Professor</font>&lt;/li&gt;
+
+      <!--**************--> 
 <hr noshade="" />
 
  <body>
