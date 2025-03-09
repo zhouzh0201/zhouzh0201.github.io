@@ -353,8 +353,9 @@
 	 <div class="container">  
          <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
   <div class="container">
-	 <div class="profile-content pull-center"> 
-   
+	 <!--div class="profile-content pull-center"--> 
+         </div> 
+	   
 	<div class="row">      
 	<marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
 	<h4> The page is under construction.......</h4> 
