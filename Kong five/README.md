@@ -663,8 +663,10 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
  <div class="container"> 
        <div class="region"> <h3><a href="https://www.cityu.edu.hk/ "> The City Universityof  Hong Kong </a> </h3></div>
         <a href=" https://www.cityu.edu.hk/sgs/">Chow Yei Ching School of Graduate Studies</a> 
-        <a href=" "> </a> 
-   <!--5.1%%%%%%%%%-->
+        <a href="https://www.cityu.edu.hk/pg/research-degree-programmes/apply-now ">Apply Now </a> 
+	<a href="https://banweb.cityu.edu.hk/pls/PROD/hwskalog_cityu.P_DispLoginNon ">Admission Application System </a>  
+ 
+	 <!--5.1%%%%%%%%%-->	
  <div class="index-three">
            <div class="container">
               <div class="index-notice">
