@@ -514,10 +514,10 @@
 		       <!--***********add*-->
 	       </body>
 	<!--/style-->	
-         <!--div class="i0w i2sw">
+         <!--div class="i0w i2sw"> </div-->
                  <img src="../img/wf1_jz2.png"  style="width:100%;height:200px;" alt="" class="w100 i0 i2">
                  <img src="new2024/images/f_fl1_dy2s.png" alt="" class="w100 d0 d2">                          
-         </div-->
+        
 	<!--***************-->
       
                 <h3><img src="icon-new.png"><font color="blue">scince study </font></h3>		    
