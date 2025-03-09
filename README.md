@@ -523,14 +523,6 @@
        }
 </style>
  </head> 
-
-<aside >
-	
-         <aside  class="right-aside">
-         <div class="container">  
-	 
-	    <div class="right-aside">  
-
 <body>
       <div> 
       <img src="../img/wf1_jz2.png" alt=""/>
@@ -539,12 +531,7 @@
 </body>    
 	 <!--img src="../img/wf1_jz2.png" style="width:100%; height:100px;"-->  
        <!--h4> <a href= "https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h4-->
-            </div>    
-       
-	  </div> 
-       </aside>
-  </aside>
- 
+          
          <!--div class="i0w i2sw">
                  <img src="../img/wf1_jz2.png"  style="width:80%;height:200px;" alt="" class="w100 i0 i2">
                  <img src="new2024/images/f_fl1_dy2s.png" alt="" class="w100 d0 d2">                           </div-->
