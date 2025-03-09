@@ -123,7 +123,13 @@
                         <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>
                <h3>computer vision</h3>           
                         <ul class="clearfix">
-     <li><a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">  于义洲/Yu, Yizhou,  </a>  <font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR. <font color="#ff0000">the director of AI Lab</font> ，<span>2025.02.17</span> </li>     
+ <li>
+     <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB"> 
+         <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI) </p>  <span>2025.02.17</span>
+     </a>  
+  </li>  
+      
+     Machine Learning, Computer Vision, Visual Media, VR/AR. <font color="#ff0000">the director of AI Lab</font> ，  
      <li> <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB"> 马毅/Ma, Yi </a> <font color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,Inaugural Director of Institute of Data Science (IDS), the University of Hong Kong.</font> <span>2025.02.15 </span>         </li>  
       <li> <a href="https://datascience.hku.hk/" target="_blank" title="CGPWB">  马毅/Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS),  </a> <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>. <span>2025.02.15 </span>       </li>          
       <li><a href="https://datascience.hku.hk/ "> HKU Institute of Data Science (HKU-IDS) </a> <font color="#ff0000">HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision, </font>.Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision   <span>2025.03.05  </span>  </li> 
