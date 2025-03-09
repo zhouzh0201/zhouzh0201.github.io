@@ -515,8 +515,9 @@
 	       </body>
 	<!--/style-->	
 
-<aside  style="../img/wf1_jz2.png;width:100%; height:200%;">  
-      <aside  class="right-aside">
+<aside >
+	<img src="../img/wf1_jz2.png" style="width:100%; height:200%;">  
+         <aside  class="right-aside">
          <div class="container">  
 	   <div class="right-aside">  
         <h4><a href="https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h4>
