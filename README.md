@@ -351,7 +351,7 @@
  <aside  style="background-color:#ffff00;width:100%; height:200px;">  
 	
 	 <div class="container">  
-         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong"
+         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
   <div class="container">
 	 <div class="profile-content pull-center"> 
    
