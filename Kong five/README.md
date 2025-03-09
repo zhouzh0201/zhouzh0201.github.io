@@ -171,7 +171,7 @@
                     <div class="cont">
                      <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>        
-		       <h3>computer-vision,齐小娟 DeepSeek recommend</h3>
+		       <h3>computer vision,齐小娟 DeepSeek recommend</h3>
 		       <ul class="clearfix">
        <li> <a href="https://www.eee.hku.hk/~ycwu"> 吴一钟Yik-Chung Wu,</a>. <font color="#ff0000">To prospective students:    I am actively recruiting Ph.D. students</font> for topics on machine learning, signal processing, and communications.  I am looking for students who are self-motivated, with background in one or more of the following areas: mathematics, statistics, physics, machine learning or signal processing.  Due to the large amount of requesting email, I can only reply to students who can articulate their suitability in my group.  Thank you very much for your interest.<span>2025.03.07</span> </li>  
 
@@ -253,7 +253,7 @@
                 <div class="cont">
                     <div class="cont-box latest" style="display: block;">
                         <!--a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a-->
-                         <h3>computer vision/Remote Sensing Image Processing</h3>           
+                         <h3>computer vision/Remote Sensing Image Processing, Prof. Bennett   deepseek recommend,no looked</h3>           
                         <ul class="clearfix">
     <li><a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a>
       <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font>  <span>2025.03.06</span> </li> 
@@ -616,7 +616,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
               <div class="cont">
                     <div class="cont-box latest" style="display: block;">
                         <!--a href=" https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a-->
-                         <h3><font color="#ff0000">computer vision/Remote Sensing Image Processing  Change detection</font></h3>           
+                         <h3><font color="#ff0000">computer vision/Remote Sensing Image Processing  Change detection, 石国强 /Guoqiang SHI.deepseek recommend,  </font></h3>           
                         <ul class="clearfix">
 			<p> Research Directions</p>
    
