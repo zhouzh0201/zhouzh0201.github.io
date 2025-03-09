@@ -50,10 +50,6 @@
 <!--****************-->
 <div class="container" style="margin-top: 50px;"> 
    <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
-    
- 
- 
- 
  <p> Admission for 2025-26,<a href="  https://fytgs.hkust.edu.hk ">霍英东Fok Ying Tung Graduate School the official website </a> </p>
     <a href=" https://fytgs.hkust.edu.hk/ ">霍英东Fok Ying Tung graduate school</a>,<br/>
     <a href=" https://seng.hkust.edu.hk">Faculty of Engineering</a>,<br/>
@@ -61,23 +57,18 @@
     <a href="https://ece.hkust.edu.hk"> Department of Electronic  and Computer Engineering</a><br/>
  
  <hr noshade="" />
-
+<!--****************-->
  <p> k3-1 frist page</p>
- 
+<!--****************--> 
  <p> <a href=" https://cse.hkust.edu.hk">Department of Computer Science</a>,</p> 
     <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
 <p>Research Themes:1. Artificial Intelligence (AI),include machine learning, deep learning, natural language processing, knowledge representation, computer vision, robotics, and expert systems.2. Data Science (DS),3. Systems (SY),</p>
   <p>Artificial Intelligence (AI) Big Data Institute (BDI) and Smart Lab</p>
-  
 <!-- view-source:https://cse.hkust.edu.hk/pg/research/themes/-->
-
 <div class="centers">
 Machine Learning:
  <ul class=" clearfix"> 
-
-          
-  
      <li>  <img src="../k2/redball.gif" /><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></li>  
      <li>  <img src="../k2/redball.gif" /><a href=" https://jxhe.github.io/">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b></li><br/>
      <li><img src="../k2/redball.gif" /><a href="https://cse.hkust.edu.hk/~jamesk ">郭天佑/ James Tin-Yau KWOK/James Kwok</a>,<b><font color="red">Research positions are now available for PhD/MPhil students (in the areas of AI/ML/CV/NLP)for theupcoming Fall 2025! If you're interested, please fill out this <a href="https://forms.gle/QR1YSck2x45yeAru5">form</a> to get started.Research internship and undergrad research positions are also available.</font></b></li>
@@ -95,12 +86,10 @@ Language Technologies and Text Mining:
    <li><a href="/admin/people/faculty/profile/yqsong">宋陽秋/Yangqiu Song</a>,</li>
    <li><a href="https://cse.hkust.edu.hk/faculty/dekai/ ">吴德愷/Dekai Wu</a>,</li>
    <li><a href=" https://cse.hkust.edu.hk/faculty/lzhang/">张连文/Nevin Zhang</a></li>
- 
- 
+
 <div class="centers">
   <ul class=" clearfix"> 
   <h3> AI, Computer Vision and Image Processing:  </h3> .
-
      <li> <img src="../k2/redball.gif"/><a href="https://jiaya.me/home">贾佳佳/Jiaya Jia</a>,<p> <font color="red"> ⇒ Join our research team in 2025 or later working on Large Language (and Vision) Model (LVLM) projects! We only admit 1) top-ranking students from top universities, 2) world-level programming  competition/challenge winners, and 3) students who published high-quality papers in this field.</font></p></li>
      <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc ">陈浩/Hao Chen</a>, <span style="color:rgb(255, 0, 0); font-weight:bold"> *NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science (particually in Computational Pathology and Multi-omics)</span> and XR for Computer-Assisted Intervention. Strong self-motivation is preferred (<a href="https://cse.hkust.edu.hk/~jhc/20240531english.pdf">details</a>) . </li>
 
@@ -152,7 +141,7 @@ Large Language-Vision Models:
 
  <div class="members">
         <h5 class="subtitle">Subareas</h5>
-<div>
+   <div>
 Vision, Recognition and Learning:
     <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc">陈浩/Hao Chen</a>,<p>
 <span style="color:rgb(255, 0, 0); font-weight:bold"> 
@@ -196,7 +185,7 @@ Medical Image Analysis:
 <a href="http://vis.cse.ust.hk/">VisLab</a>
         </p>
   
-</div>
+     </div>
 <!--/div-->
 <!--****************-->
   <hr noshade="" />
@@ -244,8 +233,12 @@ Human-Robot Interaction:
                </p> <p class="mt-2"> <a href="https://www.cse.ust.hk/~mxj/" class="link">For potential PhD, MPhil, MScIT, and  UROP students</a>  </p>
 
 <!--****************-->
+
  <hr noshade="" /> 
 <p> k3-2 second page</p>
+
+<!--****************-->
+
  <p> <a href="https://ece.hkust.edu.hk/"> DEPARTMENT OF ELECTRONIC & COMPUTER ENGINEERING</a></p> 
    <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
@@ -308,7 +301,7 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
 <!--****************-->
   
   <p> k3-3 frist page</p>
- 
+ <!--****************-->
    <h4> <a href="https://hkust.edu.hk">k3 The Hong Kong  University of Science and Technology</a> </h4>
    <b> <a href="https://ais.hkust.edu.hk/"> Academy of Interdisciplinary Studies</a> </b>
    <b><a href="https://isd.hkust.edu.hk/"> Division of Integrative Systems and Design</a></b>
@@ -323,7 +316,7 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
         <a href="https://www.cse.ust.hk/~qianzh//">张倩Qian ZHANG/Alumn</a> Chair Professor of the Department of Computer Science and Engineering (CSE)
  </li> 
              
-             
+ <!--****************-->            
              <hr noshade="" />
 <!--****************-->                             
                                   
@@ -333,18 +326,17 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
         <br />
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
-    </div>
+   
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
 
- </div>
+  
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
- </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    
+  <script src="ttps://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-  </body>
-</html>
+ 
 
     
   </body>
