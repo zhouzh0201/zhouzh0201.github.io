@@ -167,8 +167,11 @@ Solid State Electronics & Photonics Group:<br/>
       <li> <img src="../k2/redball.gif" /><a href="https://www.grm.cuhk.edu.hk/en/profile/prof-kan-zihan/">简子涵/ KAN Zihan</a>BSc (WuhanU) PhD (WuhanU)<font color="red"> Research Interests</font> : Spatial data analysis and modeling; GPS trajectory mining;<span>2025.03.08</span>  </li>
 
       <!--******************-->
-<li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
-  <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
+<li> <img src="../k2/redball.gif"> <a href= "https://sds.cuhk.edu.cn/teacher/315 ">
+张大鹏 deepseek recommend </a><font color="#ff0000">  he have been working on pattern recognition, image processing and biometrics,/font>  he is a Distinguished Presidential Chair Professor in Chinese University of Hong Kong (Shenzhen). 
+  <a href= "https://www4.comp.polyu.edu.hk/~csdzhang/ ">David Zhang </a><font color="#ff0000">Emeritus Professor</font></li>
+
+ 
   <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
   <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
        <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
