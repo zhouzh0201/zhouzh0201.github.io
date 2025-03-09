@@ -157,6 +157,16 @@ Solid State Electronics & Photonics Group:<br/>
 <!--****************-->
  
   <hr noshade="" />
+ <!--2.3%%%%%%%%%-->
+  
+  <h5><img src="icon-new.png" /><a href=" https://www.cuhk.edu.hk/chinese/faculties/social-science.html "> Faculty of Social Science</a> 
+                    </h5>
+  <h4><a href=" https://www.grm.cuhk.edu.hk/en/ ">Department of Geography and Resource Management</a></h4>  
+   <h3><font color="#ff0000">computer vision/Remote Sensing / spatially integrated (big) data</font></h3>           
+   <li> <img src="../k2/redball.gif" /><a href=" https://www.grm.cuhk.edu.hk/en/profile/prof-liu-yan/">  刘岩/Prof. LIU Yan </a>BSc (Hubei U.) MSc (Central China Normal U.)PhD (U. of Queensland,Spatial Data Science<font color="red">SUGGESTED RESEARCH TOPICS FOR POSTGRADUATE STUDENTS </font>Developing spatially integrated (big) data approaches to explore contemporary social issues<span>2025.03.08</span>  </li>
+      <li> <img src="../k2/redball.gif" /><a href="https://www.grm.cuhk.edu.hk/en/profile/prof-kan-zihan/">简子涵/ KAN Zihan</a>BSc (WuhanU) PhD (WuhanU)<font color="red"> Research Interests</font> : Spatial data analysis and modeling; GPS trajectory mining;<span>2025.03.08</span>  </li>
+
+      <!--******************-->
 <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
   <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
   <li> <img src="../k2/redball.gif"> <a href= " ">欧文·金</a><font color="#ff0000"></font></li>
