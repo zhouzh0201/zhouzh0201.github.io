@@ -50,9 +50,18 @@
 <!--****************-->
 <div class="container" style="margin-top: 50px;"> 
    <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
-   <h4> <a href="https://hkust.edu.hk">k3 The Hong Kong  University of Science and Technology</a> 
-   deepseek recommend shaojia qi/邵琪佳,2004 fall join from COLUMBIA UNIVERSITY.
-   </h4> 
+    
+ 
+ <p> k3-3 frist page</p>
+ 
+   <h4> <a href="https://hkust.edu.hk">k3 The Hong Kong  University of Science and Technology</a> </h4>
+   <b> <a href="https://ais.hkust.edu.hk/"> Academy of Interdisciplinary Studies</a> </b>
+   <b><a href="https://isd.hkust.edu.hk/"> Division of Integrative Systems and Design</a></b>
+  <h4>deepseek recommend shaojia qi/邵琪佳,2004 fall join from COLUMBIA UNIVERSITY.</h4>
+    <li>  <img src="../k2/redball.gif" /> <a href=" https://qijiashao.github.io/">邵启佳 </a><font color="#ff6ec7">NEWS: We have multiple openings for Postdoc/PhDs/Visiting Students. For more details, please refer to Join US. Thanks!</font>
+   
+  
+         张倩
  
  <p> Admission for 2025-26,<a href="  https://fytgs.hkust.edu.hk ">霍英东Fok Ying Tung Graduate School the official website </a> </p>
     <a href=" https://fytgs.hkust.edu.hk/ ">霍英东Fok Ying Tung graduate school</a>,<br/>
@@ -305,8 +314,25 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
 <p> </p>
 
   <hr noshade="" />
+<!--****************-->
+  
+  <p> k3-3 frist page</p>
  
-<!--*********footer*******-->
+   <h4> <a href="https://hkust.edu.hk">k3 The Hong Kong  University of Science and Technology</a> </h4>
+   <b> <a href="https://ais.hkust.edu.hk/"> Academy of Interdisciplinary Studies</a> </b>
+   <b><a href="https://isd.hkust.edu.hk/"> Division of Integrative Systems and Design</a></b>
+   
+  <h4>deepseek recommend shaojia qi/邵琪佳,2004 fall join from COLUMBIA UNIVERSITY.</h4>
+  
+    <li>  <img src="../k2/redball.gif" /> <a href=" https://qijiashao.github.io/">邵启佳 </a><font color="#ff6ec7">NEWS: We have multiple openings for Postdoc/PhDs/Visiting Students. For more details, please refer  <a href="  https://qijiashao.github.io/student/" > to Join US</a>.Qijia Shao is always looking for highly-motivated postdoctoral researcher, Ph.D. students, and visiting students. Thanks!</font>
+      </li>
+      
+ <li>  <img src="../k2/redball.gif" /> <a href="https://isd.hkust.edu.hk/people#isd-faculty/">张倩Qian ZHANG/Acting Head of ISD / Tencent Professor of Engineering and Chair Professor of CSE</a><font color="#ff6ec7"> Dr. Zhang received the B.S., M.S., and Ph.D. degrees from Wuhan University, China, in 1994, 1996, and 1999, respectively, all in computer science. </font>
+        <a href="https://www.cse.ust.hk/~qianzh//">张倩Qian ZHANG/Alumn</a> Chair Professor of the Department of Computer Science and Engineering (CSE)
+ </li> 
+                                        
+                                  
+                                        <!--*********footer*******-->
   <div align="center">
    
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
