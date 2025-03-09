@@ -128,7 +128,7 @@
                         <ul class="clearfix">
  <li>
      <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB"> 
-         <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI) </p>  <span>2025.02.17</span>
+         <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leader</font> ,Research Interests： Artificial Intelligence (AI)   <span>2025.02.17</span></p>
      </a>  
   </li>  
       
