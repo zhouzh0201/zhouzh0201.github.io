@@ -740,7 +740,11 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
       
    <hr noshade="" />  
    
- <!--***********************ok*******************-->   
+ <!--***********************ok*******************-->  
+      <!--5.3%%%%%-->
+      
+  <h5><img src="icon-new.png" /> <a href=" https://www.cityu.edu.hk/see/research/energy / ">The School of Energy and Environment</a> </h5>
+
     <hr noshade="" /> 
  </body>
   
