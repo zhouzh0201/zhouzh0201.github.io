@@ -616,7 +616,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
               <div class="cont">
                     <div class="cont-box latest" style="display: block;">
                         <!--a href=" https://zhouzh0201.github.io/k4/" target="_blank" class="more">more</a-->
-                         <h3><font color="#ff0000">computer vision/Remote Sensing Image Processing  Change detection, 石国强 /Guoqiang SHI.deepseek recommend,  </font></h3>           
+                         <h3><font color="#ff0000">computer vision/Remote Sensing Image Processing  Change detection, 石国强 /Guoqiang SHI deepseek recommend,  </font></h3>           
                         <ul class="clearfix">
 			<p> Research Directions</p>
    
