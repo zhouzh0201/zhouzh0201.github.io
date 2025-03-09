@@ -555,12 +555,12 @@
 		<!--h3> <a href="https://zhouzh0201.github.io/k1"> <font color="blue">more</font> </a></h3-->   
                      </div>		  
                   </div>
-             <div class="swiper mySwiper">
+           <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
 <script>_showDynClickBatch(['dynclicks_u21_48431','dynclicks_u21_43521','dynclicks_u21_43011','dynclicks_u21_38141','dynclicks_u21_33661','dynclicks_u21_4391'],[48431,43521,43011,38141,33661,4391],"wbnews", 1852176512)</script>
                 </div>
                 <div class="swiper-pagination"></div>
-           </div>
+            </div>
          
      
       </body>
@@ -643,9 +643,9 @@
       <div class="footer-footer">	
          <div align="center">
             <div class="t_zz"></div> 
-      <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small>
+      <!--small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small-->
       <small><a href="https://www.whu.edu.cn/">Wuhan University</a></small>
-      <small>License ing......</small>
+      <!--small>License ing......</small-->
 		 </div> 
 	      </div> 
 	    </div>   
