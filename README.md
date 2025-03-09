@@ -514,6 +514,13 @@
 		       <!--***********add*-->
 	       </body>
 	<!--/style-->	
+< style>
+       div{position:relative;
+       }
+       h4{font-size:15px;color:erd;position:absolute;top:20px;left:10px;
+       }
+</style>
+ 
 
 <aside >
 	
@@ -521,16 +528,11 @@
          <div class="container">  
 	 
 	    <div class="right-aside">  
-< style>
-       div{position:relative;
-       }
-       h4{font-size:15px;color:erd;position:absolute;top:20px;left:10px;
-       }
-</style>
+
 <body>
       <div> 
       <img src="../img/wf1_jz2.png" alt=""/>
-        <h4> <a href= "https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h4
+        <h4> <a href= "https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h4>
       </div>
 </body>    
 	 <!--img src="../img/wf1_jz2.png" style="width:100%; height:100px;"-->  
