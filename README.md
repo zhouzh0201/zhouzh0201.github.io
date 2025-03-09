@@ -527,7 +527,7 @@
  <!--/head--> 
     <body>
       <div> 
-     <img src="../img/wf1_jz2.png" style="width:80%; height:100px;"  alt=""/>
+     <img src="../img/wf1_jz2.png" style="width:80%; height:400px;"  alt=""/>
         <h4> <a href= "https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h4>
     </div>
     </body>
