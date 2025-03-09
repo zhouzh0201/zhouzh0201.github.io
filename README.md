@@ -496,7 +496,7 @@
             <div class="index-title  clearfix">  
 
 <!--*******************-->    
- <body>
+  <body>
       
 	<!--*******************-->     
 
@@ -525,12 +525,12 @@
   </style>
  </aside>
  <!--/head--> 
-<body>
+    <body>
       <div> 
-      <img src="../img/wf1_jz2.png" alt=""/>
+      <img src="../img/wf1_jz2.png" style="width:80%; height:100px;"  alt=""/>
         <h4> <a href= "https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h4>
       </div>
-</body>    
+     </body>    
 	 <!--img src="../img/wf1_jz2.png" style="width:100%; height:100px;"-->  
        <!--h4> <a href= "https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h4-->
           
@@ -540,7 +540,7 @@
         
 	<!--***************-->
       
-                <h5><img src="icon-new.png"><font color="blue">scince study </font></h5>		    
+                <!--h5><img src="icon-new.png"><font color="blue">scince study </font></h5-->		    
           
                <div class="research-swiper">
            
