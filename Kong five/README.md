@@ -171,7 +171,7 @@
                     <div class="cont">
                      <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>        
-		       <h3>computer-vision</h3>
+		       <h3>computer-vision,齐小娟 DeepSeek recommend</h3>
 		       <ul class="clearfix">
        <li> <a href="https://www.eee.hku.hk/~ycwu"> 吴一钟Yik-Chung Wu,</a>. <font color="#ff0000">To prospective students:    I am actively recruiting Ph.D. students</font> for topics on machine learning, signal processing, and communications.  I am looking for students who are self-motivated, with background in one or more of the following areas: mathematics, statistics, physics, machine learning or signal processing.  Due to the large amount of requesting email, I can only reply to students who can articulate their suitability in my group.  Thank you very much for your interest.<span>2025.03.07</span> </li>  
 
@@ -203,7 +203,7 @@
 <li> <a href="https://xjqi.github.io/ ">齐小娟</a>,
 	  Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab,
 	<a href="https://www.dvlab.ai/ ">Deep Vision Lab （DVLab)</a><font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>	
-<a href="https://xjqi.github.io/ ">齐小娟 </a>, 
+<a href="https://xjqi.github.io/ ">齐小娟 DeepSeek recommend</a>, 
 	<a href="https://xjqi.github.io/cvmi.html ">Computer Vision and Machine Intelligence Lab (CVMI Lab)</a> ,
 	<a href="https://www.dvlab.ai/ ">Deep Vision Lab</a>. 
 	The Deep Vision Lab (DVLab) is a top-tier research institute on computer vision and machine learning established by Prof. Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.
