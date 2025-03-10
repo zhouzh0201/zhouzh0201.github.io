@@ -399,13 +399,7 @@
     <li> <img src="../k2/redball.gif" /><a href=" https://www.grm.cuhk.edu.hk/en/profile/prof-liu-yan/">  刘岩/Prof. LIU Yan </a>BSc (Hubei U.) MSc (Central China Normal U.)PhD (U. of Queensland,Spatial Data Science<font color="red">SUGGESTED RESEARCH TOPICS FOR POSTGRADUATE STUDENTS </font>Developing spatially integrated (big) data approaches to explore contemporary social issues<span>2025.03.08</span>  </li>
       <li> <img src="../k2/redball.gif" /><a href="https://www.grm.cuhk.edu.hk/en/profile/prof-kan-zihan/">简子涵/ KAN Zihan</a>BSc (WuhanU) PhD (WuhanU)<font color="red"> Research Interests</font> : Spatial data analysis and modeling; GPS trajectory mining;<span>2025.03.08</span>  </li>
                        </ul> 
-<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
-   <span class="p_no_d">1</span>
-   <span class="p_no">   <a href="tzgg/56.htm">2</a></span><span class="p_no">
-     <a href="tzgg/55.htm">3</a></span><span class="p_no">
-     <a href="tzgg/54.htm">4</a></span><span class="p_no">
-     <a href="tzgg/53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="tzgg/1.htm">57</a></span><span class="p_next p_fun"><a href="tzgg/56.htm">next page</a></span><span class="p_last p_fun"><a href="tzgg/1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_50421','dynclicks_u6_50381','dynclicks_u6_50361','dynclicks_u6_50201','dynclicks_u6_50261','dynclicks_u6_50171','dynclicks_u6_49971','dynclicks_u6_49911','dynclicks_u6_49701','dynclicks_u6_49551','dynclicks_u6_48901','dynclicks_u6_48871','dynclicks_u6_48831','dynclicks_u6_48801','dynclicks_u6_48771'],[50421,50381,50361,50201,50261,50171,49971,49911,49701,49551,48901,48871,48831,48801,48771],"wbnews", 1852176512)</script>
-    </div>                   
+
 	 
                       </div>                                                  
                     </div>
@@ -413,8 +407,29 @@
              </div>
           </div> 
  <!--2.4%%%%%%%%%-->
-
+ <div class="index-three">
+     <div class="container">
+         <div class="index-notice">
+		      
+                 <div class="index-title  clearfix">
+                    <h5><img src="icon-new.png" /><a href=" https://www.cuhk.edu.cn/zh-hans ">e University of Hong Kong (Shenzhen). </a> 
+                    </h5>
+		    <h4><a href="https://sds.cuhk.edu.cn/ "> school deta scenice></h4>  
+		    <!--h3><font color="#ff0000">Remote Sensing   </font></h3-->	 
+                 </div> 
+                  <div class="item">
+                    <ul class=" clearfix">
+                        <li class="active"><a href=" https://zhouzh0201.github.io/k2/ ">26fall admisstion supervisor</a></li> 
+                      </ul>
+                 </div>
+                    <div class="cont">
+                      <div class="cont-box latest" style="display: block;">
+                        <a href="https://zhouzh0201.github.io/k2/" class="more">more</a>
+             <h3>computer-vision</h3>  
+	     
   <h3> Chinese University of Hong Kong (Shenzhen). </h3>
+  
+   <ul class="clearfix">
        <li> <img src="../k2/redball.gif" /> 
 	       <a href="https://sds.cuhk.edu.cn/teacher/315 ">
 <h3>张大鹏 deepseek recommend </h3>
@@ -425,8 +440,27 @@
   <a href="https://www4.comp.polyu.edu.hk/~csdzhang/ ">David Zhang 
   </a>
 	<font color="#ff0000">Emeritus Professor</font>
-	       <span>2025.03.10</span> 
-	 </li>
+	       <span>2025.03.10</span> 	     
+       </li>
+<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                                  
+                       </ul> 
+
+    
+<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
+   <span class="p_no_d">1</span>
+   <span class="p_no">   <a href="tzgg/56.htm">2</a></span><span class="p_no">
+     <a href="tzgg/55.htm">3</a></span><span class="p_no">
+     <a href="tzgg/54.htm">4</a></span><span class="p_no">
+     <a href="tzgg/53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="tzgg/1.htm">57</a></span><span class="p_next p_fun"><a href="tzgg/56.htm">next page</a></span><span class="p_last p_fun"><a href="tzgg/1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_50421','dynclicks_u6_50381','dynclicks_u6_50361','dynclicks_u6_50201','dynclicks_u6_50261','dynclicks_u6_50171','dynclicks_u6_49971','dynclicks_u6_49911','dynclicks_u6_49701','dynclicks_u6_49551','dynclicks_u6_48901','dynclicks_u6_48871','dynclicks_u6_48831','dynclicks_u6_48801','dynclicks_u6_48771'],[50421,50381,50361,50201,50261,50171,49971,49911,49701,49551,48901,48871,48831,48801,48771],"wbnews", 1852176512)</script>
+    </div>                   
+
+                      </div>                                                  
+                    </div>
+                 </div>       
+             </div>
+          </div> 
+     <!--***********************ok*******************-->     
+
 
       <!--**************--> 
 <hr noshade="" />
