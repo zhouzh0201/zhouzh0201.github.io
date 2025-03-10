@@ -56,16 +56,32 @@
 <p><a href="https://www.cityu.edu.hk/cs/"> Department of Computer Science</a></p> 
 <p><a href="https://www.ds.cityu.edu.hk/">Department of Data Science</a></p><br />
   <span>&nbsp; <hr noshade="erd" /> &nbsp;</span>
-<p> k5-1 frist page</p>
+     
+  
+       <!--****************-->
+       <p> k5-1 frist page</p>
+       <!--****************-->
+
+
 
  <p> <a href="https://www.cityu.edu.hk/cs/ "> Department of Computer Science </a>,</p> 
  <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
  <p><a href=" https://www.cs.cityu.edu.hk/research/research-areas/computer-vision">computer-vision</a></p>
 
-<p> Faculty</p> 
+<p> Faculty</p>
+
+      <h3><font color="#ff0000">DeepSeek recommend  徐偉濤 /XU.Weitao</font></h3>
+    
+      <li> <img src= "../../k2/redball.gif" /><a href="https://scholars.cityu.edu.hk/en/persons/weitao-xu(cd193391-0d3a-4f86-92f8-c8ccb92748f2).html"> 徐偉濤 /XU.Weitao,Willing to take PhD students: yes</a> Research Interests:Internet of Things (IoT); Mobile Computing; IoT Security; Wearable Devices; LPWAN.
+         <a href="https://www.weitaoxu.com/">[Recruitment]</a>  continuously looking for self-motivated PhD/Postdoc/RA to join us. I have relatively broad research interests
+ <a href="https://www.weitaoxu.com/recruitment/ "><font color="#ff0000"> Joining Us</font>We have several PhD positions for 2024 (enroll in January/September 2024). If you're interested in my research direction, please feel free to drop me an email.</a> 
+       <p> Students: Yihan Wang (PhD, January 2025-present)/Jiawen Chen (PhD, September 2024-present)/Shengzhe Lyu (PhD, September 2023-present)/Rucheng Wu (PhD, January 2023-present)</P>
+</li>
+
+                                          
 <li><a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html/">陈安东尼教授 Prof CHAN, Antoni Bert,Willing to take PhD students: yes</a></li>
- <li> <img src= "../../k2/redball.gif" /><a href=" http://visal.cs.cityu.edu.hk/jobs/">陈安东尼教授 Prof CHAN, Antoni Bert </a><font color="#ff0000">Willing to take PhD students: yes</font >I can make recommendations on students to accept.</li>
+ <li> <img src= "../../k2/redball.gif" /><a href=" http://visal.cs.cityu.edu.hk/jobs/">陈安东尼教授 Prof CHAN, Antoni Bert </a><font color="#ff0000">Willing to take PhD students: yes</font>I can make recommendations on students to accept.</li>
  <li> <img src=" ../../k2/redball.gif " /><a href=" https://www.cs.cityu.edu.hk/~minjdong/">董敏静教授Prof DONG, Minjing </a><font color="#ff0000">Willing to take PhD students: yes.I am looking for self-motivated MPhil/PhD students enrolled in the year of<b> 2026.</b></font>If you are interested in trustworthy machine learning research, computer vision, generative models, adversarial robustness, model calibration, or efficient neural networks</li>
  <li> <img src=" ../../k2/redball.gif " /><a href=" https://www.cityu.edu.hk/stfprofile/cship.htm">叶浩然教授Prof IP, Horace H S </a><font color="#ff0000"></font> </li>
  <li> <img src=" ../../k2/redball.gif " /><a href=" https://scholars.cityu.edu.hk/en/persons/junhui-hou(1e5e437a-b84d-471d-af08-5f13a2d0b1c3).html">侯俊辉教授Prof HOU, Junhui </a><font color="#ff0000">Willing to take PhD students: yes</font></li> 
