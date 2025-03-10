@@ -182,7 +182,7 @@ Solid State Electronics & Photonics Group:<br/>
       <div class="index-title  clearfix">
                     <h5><img src="icon-new.png" /><a href=" https://www.cuhk.edu.cn/zh-hans ">e University of Hong Kong (Shenzhen). </a> 
                     </h5>
-		    <h4><a href="https://sds.cuhk.edu.cn/ "> school deta scenice&gt;</a> </h4>  
+		    <h4><a href="https://sds.cuhk.edu.cn/ "> Depatment data science</a> </h4>  
 		    <!--h3><font color="#ff0000">Remote Sensing   </font></h3-->	 
          </div> 
  <li>  <img src="../k2/redball.gif">
