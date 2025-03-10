@@ -237,24 +237,35 @@ href="https://www.earthsciences.hku.hk/people/academic_staff/89/back=af3a6f1ace1
 <p>Ph.D student, 关世康/Shikang GUAN, Research Interest: Remote sensing image process with deep learning</p>      
  
  
-    50 <a href="https://geog.hku.hk/hs-zhang ">  张宏生/Hongsheng Zhang</a><font color="#ff0000">His research</font>  is mainly focused on incorporating multiple remote sensing technologies to understand the urbanization process and its environmental and ecological impacts at various spatial and temporal scales.
+    50  <a href="https://geog.hku.hk/hs-zhang ">  张宏生/Hongsheng Zhang
+        </a>
+        <font color="#ff0000">His research</font>  
+    is mainly focused on incorporating multiple remote sensing technologies to understand the urbanization process and its environmental and ecological impacts at various spatial and temporal scales.
     
 <p>Selected Publications</p>
      <p>Wang, J., Song, G., Liddell, M., Morellato, P., Lee, C. K. F., Yang, D., Alberton, B., Detto, M., Ma, X., Zhao, Y., Yeung, H. C. H., Zhang, H., Ng, M., Nelson, B. W., Huete, A., & Wu, J. (2023). An ecologically-constrained deep learning model for tropical leaf phenology monitoring using PlanetScope satellites. Remote Sensing of Environment, 286, 113429. https://doi.org/10.1016/j.rse.2022.113429</p>
-    <p></p>Wan, L., Zhang, H. S., Lin, G. H. and Lin, H. (2019) “A Small-patched Convolutional Neural Network for Mangrove Mapping at Species Level using High-resolution Remote-sensing Image.” Annals of GIS 25(1): 45-55. DOI: 10.1080/19475683.2018.1564791</p>
+    <p> Wan, L., Zhang, H. S., Lin, G. H. and Lin, H. (2019) “A Small-patched Convolutional Neural Network for Mangrove Mapping at Species Level using High-resolution Remote-sensing Image.” Annals of GIS 25(1): 45-55. DOI: 10.1080/19475683.2018.1564791</p>
     
-     51 <a href="https://geog.hku.hk/yy-zhou"> 周宇宇/zhou Yuyu</a><font color="#ff0000">His research focuses </font> on urban environmental change and potential solutions, utilizing geospatial technologies including remote sensing, GIS, geovisualization, spatial analytic tools, and integrated assessment modeling.   
+     51  <a href="https://geog.hku.hk/yy-zhou"> 周宇宇/zhou Yuyu
+         </a>
+         <font color="#ff0000">His research focuses </font> 
+     on urban environmental change and potential solutions, utilizing geospatial technologies including remote sensing, GIS, geovisualization, spatial analytic tools, and integrated assessment modeling.   
 <p>Selected Publications</p>
 <p>Xia, H., L. Qiao, Y. Guo, X. Ru, Y. Qin, Y. Zhou* and C. Wu* (2024). "Enhancing phenology modeling through the integration of artificial light at night effects." Remote Sensing of Environment 303: 113997.</p>
 <p>Xu, H., Y. Zhou*, Y. Wei, H. Guo, & X. Li. (2023). A Multirule-Based Relative Radiometric Normalization for Multisensor Satellite Images. IEEE Geoscience and Remote Sensing Letters, 20, 1-5.</P>
 
- 52 <a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows) 
+ 52 <a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB 
+    </a>
+    <font color="#ff0000"> HIRING </font> 
+    We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows) 
    
      
- 53 <a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a><font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> 
-<p>Research Interests:Environmental remote sensing,His research interests are agroecosystem modeling, climate change impacts and adaptation, remote sensing,</p>
+ 53 <a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a>
+    <font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> 
+    <p>Research Interests:Environmental remote sensing,His research interests are agroecosystem modeling, climate change impacts and adaptation, remote sensing,</p>
  
- 54 <a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a><font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font>
+ 54 <a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a> 
+      <font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font>
      <p> RESEARCH POSTGRADUATE STUDENTS</p>
      <p> 李一辰/Yichen LI PhD./yichen1215@connect.hku.hk/;Remote Sensing, GIS and Deep Learning</p>
      <p>孙伟轩/Weixuan SUN,PhD/u3012361@connect.hku.hk/Remote sensing, Image processing, Deep learning</p>
@@ -267,7 +278,7 @@ href="https://www.earthsciences.hku.hk/people/academic_staff/89/back=af3a6f1ace1
         <br />
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
     </div>
-  </div>
+ 
 
 </body>
 
