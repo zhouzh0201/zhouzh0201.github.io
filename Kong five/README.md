@@ -523,12 +523,15 @@
    
  
 
-<p> k3-3 frist page</p>
+
  <!--****************-->
 <div class="index-second">
            <div class="container">
               <div class="index-notice">
-                 <div class="index-title  clearfix">                  
+                 <div class="index-title  clearfix"> 
+			   <!--****************--> 
+		           <p> k3-3 frist page</p>	 
+                            <!--****************-->   
 		   <h4> <a href="https://hkust.edu.hk/">k3 The Hong Kong  University of Science and Technology</a> </h4>
       <b> <img src="icon-new.png" /><a href="https://ais.hkust.edu.hk/"> Academy of Interdisciplinary Studies</a> </b>
       <b><a href="https://isd.hkust.edu.hk/"> Division of Integrative Systems and Design</a></b>  
