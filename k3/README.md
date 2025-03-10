@@ -368,6 +368,7 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
         <br />
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
+   </div>
    
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
