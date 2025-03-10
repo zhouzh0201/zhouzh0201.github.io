@@ -85,8 +85,10 @@
    <span class="p_no">   <a href="tzgg/56.htm">2</a></span><span class="p_no">
      <a href="tzgg/55.htm">3</a></span><span class="p_no">
      <a href="tzgg/54.htm">4</a></span><span class="p_no">
-     <a href="tzgg/53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="tzgg/1.htm">57</a></span><span class="p_next p_fun"><a href="tzgg/56.htm">next page</a></span><span class="p_last p_fun"><a href="tzgg/1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_50421','dynclicks_u6_50381','dynclicks_u6_50361','dynclicks_u6_50201','dynclicks_u6_50261','dynclicks_u6_50171','dynclicks_u6_49971','dynclicks_u6_49911','dynclicks_u6_49701','dynclicks_u6_49551','dynclicks_u6_48901','dynclicks_u6_48871','dynclicks_u6_48831','dynclicks_u6_48801','dynclicks_u6_48771'],[50421,50381,50361,50201,50261,50171,49971,49911,49701,49551,48901,48871,48831,48801,48771],"wbnews", 1852176512)</script>
-     </div>                         
+     <a href="tzgg/53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="tzgg/1.htm">57</a></span><span class="p_next p_fun"><a href="tzgg/56.htm">next page</a></span><span class="p_last p_fun"><a href="tzgg/1.htm">end page</a></span></span>
+ </div>
+     <script>_showDynClickBatch(['dynclicks_u6_50421','dynclicks_u6_50381','dynclicks_u6_50361','dynclicks_u6_50201','dynclicks_u6_50261','dynclicks_u6_50171','dynclicks_u6_49971','dynclicks_u6_49911','dynclicks_u6_49701','dynclicks_u6_49551','dynclicks_u6_48901','dynclicks_u6_48871','dynclicks_u6_48831','dynclicks_u6_48801','dynclicks_u6_48771'],[50421,50381,50361,50201,50261,50171,49971,49911,49701,49551,48901,48871,48831,48801,48771],"wbnews", 1852176512)</script>
+                           
 
   <h5>k1-2 second page </h5><br>
 11. <a href="https://i.cs.hku.hk/~hszhao/">赵恒双</a>,Professor Zhao, Hengshuang,<font color="#ff0000">Prospective students:</font>. I am looking for self-motivated Ph.D. students, postdoctoral reseachers, research assistants, and visiting scholars,<br>
@@ -100,8 +102,9 @@
 19. <a href="https://i.cs.hku.hk/~cqian/">钱晨雄</a>,<font color="#ff6ec7">I am looking for highly-motivated PhD students Prospective Students</font><br>
 20.<a href="https://difanzou.github.io/">邹迪凡 </a>.Research Interests:Machine Learning Theory; Deep Learning Theory; Decision Making; Stochastic Modeling; Learning Structured Data.<font color="#ff6ec7">Multiple openings for PhD, Postdoc, and RA.</font> Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in <a href="https://i.cs.hku.hk/~gradappl/index.html ">here</a> and inform me via email..<br>
 
- <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../tzgg.htm">frist page</a></span><span class="p_prev p_fun"><a href="../tzgg.htm">previous page</a></span><span class="p_no"><a href="../tzgg.htm">1</a></span><span class="p_no_d">2</span><span class="p_no"><a href="55.htm">3</a></span><span class="p_no"><a href="54.htm">4</a></span><span class="p_no"><a href="53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="1.htm">57</a></span><span class="p_next p_fun"><a href="55.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_48711','dynclicks_u6_48691','dynclicks_u6_48601','dynclicks_u6_48581','dynclicks_u6_48571','dynclicks_u6_48541','dynclicks_u6_48491','dynclicks_u6_48461','dynclicks_u6_48311','dynclicks_u6_48291','dynclicks_u6_48261','dynclicks_u6_48091','dynclicks_u6_47911','dynclicks_u6_47601','dynclicks_u6_47271'],[48711,48691,48601,48581,48571,48541,48491,48461,48311,48291,48261,48091,47911,47601,47271],"wbnews", 1852176512)</script> 
-     <!--/div-->                         
+ <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../tzgg.htm">frist page</a></span><span class="p_prev p_fun"><a href="../tzgg.htm">previous page</a></span><span class="p_no"><a href="../tzgg.htm">1</a></span><span class="p_no_d">2</span><span class="p_no"><a href="55.htm">3</a></span><span class="p_no"><a href="54.htm">4</a></span><span class="p_no"><a href="53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="1.htm">57</a></span><span class="p_next p_fun"><a href="55.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span>
+ </div><script>_showDynClickBatch(['dynclicks_u6_48711','dynclicks_u6_48691','dynclicks_u6_48601','dynclicks_u6_48581','dynclicks_u6_48571','dynclicks_u6_48541','dynclicks_u6_48491','dynclicks_u6_48461','dynclicks_u6_48311','dynclicks_u6_48291','dynclicks_u6_48261','dynclicks_u6_48091','dynclicks_u6_47911','dynclicks_u6_47601','dynclicks_u6_47271'],[48711,48691,48601,48581,48571,48541,48491,48461,48311,48291,48261,48091,47911,47601,47271],"wbnews", 1852176512)</script> 
+                 
 
  <h5>k1-3 third page</h5><br>
       
@@ -112,13 +115,9 @@
 24. <a href="https://www.dvlab.ai/">Deep Vision Lab （DVLab)</a>,<font color="#ff0000">The Deep Vision Lab (DVLab)</font> is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<br>
    
 </p>
-**Cyber Security, FinTech and Blockchain
-**Foundations of Computer Science
-**Data Science and Engineering
-**Systems and Networking
-
-<br>
-B:<br>
+ 
+ 
+ 
   <a href="https://www.cds.hku.hk/">The School of Computing and Data Science </a>,<br>
   <a href="https://www.cs.hku.hk/">Department of Computer Science</a><br>
 25. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/chenho/">陈浩</a>,Prof. Chen, Ho,<a href="https://sec.hku.hk/">JC STEM Lab of Intelligent Cybersecurity </a>, <font color="#ff0000">join we lab</font>,We are recruiting researchers, postdoctoral scholars, graduate students, and interns who are passionate about exploring the frontier of cybersecurity and machine learning,.<a href="https://haochen.org/">陈浩</a><font color="#ff0000">I am recruiting graduate students</font><br>
@@ -134,7 +133,8 @@ B:<br>
 
 30.<a href="https://yangyx09.github.io/">杨玉翔</a>, My research interests  :Quantum Metrology,Quantum Information.<font color="#ff0000">Openings</font>:I am looking for motivated PhD students.<br>
 
-<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../dz.htm">frist page</a></span><span class="p_prev p_fun"><a href="4.htm">previous page</a></span><span class="p_no"><a href="../dz.htm">1</a></span><span class="p_no"><a href="4.htm">2</a></span><span class="p_no_d">3</span><span class="p_no"><a href="2.htm">4</a></span><span class="p_no"><a href="1.htm">5</a></span><span class="p_next p_fun"><a href="2.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_37961','dynclicks_u6_37941','dynclicks_u6_37191','dynclicks_u6_36741','dynclicks_u6_36201','dynclicks_u6_35881','dynclicks_u6_39851','dynclicks_u6_35101','dynclicks_u6_35831','dynclicks_u6_4602','dynclicks_u6_4565','dynclicks_u6_4563','dynclicks_u6_4102','dynclicks_u6_4089','dynclicks_u6_4087'],[37961,37941,37191,36741,36201,35881,39851,35101,35831,4602,4565,4563,4102,4089,4087],"wbnews", 1852176512)</script></div>
+<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../dz.htm">frist page</a></span><span class="p_prev p_fun"><a href="4.htm">previous page</a></span><span class="p_no"><a href="../dz.htm">1</a></span><span class="p_no"><a href="4.htm">2</a></span><span class="p_no_d">3</span><span class="p_no"><a href="2.htm">4</a></span><span class="p_no"><a href="1.htm">5</a></span><span class="p_next p_fun"><a href="2.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span>
+</div><script>_showDynClickBatch(['dynclicks_u6_37961','dynclicks_u6_37941','dynclicks_u6_37191','dynclicks_u6_36741','dynclicks_u6_36201','dynclicks_u6_35881','dynclicks_u6_39851','dynclicks_u6_35101','dynclicks_u6_35831','dynclicks_u6_4602','dynclicks_u6_4565','dynclicks_u6_4563','dynclicks_u6_4102','dynclicks_u6_4089','dynclicks_u6_4087'],[37961,37941,37191,36741,36201,35881,39851,35101,35831,4602,4565,4563,4102,4089,4087],"wbnews", 1852176512)</script></div>
 
 
  
@@ -163,13 +163,15 @@ B:<br>
 
 38.李 志成V.C.S. Lee,Lecturer,Intelligent transportation systems, vehicular networks, e-learning, machine learning and real-time databases.<br>
 
-@@ 39.<a href="https://xh-liu.github.io">刘锡辉</a>X. Liu,<font color="#ff0000">I am actively looking for self-motivated Ph.D. students, to join my group.<a href="https://mmlab.ie.cuhk.edu.hk/people.html"> HKU-MMLab</a>,The lab is constantly looking for motivated graduate students,The Chinese University of Hong Kong</font>.Computer Vision, Machine Learning, and Artificial Intelligence.<br>
+  39.<a href="https://xh-liu.github.io">刘锡辉</a>X. Liu,<font color="#ff0000">I am actively looking for self-motivated Ph.D. students, to join my group.<a href="https://mmlab.ie.cuhk.edu.hk/people.html"> HKU-MMLab</a>,The lab is constantly looking for motivated graduate students,The Chinese University of Hong Kong</font>.Computer Vision, Machine Learning, and Artificial Intelligence.<br>
 
 40.刘彦,Y. Liu,Wireless communications; signal processing; 6G Networks; Machine Learning and Generative AI.<br>
 
 
 
-<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../yjspy.htm">frist page</a></span><span class="p_prev p_fun"><a href="8.htm">previous page</a></span><span class="p_no"><a href="../yjspy.htm">1</a></span><span class="p_no"><a href="9.htm">2</a></span><span class="p_no"><a href="8.htm">3</a></span><span class="p_no_d">4</span><span class="p_no"><a href="6.htm">5</a></span><span class="p_no"><a href="5.htm">6</a></span><span class="p_dot">...</span><span class="p_no"><a href="1.htm">10</a></span><span class="p_next p_fun"><a href="6.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_43871','dynclicks_u6_43831','dynclicks_u6_43411','dynclicks_u6_43271','dynclicks_u6_43081','dynclicks_u6_42751','dynclicks_u6_42731','dynclicks_u6_42461','dynclicks_u6_42361','dynclicks_u6_42281','dynclicks_u6_42051','dynclicks_u6_41921','dynclicks_u6_41841','dynclicks_u6_41741','dynclicks_u6_41371'],[43871,43831,43411,43271,43081,42751,42731,42461,42361,42281,42051,41921,41841,41741,41371],"wbnews", 1852176512)</script>
+<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../yjspy.htm">frist page</a></span><span class="p_prev p_fun"><a href="8.htm">previous page</a></span><span class="p_no"><a href="../yjspy.htm">1</a></span><span class="p_no"><a href="9.htm">2</a></span><span class="p_no"><a href="8.htm">3</a></span><span class="p_no_d">4</span><span class="p_no"><a href="6.htm">5</a></span><span class="p_no"><a href="5.htm">6</a></span><span class="p_dot">...</span><span class="p_no"><a href="1.htm">10</a></span><span class="p_next p_fun"><a href="6.htm">next page</a></span><span class="p_last p_fun"><a href="1.htm">end page</a></span></span>
+</div><script>_showDynClickBatch(['dynclicks_u6_43871','dynclicks_u6_43831','dynclicks_u6_43411','dynclicks_u6_43271','dynclicks_u6_43081','dynclicks_u6_42751','dynclicks_u6_42731','dynclicks_u6_42461','dynclicks_u6_42361','dynclicks_u6_42281','dynclicks_u6_42051','dynclicks_u6_41921','dynclicks_u6_41841','dynclicks_u6_41741','dynclicks_u6_41371'],[43871,43831,43411,43271,43081,42751,42731,42461,42361,42281,42051,41921,41841,41741,41371],"wbnews", 1852176512)
+</script>
 
 
 
@@ -180,16 +182,17 @@ B:<br>
 
 41.<a href="https://www.eee.hku.hk/~iotlab/EdithNgai.html"> 魏志雄</a>, Edith C. H. Ngai,Research Site: HKU IoT Lab,To prospective students, <font color="#ff0000">I am looking for self-motivated Ph.D. students (starting in Fall 2023) to work on IoT, machine learning, and data analytics. Please contact me by email at  with your CV and transcripts. Please use the subject line [your name, university, GPA, and rank (if available)].</font><br>
 
-@ 42.<a href="https://xjqi.github.io">齐小娟 </a>,Xiaojuan Qi,<a href="https://xjqi.github.io/cvmi.html">Computer Vision and Machine Intelligence Lab (CVMI Lab)</a> ,<a href="https://www.dvlab.ai">Deep Vision Lab</a>. The Deep Vision Lab (DVLab) is a top-tier research institute on computer vision and machine learning established by Prof. Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<font color="#ff0000">Join DV Lab in 2022 or later working on exciting and innovative computer vision + machine learning projects! We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.</font><br>
+  42.<a href="https://xjqi.github.io">齐小娟 </a>,Xiaojuan Qi,<a href="https://xjqi.github.io/cvmi.html">Computer Vision and Machine Intelligence Lab (CVMI Lab)</a> ,<a href="https://www.dvlab.ai">Deep Vision Lab</a>. The Deep Vision Lab (DVLab) is a top-tier research institute on computer vision and machine learning established by Prof. Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.<font color="#ff0000">Join DV Lab in 2022 or later working on exciting and innovative computer vision + machine learning projects! We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.</font><br>
 
 43.<a href="https://www.eee.hku.hk/~hso">苏国海</a>Hayden K.H. <font color="#ff0000">Vacancies,I am actively looking for postdoc fellow, postgraduate students, and research assistants to join my research group. Please see the current openings <a  href="https://www.eee.hku.hk/~hso/vacancies.html">at the vacancies page</a>.</font><br>
 
-@@44.   <a href="https://www.eee.hku.hk/~ycwu"> 吴一钟</a>.Yik-Chung Wu, <font color="#ff0000">To prospective students:    I am actively recruiting Ph.D. students</font> for topics on machine learning, signal processing, and communications.  I am looking for students who are self-motivated, with background in one or more of the following areas: mathematics, statistics, physics, machine learning or signal processing.  Due to the large amount of requesting email, I can only reply to students who can articulate their suitability in my group.  Thank you very much for your interest.<br>
+ 44.   <a href="https://www.eee.hku.hk/~ycwu"> 吴一钟</a>.Yik-Chung Wu, <font color="#ff0000">To prospective students:    I am actively recruiting Ph.D. students</font> for topics on machine learning, signal processing, and communications.  I am looking for students who are self-motivated, with background in one or more of the following areas: mathematics, statistics, physics, machine learning or signal processing.  Due to the large amount of requesting email, I can only reply to students who can articulate their suitability in my group.  Thank you very much for your interest.<br>
 
-@45. <a href="https://yanchaoyang.github.io">杨燕超</a>.Yanchao Yang.<font color="#ff0000"><h3>Ph.D. students, postdocs and interns!We are constantly looking for talents with strong motivation.We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h3></font>We are now accepting summer interns via the HKU Summer Research Programme (SRP), deadline is Feb. 03, 2025. High chance to get Ph.D. return offer!<br>
+ 45. <a href="https://yanchaoyang.github.io">杨燕超</a>.Yanchao Yang.<font color="#ff0000"><h3>Ph.D. students, postdocs and interns!We are constantly looking for talents with strong motivation.We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h3></font>We are now accepting summer interns via the HKU Summer Research Programme (SRP), deadline is Feb. 03, 2025. High chance to get Ph.D. return offer!<br>
 
    
-<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../bkxg.htm">frist page</a></span><span class="p_prev p_fun"><a href="2.htm">previous page</a></span><span class="p_no"><a href="../bkxg.htm">1</a></span><span class="p_no"><a href="4.htm">2</a></span><span class="p_no"><a href="3.htm">3</a></span><span class="p_no"><a href="2.htm">4</a></span><span class="p_no_d">5</span><span class="p_next_d p_fun_d">next page</span><span class="p_last_d p_fun_d">end page</span></span></div>
+<div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../bkxg.htm">frist page</a></span><span class="p_prev p_fun"><a href="2.htm">previous page</a></span><span class="p_no"><a href="../bkxg.htm">1</a></span><span class="p_no"><a href="4.htm">2</a></span><span class="p_no"><a href="3.htm">3</a></span><span class="p_no"><a href="2.htm">4</a></span><span class="p_no_d">5</span><span class="p_next_d p_fun_d">next page</span><span class="p_last_d p_fun_d">end page</span></span>
+</div>
 
 <script>_showDynClickBatch(['dynclicks_u6_4585','dynclicks_u6_4561','dynclicks_u6_4176','dynclicks_u6_3326','dynclicks_u6_3327','dynclicks_u6_3328','dynclicks_u6_3336','dynclicks_u6_3340','dynclicks_u6_3347','dynclicks_u6_3348'],[4585,4561,4176,3326,3327,3328,3336,3340,3347,3348],"wbnews", 1852176512)</script> 
   <hr />
@@ -197,30 +200,32 @@ B:<br>
  <h5>k1-6 sixth page</h5>
 <p> Faculty of Science</p>
 <p>Department of Earth Sciences</p> 
-<p> Research Groups  Applied/Urban Geosciences:Group Members,
-  <li> 46 <a href="https://www.earthsciences.hku.hk/people/academic_staff/89/back=af3a6f1ace1fc32210286eb66ab8ef53"> Prof. Michalski， Joseph</a>
+<p> Research Groups  Applied/Urban Geosciences:Group Members,</p>  
+
+  46 <a 
+href="https://www.earthsciences.hku.hk/people/academic_staff/89/back=af3a6f1ace1fc32210286eb66ab8ef53">  Prof. Michalski， Joseph
+   </a>
    <font color="#ff0000">PhD Student Opportunities we can apply machine learning and AI to remote sensing analysis.</font>
     Remote sensing, Planetary Geology and Clay Mineralogy Professor email icon jmichal@hku.hk 
-    </li> 
-</p> 
-
-
+  
   <h5>k1-7 seventh page</h5>
 <k4><a href="https://web.socsc.hku.hk/">Faculty of Social Sciences</a></k4> 
     <h4><a href="https://geog.hku.hk/">  Department of Geography</a></h4>  
-    <p>advanced geospatial technologies (e.g., satellite remote sensing, geographical information science),</p>  
-    <li>47<a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a>
-      <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font>   </li> 
+    <p>advanced geospatial technologies (e.g., satellite remote sensing, geographical information science),</p> 
+    
+    47 <a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a>
+      <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font>   
      <p>Selected Publications: <p>
   <p>Wang, Y., Li, X., Yin, P., Yu, G., Cao, W., Liu, J., Pei, L., Hu, T., Zhou, Y., Liu, X., Huang, J., & Gong, P. (2023). Characterizing annual dynamics of urban form at the horizontal and vertical dimensions using long-term Landsat time series data. ISPRS Journal of Photogrammetry and Remote Sensing, 203, 199-210. https://doi.org/10.1016/j.isprsjprs.2023.07.025</p>
    <p> Du, Z., Yu, L., Li, X., Zhao, J., Chen, X., Xu, Y., Yang, P., Yang, J., Peng, D., Xue, Y., & Gong, P. (2023). Integrating remote sensing temporal trajectory and survey statistics to update land use/land cover maps. International Journal of Digital Earth, 16(2), 4428-4445. https://doi.org/10.1080/17538947.2023.2274422</p>
    <p>Chen, S., Wang, J., & Gong, P. (2023). ROBOT: A spatiotemporal fusion model toward seamless data cube for global remote sensing applications. Remote Sensing of Environment, 294, 113616. https://doi.org/10.1016/j.rse.2023.113616</p>
      <p>  Yu, L., Cao, Y., Cheng, Y., Zhao, Q., Xu, Y., Kanniah, K., Lu, H., Yang, R., & Gong, P. (2023). A study of the serious conflicts between oil palm expansion and biodiversity conservation using high-resolution remote sensing. Remote Sensing Letters, 14(6), 654-668. https://doi.org/10.1080/2150704X.2022.2063701 </p>                                     
  </p> 
-<li>48<a href="https://geog.hku.hk/b-huang">黄波教授/Bo HUANG</a> <font color="#ff0000">Research Interests/Spatiotemporal /data analytics</font>  </li> 
+ 
+ 48 <a href="https://geog.hku.hk/b-huang">黄波教授/Bo HUANG</a> <font color="#ff0000">Research Interests/Spatiotemporal /data analytics</font>  
    <p> Liu, H., Huang, B., & Cai, J. (2023). Thick Cloud Removal Under Land Cover Changes Using Multisource Satellite Imagery and a Spatiotemporal Attention Network. IEEE Transactions on Geoscience and Remote Sensing, 61, 1-18. https://doi.org/10.1109/TGRS.2023.3236106</p>
    
-    <li>49<a href=" https://geog.hku.hk/sl-liang">梁順林/Shunlin Liang/Department Head</a><font color="#ff0000">Research Interests:Remote sensing physical modeling and inversion</font>
+    49 <a href=" https://geog.hku.hk/sl-liang">梁順林/Shunlin Liang/Department Head</a><font color="#ff0000">Research Interests:Remote sensing physical modeling and inversion</font>
      <a href=" ttps://geog1.hku.hk/sliang/">梁順林</a>Interests:Developing various satellite inversion methods and algorithms, with the recent focus on remote sensing AI foundation models.
      <a href=" https://jcqrs.hku.hk/"> Director/赛马会 STEM Labs</a>LAB MEMBERS:
      <p>李文元博士/< Dr Wenyuan LI, Post-doctoral Research Fellow,/<font color="#ff0000">Research Interest: Remote sensing image processing with deep learning methods</font>,</p>
@@ -230,29 +235,30 @@ B:<br>
         <p> 徐江磊博士/Dr Jianglei XU, <font color="#ff0000">Postdoctoral Research Fellow,Education: Ph.D. in Photogrammetry and Remote Sensing,Wuhan University(09/2020-06/2023)</font></p>
        <p> 张玉祥/ Yuxiang ZHANG/Postdoctoral Research Fellow/<font color="#ff0000">Research Interest:Deep learning-based remote sensing image processing</font></p>
 <p>Ph.D student, 关世康/Shikang GUAN, Research Interest: Remote sensing image process with deep learning</p>      
- </li> 
  
-    <li>50<a href="https://geog.hku.hk/hs-zhang ">  张宏生/Hongsheng Zhang</a><font color="#ff0000">His research</font>  is mainly focused on incorporating multiple remote sensing technologies to understand the urbanization process and its environmental and ecological impacts at various spatial and temporal scales.
+ 
+    50 <a href="https://geog.hku.hk/hs-zhang ">  张宏生/Hongsheng Zhang</a><font color="#ff0000">His research</font>  is mainly focused on incorporating multiple remote sensing technologies to understand the urbanization process and its environmental and ecological impacts at various spatial and temporal scales.
+    
 <p>Selected Publications</p>
      <p>Wang, J., Song, G., Liddell, M., Morellato, P., Lee, C. K. F., Yang, D., Alberton, B., Detto, M., Ma, X., Zhao, Y., Yeung, H. C. H., Zhang, H., Ng, M., Nelson, B. W., Huete, A., & Wu, J. (2023). An ecologically-constrained deep learning model for tropical leaf phenology monitoring using PlanetScope satellites. Remote Sensing of Environment, 286, 113429. https://doi.org/10.1016/j.rse.2022.113429</p>
     <p></p>Wan, L., Zhang, H. S., Lin, G. H. and Lin, H. (2019) “A Small-patched Convolutional Neural Network for Mangrove Mapping at Species Level using High-resolution Remote-sensing Image.” Annals of GIS 25(1): 45-55. DOI: 10.1080/19475683.2018.1564791</p>
-     </li>
-     <li>51<a href="https://geog.hku.hk/yy-zhou"> 周宇宇/zhou Yuyu</a><font color="#ff0000">His research focuses </font> on urban environmental change and potential solutions, utilizing geospatial technologies including remote sensing, GIS, geovisualization, spatial analytic tools, and integrated assessment modeling.   
+    
+     51 <a href="https://geog.hku.hk/yy-zhou"> 周宇宇/zhou Yuyu</a><font color="#ff0000">His research focuses </font> on urban environmental change and potential solutions, utilizing geospatial technologies including remote sensing, GIS, geovisualization, spatial analytic tools, and integrated assessment modeling.   
 <p>Selected Publications</p>
 <p>Xia, H., L. Qiao, Y. Guo, X. Ru, Y. Qin, Y. Zhou* and C. Wu* (2024). "Enhancing phenology modeling through the integration of artificial light at night effects." Remote Sensing of Environment 303: 113997.</p>
 <p>Xu, H., Y. Zhou*, Y. Wei, H. Guo, & X. Li. (2023). A Multirule-Based Relative Radiometric Normalization for Multisensor Satellite Images. IEEE Geoscience and Remote Sensing Letters, 20, 1-5.</P>
 
- <li>52<a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows)</li>
-     </li>
+ 52 <a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows) 
+   
      
- <li>53<a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a><font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> 
+ 53 <a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a><font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> 
 <p>Research Interests:Environmental remote sensing,His research interests are agroecosystem modeling, climate change impacts and adaptation, remote sensing,</p>
-</li>
-<li>54<a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a><font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font>
+ 
+ 54 <a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a><font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font>
      <p> RESEARCH POSTGRADUATE STUDENTS</p>
      <p> 李一辰/Yichen LI PhD./yichen1215@connect.hku.hk/;Remote Sensing, GIS and Deep Learning</p>
      <p>孙伟轩/Weixuan SUN,PhD/u3012361@connect.hku.hk/Remote sensing, Image processing, Deep learning</p>
-  </li>
+  
  
  <!--**************-->
  
@@ -265,9 +271,9 @@ B:<br>
 
 </body>
 
-<!-- <div align="center">
+ <div align="center">
   
-</div> -->
+</div>  
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
 
