@@ -76,10 +76,10 @@ Machine Learning:
      <li><img src="../k2/redball.gif" /><a href="https://cse.hkust.edu.hk/~jamesk ">郭天佑/ James Tin-Yau KWOK/James Kwok</a>,<b><font color="red">Research positions are now available for PhD/MPhil students (in the areas of AI/ML/CV/NLP)for theupcoming Fall 2025! If you're interested, please fill out this <a href="https://forms.gle/QR1YSck2x45yeAru5">form</a> to get started.Research internship and undergrad research positions are also available.</font></b></li>
      <li> <img src="../k2/redball.gif" /><a href="https://sites.google.com/view/dyyeung ">杨楊瓞仁/Dit-Yan Yeung</a>,</li>
      <li> <img src="../k2/redball.gif"/> <a href=" https://cse.hkust.edu.hk/faculty/lzhang ">张连文/Nevin Zhang</a></li>
- </ul>  
+ <!--/ul-->  
 </div>
 <div class="centers" >
-  <ul class=" clearfix"> 
+  <!--ul class=" clearfix"--> 
 Language Technologies and Text Mining:
      <li> <img src="../k2/redball.gif"/><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <font color="red">We are actively recruiting students for our PhD, MPhil,</font>  and intern positions in 2025. HKUST undergraduates are also welcome to take an independent study course with us. Apply via this form if interested!
 
@@ -90,7 +90,7 @@ Language Technologies and Text Mining:
    <li><a href=" https://cse.hkust.edu.hk/faculty/lzhang/">张连文/Nevin Zhang</a></li>
 
 <div class="centers">
-  <ul class=" clearfix"> 
+  <!--ul class=" clearfix"--> 
   <h3> AI, Computer Vision and Image Processing:  </h3> .
      <li> <img src="../k2/redball.gif"/><a href="https://jiaya.me/home">贾佳佳/Jiaya Jia</a>,<p> <font color="red"> ⇒ Join our research team in 2025 or later working on Large Language (and Vision) Model (LVLM) projects! We only admit 1) top-ranking students from top universities, 2) world-level programming  competition/challenge winners, and 3) students who published high-quality papers in this field.</font></p></li>
      <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc ">陈浩/Hao Chen</a>, <span style="color:rgb(255, 0, 0); font-weight:bold"> *NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science (particually in Computational Pathology and Multi-omics)</span> and XR for Computer-Assisted Intervention. Strong self-motivation is preferred (<a href="https://cse.hkust.edu.hk/~jhc/20240531english.pdf">details</a>) . </li>
@@ -110,23 +110,23 @@ Knowledge Representation and Reasoning:
  </ul>
 </div>
 <div>
-  <ul class=" clearfix"> 
+  <!--ul class=" clearfix"--> 
 AI Applications:
       <li> <img src="../k2/redball.gif"/><a href=" https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hao-chen-jhc#rPgSupervision">陈浩/Hao Chen</a>,Faculty Profile,<font color="blue">*NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science</font></li>
       <li><img src="../k2/redball.gif"/> <a href="https://mayrfung.github.io ">冯美玲/May Fung</a>,Faculty Profile
  📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025. HKUST undergraduates are also welcome to take an independent study course with us. Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b> </li>
       <li><img src="../k2/redball.gif"/><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nevin-lianwen-zhang-lzhang#rPgSupervision">张连文/Nevin Zhang</a><a href="https://www.cse.ust.hk/faculty/lzhang">Group Members</a> </li>
-   </ul>
+   <!--/ul-->
 </div>
 <div>
-  <ul class=" clearfix"> 
+  <!--ul class=" clearfix"--> 
 Large Language-Vision Models:
      <li><img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/admin/people/faculty/profile/yrfung">冯美玲/May Fung</a>,</li>
      <li><img src="../k2/redball.gif"/><a href="https://jiaya.me/home ">贾佳佳/Jiaya Jia</a><font color="red">Join our research team in 2025 or later working on Large Language (and Vision) Model (LVLM) projects!</font> We only admit 1) top-ranking students from top universities, 2) world-level programming competition/challenge winners, and 3) students who published high-quality papers in this field.</li>
-   </ul>
+   <!--/ul-->
 </div>
 <div class="centers">
-   <ul class=" clearfix"> 
+   <!--ul class=" clearfix"--> 
      <p>
     <li> <img src="../k2/redball.gif"/><a href="https://bdi.hkust.edu.hk/">Big Data Institute (BDI)</a> <a href="https://bdi.hkust.edu.hk/joinus.html"> HOW TO JOIN US</a> Interdisciplinary research and collaborations are crucial to the success of BDI, which welcomes industry partners who would like to keep abreast of our work, seminars and strengthen the ties with other big data practitioners and our graduates. To discuss further please contact us<a href="Mailto: bdi@ust.hk"> here</a> . <a href="https://bdi.hkust.edu.hk/faculties.html"> Faculty Members </a></li> 
     </p>
@@ -135,7 +135,7 @@ Large Language-Vision Models:
     <font color="red">We want you!  We are always looking for self-motivated and determined talents.</font> 
     Open positions are available at our  <a href=" https://hkustsmartlab.github.io/recruitment ">Recruitment</a>  page</li>.
       </p>
- </ul>
+ <!--/ul-->
  </div>
 <!--****************-->
   <hr noshade="" />
@@ -249,7 +249,7 @@ Human-Robot Interaction:
 
 <p>This area is devoted to the development of theory and algorithms in a variety of domains such as Big Data Analytics, Artificial Intelligence, Speech and Language Processing, Financial Analytics, Computational Biology, Bioinformatics, Neural Engineering, Deep Learning, and Signal Processing.</p>
 <div class="centers">
-<ul class=" clearfix"> 
+<!--ul class=" clearfix"--> 
 
 <p><strong>
  
