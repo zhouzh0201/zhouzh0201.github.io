@@ -81,7 +81,7 @@ Machine Learning:
      <li> <img src="../k2/redball.gif" /><a href="https://sites.google.com/view/dyyeung ">杨楊瓞仁/Dit-Yan Yeung</a>,</li>
      <li> <img src="../k2/redball.gif"/> <a href=" https://cse.hkust.edu.hk/faculty/lzhang ">张连文/Nevin Zhang</a></li>
  <!--/ul-->  
-</div>
+ 
 
 <div class="centers" >
   <!--ul class=" clearfix"--> 
@@ -122,7 +122,7 @@ Language Technologies and Text Mining:
 </div>
 
 <div class="centers">
-  <1--ul class=" clearfix"> 
+  <!--ul class=" clearfix"> 
 Knowledge Representation and Reasoning:
 <a href="/admin/people/faculty/profile/yrfung">May Fung</a>,
 <a href="/admin/people/faculty/profile/flin">Fangzhen Lin</a>
