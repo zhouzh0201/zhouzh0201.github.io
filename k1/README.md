@@ -145,7 +145,7 @@
 <a href="https://gradsch.hku.hk/prospective_students/research_areas">graduate school</a><br>
 <a href="https://www.eee.hku.hk/study/rpg/">Department of Electrical and Electronic Engineering</a><br>
 
- <h4>Research Interests</h4>>
+ <h4>Research Interests</h4>
  <h4>Intelligent Systems, Data and Networks</h4>
 31. <a href="https://www.eee.hku.hk/people/vli">李国强</a>V.O.K. Li (Group Director),教授,Development and applications of artificial intelligence technologies to important societal problems, including clean energy and environment, medicine and health, and smart city.<br>
 
@@ -257,7 +257,7 @@ href="https://www.earthsciences.hku.hk/people/academic_staff/89/back=af3a6f1ace1
  52 <a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB 
     </a>
     <font color="#ff0000"> HIRING </font> 
-    We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows) 
+    <p>We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows) </p>
    
      
  53 <a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a>
@@ -269,9 +269,20 @@ href="https://www.earthsciences.hku.hk/people/academic_staff/89/back=af3a6f1ace1
      <p> RESEARCH POSTGRADUATE STUDENTS</p>
      <p> 李一辰/Yichen LI PhD./yichen1215@connect.hku.hk/;Remote Sensing, GIS and Deep Learning</p>
      <p>孙伟轩/Weixuan SUN,PhD/u3012361@connect.hku.hk/Remote sensing, Image processing, Deep learning</p>
-  
- 
- <!--**************-->
+     
+  <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first p_fun"><a href="../bkxg.htm">frist page</a></span><span class="p_prev p_fun"><a href="2.htm">previous page</a></span><span class="p_no"><a href="../bkxg.htm">1</a></span><span class="p_no"><a href="4.htm">2</a></span><span class="p_no"><a href="3.htm">3</a></span><span class="p_no"><a href="2.htm">4</a></span><span class="p_no_d">5</span><span class="p_next_d p_fun_d">next page</span><span class="p_last_d p_fun_d">end page</span></span>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u6_4585','dynclicks_u6_4561','dynclicks_u6_4176','dynclicks_u6_3326','dynclicks_u6_3327','dynclicks_u6_3328','dynclicks_u6_3336','dynclicks_u6_3340','dynclicks_u6_3347','dynclicks_u6_3348'],[4585,4561,4176,3326,3327,3328,3336,3340,3347,3348],"wbnews", 1852176512)</script> 
+  <hr />
+  <hr />
+
+
+   <hr />
+ <!-- **************-->
+   <hr />
+
+
  
     <div align="center">
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
