@@ -315,7 +315,19 @@
                         <ul class="clearfix">
        <li>  <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~jcheng">**郑国强,</a>James Cheng<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font> <span>2025.03.08</span></li>                             
       <li> <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/irwin.king/ ">**欧文·金</a>Irwin King,<font color="#ff0000">Multiple Positions Available </font>(September 2024)Looking for qualified PhD candidates interested in trustworthy AI, machine learning, federated learning, graph neural networks, NLP, social computing, AI, data mining, or related fields to start in August 2025.,Good self-financed candidates are also given priority.<a href=" https://misc-lab.cse.cuhk.edu.hk ">The Machine Intelligence and Social Computing (MISC) Lab</a>,<span>2025.03.08</span></li>    
-       <li> <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~cslui">**吕志祥</a>John C.S. Lui,       <font color="#ff0000"> We are now seeking Ph.D students to join our dynamic group:<a href="https://www.cse.cuhk.edu.hk/~cslui/potential_students.html"> Important information for potential Ph.D students</a></font>.<a href="http://ansrlab.cse.cuhk.edu.hk">/Advanced Networking and System Research Laboratory</a> <font color="#ff0000"> <a href="http://ansrlab.cse.cuhk.edu.hk/recruitment">/Recruitment</a>: </font>We are recruiting motivated graduate students and post-docs. Please contact Prof. John C.S. Lui via email <span>2025.03.08</span>  </li>   
+       <li> 
+       <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~cslui">**吕志祥</a>John C.S. Lui,       
+       <font color="#ff0000"> We are now seeking Ph.D students to join our dynamic group:
+           <a href="https://www.cse.cuhk.edu.hk/~cslui/potential_students.html"> Important information for potential Ph.D students</a>
+       </font>.
+       <a href="http://ansrlab.cse.cuhk.edu.hk">/Advanced Networking and System Research Laboratory
+       </a> 
+       <font color="#ff0000">
+          <a href="http://ansrlab.cse.cuhk.edu.hk/recruitment">/Recruitment</a>: 
+       </font>
+       We are recruiting motivated graduate students and post-docs. Please contact Prof. John C.S. Lui via email 
+       <span>2025.03.08</span>  
+       </li>   
        <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                           
                                 
                         </ul>                 
@@ -413,6 +425,7 @@
   <a href="https://www4.comp.polyu.edu.hk/~csdzhang/ ">David Zhang 
   </a>
 	<font color="#ff0000">Emeritus Professor</font>
+	       <span>2025.03.10</span> 
 	 </li>
 
       <!--**************--> 
@@ -560,11 +573,14 @@
   <h3><font color="#ff6ec7">deepseek recommend shaojia qi/邵琪佳,2004 fall join from COLUMBIA UNIVERSITY</font>.</h3>  
     <li>  <img src="../k2/redball.gif" /> <a href=" https://qijiashao.github.io/">邵启佳 </a><font color="#ff6ec7">NEWS: We have multiple openings for Postdoc/PhDs/Visiting Students. For more details, please refer  <a href="  https://qijiashao.github.io/student/"> to Join US</a>.Qijia Shao is always looking for highly-motivated postdoctoral researcher, Ph.D. students, and visiting students. Thanks!</font>
        <img src="../k2/redball.gif" /><a href="http://qijiashao.github.io/  deepseek recommend   邵琪佳Qijia SHAO/"><font color="blue"> Research Interest /Mobile and ubiquitous computing/Human-computer interaction</font></a> 
+	   <span>2025.03.10</span>
       </li>
      
  <li>  <img src="../k2/redball.gif" /> <a href="https://isd.hkust.edu.hk/people#isd-faculty/">张倩Qian ZHANG/Acting Head of ISD / Tencent Professor of Engineering and Chair Professor of CSE</a><font color="#ff6ec7"> Dr. Zhang received the B.S., M.S., and Ph.D. degrees from Wuhan University, China, in 1994, 1996, and 1999, respectively, all in computer science. </font>
         <a href="https://www.cse.ust.hk/~qianzh//">张倩Qian ZHANG/Alumn</a> Chair Professor of the Department of Computer Science and Engineering (CSE)
+	  <span>2025.03.10</span>
  </li> 
+ 
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                    
                        </ul> 	 
                       </div>                          
@@ -761,11 +777,13 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
       <li> <img src="../../k2/redball.gif" /><a href="https://scholars.cityu.edu.hk/en/persons/weitao-xu(cd193391-0d3a-4f86-92f8-c8ccb92748f2).html"> 徐偉濤 /XU.Weitao,Willing to take PhD students: yes</a> Research Interests:Internet of Things (IoT); Mobile Computing; IoT Security; Wearable Devices; LPWAN.
          <a href="https://www.weitaoxu.com/">[Recruitment]</a>  continuously looking for self-motivated PhD/Postdoc/RA to join us. I have relatively broad research interests.
  <a href="https://www.weitaoxu.com/recruitment/ "><font color="#ff0000"> Joining Us</font>We have several PhD positions for 2024 (enroll in January/September 2024). If you're interested in my research direction, please feel free to drop me an email.</a> 
-       <p> Students: Yihan Wang (PhD, January 2025-present)/Jiawen Chen (PhD, September 2024-present)/Shengzhe Lyu (PhD, September 2023-present)/Rucheng Wu (PhD, January 2023-present)</p>
+       <p> Students: Yihan Wang (PhD, January 2025-present)/Jiawen Chen (PhD, September 2024-present)/Shengzhe Lyu (PhD, September 2023-present)/Rucheng Wu (PhD, January 2023-present)
        <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto: weitaoxu@cityu.edu.hk " target="_top">
                           🟥 Email 徐偉濤 <i class="fa fa-envelope"></i>
-                        </a><span>2025.03.10</span></li> 
+                        </a>
+			<span>2025.03.10</span>
+          </li> </p>
       </li>
     
   <li> <img src="../../k2/redball.gif" /><a href=" http://visal.cs.cityu.edu.hk/jobs/">陈安东尼教授 Prof CHAN, Antoni Bert </a><font color="#ff0000">Willing to take PhD students: yes</font>I can make recommendations on students to accept.<span>2025.03.08</span></li>
