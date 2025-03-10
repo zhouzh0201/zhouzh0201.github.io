@@ -475,8 +475,7 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
  
 
     
-  </body>
-</html>
+ 
 
 
 
