@@ -245,7 +245,7 @@ Human-Robot Interaction:
    <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
 
-    <h3>Data Science and AI (DSAI)</h3>16 people @
+    <h3>Data Science and AI (DSAI)</h3>16 people 
 
 <p>This area is devoted to the development of theory and algorithms in a variety of domains such as Big Data Analytics, Artificial Intelligence, Speech and Language Processing, Financial Analytics, Computational Biology, Bioinformatics, Neural Engineering, Deep Learning, and Signal Processing.</p>
 <div class="centers">
@@ -253,33 +253,33 @@ Human-Robot Interaction:
 
 <p><strong>
  
-     @ 涂 鋒 斌https://fengbintu.github.io/
-      $  颜颜骏骏
+     <li> <img src="../k2/redball.gif" /><a href= "https://fengbintu.github.io/" /> 涂 鋒 斌</a>
+     
      
       <li> <img src="../k2/redball.gif" /><a href= "https://yihan-zhang-ic.github.io/Introduction/index">张艺涵</a><font color="red">We Are Hiring!Ph.D. position</font>For 2024 Spring and Fall Enrollment,</li> 
      <li>  <img src="../k2/redball.gif" /><a href= " https://mirs.hkust.edu.hk/openings/">沈亚静/Yajing SHEN</a> <font color="red">PhD(1 vacancy: Fall 2025)</font> </li> 
      <li>  <img src="../k2/redball.gif" /><a href= "https://yuegroup.hkust.edu.hk/ ">岳志伟/ Chik Patrick YUE</a> <font color="red"> Opening positions for MPhil, PhD students, post-doc and visiting assistant professor. </font> </li> 
      <li>  <img src="../k2/redball.gif" /><a href= " https://eeyuan.home.ece.ust.hk/">袁杰 </a> <font color="red">Opening Positions </font>Post-doc and PHD positions are available for motivated and competitive individuals in following areas:  </li> 
      <li>  <img src="../k2/redball.gif" /><a href= "https://eezfan.home.ece.ust.hk/">范 智 勇 </a> <font color="red">Open Positions:	We are seeking highly motivated student and postdoc candidates ,Students and postdocs with strong motivation for cutting-edge research on nanotechnology are welcome to join us </font></li> 
-   <li> $ <img src="../k2/redball.gif" /><a href=" "> Qifeng CHEN 陳 启 峰  </a> </li> 
+   <li>  <img src="../k2/redball.gif" /><a href=" "> Qifeng CHEN 陳 启 峰  </a> </li> 
 计算机视觉  <li>  $@ <img src="../k2/redball.gif" /><a href="https://vsdl.hkust.edu.hk/ "> 鄭 光 廷/Kwang-Ting Tim CHENG  </a> <font color="red">	 </font>
 We are actively seeking highly self-motivated postdoctoral researchers. </li> 
-   <li> @ <img src="../k2/redball.gif" /><a href="https://pascale.home.ece.ust.hk/ "> 馮 雁/Pascale Ngan FUNG   </a></li> 
+   <li>  <img src="../k2/redball.gif" /><a href="https://pascale.home.ece.ust.hk/ "> 馮 雁/Pascale Ngan FUNG   </a></li> 
   计算机视觉 <li>$ @ <img src="../k2/redball.gif" /><a href="https://xmengli.github.io/ ">Xiaomeng LI 李 小 萌   </a><font color="red">	I am looking for self-motivated Postdoc/PhD/RA/Interns. Feel free to drop me an email with your CV. </font></li> 
-   <li>$ @ <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/">繆 偉 豪/Wai Ho MOW</a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li> 
-   <li> $<img src="../k2/redball.gif" /><a href=" "> Ross MURCH 穆 樂 思  </a><font color="red">	 </font></li> 
-   <li> $ <img src="../k2/redball.gif" /><a href=" "> Daniel PEREZ PALOMAR 鋒 西 龍  </a><font color="red">	 </font></li> 
+   <li> <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/">繆 偉 豪/Wai Ho MOW</a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li> 
+   <li> <img src="../k2/redball.gif" /><a href=" "> Ross MURCH 穆 樂 思  </a><font color="red">	 </font></li> 
+   <li>  <img src="../k2/redball.gif" /><a href=" "> Daniel PEREZ PALOMAR 鋒 西 龍  </a><font color="red">	 </font></li> 
 图像分析   <li> $@ <img src="../k2/redball.gif" /><a href=" https://eebert.home.ece.ust.hk/">Bertram Emil SHI 施 毅 明 </a><font color="red">	 </font></li> 
-   <li>$ @ <img src="../k2/redball.gif" /><a href="https://eesling.home.ece.ust.hk/ ">Ling SHI 施 凌   </a><font color="red">	 </font></li> 
+   <li>$  <img src="../k2/redball.gif" /><a href="https://eesling.home.ece.ust.hk/ ">Ling SHI 施 凌   </a><font color="red">	 </font></li> 
    计算机视觉<li>$ @ <img src="../k2/redball.gif" /><a href="https://ece.hkust.edu.hk/pingtan ">Ping TAN 譚 平  </a><font color="red">	 </font></li> 
   自适应信号处理 <li> $@ <img src="../k2/redball.gif" /><a href="https://bmi.hkust.edu.hk/positions.html ">Yiwen WANG 王 怡 雯  </a><font color="red">	The Computational Cognitive Engineering Laboratory (https://bmi.ust.hk/) is on the lookout for alented PhD students</font>t, postdoctoral researchers, and research assistant professors.</li> 
-   <li>$ @ <img src="../k2/redball.gif" /><a href="https://zhiyaoxie.com/ ">Zhiyao XIE 謝 知 遙  </a><font color="red">	Ph.D. Student Recruitment </font>I am looking for motivated students to join my lab as Ph.D. students in HKUST!We still have multiple positions for Fall’25 and later enrollments. We are always hiring.We support RA or Master only if you intend to continue with a PhD in our team.</li> 
-   <li>  $<img src="../k2/redball.gif" /><a href=" "> Jiang XU 須 江   </a><font color="red">	 </font></li> 
-   <li> $@ <img src="../k2/redball.gif" /><a href=" https://eeyu.home.ece.ust.hk/"> 余 維 川 /Weichuan YU  </a> <b><font color="red">	
+   <li> <img src="../k2/redball.gif" /><a href="https://zhiyaoxie.com/ ">Zhiyao XIE 謝 知 遙  </a><font color="red">	Ph.D. Student Recruitment </font>I am looking for motivated students to join my lab as Ph.D. students in HKUST!We still have multiple positions for Fall’25 and later enrollments. We are always hiring.We support RA or Master only if you intend to continue with a PhD in our team.</li> 
+   <li>  <img src="../k2/redball.gif" /><a href=" "> Jiang XU 須 江   </a><font color="red">	 </font></li> 
+   <li>  <img src="../k2/redball.gif" /><a href=" https://eeyu.home.ece.ust.hk/"> 余 維 川 /Weichuan YU  </a> <b><font color="red">	
 Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biology, and biomedical signal/image processing available. Please click here for detail.</font></b></li>
-   <li> $@ <img src="../k2/redball.gif" /><a href="https://eejzhang.people.ust.hk/ ">Jun ZHANG 張 軍  </a> <font color="red">	 </font></li> 
-   <li># @ <img src="../k2/redball.gif" /><a href=" https://eeweiz.home.ece.ust.hk/">張 薇/Wei ZHANG  </a><font color="red">Openings,We are working in exciting areas of reconfigurable computing, machine learning acceleration, multicore system, embedded systems and electronic design automation	 </font></li> 
-   <li>$ @ <img src="../k2/redball.gif" /><a href="https://ling-pan.github.io/ ">潘 玲 / Ling PAN  </a><font color="red"><b>	I have several PhD/MPhil/RA openings starting in Fall 2025/Spring 2026/Fall 2026 at HKUST.</b> </font>are interested in the areas of artificial intelligence and machine learning.</li> 
+   <li>  <img src="../k2/redball.gif" /><a href="https://eejzhang.people.ust.hk/ ">Jun ZHANG 張 軍  </a> <font color="red">	 </font></li> 
+   <li> <img src="../k2/redball.gif" /><a href=" https://eeweiz.home.ece.ust.hk/">張 薇/Wei ZHANG  </a><font color="red">Openings,We are working in exciting areas of reconfigurable computing, machine learning acceleration, multicore system, embedded systems and electronic design automation	 </font></li> 
+   <li> <img src="../k2/redball.gif" /><a href="https://ling-pan.github.io/ ">潘 玲 / Ling PAN  </a><font color="red"><b>	I have several PhD/MPhil/RA openings starting in Fall 2025/Spring 2026/Fall 2026 at HKUST.</b> </font>are interested in the areas of artificial intelligence and machine learning.</li> 
    </strong></p>
 
 <p> </p>
@@ -289,12 +289,12 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
 
 <p><strong>
     <li>  <img src="../k2/redball.gif" /><a href=" ">Khaled BEN LETAIEF 李 德 富  </a><font color="red">	 </font></li>  
-    <li> @ <img src="../k2/redball.gif" /><a href=" https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html ">劉 堅 能/ Vincent Kin Nang LAU   </a><font color="red">	 Ph.D. Vacancy (Theoretical Research) There are a few limited Ph.D. vacancies</font>There are a few limited vacancies for MPhil/Ph.D with focus on applied research </li>  
-    <li> @ <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/ "> 繆 偉 豪/ Wai Ho MOW </a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li> 
+    <li> <img src="../k2/redball.gif" /><a href=" https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html ">劉 堅 能/ Vincent Kin Nang LAU   </a><font color="red">	 Ph.D. Vacancy (Theoretical Research) There are a few limited Ph.D. vacancies</font>There are a few limited vacancies for MPhil/Ph.D with focus on applied research </li>  
+    <li> <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/ "> 繆 偉 豪/ Wai Ho MOW </a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li> 
     <li>  <img src="../k2/redball.gif" /><a href=" ">Ross MURCH 穆 樂 思   </a><font color="red">	 </font></li> 
-    <li> @ <img src="../k2/redball.gif" /><a href="https://ece.hkust.edu.hk/eealbert">王 啓 新/Kai Sun Albert WONG</a></li>
-    <li> @ <img src="../k2/redball.gif" /><a href="https://eejzhang.people.ust.hk/ ">Jun ZHANG 張 軍  </a><font color="red">	 </font></li>  
-    <li> @ <img src="../k2/redball.gif" /><a href="https://zilimeng.com/ ">Zili MENG 孟 子 立 </a><font color="red">	 I'm always looking for self-motivated and rational students to work with as PhDs, RAs,  I do not have openings for 2025 PhD intake now. </font></li> 
+    <li>  <img src="../k2/redball.gif" /><a href="https://ece.hkust.edu.hk/eealbert">王 啓 新/Kai Sun Albert WONG</a></li>
+    <li>  <img src="../k2/redball.gif" /><a href="https://eejzhang.people.ust.hk/ ">Jun ZHANG 張 軍  </a><font color="red">	 </font></li>  
+    <li>  <img src="../k2/redball.gif" /><a href="https://zilimeng.com/ ">Zili MENG 孟 子 立 </a><font color="red">	 I'm always looking for self-motivated and rational students to work with as PhDs, RAs,  I do not have openings for 2025 PhD intake now. </font></li> 
  </strong></p>
 
 <p> </p>
@@ -314,15 +314,19 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
        <img src="../k2/redball.gif" /><a href="http://qijiashao.github.io/  deepseek recommend   邵琪佳Qijia SHAO/"><font color="blue"> Research Interest /Mobile and ubiquitous computing/Human-computer interaction</font></a> 
       </li>
       
- <li>  <img src="../k2/redball.gif" /> <a href="https://isd.hkust.edu.hk/people#isd-faculty/">张倩Qian ZHANG/Acting Head of ISD / Tencent Professor of Engineering and Chair Professor of CSE</a><font color="#ff6ec7"> Dr. Zhang received the B.S., M.S., and Ph.D. degrees from Wuhan University, China, in 1994, 1996, and 1999, respectively, all in computer science. </font>
-        <a href="https://www.cse.ust.hk/~qianzh//">张倩Qian ZHANG/Alumn</a> Chair Professor of the Department of Computer Science and Engineering (CSE)
+ <li>  <img src="../k2/redball.gif" /> 
+       <a href="https://isd.hkust.edu.hk/people#isd-faculty/">张倩Qian ZHANG/Acting Head of ISD / Tencent Professor of Engineering and Chair Professor of CSE</a>
+       <font color="#ff6ec7"> Dr. Zhang received the B.S., M.S., and Ph.D. degrees from Wuhan University, China, in 1994, 1996, and 1999, respectively, all in computer science. </font>
+        <a href="https://www.cse.ust.hk/~qianzh/">张倩Qian ZHANG/Alumn</a>
+        Chair Professor of the Department of Computer Science and Engineering (CSE)
  </li> 
-   </ol>          
+   </ol>   
+   
  <!--****************-->            
              <hr noshade="" />
 <!--****************-->                             
                                   
-                                        <!--*********footer*******-->
+                      <!--*********footer*******-->
   <div align="center">
    
         <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>
