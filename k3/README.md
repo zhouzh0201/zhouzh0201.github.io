@@ -323,7 +323,7 @@ Human-Robot Interaction:
 <!--****************-->
 
  <hr noshade="" /> 
- k3-2 second page</p>
+ k3-2 second page
 
 <!--****************-->
 
@@ -340,7 +340,10 @@ Human-Robot Interaction:
 
 <p><strong>
  
-     <li> <img src="../k2/redball.gif" /><a href= "https://fengbintu.github.io/" /> 涂 鋒 斌</a></li>     
+     <li> <img src="../k2/redball.gif" />
+     <a href= "https://fengbintu.github.io/"> 涂 鋒 斌</a>
+     </li>    
+     
       <li> <img src="../k2/redball.gif" /><a href= "https://yihan-zhang-ic.github.io/Introduction/index">张艺涵</a><font color="red">We Are Hiring!Ph.D. position</font>For 2024 Spring and Fall Enrollment,</li> 
       
      <li>  <img src="../k2/redball.gif" /><a href= " https://mirs.hkust.edu.hk/openings/">沈亚静/Yajing SHEN</a> <font color="red">PhD(1 vacancy: Fall 2025)</font> </li> 
