@@ -186,6 +186,7 @@ Solid State Electronics & Photonics Group:<br/>
 	 he is a Distinguished Presidential Chair Professor in Chinese University of Hong Kong (Shenzhen). 
         <a href= "https://www4.comp.polyu.edu.hk/~csdzhang/ ">David Zhang </a>
 	 <font color="#ff0000">Emeritus Professor</font>
+	 <span>2025.03.10</span> 
  </li>
 
    </ol>
