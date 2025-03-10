@@ -179,7 +179,12 @@ Solid State Electronics & Photonics Group:<br/>
       
  <!--2.4%%%%%%%%%-->
      <h3> Chinese University of Hong Kong (Shenzhen). </h3>
-     
+      <div class="index-title  clearfix">
+                    <h5><img src="icon-new.png" /><a href=" https://www.cuhk.edu.cn/zh-hans ">e University of Hong Kong (Shenzhen). </a> 
+                    </h5>
+		    <h4><a href="https://sds.cuhk.edu.cn/ "> school deta scenice&gt;</a> </h4>  
+		    <!--h3><font color="#ff0000">Remote Sensing   </font></h3-->	 
+         </div> 
  <li>  <img src="../k2/redball.gif">
 	 <a href= "https://sds.cuhk.edu.cn/teacher/315 ">张大鹏 deepseek recommend  </a>
 	 <font color="#ff0000">  he have been working on pattern recognition, image processing and biometrics,</font> 
