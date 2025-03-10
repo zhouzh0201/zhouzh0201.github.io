@@ -180,8 +180,8 @@ Large Language-Vision Models:
 
   <div class="members">
         <h5 class="subtitle">Subareas</h5>
-   <div>
-Vision, Recognition and Learning:
+      <div>
+       Vision, Recognition and Learning:
     <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~jhc">陈浩/Hao Chen</a>,  
         <span style="color:rgb(255, 0, 0); font-weight:bold"> 
 *NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Large AI Model for Healthcare/Science (particually in Computational Pathology and Multi-omics) and XR for Computer-Assisted Intervention. Strong self-motivation is preferred 
@@ -191,7 +191,8 @@ Vision, Recognition and Learning:
     
     <li> <img src="../k2/redball.gif"/><a href="https://zjuchenlong.github.io">陈龙/Long Chen</a>, <font color="green"> As for <b>Ph.D. and M.Phil</b>. positions, we always have the openings all year around</font></li>
     
-    <li> <img src="../k2/redball.gif"/><a href="https://cqf.io">陈启峰/Qifeng Chen</a>, <p><font color="red">If you are experienced in ACM-ICPC or interested in doing PhD/MPhil with me at HKUST, please apply for</font>
+     <li> <img src="../k2/redball.gif"/><a href="https://cqf.io">陈启峰/Qifeng Chen</a>,  
+        <font color="red">If you are experienced in ACM-ICPC or interested in doing PhD/MPhil with me at HKUST, please apply for</font>
           <a href="https://www.cse.ust.hk/pg/admissions/recruiting/">Early Admission. </a> 
      </li>    
       
@@ -205,7 +206,10 @@ Vision, Recognition and Learning:
     
     <li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~cktang/bio.html">邓智强/Chi-Keung Tang</a>,</li>
     
-    <li> <img src="../k2/redball.gif"/><a href="https://www.danxurgb.net ">徐旦/Dan Xu</a><strong><font color="#a82e2e">Multiple PhD/MPhil/Postdoc/RA positions available for 2025 Spring/Fall in our lab. Please drop me an email with your CV if you are interested.</font></strong>&nbsp;</li>
+    <li> <img src="../k2/redball.gif"/>
+    <a href="https://www.danxurgb.net ">徐旦/Dan Xu</a>
+    <font color="#a82e2e">Multiple PhD/MPhil/Postdoc/RA positions available for 2025 Spring/Fall in our lab. Please drop me an email with your CV if you are interested.</font>
+    </li>
              </div> 
     </div>
  
@@ -259,16 +263,16 @@ Virtual Reality and Augmented Reality:
  
     <li> <img src="../k2/redball.gif"/><a href=" https://cse.hkust.edu.hk/~mxj">麻曉娟/Xiaojuan Ma</a>,
      <font color="red">We welcome graduate students, post-docs, and visiting interns/scholars. Please send me your CV if your are interested in this topic or have any question.</font>
-     <li>
+     </li>
       
-   <li> <img src="../k2/redball.gif"/>
+    <li> <img src="../k2/redball.gif"/>
         <a href="http://www.huamin.org/index.htm ">屈华民/Huamin Qu</a>   
          <font color="red">We are looking for multiple Postdoc, PhD, Mphil, and RA/Intern:
            <a href="http://www.huamin.org/awards.htm"> 
            For potential PhD, Mphil, MscIT, and UROP students
            </a>
         </font>
-       <li>
+       </li>
       
     </div>
   </div>
