@@ -71,7 +71,7 @@
 
 <p> Faculty</p>
 
-      <h3><font color="#ff0000">DeepSeek recommend  徐偉濤 /XU.Weitao</font></h3>
+      <h3><font color="#ff0000">DeepSeek recommend  徐偉濤 /XU Weitao</font></h3>
     
       <li> <img src= "../../k2/redball.gif" /><a href="https://scholars.cityu.edu.hk/en/persons/weitao-xu(cd193391-0d3a-4f86-92f8-c8ccb92748f2).html"> 徐偉濤 /XU.Weitao,Willing to take PhD students: yes</a> Research Interests:Internet of Things (IoT); Mobile Computing; IoT Security; Wearable Devices; LPWAN.
          <a href="https://www.weitaoxu.com/">[Recruitment]</a>  continuously looking for self-motivated PhD/Postdoc/RA to join us. I have relatively broad research interests
