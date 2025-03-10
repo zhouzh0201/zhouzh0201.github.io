@@ -111,11 +111,7 @@
        <li><img src="../../k2/redball.gif"/><a href=" "></a><font color="#ff0000"></font></li>
        <li><img src="../../k2/redball.gif"/><a href=" "></a><font color="#ff0000"></font></li>
 
- <p>  </p>
- <p>  </p>
- <p>   </p>
- <p>   </p> 
- </div>
+ 
 
   </div>
  <hr noshade="" /> 
