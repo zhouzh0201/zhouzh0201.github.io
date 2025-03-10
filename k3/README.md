@@ -55,11 +55,13 @@
     <a href=" https://seng.hkust.edu.hk">Faculty of Engineering</a>,<br/>
     <p> <a href=" https://cse.hkust.edu.hk">Department of Computer Science</a>,</p> 
     <a href="https://ece.hkust.edu.hk"> Department of Electronic  and Computer Engineering</a><br/>
- 
+  </div>
  <hr noshade="" />
+ 
 <!--****************-->
  <p> k3-1 frist page</p>
 <!--****************--> 
+
  <p> <a href=" https://cse.hkust.edu.hk">Department of Computer Science</a>,</p> 
     <h4><font color="#ff6ec7">Research Areas Artificial Intelligence PhD supervisor </font></h4>
     <font color="#ff6ec7">supervisor:</font> 
