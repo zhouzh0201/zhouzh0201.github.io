@@ -240,7 +240,7 @@ B:<br>
      <li>51<a href="https://geog.hku.hk/yy-zhou"> 周宇宇/zhou Yuyu</a><font color="#ff0000">His research focuses </font> on urban environmental change and potential solutions, utilizing geospatial technologies including remote sensing, GIS, geovisualization, spatial analytic tools, and integrated assessment modeling.   
 <p>Selected Publications</p>
 <p>Xia, H., L. Qiao, Y. Guo, X. Ru, Y. Qin, Y. Zhou* and C. Wu* (2024). "Enhancing phenology modeling through the integration of artificial light at night effects." Remote Sensing of Environment 303: 113997.</p>
-<p></p>Xu, H., Y. Zhou*, Y. Wei, H. Guo, & X. Li. (2023). A Multirule-Based Relative Radiometric Normalization for Multisensor Satellite Images. IEEE Geoscience and Remote Sensing Letters, 20, 1-5.</P>
+<p>Xu, H., Y. Zhou*, Y. Wei, H. Guo, & X. Li. (2023). A Multirule-Based Relative Radiometric Normalization for Multisensor Satellite Images. IEEE Geoscience and Remote Sensing Letters, 20, 1-5.</P>
 
  <li>52<a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows)</li>
      </li>
