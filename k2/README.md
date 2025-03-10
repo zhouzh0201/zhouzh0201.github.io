@@ -70,8 +70,8 @@
 Bioinformatics /Deep Learning/Human Computer Interaction/Machine Learning/Medical Image /Analysis</p>
 <p>Rich Media:
 AR/VR/Computer Graphics/Computer Vision/Visualization </p>
- 
-   <ul class=" clearfix"> 
+  <!--ul class=" clearfix"-->
+   <ol type="1" star="1"> 
    1. <li> <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~jcheng">**郑国强,</a>James Cheng<font color="#ff0000">Graduate student recruitment (for August 2025 entry)/Postdoc/RA and undergraduate RA/intern recruitment:</font> </li>         
     2.<li> <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~qdou/team.html">**窦琦Qi Dou</a> <<font color="#ff0000"> Openings (positions available all year round)Postdoctoral Fellow / Research Associate</font></li>
     3.<li>  <img src="../k2/redball.gif"> <a href="https://www.cse.cuhk.edu.hk/~cwfu">**傅志荣,</a>Chi-Wing FU, Philip<font color="#ff0000">Now Looking for!!!</font>,New in 2025: Note: I always look for PhD candidates who are passionate in research, hardworking, creative, and well-motivated for high-quality research (AI+XR for medical data visualization + computational LEGO design)!</li>
@@ -138,7 +138,7 @@ Solid State Electronics & Photonics Group:<br/>
          </div>
        </div>
 27.  <li>   <img src="../k2/redball.gif"> <a href="https://samlai.me">賴捷文</a>Jiewen Lai<font color="#ff0000">interested in flexible robot Opportunities</font>MPhil (2025Fall)/Full time RA: The candidate will work on flexible robots concerning </li>
-   </ul>
+   </ol>
  
 <!--****************-->
  
