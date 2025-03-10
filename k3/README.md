@@ -68,7 +68,9 @@
 <!-- view-source:https://cse.hkust.edu.hk/pg/research/themes/-->
 <div class="centers">
 Machine Learning:
- <ul class=" clearfix"> 
+ <!--ul class=" clearfix"--> 
+<ol type="1" star="1"> 
+  
      <li>  <img src="../k2/redball.gif" /><a href=" https://mayrfung.github.io/">冯美玲/May Fung</a>,📣 <b><font color="blue">We are actively recruiting students for our PhD, MPhil, and intern positions in 2025.  Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> if interested!</font></b></li>  
      <li>  <img src="../k2/redball.gif" /><a href=" https://jxhe.github.io/">何俊賢/Junxian He</a>,<b><font color="blue">Prospective Students:I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall,</font></b></li><br/>
      <li><img src="../k2/redball.gif" /><a href="https://cse.hkust.edu.hk/~jamesk ">郭天佑/ James Tin-Yau KWOK/James Kwok</a>,<b><font color="red">Research positions are now available for PhD/MPhil students (in the areas of AI/ML/CV/NLP)for theupcoming Fall 2025! If you're interested, please fill out this <a href="https://forms.gle/QR1YSck2x45yeAru5">form</a> to get started.Research internship and undergrad research positions are also available.</font></b></li>
@@ -315,7 +317,7 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
  <li>  <img src="../k2/redball.gif" /> <a href="https://isd.hkust.edu.hk/people#isd-faculty/">张倩Qian ZHANG/Acting Head of ISD / Tencent Professor of Engineering and Chair Professor of CSE</a><font color="#ff6ec7"> Dr. Zhang received the B.S., M.S., and Ph.D. degrees from Wuhan University, China, in 1994, 1996, and 1999, respectively, all in computer science. </font>
         <a href="https://www.cse.ust.hk/~qianzh//">张倩Qian ZHANG/Alumn</a> Chair Professor of the Department of Computer Science and Engineering (CSE)
  </li> 
-             
+   </ol>          
  <!--****************-->            
              <hr noshade="" />
 <!--****************-->                             
