@@ -220,14 +220,15 @@ Graphics and Interactive Techniques:
  
    <div>
 3D Reconstruction:
-    <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~quan/ ">权龍/Long Quan</a>
+    <li> <img src="../k2/redball.gif"/><a href="https://cse.hkust.edu.hk/~quan/ ">权龍/Long Quan</a></li>
    </div>
    
  <div>
 3D Visualization:
    <li> <img src="../k2/redball.gif"/><a href="http://www.huamin.org/index.htm ">屈華民/Huamin Qu</a> 
     <p> <font color="red"> We are looking for multiple Postdoc, PhD, Mphil, and RA/Intern:</font><br><a href="http://www.huamin.org/awards.htm"> For potential PhD, Mphil, MscIT, and UROP students </a> <br> 
-    </p>    
+    </p> 
+    </li>
    </div>
    
 <div>
