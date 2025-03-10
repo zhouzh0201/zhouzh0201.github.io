@@ -403,9 +403,17 @@
  <!--2.4%%%%%%%%%-->
 
   <h3> Chinese University of Hong Kong (Shenzhen). </h3>
-<li> <img src="../k2/redball.gif" /> <a href="https://sds.cuhk.edu.cn/teacher/315 ">
-张大鹏 deepseek recommend </a><font color="#ff0000">  he have been working on pattern recognition, image processing and biometrics,/font&gt;  he is a Distinguished Presidential Chair Professor in Chinese University of Hong Kong (Shenzhen). 
-  <a href="https://www4.comp.polyu.edu.hk/~csdzhang/ ">David Zhang </a><font color="#ff0000">Emeritus Professor</font>&lt;/li&gt;
+       <li> <img src="../k2/redball.gif" /> 
+	       <a href="https://sds.cuhk.edu.cn/teacher/315 ">
+<h3>张大鹏 deepseek recommend </h3>
+	       </a>
+	       <font color="#ff0000">  he have been working on pattern recognition, image processing and biometrics,
+		</font> 
+	       he is a Distinguished Presidential Chair Professor in Chinese University of Hong Kong (Shenzhen). 
+  <a href="https://www4.comp.polyu.edu.hk/~csdzhang/ ">David Zhang 
+  </a>
+	<font color="#ff0000">Emeritus Professor</font>
+	 </li>
 
       <!--**************--> 
 <hr noshade="" />
@@ -751,7 +759,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
  <h3><font color="#ff0000">DeepSeek recommend  徐偉濤 /XU Weitao</font></h3>
  
       <li> <img src="../../k2/redball.gif" /><a href="https://scholars.cityu.edu.hk/en/persons/weitao-xu(cd193391-0d3a-4f86-92f8-c8ccb92748f2).html"> 徐偉濤 /XU.Weitao,Willing to take PhD students: yes</a> Research Interests:Internet of Things (IoT); Mobile Computing; IoT Security; Wearable Devices; LPWAN.
-         <a href="https://www.weitaoxu.com/">[Recruitment]</a>  continuously looking for self-motivated PhD/Postdoc/RA to join us. I have relatively broad research interests
+         <a href="https://www.weitaoxu.com/">[Recruitment]</a>  continuously looking for self-motivated PhD/Postdoc/RA to join us. I have relatively broad research interests.
  <a href="https://www.weitaoxu.com/recruitment/ "><font color="#ff0000"> Joining Us</font>We have several PhD positions for 2024 (enroll in January/September 2024). If you're interested in my research direction, please feel free to drop me an email.</a> 
        <p> Students: Yihan Wang (PhD, January 2025-present)/Jiawen Chen (PhD, September 2024-present)/Shengzhe Lyu (PhD, September 2023-present)/Rucheng Wu (PhD, January 2023-present)</p>
        <li data-toggle="tooltip" data-placement="bottom" title="Email">
