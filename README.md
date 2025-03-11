@@ -359,7 +359,7 @@
 	<div class="row">      
 	<marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
 	<!--h4> The page is under construction.......</h4--> 
-<h4>  K1 prif. Yanchao Yang ,Ph.D. students postdocs and interns, We are constantly looking for talents with strong motivation.We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h4>
+<h4>  K1 Prof. Yanchao Yang ,Ph.D. students postdocs and interns, applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h4>
  
 	 </marquee>
         </div>
