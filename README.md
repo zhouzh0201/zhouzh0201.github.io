@@ -396,12 +396,12 @@
       k2: David Zhang;   <br>
       k3:Shaojia Qi;  <br>
       k4:GuoqingShi;   <br>
-      k5:Xu Weitao </p><br>
+      k5:Xu Weitao </p> 
  
-          <p>Prof.Qixiao Jian , Dept. of Electrical and Electronic Engineering, HKU,Please email me if you are interested in joining my lab, </p> <br> 
-	   <p>Deep Vision Lab （DVLab) We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. 齐小娟 DeepSeek recommend,</p> <br> 
-	   <p>Computer Vision and Machine Intelligence Lab (CVMI Lab) , Deep Vision Lab. The Deep Vision Lab (DVLab) is a top-tier</p><br>    
-	   <p>research instituteon computer vision and machine learning established by Prof. Jiaya Jia</p>
+          <p>Prof.Qixiao Jian , Dept. of Electrical and Electronic Engineering, HKU,Please email me if you are interested in joining my lab,   <br> 
+	   Deep Vision Lab （DVLab) We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. 齐小娟 DeepSeek recommend, <br> 
+	   Computer Vision and Machine Intelligence Lab (CVMI Lab) , Deep Vision Lab. The Deep Vision Lab (DVLab) is a top-tier <br>    
+	   research instituteon computer vision and machine learning established by Prof. Jiaya Jia</p>
                      </div>  
          </div> 
        </aside>
