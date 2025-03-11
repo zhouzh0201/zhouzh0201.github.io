@@ -374,20 +374,20 @@
   <!--***************ok*****************-->
 <!--****************************aside*************-->	
 
- <!--style>
-   .container{width:90%;weight:600px}	 
- </style-->
+ <style>
+   .container{width:90%;height:600px}	 
+ </style>
  <style>
 	#container{
 		width:90%;
 		margin:0 auto;
 	}
  </style>
- <div class="container"></div>
+ <div class="container" ></div>
  
    <aside  style="background-color:#ff6ec7;width:100%; height:500px">  
       <aside  class="right-aside">
-         <div class="container">      
+         <div class="container" >      
 	      <div class="right-aside">  
 		   <div class="right-aside"> 
           <h4>
