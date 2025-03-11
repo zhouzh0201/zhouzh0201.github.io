@@ -122,9 +122,11 @@
      </ul>
  </div>
 
- 
-    
+  <div align="center">
+        <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>  <br />
+        <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>    
     </div>
+    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
