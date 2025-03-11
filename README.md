@@ -371,7 +371,13 @@
   <!----*************------>    
 <hr noshade="">
   <!--***************ok*****************-->
-<!--****************************aside*************-->		   
+<!--****************************aside*************-->	
+
+ <style>
+   .container{width:100%;weight:300px}	 
+ </style>
+ <div class="container"></div>
+ 
    <aside  style="background-color:#ff6ec7;width:100%; height:500px">  
       <aside  class="right-aside">
          <div class="container">      
