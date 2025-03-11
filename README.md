@@ -398,7 +398,10 @@
   k4:GuoqingShi;   <br>
   k5:Xu Weitao </p><br>
   <br>
- <p>Prof.Qixiao Jian , Dept. of Electrical and Electronic Engineering, HKU,Please email me if you are interested in joining my lab, Deep Vision Lab （DVLab) We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. 齐小娟 DeepSeek recommend, Computer Vision and Machine Intelligence Lab (CVMI Lab) , Deep Vision Lab. The Deep Vision Lab (DVLab) is a top-tier research institute on computer vision and machine learning established by Prof. Jiaya Jia</p>
+         <p>Prof.Qixiao Jian , Dept. of Electrical and Electronic Engineering, HKU,Please email me if you are interested in joining my lab,  <br> 
+	 Deep Vision Lab （DVLab) We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. 齐小娟 DeepSeek recommend, <br> 
+	 Computer Vision and Machine Intelligence Lab (CVMI Lab) , Deep Vision Lab. The Deep Vision Lab (DVLab) is a top-tier research institute  <br> 
+	 on computer vision and machine learning established by Prof. Jiaya Jia</p>
                      </div>  
          </div> 
        </aside>
