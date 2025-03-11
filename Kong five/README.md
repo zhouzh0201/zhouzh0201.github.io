@@ -538,21 +538,21 @@
            <h3>computer-vision and Image Processing:</h3>
 	      
        <ul class="clearfix">
-  <li>  $@ <img src="../k2/redball.gif" /><a href="https://vsdl.hkust.edu.hk/ "> 鄭 光 廷/Kwang-Ting Tim CHENG  </a> <font color="red">	 </font><span>2025.03.07</span></li> 
+  <li>  <img src="../k2/redball.gif" /><a href="https://vsdl.hkust.edu.hk/ "> 鄭 光 廷/Kwang-Ting Tim CHENG  </a> <font color="red">	 </font><span>2025.03.07</span></li> 
 
- <li> @ <img src="../k2/redball.gif" /><a href="https://xmengli.github.io/ ">Xiaomeng LI 李 小 萌   </a><font color="red">	I am looking for self-motivated Postdoc/PhD/RA/Interns. Feel free to drop me an email with your CV. </font><span>2025.03.07</span></li> 
+ <li>  <img src="../k2/redball.gif" /><a href="https://xmengli.github.io/ ">Xiaomeng LI 李 小 萌   </a><font color="red">	I am looking for self-motivated Postdoc/PhD/RA/Interns. Feel free to drop me an email with your CV. </font><span>2025.03.07</span></li> 
  
-   <li> $@ <img src="../k2/redball.gif" /><a href=" https://eebert.home.ece.ust.hk/">Bertram Emil SHI 施 毅 明 </a><font color="red">	 </font><span>2025.03.07</span></li> 
+   <li>  <img src="../k2/redball.gif" /><a href=" https://eebert.home.ece.ust.hk/">Bertram Emil SHI 施 毅 明 </a><font color="red">	 </font><span>2025.03.07</span></li> 
  
- <li>$ @ <img src="../k2/redball.gif" /><a href="https://ece.hkust.edu.hk/pingtan ">Ping TAN 譚 平  </a><font color="red"> </font><span>2025.03.07</span></li> 
+ <li> <img src="../k2/redball.gif" /><a href="https://ece.hkust.edu.hk/pingtan ">Ping TAN 譚 平  </a><font color="red"> </font><span>2025.03.07</span></li> 
 
-    <li> @ <img src="../k2/redball.gif" /><a href="https://bmi.hkust.edu.hk/positions.html ">Yiwen WANG 王 怡 雯  </a><font color="red">	The Computational Cognitive Engineering Laboratory (https://bmi.ust.hk/) is on the lookout for alented PhD students</font>t, postdoctoral researchers, and research assistant professors.<span>2025.03.07</span></li> 
+    <li> <img src="../k2/redball.gif" /><a href="https://bmi.hkust.edu.hk/positions.html ">Yiwen WANG 王 怡 雯  </a><font color="red">	The Computational Cognitive Engineering Laboratory (https://bmi.ust.hk/) is on the lookout for alented PhD students</font>t, postdoctoral researchers, and research assistant professors.<span>2025.03.07</span></li> 
     
-   <!--li> @ <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/">繆 偉 豪/Wai Ho MOW</a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li-->
+   <!--li>  <img src="../k2/redball.gif" /><a href="https://eewhmow.home.ece.ust.hk/">繆 偉 豪/Wai Ho MOW</a><font color="red">	Inquiry on Postdoc/RA opportunities in the area of Communications Signal Processing, Coding and Information Theory </font></li-->
    
-   <!--li> @ <img src="../k2/redball.gif" /><a href="https://zhiyaoxie.com/ ">Zhiyao XIE 謝 知 遙  </a><font color="red">	Ph.D. Student Recruitment </font>I am looking for motivated students to join my lab as Ph.D. students in HKUST!We still have multiple positions for Fall’25 and later enrollments. We are always hiring.We support RA or Master only if you intend to continue with a PhD in our team.</li--> 
+   <!--li>  <img src="../k2/redball.gif" /><a href="https://zhiyaoxie.com/ ">Zhiyao XIE 謝 知 遙  </a><font color="red">	Ph.D. Student Recruitment </font>I am looking for motivated students to join my lab as Ph.D. students in HKUST!We still have multiple positions for Fall’25 and later enrollments. We are always hiring.We support RA or Master only if you intend to continue with a PhD in our team.</li--> 
    
-   <!--li> @ <img src="../k2/redball.gif" /><a href=" https://eeyu.home.ece.ust.hk/"> 余 維 川 /Weichuan YU  </a> <b><font color="red">Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biology, and biomedical signal/image processing available. Please click here for detail.</font></b></li-->	
+   <!--li>  <img src="../k2/redball.gif" /><a href=" https://eeyu.home.ece.ust.hk/"> 余 維 川 /Weichuan YU  </a> <b><font color="red">Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biology, and biomedical signal/image processing available. Please click here for detail.</font></b></li-->	
 
    
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                    
