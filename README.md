@@ -358,10 +358,12 @@
 	   
 	<div class="row">      
 	<marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
-	<!--h4> The page is under construction.......</h4--> 
+	<!--h4> The page is under construction.......</h4-->  
         <h4>  K1 Prof. Yanchao Yang ,Ph.D. students postdocs and interns, </h4>
+	 </marquee>
+  
+       <marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
 	<h4>applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h4>
- 
 	 </marquee>
         </div>
      </div>
