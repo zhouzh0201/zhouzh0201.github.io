@@ -348,7 +348,7 @@
 <hr noshade="">
 
  <!----*************------> 
- <aside  style="background-color:#ffff00;width:100%; height:600px;">  
+ <aside  style="background-color:#ffff00;width:100%; height:500px;">  
 	
 	 <div class="container">
 <br>
@@ -565,7 +565,7 @@
  <!--/head--> 
     <body>
       <div> 
-     <img src="../img/wf1_jz2.png" style="width:100%; height:500px;"  alt=""/>
+     <img src="../img/wf1_jz2.png" style="width:100%; height:300px;"  alt=""/>
         <h4> <a href="https://zhouzh0201.github.io/Kong%20five/"><img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a></h4>
     </div>
     </body>
