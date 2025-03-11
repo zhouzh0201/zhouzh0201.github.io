@@ -496,7 +496,7 @@
 <!--****************************aside*************-->
  <!-- 科学动态 -->
 
-  <section style="image:width:100%; height:400px;"> 
+  <section style="image:width:100%; height:300px;"> 
 	  
    <div class="index-research index-research1">
         <div class="container">
@@ -562,13 +562,12 @@
 <script>_showDynClickBatch(['dynclicks_u21_48431','dynclicks_u21_43521','dynclicks_u21_43011','dynclicks_u21_38141','dynclicks_u21_33661','dynclicks_u21_4391'],[48431,43521,43011,38141,33661,4391],"wbnews", 1852176512)</script>
                 </div>
                 <div class="swiper-pagination"></div>
-            </div>
-         
-     
+            </div>    
       </body>
     </div>
    </div>
  </div>
+
 </section>  
 <!-- over -->
     
