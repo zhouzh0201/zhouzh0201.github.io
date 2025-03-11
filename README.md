@@ -349,8 +349,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+ 
 
  <!----*************------> 
  <aside  style="background-color:#ffff00;width:100%; height:500px;">  
@@ -381,15 +380,14 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+ 
  <style>
    .container{width:100%;weight:500px}	 
  </style>
  
  <div class="container"  >
  
-   <aside  style="background-color:#ff6ec7;width:120%; height:500px">  
+   <aside  style="background-color:#ff6ec7;width:100%; height:800px">  
       <aside  class="right-aside">
          <div class="container" >      
 	      <div class="right-aside">  
@@ -400,12 +398,11 @@
    bottom:-2px"></a>  
           <a href="http://www.grok.com.cn"> Grok CN</a> 
 	  </h4>   		 
-                 	 		  
+ <br>                	 		  
 <br>
 <br>   
 <br>
-<br>
-<br>
+ <br>
       <p>DeepSeek recommend:  k1: Qixiao Jian and Bennett;   k2: David Zhang;  k3:Shaojia Qi;  
       k4:GuoqingShi;      k5:Xu Weitao </p>  
         
