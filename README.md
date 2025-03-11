@@ -375,14 +375,9 @@
 <!--****************************aside*************-->	
 
  <style>
-   .container{width:90%;height:200px}	 
+   .container{width:90%;height:500px}	 
  </style>
- <style>
-	#container{
-		width:90%;
-		margin:0 auto;
-	}
- </style>
+ 
  <div class="container" style="height:auto;" >
  
    <aside  style="background-color:#ff6ec7;width:100%; height:500px">  
@@ -570,7 +565,7 @@
  <!--/head--> 
     <body>
       <div> 
-     <img src="../img/wf1_jz2.png" style="width:120%; height:400px;"  alt=""/>
+     <img src="../img/wf1_jz2.png" style="width:100%; height:500px;"  alt=""/>
         <h4> <a href="https://zhouzh0201.github.io/Kong%20five/"><img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a></h4>
     </div>
     </body>
