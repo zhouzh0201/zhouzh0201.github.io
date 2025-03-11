@@ -382,7 +382,7 @@
 <br>
  
  <style>
-   .container{width:100%;weight:500px}	 
+   .container{width:90%;weight:500px}	 
  </style>
  
  <div class="container"  >
