@@ -378,11 +378,11 @@
    .container{width:90%;height:500px}	 
  </style>
  
- <div class="container" style="height:auto;" >
+ <div class="container"  >
  
    <aside  style="background-color:#ff6ec7;width:100%; height:500px">  
       <aside  class="right-aside">
-         <div class="container"style="height:auto;" >      
+         <div class="container" >      
 	      <div class="right-aside">  
 		   <div class="right-aside"> 
           <h4>
