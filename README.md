@@ -375,7 +375,7 @@
 <!--****************************aside*************-->	
 
  <style>
-   .container{width:90%;height:600px}	 
+   .container{width:90%;height:300px}	 
  </style>
  <style>
 	#container{
@@ -383,11 +383,11 @@
 		margin:0 auto;
 	}
  </style>
- <div class="container" ></div>
+ <div class="container" style="height:auto;" ></div>
  
    <aside  style="background-color:#ff6ec7;width:100%; height:500px">  
       <aside  class="right-aside">
-         <div class="container" >      
+         <div class="container"style="height:auto;" >      
 	      <div class="right-aside">  
 		   <div class="right-aside"> 
           <h4>
