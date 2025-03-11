@@ -223,14 +223,16 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
                           🟥 Email 张敏 <i class="fa fa-envelope"></i>
                         </a></li>
 
- 
  <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
- 
  <li> <img src="../k2/redball.gif" /><a href=""></a><font color="red"></font></li> 
-
- 
-    
- 
      </ul>
+ </div>
+
+ <hr noshade="" /> 
+ <hr noshade="" /> 
+ 
+ <div align="center">
+        <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>  <br />
+        <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
  </div>
 
