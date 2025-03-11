@@ -407,7 +407,7 @@
            The Deep Vision Lab (DVLab) is a top-tier  research instituteon computer vision and machine learning established by Prof. Jiaya Jia</p>
                  </div>  
                </div>
-	     </div> 
+	    
          </div> 
       </aside>     
   </aside>
