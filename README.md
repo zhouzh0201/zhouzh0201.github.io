@@ -496,7 +496,7 @@
 <!--****************************aside*************-->
  <!-- 科学动态 -->
 
-  <section style="image:width:100%; height:300px;"> 
+  <section style="image:width:100%; height:200px;"> 
 	  
    <div class="index-research index-research1">
         <div class="container">
