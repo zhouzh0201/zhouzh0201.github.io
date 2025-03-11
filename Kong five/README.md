@@ -101,9 +101,12 @@
   <div class="container">
      <div class="row"> 
 	<marquee scrolldelay="1" height="50px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
-	We are now looking for motivated students, postdoctoral fellows, and research staff to join our team.  The research positions are immediately available! 
+	K5:Prof DONG, Minjing,	I am looking for self-motivated MPhil/PhD students enrolled in the year of<b> 2026.</b>
+	<!--We are now looking for motivated students, postdoctoral fellows, and research staff to join our team.  The research positions are immediately available! -->
 	 </marquee>
-        </div>
+     
+	</div>
+	
      </div>
   <!----*************------>                  
                 
