@@ -374,8 +374,14 @@
   <!--***************ok*****************-->
 <!--****************************aside*************-->	
 
- <style>
+ <!--style>
    .container{width:90%;weight:600px}	 
+ </style-->
+ <style>
+	#container{
+		width:90%;
+		margin:0 auto;
+	}
  </style>
  <div class="container"></div>
  
