@@ -393,7 +393,7 @@
       <p>DeepSeek recommend:  k1: Qixiao Jian and Bennett;   k2: David Zhang;  k3:Shaojia Qi;<br>   
       k4:GuoqingShi;      k5:Xu Weitao </p> 
       
-	<p><a href="https://xjqi.github.io/ "><img src="img/齐小娟.jpg" height="50px" style="margin-bottom:-2px"></a> </p>  
+	<p><a href="https://xjqi.github.io/ "><img src="../img/齐小娟.jpg" height="50px" style="margin-bottom:-2px"></a> </p>  
  
           <p>Prof.Qixiao Jian ,齐小娟 DeepSeek recommend, Dept. of Electrical and Electronic Engineering, HKU,Please email me if you are interested in joining my lab,   <br> 
 	   Deep Vision Lab （DVLab) We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.  <br> 
