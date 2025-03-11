@@ -375,8 +375,8 @@
    <aside  style="background-color:#ff6ec7;width:100%; height:500px">  
       <aside  class="right-aside">
          <div class="container">      
-		 <div class="right-aside">  
-			  <div class="right-aside"> 
+	      <div class="right-aside">  
+		   <div class="right-aside"> 
           <h4>
 	  <a href="https://github.com/deepseek-ai">DeepSeek</a>  
 	  <a href="https://www.deepseek.com"><img src="148330874.png" height="50px" style="margin-
@@ -398,10 +398,10 @@
 	   Deep Vision Lab （DVLab) We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.  <br> 
 	   Computer Vision and Machine Intelligence Lab (CVMI Lab) , <br>   
            The Deep Vision Lab (DVLab) is a top-tier  research instituteon computer vision and machine learning established by Prof. Jiaya Jia</p>
-                     </div>  
+                 </div>  
+             </div> 
          </div> 
-       </aside>
-     
+      </aside>     
   </aside>
 <!--****************************aside*************-->
  <!--***************ok*****************-->
