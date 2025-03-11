@@ -374,7 +374,7 @@
 <!--****************************aside*************-->	
 
  <style>
-   .container{width:50%;weight:300px}	 
+   .container{width:90%;weight:300px}	 
  </style>
  <div class="container"></div>
  
@@ -565,7 +565,7 @@
  <!--/head--> 
     <body>
       <div> 
-     <img src="../img/wf1_jz2.png" style="width:80%; height:400px;"  alt=""/>
+     <img src="../img/wf1_jz2.png" style="width:100%; height:400px;"  alt=""/>
         <h4> <a href="https://zhouzh0201.github.io/Kong%20five/"><img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a></h4>
     </div>
     </body>
@@ -610,7 +610,7 @@
  
  
  <!--body-->
-   <footer style="background-color:#00ffff;width:100%; height:80px;">
+   <footer style="background-color:#00ffff;width:100%; height:300px;">
 <div class="bot"><!-- ****** -->
    <div class="container">
      <div class="footer-footer">
@@ -654,7 +654,7 @@
  </footer> 
 <hr noshade="">
 
-<footer style="background-color:#0000ff;width:100%; height:80px;">
+<footer style="background-color:#0000ff;width:100%; height:300px;">
 <div class="bot"><!-- ****** -->
   <div class="container">
          <div class="footer-footer">
