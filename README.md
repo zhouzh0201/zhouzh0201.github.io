@@ -374,17 +374,16 @@
 <!--****************************aside*************-->		   
    <aside  style="background-color:#ff6ec7;width:100%; height:500px">  
       <aside  class="right-aside">
-         <div class="container">  
-	    
+         <div class="container">      
 		 <div class="right-aside">  
+			  <div class="right-aside"> 
           <h4>
 	  <a href="https://github.com/deepseek-ai">DeepSeek</a>  
 	  <a href="https://www.deepseek.com"><img src="148330874.png" height="50px" style="margin-
    bottom:-2px"></a>  
           <a href="http://www.grok.com.cn"> Grok CN</a> 
 	  </h4>   		 
-                 </div> 		 
-		   <div class="right-aside"> 
+                 	 		  
 <br>
 <br>   
 <br>
