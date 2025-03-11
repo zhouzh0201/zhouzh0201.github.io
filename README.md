@@ -352,8 +352,7 @@
 	
 	 <div class="container">
 <br>
-<br>   
-<br>
+ 
          <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
   <div class="container">
 	 <!--div class="profile-content pull-center"--> 
@@ -627,42 +626,26 @@
        <div class="xhe">
   	 <div class="swiper">
   	    <div class="swiper-wrapper">
-		    <br>
-                    <br>   
-                    <br>
-                <small><font color="#ff0000">friendly link</font></small>			 		     <br>
-                    <br>   
-                    <br>
+		  
+                <small><font color="#ff0000">friendly link</font></small>			 		   
 		<div class="swiper-slide" style="width:50px"> </div>
 		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>              
-		     <br>
-                    <br>   
-                    <br>
+		 
 		<div class="swiper-slide" style="width:50px"></div>	
 		<small> <a href=" https://www.csc.edu.cn">CSC</a></small> 
-		     <br>
-                    <br>   
-                    <br>
+		    
 		<div class="swiper-slide" style="width:50px"></div>	
 		<small><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscse" target="_blank"> cscse</a> </small>
-		     <br>
-                    <br>   
-                    <br>
+		    
 		    
 		<div class="swiper-slide" style="width:50px"></div>
-		<small><a href=" https://gradsch.hku.hk"> HKU graduate school</a></small>		                <br>
-                    <br>   
-                    <br>
+		<small><a href=" https://gradsch.hku.hk"> HKU graduate school</a></small>		              
 		<div class="swiper-slide" style="width:50px"></div>
                 <small><a href="https://www.science.org/journal/science">Science</a></small>   
-		  <br>
-                    <br>   
-                    <br>
+		 
                <div class="swiper-slide" style="width:50px"></div>
 		<small><a href="https://www.nature.com" >Nature</a> </small>			
-		  <br>
-                    <br>   
-                    <br>
+		  
                 <div class="swiper-slide" style="width:50px"></div>	
 		<small><a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a></small><br> 
 	      </div>			
