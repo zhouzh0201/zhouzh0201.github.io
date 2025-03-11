@@ -375,7 +375,7 @@
 <!--****************************aside*************-->	
 
  <style>
-   .container{width:90%;height:500px}	 
+   .container{width:90%;weight:500px}	 
  </style>
  
  <div class="container"  >
