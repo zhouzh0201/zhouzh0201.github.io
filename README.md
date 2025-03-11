@@ -346,6 +346,11 @@
  <!--***************ok*****************-->
 
  
+<br>
+<br>
+<br>
+<br>
+<br>
 
  <!----*************------> 
  <aside  style="background-color:#ffff00;width:100%; height:500px;">  
@@ -373,14 +378,18 @@
  
   <!--***************ok*****************-->
 <!--****************************aside*************-->	
-
+<br>
+<br>
+<br>
+<br>
+<br>
  <style>
-   .container{width:90%;weight:500px}	 
+   .container{width:100%;weight:500px}	 
  </style>
  
  <div class="container"  >
  
-   <aside  style="background-color:#ff6ec7;width:100%; height:500px">  
+   <aside  style="background-color:#ff6ec7;width:120%; height:500px">  
       <aside  class="right-aside">
          <div class="container" >      
 	      <div class="right-aside">  
@@ -565,7 +574,7 @@
  <!--/head--> 
     <body>
       <div> 
-     <img src="../img/wf1_jz2.png" style="width:100%; height:300px;"  alt=""/>
+     <img src="../img/wf1_jz2.png" style="width:120%; height:400px;"  alt=""/>
         <h4> <a href="https://zhouzh0201.github.io/Kong%20five/"><img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a></h4>
     </div>
     </body>
