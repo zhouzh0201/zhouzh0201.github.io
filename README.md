@@ -350,7 +350,10 @@
  <!----*************------> 
  <aside  style="background-color:#ffff00;width:100%; height:400px;">  
 	
-	 <div class="container">  
+	 <div class="container">
+<br>
+<br>   
+<br>
          <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
   <div class="container">
 	 <!--div class="profile-content pull-center"--> 
@@ -359,11 +362,10 @@
 	<div class="row">      
 	<marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
 	<!--h4> The page is under construction.......</h4-->  
-        <h4>  K1 Prof. Yanchao Yang ,Ph.D. students postdocs and interns, </h4>
+        <h5>  K1 Prof. Yanchao Yang ,Ph.D. students postdocs and interns, </h5>
 	 </marquee>
-  
        <marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
-	<h4>applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h4>
+	<h5>applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h5>
 	 </marquee>
         </div>
      </div>
@@ -624,21 +626,44 @@
     <div class="b_bot">
        <div class="xhe">
   	 <div class="swiper">
-  	    <div class="swiper-wrapper">	
-                <small><font color="#ff0000">friendly link</font></small>			 			
+  	    <div class="swiper-wrapper">
+		    <br>
+                    <br>   
+                    <br>
+                <small><font color="#ff0000">friendly link</font></small>			 		     <br>
+                    <br>   
+                    <br>
 		<div class="swiper-slide" style="width:50px"> </div>
-		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>                	
+		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>              
+		     <br>
+                    <br>   
+                    <br>
 		<div class="swiper-slide" style="width:50px"></div>	
-		<small> <a href=" https://www.csc.edu.cn">CSC</a></small> 		
+		<small> <a href=" https://www.csc.edu.cn">CSC</a></small> 
+		     <br>
+                    <br>   
+                    <br>
 		<div class="swiper-slide" style="width:50px"></div>	
-		<small><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscse" target="_blank"> cscse</a> </small><br> 		
+		<small><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscse" target="_blank"> cscse</a> </small>
+		     <br>
+                    <br>   
+                    <br>
+		    
 		<div class="swiper-slide" style="width:50px"></div>
-		<small><a href=" https://gradsch.hku.hk"> HKU graduate school</a></small>		       
+		<small><a href=" https://gradsch.hku.hk"> HKU graduate school</a></small>		                <br>
+                    <br>   
+                    <br>
 		<div class="swiper-slide" style="width:50px"></div>
-                <small><a href="https://www.science.org/journal/science">Science</a></small> <br>  
-		<div class="swiper-slide" style="width:50px"></div>
+                <small><a href="https://www.science.org/journal/science">Science</a></small>   
+		  <br>
+                    <br>   
+                    <br>
+               <div class="swiper-slide" style="width:50px"></div>
 		<small><a href="https://www.nature.com" >Nature</a> </small>			
-		<div class="swiper-slide" style="width:50px"></div>	
+		  <br>
+                    <br>   
+                    <br>
+                <div class="swiper-slide" style="width:50px"></div>	
 		<small><a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a></small><br> 
 	      </div>			
 	     </div>
