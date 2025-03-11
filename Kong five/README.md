@@ -79,9 +79,7 @@
  <hr noshade="" />
 *
 **
-***
-****
-*****
+*** 
  <hr noshade="" />
  
    <hr noshade="" />
@@ -131,8 +129,7 @@
          <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span> 
          </p>
      </a>  
-  </li>  
-      
+  </li>        
      
      <li> <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB"> 马毅/Ma, Yi </a> <font color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,Inaugural Director of Institute of Data Science (IDS), the University of Hong Kong.</font> <span>2025.02.15 </span>         </li>  
       <li> <a href="https://datascience.hku.hk/" target="_blank" title="CGPWB">  马毅/Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS),  </a> <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>. <span>2025.02.15 </span>       </li>          
@@ -141,9 +138,7 @@
      <li><a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a> . <a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab</a>,<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:<a href="https://aiot.hku.hk/openings/"><i class="fa fa-hand-point-right"></i> Prospective Students</a></font>.  <span>2025.03.05 </span>  </li> 
 
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
-</ul>
-               
-                         
+</ul>                       
                       </div>
                  </div>       
                </div>
@@ -183,7 +178,6 @@
 	      Research Interests：Computer Vision; Machine Learning; Artificial Intelligence . 
            <span>2025.03.08</span> 
       
-   
 </li> 
 <!--li>    
     <a href="https://www.eee.hku.hk/~elam/ " target="_blank" title="CGPWB">
@@ -224,9 +218,7 @@
 	<span>2025.03.05</span> </li-->  
 
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                                  
-                         </ul> 
-
-                         
+                         </ul>                          
                       </div>
                     </div>       
                 </div>
@@ -444,8 +436,7 @@
        </li>
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>                                  
                        </ul> 
-
-    
+   
 <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
    <span class="p_no_d">1</span>
    <span class="p_no">   <a href="tzgg/56.htm">2</a></span><span class="p_no">
@@ -460,8 +451,6 @@
              </div>
           </div> 
      <!--***********************ok*******************-->     
-
-
       <!--**************--> 
 <hr noshade="" />
 
@@ -576,9 +565,6 @@
           </div>  
 <!--*************************ok***************-->
    
- 
-
-
  <!--****************-->
 <div class="index-second">
            <div class="container">
@@ -831,7 +817,6 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
             </div>
 	</div>
   <!--***********************ok*******************-->   
-  
 
           <!--5.2%%%%%-->
 
@@ -867,15 +852,11 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
                </div>
             </div>
 	</div>
-      
-  
+        
  <!--***********************ok*******************-->  
       <!--5.3%%%%%-->
       
   <h5><img src="icon-new.png" /> <a href=" https://www.cityu.edu.hk/see/research/energy / ">The School of Energy and Environment</a> </h5>
-
-
-
 
  <div class="pagebar" style="text-align:center;"><span class="p_pages"><span class="p_first_d p_fun_d">frist page</span><span class="p_prev_d p_fun_d">previous page</span>
    <span class="p_no_d">1</span>
@@ -885,22 +866,18 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
      <a href="tzgg/53.htm">5</a></span><span class="p_dot">...</span><span class="p_no"><a href="tzgg/1.htm">57</a></span><span class="p_next p_fun"><a href="tzgg/56.htm">next page</a></span><span class="p_last p_fun"><a href="tzgg/1.htm">end page</a></span></span></div><script>_showDynClickBatch(['dynclicks_u6_50421','dynclicks_u6_50381','dynclicks_u6_50361','dynclicks_u6_50201','dynclicks_u6_50261','dynclicks_u6_50171','dynclicks_u6_49971','dynclicks_u6_49911','dynclicks_u6_49701','dynclicks_u6_49551','dynclicks_u6_48901','dynclicks_u6_48871','dynclicks_u6_48831','dynclicks_u6_48801','dynclicks_u6_48771'],[50421,50381,50361,50201,50261,50171,49971,49911,49701,49551,48901,48871,48831,48801,48771],"wbnews", 1852176512)</script>
     </div>                
 
-
     <hr noshade="" /> 
  </body>
   
-     <!--hr-->
   <!--div class="container" style="margin-top: 800px;"-->
     <div align="center">
         <small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">personal website </a></small>  <br>
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
     </div>
-  <!--/div-->
-
 </body>
 
  <div align="center">
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
  </div>
-</html>
+ 
