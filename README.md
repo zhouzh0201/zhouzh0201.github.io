@@ -383,7 +383,7 @@
 		margin:0 auto;
 	}
  </style>
- <div class="container" style="height:auto;" ></div>
+ <div class="container" style="height:auto;" >
  
    <aside  style="background-color:#ff6ec7;width:100%; height:500px">  
       <aside  class="right-aside">
@@ -411,7 +411,8 @@
 	   Computer Vision and Machine Intelligence Lab (CVMI Lab) ,  
            The Deep Vision Lab (DVLab) is a top-tier  research instituteon computer vision and machine learning established by Prof. Jiaya Jia</p>
                  </div>  
-             </div> 
+               </div>
+	     </div> 
          </div> 
       </aside>     
   </aside>
