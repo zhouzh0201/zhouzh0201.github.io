@@ -348,7 +348,7 @@
 <hr noshade="">
 
  <!----*************------> 
- <aside  style="background-color:#ffff00;width:100%; height:400px;">  
+ <aside  style="background-color:#ffff00;width:100%; height:600px;">  
 	
 	 <div class="container">
 <br>
@@ -375,7 +375,7 @@
 <!--****************************aside*************-->	
 
  <style>
-   .container{width:90%;height:300px}	 
+   .container{width:90%;height:200px}	 
  </style>
  <style>
 	#container{
