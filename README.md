@@ -372,7 +372,7 @@
 <hr noshade="">
   <!--***************ok*****************-->
 <!--****************************aside*************-->		   
-   <aside  style="background-color:#ff6ec7;width:100%; height:200px">  
+   <aside  style="background-color:#ff6ec7;width:100%; height:500px">  
       <aside  class="right-aside">
          <div class="container">  
 	    
