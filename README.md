@@ -375,7 +375,9 @@
 	  <a href="https://github.com/deepseek-ai">DeepSeek</a>  
 	  <a href="https://www.deepseek.com"><img src="148330874.png" height="50px" style="margin-bottom:-2px"></a>  
           <a href="http://www.grok.com.cn"> Grok CN</a> 
-	  </h4>    
+	  </h4>   
+		<p>DeepSeek recommend:
+		k1: Qixiao Jian and Bennett; k2: David Zhang; k3:Shaojia Qi; k4:GuoqingShi; k5:Xu Weitao </p>   
            </div>    
          </div> 
        </aside>
