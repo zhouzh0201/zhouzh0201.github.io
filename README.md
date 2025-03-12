@@ -647,7 +647,7 @@
  <footer>
     <div class="b_bot">
        <div class="xhe">
-  	 <div class="swiper">
+          <div class="swiper">
   	    <div class="swiper-wrapper">
 		  
                 <small><font color="#ff0000">friendly link</font></small>			 		   
@@ -658,15 +658,15 @@
 		<small> <a href=" https://www.csc.edu.cn">CSC</a></small> 
 		    
                </div>			
-	     </div>
+             </div>
  	   </div>
-         </div>   
+          </div>   
        </footer> 
 <div class="t_zz"></div>
  <footer>
     <div class="b_bot">
        <div class="xhe">
-  	 <div class="swiper">
+	  <div class="swiper">
   	    <div class="swiper-wrapper">
                 <div class="swiper-slide" style="width:50px"></div>	
 		<small><a href=" https://portal.cscse.edu.cn" class="h5" title="portal cscse" target="_blank"> cscse</a> </small>
@@ -676,15 +676,15 @@
 		<div class="swiper-slide" style="width:50px"></div>
                 <small><a href="https://www.science.org/journal/science">Science</a></small>   	  
                </div>			
-	     </div>
- 	   </div>
-         </div>   
-        </footer> 
+              </div>
+             </div>
+	    </div>   
+          </footer> 
 	<div class="t_zz"></div>
  <footer>
     <div class="b_bot">
        <div class="xhe">
-  	 <div class="swiper">
+	  <div class="swiper">
   	    <div class="swiper-wrapper">
 	
                <div class="swiper-slide" style="width:50px"></div>
@@ -692,9 +692,9 @@
            
 	        <div class="swiper-slide" style="width:50px"></div>	           
 		<small><a href=" https://www.gs.cuhk.edu.hk/ ">cuhk graduate school</a></small><br> 
-	      </div>			
-	     </div>
- 	   </div>
+                </div>			
+               </div>
+             </div>
          </div>   
         </footer> 
        </div>  
