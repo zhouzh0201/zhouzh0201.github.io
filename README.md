@@ -21,7 +21,7 @@
   <!--meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" /-->
   <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","personal homepage"/-->
    
-    <!--轮播img css-设置star->
+    <!--轮播img css-设置star-->
      <link href="royalslider.css" rel="stylesheet">
           <!--link href="https://cs.whu.edu.cn/js/royalslider/css/royalslider.css" rel="stylesheet"-->
     <!--link href="js/royalslider/css/royalslider.css" rel="stylesheet"-->
@@ -33,7 +33,7 @@
     <script src="jquery.royalslider.min.js"></script>
          <!--script src="https://cs.whu.edu.cn/js/royalslider/js/jquery.royalslider.min.js"></script-->
     <!--script src="js/royalslider/js/jquery.royalslider.min.js"></script-->
-    <!--轮播img-设置-over->
+    <!--轮播img-设置-over-->
     
     <script src="js/index.js"></script> 
     <script src="js/swiper-bundle.min.js"></script> 
@@ -241,7 +241,7 @@
                 </div>
    <!--**搜索栏over*****-->
   
-                <!--  网站导航开始 -->
+                <!--网站导航开始 -->
  <div class="hezi">
                     <div>
                         <ul class="daohang clearfix">
@@ -315,7 +315,7 @@
                     </ul> 
                 </div>          	
            </div>  
-	   <!--  网站导航结束 --> 
+	   <!--网站导航结束 --> 
      <!--*************navbar over******************-->
        </div>
     </div>
@@ -371,7 +371,7 @@
   <div class="container">
 	 <!--div class="profile-content pull-center"--> 
          </div> 
-	     <!----******多段动画字幕star*******------>  
+	     <!--******多段动画字幕star*******-->  
 	<div class="row">      
 	<marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
 	<!--h4> The page is under construction.......</h4-->  
@@ -381,31 +381,31 @@
 	<h5>applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h5>
 	 </marquee>
         </div>
-               <!----******动画字幕over*******------>   
+               <!--******动画字幕over*******-->   
      </div>     
 </aside>   
 
-  <!----*************------>    
+  <!--*************-->    
  
   <!--***************ok*****************-->
 <!--****************************aside*************-->	
 <br>
 <br>
 <br>
-  <!--*********** 定义容器，高不用定义，用错字骗电脑------>
+  <!--*********** 定义容器，高不用定义，用错字骗电脑-->
  <style>
    .container{width:90%;weight:500px}	<!--width90%能有20px 左右的边框-->
  </style>
-   <!--*********** 定义容器over------>
-                        <!--*********** 引用容器------>
+   <!--*********** 定义容器over-->
+                        <!--*********** 引用容器-->
  <div class="container"  >
-                      <!--*********** 彩色背景宽大于容器------>
+                      <!--*********** 彩色背景宽大于容器-->
    <aside  style="background-color:#ff6ec7;width:100%; height:800px">  
       <aside  class="right-aside">
          <div class="container" >      
 	      <div class="right-aside">  
 		   <div class="right-aside"> 
-			   <!--*********** 引用容器-over-----> 
+			   <!--*********** 引用容器-over--> 
           <h4>
 	  <a href="https://github.com/deepseek-ai">DeepSeek</a>  
 	  <a href="https://www.deepseek.com"><img src="148330874.png" height="50px" style="margin-
