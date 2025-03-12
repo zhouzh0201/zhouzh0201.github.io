@@ -720,7 +720,7 @@
                        <script language="javascript" src="js/mp4video.js"></script>
 <p>  
 	JSZYWHU:<a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" height="30px" style="margin-bottom:-2px"></a>
-        WeChat:  <a href="https://github.com/zhouzh0201/zhouzh0201.github.io/blob/main/WeChat.png"><img src="wexin1.png" height="20px" style="margin-bottom:+5px"></a>
+        WeChat:  <a href="https://github.com/zhouzh0201/zhouzh0201.github.io/blob/main/WeChat.png"><img src="wexin1.png" height="40px" style="margin-bottom:+5px"></a>
 	   <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
                           🟥  <i class="fa fa-envelope"></i>
