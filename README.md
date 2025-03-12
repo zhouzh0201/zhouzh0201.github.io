@@ -21,7 +21,7 @@
   <!--meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" /-->
   <!--meta name="keywords" content= "zhouzhonghong","周忠红","WHU","Wuhan University","武汉大学","personal homepage"/-->
    
-    <!--img-->
+    <!--轮播img css-设置star->
      <link href="royalslider.css" rel="stylesheet">
           <!--link href="https://cs.whu.edu.cn/js/royalslider/css/royalslider.css" rel="stylesheet"-->
     <!--link href="js/royalslider/css/royalslider.css" rel="stylesheet"-->
@@ -33,7 +33,7 @@
     <script src="jquery.royalslider.min.js"></script>
          <!--script src="https://cs.whu.edu.cn/js/royalslider/js/jquery.royalslider.min.js"></script-->
     <!--script src="js/royalslider/js/jquery.royalslider.min.js"></script-->
-    <!--img-->
+    <!--轮播img-设置-over->
     
     <script src="js/index.js"></script> 
     <script src="js/swiper-bundle.min.js"></script> 
@@ -61,8 +61,9 @@
 </head> 
 
  <body>
+ <!--低像数全页面图片背景star--网速慢时能看到此背景图，网速快时能看到后面设定的另外一张背景图--> 
        <div class="header">
-	<!--*******************-->       
+	    
         <style type="text/css">
 	  body{
 		background-image:url('../img/wfl1_jz2s.png');
@@ -72,6 +73,8 @@
                 background-size:cover;
 	  }
 	</style>	
+        <!--***********全页面图片背景 over--> 
+ 
 	       <body>
 		       <!--h4>this is a picture bachground page.</h4-->
 		       <!--***********add*-->
@@ -85,11 +88,15 @@
               <!-- 网站logo -->
             
 <!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
-<a href="https://zhouzh0201.github.io " class="logo">
+   <a href="https://zhouzh0201.github.io " class="logo">
     <img src="../img/jianmo3.jpg" class="logo-img"> 
     </a>
- 
-     <!--navbar star--> 
+           <!-- 网站logo over -->
+	   
+	      <!--*******-->
+       
+           <!--navbar 汉堡包 star--> 
+	   
    <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
      <!--*******-->
      <!--nav style="background-color:#0000ff;height:100px;"-->
@@ -106,8 +113,9 @@
            <div class="nav">
                 <div class="header-right">
                    <div class="searchbox"> 
-
-
+         <!--navbar 汉堡包 over--> 
+	 
+                     <!--**搜索栏star*****-->
 <script language="javascript" src="js/base64.js"></script><script language="javascript" src="js/jquery-latest.min.js"></script><script language="javascript" src="js/vue.js"></script><script language="javascript" src="js/bluebird.min.js"></script><script language="javascript" src="js/axios.js"></script><script language="javascript" src="js/polyfill.js"></script><script language="javascript" src="js/token.js"></script><LINK href="css/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="js/2-index.js"></script><script language="javascript" src="js/public.js"></script><style>
   #appu1 .qwss{
         height: 31px;
@@ -231,6 +239,8 @@
  </div>
 
                 </div>
+   <!--**搜索栏over*****-->
+  
                 <!--  网站导航开始 -->
  <div class="hezi">
                     <div>
@@ -315,7 +325,7 @@
  </body>  
 
  <body>
- <!--网站轮播-->	
+ <!--网站图片轮播-->	
  <!--img star-->
    <div class="banner">
         <div class="sliderContainer fullWidth clearfix">
@@ -342,7 +352,7 @@
         </div>
     </div>
   <!--img over-->
- <!--网站轮播结束-->
+ <!--网站图片轮播结束-->
  <!--***************ok*****************-->
 
  
@@ -361,7 +371,7 @@
   <div class="container">
 	 <!--div class="profile-content pull-center"--> 
          </div> 
-	   
+	     <!----******多段动画字幕star*******------>  
 	<div class="row">      
 	<marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
 	<!--h4> The page is under construction.......</h4-->  
@@ -371,8 +381,10 @@
 	<h5>applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h5>
 	 </marquee>
         </div>
-     </div>
+               <!----******动画字幕over*******------>   
+     </div>     
 </aside>   
+
   <!----*************------>    
  
   <!--***************ok*****************-->
@@ -380,18 +392,20 @@
 <br>
 <br>
 <br>
- 
+  <!--*********** 定义容器，高不用定义，用错字骗电脑------>
  <style>
    .container{width:90%;weight:500px}	 
  </style>
- 
+   <!--*********** 定义容器over------>
+                        <!--*********** 引用容器------>
  <div class="container"  >
- 
+                      <!--*********** 彩色背景宽大于容器------>
    <aside  style="background-color:#ff6ec7;width:100%; height:800px">  
       <aside  class="right-aside">
          <div class="container" >      
 	      <div class="right-aside">  
 		   <div class="right-aside"> 
+			   <!--*********** 引用容器-over-----> 
           <h4>
 	  <a href="https://github.com/deepseek-ai">DeepSeek</a>  
 	  <a href="https://www.deepseek.com"><img src="148330874.png" height="50px" style="margin-
@@ -538,12 +552,8 @@
    <div class="index-research index-research1">
         <div class="container">
             <div class="index-title  clearfix">  
-
-<!--*******************-->    
+ <!--***********高像数全页面图片背景star--快网速时能看到的背景图> 
   <body>
-      
-	<!--*******************-->     
-
           <style type="text/css">
 	  body{
 		background-image:url('../img/OIP5.png');
@@ -552,13 +562,16 @@
                 background-position:center;
                 background-size:cover;
 	  }
-	</style>	
-	       <body>
+	 </style>	
+	     <!--************全页面图片背景over--> 
+             <body>
 		       <!--h4>this is a picture bachground page.</h4-->
 		       <!--***********add*-->
 	       </body>
-	<!--/style-->	
+          <!--/style-->	
  <!--head-->
+ 
+   <!--***********图片背景上加文字图片star-->
  <aside>
 	 <meta charset="{CHARSET}">
  <style>
@@ -575,6 +588,8 @@
         <h4> <a href="https://zhouzh0201.github.io/Kong%20five/"><img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a></h4>
     </div>
     </body>
+ <!--***********图片背景上加文字图片over-->
+    
 	 <!--img src="../img/wf1_jz2.png" style="width:100%; height:100px;"-->  
        <!--h4> <a href= "https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h4-->
           
