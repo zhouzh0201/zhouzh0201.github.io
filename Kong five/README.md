@@ -80,19 +80,27 @@
 	   border: 5px solid red; 
       }
 </style>
-	
+<body>
+<div id="mybox">网凸</div>
+</body>	
+
+
 <style>	
 	input[type="text"]{
 		width:50%;
 		height:100px;
 	}	
 </style><input type="text" placeholder="hku下个">
-<!--style>	
+
+
+<style>	
 	.costom-mybox-padding{
 		padding:100px;
 		border:10px solid #ff0000;
 	}
-</style-->
+</style>
+
+
 <style>	
 	.complex-border{
 		border-width:2px 3px 3px 2px;
@@ -100,17 +108,17 @@
 		border-color:red red blud blud;
 	}
 </style>
+
 <body>
-	<div id="mybox">网凸</div>
-	<input type="text" class="custom-mybox" placeholder="下天涯个">
-	<input type="text" class="custom-mybox-padding">下天东方闪电</input>
+	
+	<input type="text" class="costom-mybox" placeholder="下天涯个">
+	<input type="text" class="costom-mybox-padding">下天东方闪电</input>
 	<!--div id="complex-border">额饿哦</div-->
 </body>
- <hr noshade="" />
-*
+ 
 **
 *** 
- <hr noshade="" />
+ 
  
    <hr noshade="" />
  <body>
