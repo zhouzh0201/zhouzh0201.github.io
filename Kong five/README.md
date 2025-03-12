@@ -103,7 +103,7 @@
 <body>
 	<div id="mybox">网凸</div>
 	<input type="text" class="custom-mybox" placeholder="下天涯个">
-	<input type="text" class="custom-mybox-padding">下天东方闪电</input>
+	<!--input type="text" class="custom-mybox-padding"-->下天东方闪电<!--/input-->
 	<div id="complex-border">额饿哦</div>
 </body>
  <hr noshade="" />
