@@ -120,7 +120,7 @@
 		width:50%;
 		height:100px;
 	}	
-</style><input type="text" placeholder="hku下个">
+<!--/style><input type="text" placeholder="hku下个"-->
 
 <!--$$$$$$$$$$$$$$$$$$$$$$$$$$$-->
 <style>	
@@ -141,9 +141,9 @@
 
 <body>
 	
-	<input type="text" class="custom-mybox" placeholder="下天涯个">
-	<input type="text" class="custom-textbox-padding" placeholder=" 下天东方闪电">
-	<div id="complex-border">额饿哦</div>
+	<!--input type="text" class="custom-mybox" placeholder="下天涯个"-->
+	<!--input type="text" class="custom-textbox-padding" placeholder=" 下天东方闪电"-->
+	<!--div id="complex-border">额饿哦</div-->
 </body>
  
 **
