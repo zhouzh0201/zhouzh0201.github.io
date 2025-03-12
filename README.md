@@ -413,8 +413,8 @@
 	   Computer Vision and Machine Intelligence Lab (CVMI Lab) ,  
            The Deep Vision Lab (DVLab) is a top-tier  research instituteon computer vision and machine learning established by Prof. Jiaya Jia.</p>
                     <li data-toggle="tooltip" data-placement="bottom" title="Email">
-                        <a class="email-btn" href="mailto: xjqi@eee.hku.hk" target="_top">
-                          🟥 Email齐小娟 
+                        <a class="email-btn" href="mailto: xjqi@eee.hku.hk" target="_top"> <img src="email.jpeg" height="20px"/>
+                          Email齐小娟 
 			   <i class="fa fa-envelope">
                            </i>
                         </a>
