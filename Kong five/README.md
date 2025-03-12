@@ -84,7 +84,7 @@
 <div id="mybox">网凸</div>
 </body>	
 
-
+<!--8888888888888888888888-->
 <style>	
 	input[type="text"]{
 		width:50%;
@@ -92,7 +92,7 @@
 	}	
 </style><input type="text" placeholder="hku下个">
 
-
+<!--$$$$$$$$$$$$$$$$$$$$$$$$$$$-->
 <style>	
 	.costom-mybox-padding{
 		padding:300px;
@@ -112,7 +112,7 @@
 <body>
 	
 	<input type="text" class="costom-mybox" placeholder="下天涯个">
-	<input type="text" class="costom-mybox-padding">下天东方闪电
+	<input type="text" class="costom-mybox-padding" placeholder=" 下天东方闪电">
 	<div id="complex-border">额饿哦</div>
 </body>
  
