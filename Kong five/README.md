@@ -83,12 +83,16 @@
 		width:50%;
 		height:100px;
 	}
+	.costom-mybox-padding{
+		padding:100px;
+		border:10px solid #ff0000;
+	}
 	
 </style>
 <body>
 	<div id="mybox"></div>
-	<div input "my text" type="text" class="custom-mybox"></div>
-		
+	<input type="text" class="custom-mybox">
+	<input type="text" class="custom-mybox-padding">	
 </body>
  <hr noshade="" />
 *
