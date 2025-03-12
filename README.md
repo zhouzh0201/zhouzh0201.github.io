@@ -560,9 +560,9 @@
                  <img src="new2024/images/f_fl1_dy2s.png" alt="" class="w100 d0 d2">                           </div-->
         
 	<!--***************-->    
-                <!--h5><img src="icon-new.png"><font color="blue">scince study </font></h5-         
+                <!--h5><img src="icon-new.png"><font color="blue">scince study </font></h5-->         
                <div class="research-swiper">           
-              </div>          
+                </div>          
                   <div class="cont">
                      <div class="cont-box latest" style="display: block;">
 		<!--h3> <a href="https://zhouzh0201.github.io/k1"> <font color="blue">more</font> </a></h3-->   
