@@ -95,7 +95,7 @@
 
 <style>	
 	.costom-mybox-padding{
-		padding:100px;
+		padding:300px;
 		border:10px solid #ff0000;
 	}
 </style>
@@ -112,7 +112,7 @@
 <body>
 	
 	<input type="text" class="costom-mybox" placeholder="下天涯个">
-	<input type="text" class="costom-mybox-padding">下天东方闪电</input>
+	<input type="text" class="costom-mybox-padding">下天东方闪电
 	<div id="complex-border">额饿哦</div>
 </body>
  
