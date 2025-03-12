@@ -102,7 +102,7 @@
 </style>
 <body>
 	<div id="mybox">网凸</div>
-	<input type="text" class="custom-mybox">
+	<input type="text" class="custom-mybox" placeholder="下天涯个">
 	<input type="text" class="custom-mybox-padding">
 	<div id="complex-border">额饿哦</div>
 </body>
