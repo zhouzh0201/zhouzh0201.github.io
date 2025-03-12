@@ -77,17 +77,17 @@
 </style-->
 <style>
       #mybox{
-	   border: 1px solid black; 
+	   border: 5px solid red; 
       }
-	.custom-textbox{
-		width:80%;
-		height:300px;
+	.custom-mybox{
+		width:50%;
+		height:100px;
 	}
 	
 </style>
 <body>
 	<div id="mybox"></div>
-	<div input type="text" class="custom-textbox"></div>
+	<div type="text" class="custom-mybox"></div>
 		
 </body>
  <hr noshade="" />
