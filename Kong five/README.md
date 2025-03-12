@@ -82,11 +82,11 @@
 </style>
 	
 <style>	
-	.custom-mybox{
+	input[type="text"]{
 		width:50%;
 		height:100px;
 	}	
-</style>
+</style><input type="text" placeholder="hku">
 <style>	
 	.costom-mybox-padding{
 		padding:100px;
