@@ -372,7 +372,7 @@
 <!--****************************aside*************-->	
 <br>
 <br>
-<br>
+ 
   <!--*********** 定义容器，限制文档图片超域，兼顾手机浏览器宽，高不用定义，用错字骗电脑-->
  <style>
    .container{width:90%;weight:500px}	<!--width90%能有20px 左右的边框-->
@@ -400,7 +400,7 @@
         
       <p>DeepSeek recommend:  <span>2025.03.11</span>  <br>          
 	      <a href="https://xjqi.github.io/ ">  k1:齐小娟/ Qixiao Jian</a> and  
-              <p>  Dr Mia M  Bennett; No contact information available.</p>  
+                Dr Mia M  Bennett; No contact information available.   
 	      <a href="https://www4.comp.polyu.edu.hk/~csdzhang/ ">k2:David Zhang  </a> <br>  
 	      <a href=" https://qijiashao.github.io/">k3:邵启佳 :Shaojia Qi</a>;  <br>
               <a href="https://guoqiangshi.github.io/ "> k4:石国强 /Guoqiang SHI</a> ;  <br>    
