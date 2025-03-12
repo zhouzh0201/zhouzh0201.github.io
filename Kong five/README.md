@@ -87,12 +87,17 @@
 		padding:100px;
 		border:10px solid #ff0000;
 	}
-	
+	.complex-border{
+		border-width:2px 3px 3px 2px;
+		border-stype:solid solid solid solid;
+		border-color:red red blud blud;
+	}
 </style>
 <body>
 	<div id="mybox"></div>
 	<input type="text" class="custom-mybox">
-	<input type="text" class="custom-mybox-padding">	
+	<input type="text" class="custom-mybox-padding">
+	<div id=complex-border"></div>
 </body>
  <hr noshade="" />
 *
