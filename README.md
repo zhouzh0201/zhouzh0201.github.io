@@ -399,8 +399,8 @@
 <br>
 
       <p>DeepSeek recommend: <br>
-	      <a href="https://xjqi.github.io/ ">  k1: Qixiao Jian</a> and <br>  
-              <p>  Dr Mia M  Bennett; No contact information available.</p><br>  
+	      <a href="https://xjqi.github.io/ ">  k1: Qixiao Jian</a> and  
+              <p>  Dr Mia M  Bennett; No contact information available.</p>  
 	      <a href="https://www4.comp.polyu.edu.hk/~csdzhang/ ">k2:David Zhang  </a> <br>  
 	      <a href=" https://qijiashao.github.io/">k3:邵启佳 :Shaojia Qi</a>;  <br>
               <a href="https://guoqiangshi.github.io/ "> k4:石国强 /Guoqiang SHI</a> ;  <br>    
@@ -411,7 +411,7 @@
            DeepSeek recommend, Dept. of Electrical and Electronic Engineering, HKU,Please email me if you are interested in joining my lab,   
 	   Deep Vision Lab （DVLab) We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.  
 	   Computer Vision and Machine Intelligence Lab (CVMI Lab) ,  
-           The Deep Vision Lab (DVLab) is a top-tier  research instituteon computer vision and machine learning established by Prof. Jiaya Jia</p>
+           The Deep Vision Lab (DVLab) is a top-tier  research instituteon computer vision and machine learning established by Prof. Jiaya Jia.</p>
                  </div>  
                </div>
 	    
