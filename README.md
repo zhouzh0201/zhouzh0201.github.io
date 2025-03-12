@@ -723,7 +723,7 @@
         WeChat:  <a href="https://github.com/zhouzh0201/zhouzh0201.github.io/blob/main/WeChat.png"><img src="wexin1.png" height="40px" style="margin-bottom:+5px"></a>
 	   <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
-                          🟥  <i class="fa fa-envelope"></i>
+                         <img src= "email.jpeg "<i class="fa fa-envelope"></i>
                         </a>
           </li>
 </p> 
