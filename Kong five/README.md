@@ -75,7 +75,21 @@
     text-align:center;
   }
 </style-->
-
+<style>
+      #mybox{
+	   border: 1px solid black; 
+      }
+	.custom-textbox{
+		width:80%;
+		height:300px;
+	}
+	
+</style>
+<body>
+	<div id="mybox"></div>
+	<div input type="text" class="custom-textbox"></div>
+		
+</body>
  <hr noshade="" />
 *
 **
