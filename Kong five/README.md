@@ -87,7 +87,7 @@
 </style>
 <body>
 	<div id="mybox"></div>
-	<div type="text" class="custom-mybox"></div>
+	<div input "my text" type="text" class="custom-mybox"></div>
 		
 </body>
  <hr noshade="" />
