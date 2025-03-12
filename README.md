@@ -396,9 +396,9 @@
  <br>                	 		  
 <br>
 <br>   
-<br>
-
-      <p>DeepSeek recommend: <br>
+ 
+          
+      <p>DeepSeek recommend:  <span>2025.03.11</span>  <br>
 	      <a href="https://xjqi.github.io/ ">  k1: Qixiao Jian</a> and  
               <p>  Dr Mia M  Bennett; No contact information available.</p>  
 	      <a href="https://www4.comp.polyu.edu.hk/~csdzhang/ ">k2:David Zhang  </a> <br>  
@@ -412,10 +412,16 @@
 	   Deep Vision Lab （DVLab) We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.  
 	   Computer Vision and Machine Intelligence Lab (CVMI Lab) ,  
            The Deep Vision Lab (DVLab) is a top-tier  research instituteon computer vision and machine learning established by Prof. Jiaya Jia.</p>
+                    <li data-toggle="tooltip" data-placement="bottom" title="Email">
+                        <a class="email-btn" href="mailto: xjqi@eee.hku.hk" target="_top">
+                          🟥 Email齐小娟 
+			   <i class="fa fa-envelope">
+                           </i>
+                        </a>
+                    </li>
                  </div>  
-               </div>
-	    
-         </div> 
+              </div>	    
+          </div> 
       </aside>     
   </aside>
 <!--****************************aside*************-->
