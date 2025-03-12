@@ -112,7 +112,7 @@
 <body>
 	
 	<input type="text" class="costom-mybox" placeholder="下天涯个">
-	<input type="text" class="costom-mybox-padding" placeholder=" 下天东方闪电">
+	<input type="text" class="costom-mybox" placeholder=" 下天东方闪电">
 	<div id="complex-border">额饿哦</div>
 </body>
  
