@@ -87,12 +87,12 @@
 		height:100px;
 	}	
 </style><input type="text" placeholder="hku下个">
-<style>	
+<!--style>	
 	.costom-mybox-padding{
 		padding:100px;
 		border:10px solid #ff0000;
 	}
-</style>
+</style-->
 <style>	
 	.complex-border{
 		border-width:2px 3px 3px 2px;
