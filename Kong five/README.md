@@ -79,14 +79,20 @@
       #mybox{
 	   border: 5px solid red; 
       }
+</style>
+	
+<style>	
 	.custom-mybox{
 		width:50%;
 		height:100px;
-	}
+	}	
+</style>
+<style>	
 	.costom-mybox-padding{
 		padding:100px;
 		border:10px solid #ff0000;
 	}
+</style>	
 	.complex-border{
 		border-width:2px 3px 3px 2px;
 		border-stype:solid solid solid solid;
