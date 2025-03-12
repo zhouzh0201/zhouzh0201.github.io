@@ -397,9 +397,15 @@
 <br>
 <br>   
 <br>
- <br>
-      <p>DeepSeek recommend:  k1: Qixiao Jian and Bennett;   k2: David Zhang;  k3:Shaojia Qi;  
-      k4:GuoqingShi;      k5:Xu Weitao </p>  
+
+      <p>DeepSeek recommend: <br>
+	      <a href="https://xjqi.github.io/ ">  k1: Qixiao Jian</a> and <br>  
+              <p>  Dr Mia M  Bennett; No contact information available.</p><br>  
+	      <a href="https://www4.comp.polyu.edu.hk/~csdzhang/ ">k2:David Zhang  </a> <br>  
+	      <a href=" https://qijiashao.github.io/">k3:邵启佳 :Shaojia Qi</a>;  <br>
+              <a href="https://guoqiangshi.github.io/ "> k4:石国强 /Guoqiang SHI</a> ;  <br>    
+	      <a href="https://scholars.cityu.edu.hk/en/persons/weitao-xu(cd193391-0d3a-4f86-92f8-c8ccb92748f2).html">  k5:徐偉濤 Xu Weitao </a>;
+      </p>  
         
 	  <p> <a href="https://xjqi.github.io/ ">Prof.齐小娟/Qixiao Jian <img src="img/琪小娟.jpg" height="50px" style="margin-bottom:-2px"></a> 
            DeepSeek recommend, Dept. of Electrical and Electronic Engineering, HKU,Please email me if you are interested in joining my lab,   
