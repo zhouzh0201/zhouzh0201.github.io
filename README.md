@@ -595,16 +595,17 @@
   $(".kstd-list-li").mouseout(function(){
     $(this).children(":first").css("background-color","#747474");
   });
- </script>
+ </script>	     
 	<div class="t_zz"></div>
+ <br>
+ <br>
+ <br>
  <footer>
     <div class="b_bot">
        <div class="xhe">
           <div class="swiper">
   	    <div class="swiper-wrapper">
-<br>
-<br>
-<br>	  
+	  
                 <small><font color="#ff0000">friendly link</font></small>			 		   
 		<div class="swiper-slide" style="width:50px"> </div>
 		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>              
