@@ -86,7 +86,7 @@
 		width:50%;
 		height:100px;
 	}	
-</style><input type="text" placeholder="hku">
+</style><input type="text" placeholder="hku下个">
 <style>	
 	.costom-mybox-padding{
 		padding:100px;
