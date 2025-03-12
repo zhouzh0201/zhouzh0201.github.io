@@ -1,18 +1,13 @@
- 
-
- 
-<html>
   
+<html>  
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1, user-scalable=no" />
   <title>personal website</title>  <meta name="pageType" content="1">
 <meta name="pageTitle" content="personal website">
 
-
 <META Name="SiteName" Content="personal website" /> 
 <META Name="SiteDomain" Content="zhouzh0201.github.io" />
-
  
   <meta name="description" content="personal website" />
   <link href="css/bootstrap.css" rel="stylesheet"> 
@@ -73,8 +68,7 @@
                 background-size:cover;
 	  }
 	</style>	
-        <!--***********全页面图片背景 over--> 
- 
+        <!--***********全页面图片背景 over-->  
 	       <body>
 		       <!--h4>this is a picture bachground page.</h4-->
 		       <!--***********add*-->
@@ -91,10 +85,8 @@
    <a href="https://zhouzh0201.github.io " class="logo">
     <img src="../img/jianmo3.jpg" class="logo-img"> 
     </a>
-           <!-- 网站logo over -->
-	   
-	      <!--*******-->
-       
+           <!-- 网站logo over -->	   
+	      <!--*******-->       
            <!--navbar 汉堡包 star--> 
 	   
    <!--nav class="navbar navbar-inverse navbar-fixed-top"-->
@@ -275,8 +267,7 @@
          <li><a href="xygk/lsyg.htm">T2</a></li>
          <li><a href="xygk/xrld.htm">T3</a></li>
       </ul>     
-    </li>
-    
+    </li>    
            <!--a href="team">Team</a-->   
            <!--li><a href="teaching">Teaching</a></li-->
            <!--a href="service">Service</a-->   
@@ -287,8 +278,7 @@
          <li><a href="xygk/lsyg.htm">S2</a></li>
          <li><a href="xygk/xrld.htm">S3</a></li>
     </ul>          
- </li>
-	   
+ </li>	   
  <li>
   <a class="dropdown " href="javascript:;" title="CGPWS">kong five</a>      
        <ul class="nav_item fadeInUp">
@@ -297,9 +287,7 @@
          <li><a href="k2">k2</a></li>
          <li><a href="k3">k3</a></li>
          <li><a href="k4">k4</a></li>
-         <li><a href="Kong five/k5">k5</a></li>
-       
-	
+         <li><a href="Kong five/k5">k5</a></li>	
 	         <!--a href="Kong five">kong five</a--> 
       </ul>        
  </li>     
@@ -354,19 +342,13 @@
   <!--img over-->
  <!--网站图片轮播结束-->
  <!--***************ok*****************-->
-
- 
 <br>
 <br>
 <br>
- 
-
  <!----*************------> 
- <aside  style="background-color:#ffff00;width:100%; height:500px;">  
-	
+ <aside  style="background-color:#ffff00;width:100%; height:500px;">  	
 	 <div class="container">
-<br>
- 
+<br> 
          <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
   <div class="container">
 	 <!--div class="profile-content pull-center"--> 
@@ -386,7 +368,6 @@
 </aside>   
 
   <!--*************-->    
- 
   <!--***************ok*****************-->
 <!--****************************aside*************-->	
 <br>
@@ -433,12 +414,6 @@
   </aside>
 <!--****************************aside*************-->
  <!--***************ok*****************-->
-
- 
-
-
-
- 
  <!--hr noshade="#ff0000 "-->
   <!--header class="header"-->
      <!--div class="container"--> 
@@ -448,11 +423,7 @@
           <!--div class="profile-content pull-center" align="center"-->  
           <!--h1 class="name">CGPWB's the page is under construction.......  </h1-->  
           <!--h2 class="desc"> Retiree, enginreering faculty,Wuhan University</h2-->
- <!--***************ok*****************-->
- 
- 
-     
-    
+ <!--***************ok*****************-->    
             <!--ul class="social list-inline"-->   
               
               <!--li data-toggle="tooltip" data-placement="bottom" title="CV">
@@ -477,10 +448,7 @@
                           🟥  <i class="fa fa-envelope"></i>
                         </a>
                  </li-->
-          
-
-
-       
+                 
              <!--li data-toggle="tooltip" data-placement="bottom" title="Email">
                <a  href="mailto:zhouzh@whu.edu.cn"target="_top">
                     
@@ -508,7 +476,6 @@
      <!--/div-->  
    <!--/div-->
      <!--td width="500"-->
-
      
          <!-- ResearchGate:  <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="20px" style="margin-bottom:+5px"> </a>
         
@@ -523,11 +490,8 @@
            
            <br>
            Github:  <a href="https://zhouzh0201.github.io"><img src="github3.png" height="20px" style="margin-bottom:+5px"></a> --> 
-          
-    
-  <!--/div-->
-  
- 
+              
+  <!--/div-->  
 <!--body-->
  <!--div class="profile-content pull-left" align="left"-->  
 <!--p-->
@@ -537,9 +501,7 @@
   <!--/div-->
  <!--div class="profile-content pull-center" align="center"-->  
  
-	 <!--h3> CV</h3-->
- 
-  
+	 <!--h3> CV</h3--> 
 <!--/div-->    
  <!--/div-->  
 
@@ -597,12 +559,9 @@
                  <img src="../img/wf1_jz2.png"  style="width:80%;height:200px;" alt="" class="w100 i0 i2">
                  <img src="new2024/images/f_fl1_dy2s.png" alt="" class="w100 d0 d2">                           </div-->
         
-	<!--***************-->
-      
-                <!--h5><img src="icon-new.png"><font color="blue">scince study </font></h5-->		    
-          
-               <div class="research-swiper">
-           
+	<!--***************-->    
+                <!--h5><img src="icon-new.png"><font color="blue">scince study </font></h5-         
+               <div class="research-swiper">           
               </div>          
                   <div class="cont">
                      <div class="cont-box latest" style="display: block;">
@@ -619,17 +578,11 @@
     </div>
    </div>
  </div>
-
 </section>  
 <!-- over -->
     
 <!--****************************aside*************-->
- <!--***************ok*****************-->
-     
-
- 
- 
- 
+ <!--***************ok*****************--> 
  <!--body-->
    <footer style="background-color:#00ffff;width:100%; height:300px;">
 <div class="bot"><!-- ****** -->
@@ -649,7 +602,9 @@
        <div class="xhe">
           <div class="swiper">
   	    <div class="swiper-wrapper">
-		  
+<br>
+<br>
+<br>	  
                 <small><font color="#ff0000">friendly link</font></small>			 		   
 		<div class="swiper-slide" style="width:50px"> </div>
 		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>              
@@ -726,6 +681,9 @@
          <div align="center">
             <div class="t_zz"></div> 
       <!--small>Copyright &copy 2025 <a href="https://zhouzh0201.github.io/">CGPWB website</a></small-->
+<br>
+<br>
+<br>		 
       <small><a href="https://www.whu.edu.cn/">Wuhan University</a></small>
       <!--small>License ing......</small-->
 		 </div> 
@@ -734,11 +692,8 @@
          </div>  
      </div>  
   </div>  
-</div>  
-
-  
+</div>    
 </footer>
-
 
 <hr noshade="">
 
@@ -760,21 +715,14 @@
 <p>Email：zhouzh@whu.edu.cn</p>
                 </div>
             </div>
-
-
-
         </div>
-
-
         <div class="copy">
             <p><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
 <p>Copyright © 2023-2028 csc </p></p>
         </div>
-
     </div>
 
     <!--底部结束-->
-
 <!--***************************--/>
 
 
