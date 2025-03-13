@@ -725,7 +725,7 @@
 	}
 	</style>
 	<div class="container">
-	<img src="WeChat.png" class="absolute" alt="Example image">
+	<img src="WeChat.png"  height="80px" class="absolute" alt="Example image">
          </div>
                 <div class="footer-us">
                     <h3 class="footer-title"> <span>  Contact us</span></h3>
