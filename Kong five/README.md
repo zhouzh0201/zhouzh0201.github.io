@@ -88,15 +88,7 @@
 <br>
 *** 
 <br>
-**
-
-*** 
-
-**
-
-*** 
-**
-*** 
+ 
 <style>
       #mybox{
 	   border: 5px solid red; 
@@ -104,13 +96,53 @@
 </style>
 <body>
 <div id="mybox">
-	网凸<br>
-	特攻队的<br>
-	太容易<br>
-	人与人<br>
-	复活复活<br>
-	更加广泛<br>
-	附加符号<br>
+<h3><a href="https://www.hku.hk/">The University of Hong Kong</a></h3>
+ <a href=" https://gradsch.hku.hk/prospective_students/research_areas">graduate school</a>,
+	    <a href=" https://extranet.hku.hk/rola/servlet/CreateUserScreen/loginForm">Online Application for PhD</a>
+<div class="index-three">
+           <div class="container">
+              <div class="index-notice">
+                 <div class="index-title  clearfix">
+                    <h5><img src="icon-new.png" /><a href="https://www.cs.hku.hk/"> Department of Computer Science </a> </h5>
+		    </div> 
+
+       <!----*************------>
+  <div class="container">
+     <div class="row"> 
+	<marquee scrolldelay="1" height="50px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
+	K5:Prof DONG, Minjing,	I am looking for self-motivated MPhil/PhD students enrolled in the year of<b> 2026.</b>
+	<!--We are now looking for motivated students, postdoctoral fellows, and research staff to join our team.  The research positions are immediately available! -->
+	 </marquee>
+     
+	</div>
+	
+     </div>
+  <!----*************------>        
+
+    <div class="item">
+                    <ul class=" clearfix">
+                        <li class="active"><a href="https://zhouzh0201.github.io/k1/">26fall admisstion supervisor</a></li>
+                        <!--li><a href="https://zhouzh0201.github.io/k1/">lab&institute</a></li-->
+                        <!--li><a href="k1">research group</a></li-->                      
+                        <!--li><a href="k1">26fall open positions</a></li-->
+                    </ul>
+                 </div>
+   <div class="cont">
+                    <div class="cont-box latest" style="display: block;">
+                        <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>
+               <h3>computer vision</h3>   
+	                 <div class="cont-tel"> 
+<script>_showDynClickBatch(['dynclicks_u7_51461'],[51461],"wbnews", 1852176512)</script>
+     </div> 
+
+     
+
+     </div>
+                 </div>       
+               </div>
+             </div>
+           </div>     
+       </div>   
 </div>
 </body>	
 
@@ -143,7 +175,7 @@
 	
 	<!--input type="text" class="custom-mybox" placeholder="下天涯个"-->
 	<!--input type="text" class="custom-textbox-padding" placeholder=" 下天东方闪电"-->
-	<div id="complex-border">额饿哦</div>
+	<!--div id="complex-border">额饿哦</div-->
 </body>
  
 **
