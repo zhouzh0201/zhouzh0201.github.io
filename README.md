@@ -714,7 +714,19 @@
                 <!-- 底部logo -->
 
   <!-- 联系我们 -->
-
+<style>
+	.container{
+		postion:relative;
+	}
+	.absolute{
+		postion:abslute;
+		foot:50px;
+		right:100px;
+	}
+	</style>
+	<div class="container">
+	<img src="WeChat.png"class="absolute" alt="WeChat">
+         </div>
                 <div class="footer-us">
                     <h3 class="footer-title"> <span>  Contact us</span></h3>
                        <script language="javascript" src="js/mp4video.js"></script>
