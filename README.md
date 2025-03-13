@@ -720,8 +720,8 @@
 	}
 	.absolute{
 		postion:absolute;
-		foot:50px;
-		left:400px;
+		footer:50px;
+		right:400px;
 	}
 	</style>
 	
