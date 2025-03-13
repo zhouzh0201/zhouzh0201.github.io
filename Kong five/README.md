@@ -130,8 +130,17 @@
 	                 <div class="cont-tel"> 
 <script>_showDynClickBatch(['dynclicks_u7_51461'],[51461],"wbnews", 1852176512)</script>
      </div> 
+    <ul class="clearfix">
+      <li>
+         <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">   <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span>  </p>
+        </a>  
+      </li>
+<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
+</ul>              
 
-     
+
+
+
 
      </div>
                  </div>       
