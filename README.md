@@ -721,15 +721,18 @@
 	.absolute{
 		postion:absolute;
 		foot:50px;
-		right:100px;
+		left:100px;
 	}
 	</style>
-	<div class="container">
-	<img src="WeChat.png"  height="80px" class="absolute" alt="Example image">
-         </div>
+	
                 <div class="footer-us">
                     <h3 class="footer-title"> <span>  Contact us</span></h3>
+		
+        <div class="container">
+	<img src="WeChat.png"  height="80px" class="absolute" alt="Example image">
+         </div>    
                        <script language="javascript" src="js/mp4video.js"></script>
+		       
 <p>  
 	 <li> <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" width="40px"  height="40px" style="margin-bottom:-2px"></a></li>
          <li>  <a href=" "><img src="WeChat.png " height="40px" style="margin-bottom:+5px"></a></li>
