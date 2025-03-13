@@ -721,7 +721,7 @@
 	.absolute{
 		postion:absolute;
 		foot:50px;
-		left:100px;
+		left:400px;
 	}
 	</style>
 	
