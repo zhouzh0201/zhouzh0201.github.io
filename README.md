@@ -714,23 +714,12 @@
                 <!-- 底部logo -->
 
   <!-- 联系我们 -->
-<style>
-	.container{
-		postion:relative;
-	}
-	.absolute{
-		postion:absolute;
-		footer:50px;
-		right:50px;
-	}
-	</style>
+
 	
                 <div class="footer-us">
                     <h3 class="footer-title"> <span>  Contact us</span></h3>
 		
-        <div class="container">
-	<img src="WeChat.png"  height="80px" class="absolute" alt="Example image">
-         </div>    
+     
                        <script language="javascript" src="js/mp4video.js"></script>
 		       
 <p>  
@@ -747,6 +736,21 @@
                 </div>
             </div>
         </div>
+<style>
+	.container{
+		postion:relative;
+	}
+	.absolute{
+		postion:absolute;
+		footer:50px;
+		right:50px;
+	}
+	</style>
+ 
+   <div class="container">
+	<img src="WeChat.png"  height="80px" class="absolute" alt="Example image">
+         </div>    
+ 
         <div class="copy">
             <p><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
 <p>Copyright © 2023-2028 csc </p></p>
