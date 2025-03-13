@@ -719,13 +719,13 @@
 		postion:relative;
 	}
 	.absolute{
-		postion:abslute;
+		postion:absolute;
 		foot:50px;
 		right:100px;
 	}
 	</style>
 	<div class="container">
-	<img src=" "class="absolute" alt="">
+	<img src="WeChat.png" class="absolute" alt="Example image">
          </div>
                 <div class="footer-us">
                     <h3 class="footer-title"> <span>  Contact us</span></h3>
