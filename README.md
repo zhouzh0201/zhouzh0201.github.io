@@ -725,7 +725,7 @@
 	}
 	</style>
 	<div class="container">
-	<img src="WeChat.png"class="absolute" alt="WeChat">
+	<img src=" "class="absolute" alt="">
          </div>
                 <div class="footer-us">
                     <h3 class="footer-title"> <span>  Contact us</span></h3>
