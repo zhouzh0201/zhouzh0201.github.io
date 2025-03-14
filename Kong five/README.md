@@ -7,8 +7,8 @@
   <!--meta name=keywords content= "WHU", "Wuhan University", "武汉大学", -->
   <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
   <title>zhouzhonghong - Wuhan University</title>
-   <link href="css/bootstrap.css " rel="stylesheet" />
-   <link href="css/xin.css" rel="stylesheet" />
+   <link href="../css/bootstrap.css " rel="stylesheet" />
+   <link href="../css/xin.css" rel="stylesheet" />
 
 </head>  
 <body>
