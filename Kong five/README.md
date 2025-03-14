@@ -990,6 +990,6 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 
  <div align="center">
 <script src="../static/jquery.js"></script>
-<script src="../static/bootstrap/js/bootstrap.js"></script>
+<script src="../js/bootstrap.js "></script>
  </div>
  
