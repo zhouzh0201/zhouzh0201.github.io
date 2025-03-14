@@ -91,7 +91,7 @@
       }
 
 	.container{
-		width:90%;height:100px;
+		width:90%;
 	}
 </style>
 <body>
