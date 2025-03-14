@@ -989,7 +989,7 @@ To PhD applicants: please follow the procedure stated <a href="https://dbgroup.c
 </body>
 
  <div align="center">
-<script src="../static/jquery.js"></script>
+<script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js "></script>
  </div>
  
