@@ -14,8 +14,8 @@
 <body>
   <title>Kong Five</title>
   
-  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
-  <link href="../static/xin.css" rel="stylesheet">
+  <!--link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet"-->
+  <!--link href="../static/xin.css" rel="stylesheet"-->
 
 <!--/head-->
 <body>
@@ -89,9 +89,14 @@
       #mybox{
 	   border: 5px solid red; 
       }
+
+	.container{
+		width:90%;height:500px;
+	}
 </style>
 <body>
 <div id="mybox">
+	<div class="container">
 <h3><a href="https://www.hku.hk/">The University of Hong Kong</a></h3>
  <a href=" https://gradsch.hku.hk/prospective_students/research_areas">graduate school</a>,
 	    <a href=" https://extranet.hku.hk/rola/servlet/CreateUserScreen/loginForm">Online Application for PhD</a>
@@ -111,8 +116,8 @@
 	 </marquee>
      
 	</div>
-	
-     </div>
+      </>div
+    </div>
   <!----*************------>        
 
     <div class="item">
