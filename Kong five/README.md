@@ -193,7 +193,7 @@
 <div id="hisbox">
 	<div class="container">
   <ul class="clearfix">                  
- <li>
+  <li>
      <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB"> 
          <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span> 
          </p>
@@ -206,14 +206,12 @@
      <li><a href="https://www.dvlab.ai/ "> Deep Vision Lab (DVLab) </a> <font color="#ff0000">Deep Vision Lab （DVLab） </font>.is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.   <span>2025.03.05  </span> </li>
      <li><a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a> . <a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab</a>,<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:<a href="https://aiot.hku.hk/openings/"><i class="fa fa-hand-point-right"></i> Prospective Students</a></font>.  <span>2025.03.05 </span>  </li> 
 
+     
+  
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
 </ul>                       
                       </div>
-                   </div>       
-               </div>
-            </div>
-        </div>       
-    </div>             
+                   </div>                   
   </body>
   
   <!--1.2.%%%%%%%%%-->
@@ -223,41 +221,7 @@
    <div class="container">
    
     <!--1.1 %%%%%%%%%-->
-     <div class="index-three">
-           <div class="container">
-              <div class="index-notice">
-               
-      
-                
-                
-
-                 <div class="cont">
-                    <div class="cont-box latest" style="display: block;">
-                       
-	                 <div class="cont-tel"> 
-<script>_showDynClickBatch(['dynclicks_u7_51461'],[51461],"wbnews", 1852176512)</script>
-                      </div> 
-    <ul class="clearfix">                  
- <li>
-     <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB"> 
-         <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span> 
-         </p>
-     </a>  
-  </li>        
-     
-     <li> <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB"> 马毅/Ma, Yi </a> <font color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,Inaugural Director of Institute of Data Science (IDS), the University of Hong Kong.</font> <span>2025.02.15 </span>         </li>  
-      <li> <a href="https://datascience.hku.hk/" target="_blank" title="CGPWB">  马毅/Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS),  </a> <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>. <span>2025.02.15 </span>       </li>          
-      <li><a href="https://datascience.hku.hk/ "> HKU Institute of Data Science (HKU-IDS) </a> <font color="#ff0000">HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision, </font>.Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision   <span>2025.03.05  </span>  </li> 
-     <li><a href="https://www.dvlab.ai/ "> Deep Vision Lab (DVLab) </a> <font color="#ff0000">Deep Vision Lab （DVLab） </font>.is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.   <span>2025.03.05  </span> </li>
-     <li><a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a> . <a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab</a>,<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:<a href="https://aiot.hku.hk/openings/"><i class="fa fa-hand-point-right"></i> Prospective Students</a></font>.  <span>2025.03.05 </span>  </li> 
-
-<script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
-</ul>                       
-                      </div>
-                 </div>       
-               </div>
-             </div>
-           </div>     
+   
        </div>  
              <!--1.2.%%%%%%%%%-->
 	      
