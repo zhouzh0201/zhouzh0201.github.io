@@ -172,7 +172,7 @@
 <style>	
 	.custom-textbox-padding{
 		padding:300px;
-		border:10px; solid :blak;        
+		border:10px; solid :black;        
 	}
 	.container{
 		width:90%;
