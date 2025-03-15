@@ -195,10 +195,10 @@
  
 	<!--input type="text" class="custom-mybox" placeholder="下天涯个"-->
 
-	 <!--div class="container">
+	 <!--div class="container"-->
 	<!--input type="text" class="custom-textbox-padding" placeholder=" "-->
- <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">   <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span>  </p>
-   </a>  
+ <!--a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">   <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span>  </p>
+   </a-->  
  
  
  
@@ -208,7 +208,7 @@
 
   
 
-</div-->
+<!--/div-->
  
 	<!--div id="complex-border">额饿哦</div-->
 </body>
