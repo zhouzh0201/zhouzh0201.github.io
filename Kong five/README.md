@@ -92,12 +92,14 @@
 
 	.container{
 		width:90%;
+		margin:5px;
+		padding:5px;
 	}
 </style>
 <body>
 <div id="mybox">
 	<div class="container">
-<h3><a href="https://www.hku.hk/">The University of Hong Kong</a></h3>
+<h5><a href="https://www.hku.hk/">The University of Hong Kong</a></h5>
  <a href=" https://gradsch.hku.hk/prospective_students/research_areas">graduate school</a>,
 	    <a href=" https://extranet.hku.hk/rola/servlet/CreateUserScreen/loginForm">Online Application for PhD</a>
 <div class="index-three">
@@ -122,7 +124,10 @@
 
     <div class="item">
                     <ul class=" clearfix">
-                        <li class="active"><a href="https://zhouzh0201.github.io/k1/">26fall admisstion supervisor</a></li>
+                        <li class="active"><a href="https://zhouzh0201.github.io/k1/">26fall admisstion supervisor</a>
+			 <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>
+                        </li>
+			
                         <!--li><a href="https://zhouzh0201.github.io/k1/">lab&institute</a></li-->
                         <!--li><a href="k1">research group</a></li-->                      
                         <!--li><a href="k1">26fall open positions</a></li-->
@@ -130,16 +135,15 @@
                  </div>
    <div class="cont">
                     <div class="cont-box latest" style="display: block;">
-                        <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>
-               <h3>computer vision</h3>   
+               <h5>computer vision</h5>   
 	                 <div class="cont-tel"> 
 <script>_showDynClickBatch(['dynclicks_u7_51461'],[51461],"wbnews", 1852176512)</script>
      </div> 
     <ul class="clearfix">
-      <li>
+      <!--li>
          <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">   <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span>  </p>
         </a>  
-      </li>
+    </li-->
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
 </ul>              
 
