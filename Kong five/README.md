@@ -172,7 +172,8 @@
 <style>	
 	.custom-textbox-padding{
 		padding:300px;
-		border:10px solid #ff0000;
+		border:10px; solid :
+	        color:#ff0000;
 	}
 </style-->
 
@@ -188,7 +189,23 @@
 <body>
 	
 	<!--input type="text" class="custom-mybox" placeholder="下天涯个"-->
-	<input type="text" class="custom-textbox-padding" placeholder=" 下天东方闪电">
+
+ 
+	<div class="container">
+	<input type="text" class="custom-textbox-padding" placeholder="
+ 
+ 
+ 下天东方闪电
+ 
+ 
+ 
+ 
+ 
+ ">
+
+
+</div>
+ 
 	<!--div id="complex-border">额饿哦</div-->
 </body>
  
