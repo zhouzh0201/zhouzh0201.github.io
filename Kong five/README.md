@@ -92,7 +92,7 @@
 
 	.container{
 		width:90%;
-		margin:5px;
+		 
 		padding:5px;
 	}
 </style>
@@ -160,26 +160,9 @@
   </div>
 </body>	
 
-<!--8888888888888888888888-->
-<style>	
-	input[type="text"]{
-		width:50%;
-		height:100px;
-	}	
-<!--/style><input type="text" placeholder="hku下个"-->
-
+ 
 <!--$$$$$$$$$$$$$$$$$$$$$$$$$$$-->
-<style>	
-	.custom-textbox-padding{
-		padding:300px;
-		border:10px; solid :black;        
-	}
-	.container{
-		width:90%;
-		margin:5px;
-		padding:5px;
-	}
-</style-->
+ 
 
 
 <style>	
@@ -191,24 +174,6 @@
 </style>
 
 <body>
-	
- 
-	<!--input type="text" class="custom-mybox" placeholder="下天涯个"-->
-
-	 <!--div class="container"-->
-	<!--input type="text" class="custom-textbox-padding" placeholder=" "-->
- <!--a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB">   <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span>  </p>
-   </a-->  
- 
- 
- 
- 
- 
- 
-
-  
-
-<!--/div-->
  
 	<!--div id="complex-border">额饿哦</div-->
 </body>
@@ -219,48 +184,23 @@
   
  <body>
    <div class="container">
-     <div class="region"> <h3><a href="https://www.hku.hk/">The University of Hong Kong</a></h3></div>
-      <!--div class="region <h3>The Hong Kong Polytechnic University  </h3></div-->
-     <!--div class="region">HKU  Department of Electrical and Electronic Engineering</div-->
-         <a href=" https://gradsch.hku.hk/prospective_students/research_areas">graduate school</a>,
-	    <a href=" https://extranet.hku.hk/rola/servlet/CreateUserScreen/loginForm">Online Application for PhD</a>,
+   
     <!--1.1 %%%%%%%%%-->
      <div class="index-three">
            <div class="container">
               <div class="index-notice">
-                 <div class="index-title  clearfix">
-                    <h5><img src="icon-new.png"><a href="https://www.cs.hku.hk/"> Department of Computer Science </a> </h5>
-		    </div> 
-         <!----*************------>
-  <div class="container">
-     <div class="row"> 
-	<marquee scrolldelay="1" height="50px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
-	K5:Prof DONG, Minjing,	I am looking for self-motivated MPhil/PhD students enrolled in the year of<b> 2026.</b>
-	<!--We are now looking for motivated students, postdoctoral fellows, and research staff to join our team.  The research positions are immediately available! -->
-	 </marquee>
-     
-	</div>
-	
-     </div>
-  <!----*************------>                  
+               
+      
                 
-                 <div class="item">
-                    <ul class=" clearfix">
-                        <li class="active"><a href="https://zhouzh0201.github.io/k1/">26fall admisstion supervisor</a></li>
-                        <!--li><a href="https://zhouzh0201.github.io/k1/">lab&institute</a></li-->
-                        <!--li><a href="k1">research group</a></li-->                      
-                        <!--li><a href="k1">26fall open positions</a></li-->
-                    </ul>
-                 </div>
+                
 
                  <div class="cont">
                     <div class="cont-box latest" style="display: block;">
-                        <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>
-               <h3>computer vision</h3>   
+                       
 	                 <div class="cont-tel"> 
 <script>_showDynClickBatch(['dynclicks_u7_51461'],[51461],"wbnews", 1852176512)</script>
-     </div> 
-                        <ul class="clearfix">
+                      </div> 
+                     
  <li>
      <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB"> 
          <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span> 
