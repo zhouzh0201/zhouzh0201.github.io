@@ -190,9 +190,9 @@
 	
 	<!--input type="text" class="custom-mybox" placeholder="下天涯个"-->
 
- 
+ <div id="mybox">
 	<div class="container">
-	<input type="text" class="custom-textbox-padding" placeholder="
+	<!--input type="text" class="custom-textbox-padding" placeholder=" "-->
  
  
  下天东方闪电
@@ -201,11 +201,11 @@
  
  
  
- ">
 
 
-</div>
- 
+
+  </div>
+ </div>
 	<!--div id="complex-border">额饿哦</div-->
 </body>
  
