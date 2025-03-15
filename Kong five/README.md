@@ -105,9 +105,7 @@
 <div class="index-three">
            <div class="container">
               <div class="index-notice">
-                 <div class="index-title  clearfix">
-                    <h5><img src="icon-new.png" /><a href="https://www.cs.hku.hk/"> Department of Computer Science </a> </h5>
-		    </div> 
+             
 
        <!----*************------>
   <div class="container">
@@ -192,7 +190,13 @@
  <body>
 <div id="hisbox">
 	<div class="container">
-  <ul class="clearfix">                  
+<div class="index-title  clearfix">
+                    <h5><img src="icon-new.png" /><a href="https://www.cs.hku.hk/"> Department of Computer Science </a> </h5>
+		    </div> 
+  
+  <ul class="clearfix">    
+
+   
   <li>
      <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB"> 
          <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span> 
