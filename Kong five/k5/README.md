@@ -6,14 +6,12 @@
    <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
   <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
   <title>zhouzhonghong - Wuhan University</title>
-    <link href="../css/bootstrap.css " rel="stylesheet" />
-     <link href="../css/xin.css" rel="stylesheet" />
+    <link href="../../css/bootstrap.css " rel="stylesheet" />
+     <link href="../../css/xin.css" rel="stylesheet" />
 </head>  
 <!--****************-->
 <body>
   <title>k5</title>
-  <link href="../../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-  <link href="../../static/xin.css" rel="stylesheet" />
   
 <body>
   <nav class="navbar navbar-inverse navbar-fixed-top">
