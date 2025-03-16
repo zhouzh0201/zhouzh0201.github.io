@@ -7,8 +7,10 @@
   <!--meta name=keywords content= "WHU", "Wuhan University", "武汉大学",-->
   <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
   <title>zhouzhonghong - Wuhan University</title>
-   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
+   <link href="../  " rel="stylesheet" />
    <link href="../static/xin.css" rel="stylesheet" />
+   <link href="../css/bootstrap.css " rel="stylesheet" />
+   <link href="../css/xin.css" rel="stylesheet" />
 
 </head>  
 <body>
@@ -299,12 +301,13 @@ Honorary Assistant Professor, Department of Geography, HKU  </h3>
 
  <div align="center">
   
-</div>  
+
 <script src="../static/jquery.js"></script>
 <script src="../static/bootstrap/js/bootstrap.js"></script>
 
- 
-
+ <script src="../js/jquery.js"></script>
+<script src="../js/bootstrap.js "></script>
+</div>  
 
       
     
