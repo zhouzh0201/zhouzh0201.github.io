@@ -15,9 +15,7 @@
 <body>
   <title>k1</title>
   
-  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-  <link href="../static/xin.css" rel="stylesheet" />
-
+ 
 <!--/head-->
 <body>
   <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -52,7 +50,17 @@
   </nav> 
 </body>
  
+<style>
+      #mybox{
+	   border: 5px solid red; 
+      }
 
+	.container{
+		width:90%;
+		 
+		padding:5px;
+	}
+</style>
  
   <div class="container" style="margin-top: 50px;">
      
