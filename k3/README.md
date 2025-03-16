@@ -6,15 +6,14 @@
    <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
   <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
   <title>zhouzhonghong - Wuhan University</title>
-   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-   <link href="../static/xin.css" rel="stylesheet" />
+   <link href="../css/bootstrap.css " rel="stylesheet" />
+   <link href="../css/xin.css" rel="stylesheet" />
+ 
 </head>  
 <!--****************-->
 <body>
   <title>k3</title>
-  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-  <link href="../static/xin.css" rel="stylesheet" />
-  
+ 
 <body>
   <nav class="navbar navbar-inverse navbar-fixed-top">
    <nav style="background-color:#00ff00;hieght:120px;">
@@ -46,7 +45,19 @@
      </div>
    </nav>
   </nav> 
-</body>
+</body
+<style>
+      #mybox{
+	   border: 5px solid red; 
+      }
+
+	.container{
+		width:90%;
+		 
+		padding:5px;
+	}
+</style>
+ 
 <!--****************-->
 <div class="container" style="margin-top: 50px;"> 
    <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
@@ -463,9 +474,10 @@ Ph.D. and Postdoctoral Associate positions in Bioinformatics, Computational Biol
         <small><a href="https://www.whu.edu.cn/">Wuhan University 武汉大学</a></small>
    </div>
    
-<script src="../static/jquery.js"></script>
-<script src="../static/bootstrap/js/bootstrap.js"></script>
-
+ <div align="center">
+<script src="../js/jquery.js"></script>
+<script src="../js/bootstrap.js "></script>
+ </div> 
   
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
