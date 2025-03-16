@@ -6,8 +6,8 @@
    <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
   <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
   <title>zhouzhonghong - Wuhan University</title>
-   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-   <link href="../static/xin.css" rel="stylesheet" />
+    <link href="../css/bootstrap.css " rel="stylesheet" />
+     <link href="../css/xin.css" rel="stylesheet" />
 </head>  
 <!--****************-->
 <body>
@@ -47,7 +47,19 @@
    </nav>
   </nav> 
 </body>
-<!--****************-->
+<!--****************-->  
+<style>
+      #hisbox{
+	   border: 5px solid blue; 
+      }
+
+	.container{
+		width:90%;
+		 
+		padding:5px;
+	}
+</style>
+
 <div class="container" style="margin-top: 50px;"> 
    <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
   <p> <a href="https://www.cityu.edu.hk/"> k5  City University of Hong Kong(CityUHK)</a>,</p>  
@@ -120,6 +132,10 @@
  <div class="centers">
      <ul class=" clearfix"> 
      </ul>
+ </div>
+<div align="center">
+<script src="../js/jquery.js"></script>
+<script src="../js/bootstrap.js "></script>
  </div>
 
   <div align="center">
