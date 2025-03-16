@@ -12,8 +12,8 @@
 <!--****************-->
 <body>
   <title>k5</title>
-  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-  <link href="../static/xin.css" rel="stylesheet" />
+  <link href="../../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
+  <link href="../../static/xin.css" rel="stylesheet" />
   
 <body>
   <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -134,8 +134,8 @@
      </ul>
  </div>
 <div align="center">
-<script src="../js/jquery.js"></script>
-<script src="../js/bootstrap.js "></script>
+<script src="../../js/jquery.js"></script>
+<script src="../../js/bootstrap.js "></script>
  </div>
 
   <div align="center">
