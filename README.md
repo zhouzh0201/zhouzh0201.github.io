@@ -723,8 +723,9 @@
                        <script language="javascript" src="js/mp4video.js"></script>
 		       
 <p>  
-	 <li> <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" width="40px"  height="40px" style="margin-bottom:-2px"></a></li>
-         <li>  <a href=" "><img src="WeChat.png " height="40px" style="margin-bottom:+5px"></a></li>
+	  <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" width="40px"  height="40px" style="margin-bottom:-2px"></a> 
+          <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="40px" style="margin-bottom:-2px"> </a>
+	  <a href="https://zhouzh0201.github.io"><img src="github3.png" height="40px" style="margin-bottom:-2px"></a>  
 	 <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
                          <img src= "email.jpeg" height="40px"><i class="fa fa-envelope"></i>
