@@ -7,18 +7,15 @@
   <!--meta name=keywords content= "WHU", "Wuhan University", "武汉大学", -->
   <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
   <title>zhouzhonghong - Wuhan University</title>
-   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-   <link href="../static/xin.css" rel="stylesheet" />
-
  
+
+  <link href="../css/bootstrap.css " rel="stylesheet" />
+   <link href="../css/xin.css" rel="stylesheet" />
  
 </head>  
 <body>
   <title>k2</title>
-  
-  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-  <link href="../static/xin.css" rel="stylesheet" />
-
+ 
 <!--/head-->
 <body>
   <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -52,7 +49,17 @@
    </nav>
   </nav> 
 </body>
+<style>
+      #mybox{
+	   border: 5px solid red; 
+      }
 
+	.container{
+		width:90%;
+		 
+		padding:5px;
+	}
+</style>
 <div class="container" style="margin-top: 50px;"> 
 	
   <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
@@ -211,15 +218,16 @@ Solid State Electronics & Photonics Group:<br/>
 <!-- <div align="center">
   
 </div> -->
-<script src="../static/jquery.js"></script>
-<script src="../static/bootstrap/js/bootstrap.js"></script>
-
  
+  <div align="center">
+<script src="../js/jquery.js"></script>
+<script src="../js/bootstrap.js "></script>
+ </div>
 
 
 
       
-    </div>
+   </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
