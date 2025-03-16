@@ -6,8 +6,8 @@
    <meta name="google-site-verification" content="4aUJl2I7hcddtjYkcxpnrotZMt3zwgFPboCdEiZsUc0" />
   <link href="https://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" />
   <title>zhouzhonghong - Wuhan University</title>
-   <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" />
-   <link href="../static/xin.css" rel="stylesheet" />
+   <link href="../css/bootstrap.css " rel="stylesheet" />
+   <link href="../css/xin.css" rel="stylesheet" />
 </head>  
 <!--****************-->
 <body>
@@ -46,7 +46,19 @@
      </div>
    </nav>
   </nav> 
-</body>
+</body>  
+<style>
+      #mybox{
+	   border: 5px solid red; 
+      }
+
+	.container{
+		width:90%;
+		 
+		padding:5px;
+	}
+</style>
+
 <!--****************-->
 <div class="container" style="margin-top: 50px;"> 
    <h4>Applying for a PhD 25-26 fall looking for PhD supervisor</h4>
@@ -229,6 +241,10 @@ Looking for highly-motivated PhD students and Postdoctoral Fellows for 2025.</fo
  </div>
 
  <hr noshade="" /> 
+<div align="center">
+<script src="../js/jquery.js"></script>
+<script src="../js/bootstrap.js "></script>
+ </div>
  <hr noshade="" /> 
  
  <div align="center">
