@@ -633,9 +633,9 @@
           <div class="swiper">
   	    <div class="swiper-wrapper">
                 <font color="#ff0000">friendly link</font>			 		   
-		<div class="swiper-slide" style="width:80px"> </div>
+		<div class="swiper-slide" style="width:40px"> </div>
 		<small><a href="https://gs.whu.edu.cn"> <img src="img/whu.png" width="40px" height="40px" style="margin-bottom:30px">WHU</a> </small>  	 	    
-		<div class="swiper-slide" style="width:80px"></div>	
+		<div class="swiper-slide" style="width:40px"></div>	
 		<small> <a href=" https://www.csc.edu.cn"> <img src=" img/th.png" width="40px" height="40px" style="margin-bottom:30px">CSC</a></small> 
 		    
                </div>			
