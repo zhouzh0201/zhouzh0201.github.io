@@ -349,18 +349,19 @@
  <aside  style="background-color:#ffff00;width:100%; height:500px;">  	
 	 <div class="container">
 <br> 
-         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong">
+         <img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong" align="left">
   <div class="container">
 	 <!--div class="profile-content pull-center"--> 
          </div> 
 	     <!--******多段动画字幕star*******-->  
 	<div class="row">      
 	<marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
-	<!--h4> The page is under construction.......</h4-->  
-        <h5>  K1 Prof. Yanchao Yang ,Ph.D. students postdocs and interns, </h5>
+	<h4> The page is under construction.......</h4>  
 	 </marquee>
-       <marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
-	<h5>applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h5>
+	   </div>	
+	<div class="row">	
+       <marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(0,255,255,1.00); text-transform: uppercase;">
+	  <h4>  K1 Prof. Yanchao Yang ,Ph.D. students postdocs and interns, applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h4>
 	 </marquee>
         </div>
                <!--******动画字幕over*******-->   
@@ -725,7 +726,7 @@
 <p>  
 	  <a href="https://jszy.whu.edu.cn/zhouzh/zh_CN/index.htm"> <img src="www.jpg" width="40px"  height="40px" style="margin-bottom:-2px"></a> 
           <a href="https://researchgate.net/profile/zhou-zhonghong"><img src="RG.png" height="40px" style="margin-bottom:-2px"> </a>
-	  <a href="https://zhouzh0201.github.io"><img src="github3.png" height="40px" style="margin-bottom:-2px"></a>  
+	  <a href="https://github.com/zhouzh0201 "><img src="github3.png" height="40px" style="margin-bottom:-2px"></a>  
 	 <li data-toggle="tooltip" data-placement="bottom" title="Email">
                         <a class="email-btn" href="mailto:zhouzh@whu.edu.cn" target="_top">
                          <img src= "email.jpeg" height="40px"><i class="fa fa-envelope"></i>
