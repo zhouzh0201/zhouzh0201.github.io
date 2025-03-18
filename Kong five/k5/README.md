@@ -116,7 +116,7 @@
        
      
        <li><img src= "../../k2/redball.gif"/><a href="https://www.cityu.edu.hk/stfprofile/cplau27.htm">刘振邦/Samuel Chun Pong LAU</a><font color="#ff0000">Openings:I am looking for highly motivated Ph.D. students with a background in computer science, data science, mathematics, statistics or related fields. Please send your CV and transcript(s) to cplau27@cityu.edu.hk if you are interested.</font>Research Interest: Machine Learning, Computer Vision, Biometrics, Adversarial Robustness, Generative AI, Scientific Computing, 
-   <p> Selected Publications / Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection/分段和完整：使用强大的补丁检测保护对象检测器免受对抗性补丁攻击/</p></li> 
+   <p> Selected Publications / Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection/ </p></li> 
        
        <li><img src="../../k2/redball.gif"/><a href=" "></a><font color="#ff0000"></font></li>
        <li><img src="../../k2/redball.gif"/><a href=" "></a><font color="#ff0000"></font></li>
