@@ -347,7 +347,7 @@
 <br>
  <!----*************------> 
  <aside  style="background-color:#ffff00;width:100%; height:500px;">  	
-	 <!--div class="container"-->
+	 <div class="container">
 <body>
 	<br>
         
@@ -359,26 +359,26 @@
       
 	<div class="row">      
 	<marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
-	<h4> The page is under construction.......</h4>  
+	  The page is under construction.......   
 	 </marquee>
 	   </div>
 	 </div> 
    <div class="container">
 	<div class="row">	
        <marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(0,255,255,1.00); text-transform: uppercase;">
-	  <h4>  K1 Prof. Yanchao Yang ,Ph.D. students postdocs and interns,</h4>  
+	   K1 Prof. Yanchao Yang ,Ph.D. students postdocs and interns, 
 	 </marquee>
         </div> 
 	</div>
  <div class="container">
 	   <div class="row">	
        <marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(0,255,255,1.00); text-transform: uppercase;">
-	  <h4> applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</h4>
+	  applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025. 
 	 </marquee>
         </div>
        </div> 
       </body>           <!--******动画字幕over*******-->   
-   
+    </div>
  
 </aside>   
 
