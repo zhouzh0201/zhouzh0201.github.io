@@ -634,9 +634,9 @@
   	    <div class="swiper-wrapper">
                 <font color="#ff0000">friendly link</font>			 		   
 		<div class="swiper-slide" style="width:20px"> </div>
-		<small><a href="https://gs.whu.edu.cn"> <img src="img/f_logo.png" width="40px" height="40px" style="margin-bottom:-2px">graduate school of Wuhan University</a> </small>  	 	    
+		<small><a href="https://gs.whu.edu.cn"> <img src="img/f_logo.png" width="40px" height="40px" style="margin-bottom:20px">WHU</a> </small>  	 	    
 		<div class="swiper-slide" style="width:10px"></div>	
-		<small> <a href=" https://www.csc.edu.cn">CSC</a></small> 
+		<small> <a href=" https://www.csc.edu.cn"> <img src="img/留学.png" width="40px" height="40px" style="margin-bottom:20px">CSC</a></small> 
 		    
                </div>			
              </div>
