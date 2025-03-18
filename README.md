@@ -632,7 +632,7 @@
        <div class="xhe">
           <div class="swiper">
   	    <div class="swiper-wrapper">
-                <small><font color="#ff0000">friendly link</font></small>			 		   
+                <font color="#ff0000">friendly link</font>			 		   
 		<div class="swiper-slide" style="width:20px"> </div>
 		<small><a href="https://gs.whu.edu.cn">graduate school of Wuhan University</a> </small>              		 
 		<div class="swiper-slide" style="width:10px"></div>	
