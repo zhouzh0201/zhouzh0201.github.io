@@ -575,7 +575,7 @@
  <!--/head--> 
     <body>
       <div> 
-     <img src="../img/wf1_jz2.png" style="width:130%; height:600px;"  alt=""/>
+     <img src="../img/wf1_jz2.png" style="width:130%; height:400px;"  alt=""/>
         <h6> <a href="https://zhouzh0201.github.io/Kong%20five/"><img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a>
 <br>		
  <p> Faculty of Social Sciences.Department of Geography,
@@ -589,7 +589,8 @@
     </div>
     </body>
  <!--***********图片背景上加文字图片over-->
-    
+    <br>
+     <br>
 	 <!--img src="../img/wf1_jz2.png" style="width:100%; height:100px;"-->  
        <!--h4> <a href= "https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h4-->
           
@@ -694,7 +695,8 @@
    </div>  
  </footer> 
 <!--hr noshade=""-->
-
+ <br>
+  <br>
 <footer style="background-color:#0000ff;width:100%; height:300px;">
 <div class="bot"><!-- ****** -->
   <div class="container">
