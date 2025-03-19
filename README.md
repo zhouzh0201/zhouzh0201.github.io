@@ -344,7 +344,7 @@
  <!--***************ok*****************-->
 <br>
 <br>
-<br>
+ 
  <!----*************------> 
  <aside  style="background-color:#ffff00;width:100%; height:500px;">  	
 	 <div class="container">
@@ -411,7 +411,7 @@
  <br>                	 		  
 <br>
 <br>   
- <br>  
+ 
         
       <p>DeepSeek recommend:  <span>2025.03.11</span>  <br>          
 	      <a href="https://xjqi.github.io/ ">  k1:齐小娟/ Qixiao Jian</a> and  
@@ -592,9 +592,7 @@
     </body>
  <!--***********图片背景上加文字图片over-->
     <br>
-     <br>
-       <br>
-        
+    
         
  
 	 <!--img src="../img/wf1_jz2.png" style="width:100%; height:100px;"-->  
@@ -629,8 +627,8 @@
 </section>  
 <!-- over -->
       <br>
-         <br>
-	   <br>
+       
+	    
    
   
 <!--****************************aside*************-->
@@ -706,8 +704,8 @@
  </footer> 
 <!--hr noshade=""-->
  <br>
-  <br>
-    <br>
+ 
+  
    
 <footer style="background-color:#0000ff;width:100%; height:300px;">
 <div class="bot"><!-- ****** -->
@@ -747,7 +745,7 @@
 </footer>
 
  <br>
- <br>
+ 
  
      
  <!--底部开始-->
