@@ -640,25 +640,7 @@
  </div>
 </section>  
 <!-- over -->
-    
-<!--****************************aside*************-->
- <!--***************ok*****************--> 
- <!--body-->
-   <footer style="background-color:#00ffff;width:100%; height:300px;">
-<div class="bot"><!-- ****** -->
-   <div class="container">
-     <div class="footer-footer">
- <script type="text/javascript">
-  $(".kstd-list-li").mouseover(function(){
-    $(this).children(":first").css("background-color","#00ffff");
-  });
-  $(".kstd-list-li").mouseout(function(){
-    $(this).children(":first").css("background-color","#747474");
-  });
- </script>	     
-	
-	     <div class="t_zz"></div>
- <br>
+   <br>
   <br>
      <br>
        <br>
@@ -678,7 +660,25 @@
         <br>
 	  <br>
      <br>
-       <br>
+       <br> 
+<!--****************************aside*************-->
+ <!--***************ok*****************--> 
+ <!--body-->
+   <footer style="background-color:#00ffff;width:100%; height:300px;">
+<div class="bot"><!-- ****** -->
+   <div class="container">
+     <div class="footer-footer">
+ <script type="text/javascript">
+  $(".kstd-list-li").mouseover(function(){
+    $(this).children(":first").css("background-color","#00ffff");
+  });
+  $(".kstd-list-li").mouseout(function(){
+    $(this).children(":first").css("background-color","#747474");
+  });
+ </script>	     
+	
+	     <div class="t_zz"></div>
+ 
  <footer>
     <div class="b_bot">
        <div class="xhe">
