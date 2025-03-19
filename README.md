@@ -434,12 +434,7 @@
                            </i>
                         </a>                   
 		    </li>
-     <p> Faculty of Social Sciences.Department of Geography,
-                computer vision/Remote Sensing Image Processing.</p>
-		 <li><a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a> <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font>  <span>2025.03.06</span> </li>
-    <li><a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows)<span>2025.03.06</span></li>
-    <li><a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a><font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> <span>2025.03.06</span></li>
-	<li><a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a><font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font><span>2025.03.06</span></li>
+   
    	 
 		 </div>  
               </div>	    
@@ -582,6 +577,7 @@
       <div> 
      <img src="../img/wf1_jz2.png" style="width:120%; height:400px;"  alt=""/>
         <h4> <a href="https://zhouzh0201.github.io/Kong%20five/"><img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a>
+<br>		
  <p> Faculty of Social Sciences.Department of Geography,
                 computer vision/Remote Sensing Image Processing.</p>
 		 <li><a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a> <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font>  <span>2025.03.06</span> </li>
