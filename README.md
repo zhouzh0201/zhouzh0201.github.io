@@ -570,14 +570,14 @@
  <style>
        div{position:relative;
        }
-       h4{font-size:15px;color:erd;position:absolute;top:20px;left:10px;
+       h5{font-size:15px;color:erd;position:absolute;top:20px;left:10px;
        }
   </style>
  </aside>
  <!--/head--> 
     <body>
       <div> 
-     <img src="../img/wf1_jz2.png" style="width:130%; height:1000px; margin:5px;"  alt=""/>
+     <img src="../img/wf1_jz2.png" style="width:130%; height:1000px; margin:10px;"  alt=""/>
         <h4> <a href="https://zhouzh0201.github.io/Kong%20five/"><img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a>
 <br>		
  <p> Faculty of Social Sciences.Department of Geography,
