@@ -693,7 +693,7 @@
      </div>  
    </div>  
  </footer> 
-<hr noshade="">
+<!--hr noshade=""-->
 
 <footer style="background-color:#0000ff;width:100%; height:300px;">
 <div class="bot"><!-- ****** -->
@@ -732,7 +732,7 @@
 </div>    
 </footer>
 
-<hr noshade="">
+ 
 
  <!--底部开始-->
     <div class="footer">
