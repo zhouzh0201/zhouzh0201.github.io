@@ -537,8 +537,10 @@
  <!--***************ok*****************-->
 <!--****************************aside*************-->
  <!-- 科学动态 -->
-
-  <section style="image:width:120%; height:500px;"> 
+<style>
+   .container{width:90%;weight:500px}	<!--width90%能有20px 左右的边框-->
+ </style>
+  <section style="image:width:120%; height:800px;"> 
 	  
    <div class="index-research index-research1">
         <div class="container">
