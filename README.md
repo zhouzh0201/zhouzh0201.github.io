@@ -602,6 +602,14 @@
 		<!--h3> <a href="https://zhouzh0201.github.io/k1"> <font color="blue">more</font> </a></h3-->   
                      </div>		  
                   </div>
+
+     <p> Faculty of Social Sciences.Department of Geography,
+                computer vision/Remote Sensing Image Processing.</p>
+		 <li><a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor</a> <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font>  <span>2025.03.06</span> </li>
+    <li><a href="https://www.scl.hku.hk/">SUSTAINABLE CITIES LAB </a><font color="#ff0000"> HIRING </font> We are looking for self-motivated individuals (Research Assistants, Graduate Students, and Postdoctoral Fellows)<span>2025.03.06</span></li>
+    <li><a href="https://geog.hku.hk/p-zhu"> 朱鵬/Peng Zhu </a><font color="#ff0000">Professor Zhu received the B.Eng. degree in remote sensing from Wuhan University</font> <span>2025.03.06</span></li>
+	<li><a href="https://geog.hku.hk/mphil-phd"> PhD studies at the Department of Geography, 2025-26 </a><font color="#ff0000">They are strongly advised to contact the relevant staff member(s) of the Department about their research proposal before submitting their applications</font><span>2025.03.06</span></li>
+    
            <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
 <script>_showDynClickBatch(['dynclicks_u21_48431','dynclicks_u21_43521','dynclicks_u21_43011','dynclicks_u21_38141','dynclicks_u21_33661','dynclicks_u21_4391'],[48431,43521,43011,38141,33661,4391],"wbnews", 1852176512)</script>
