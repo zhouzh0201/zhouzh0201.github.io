@@ -577,7 +577,7 @@
  <!--/head--> 
     <body>
       <div> 
-     <img src="../img/wf1_jz2.png" style="width:130%; height:1000px; margin:10px;"  alt=""/>
+     <img src="../img/wf1_jz2.png" style="width:130%; height:900px; margin:10px;"  alt=""/>
         <h4> <a href="https://zhouzh0201.github.io/Kong%20five/"><img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a>
 <br>		
  <p>&nbsp; &nbsp;&nbsp; &nbsp;  Faculty of Social Sciences.Department of Geography,
@@ -606,7 +606,8 @@
        <br>
          <br>
 	   <br>
-   
+     <br>
+	   <br>
  
 	 <!--img src="../img/wf1_jz2.png" style="width:100%; height:100px;"-->  
        <!--h4> <a href= "https://zhouzh0201.github.io/k1"><img src="icon-new.png"><font color="blue">more</font></a></h4-->
