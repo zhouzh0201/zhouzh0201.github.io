@@ -600,9 +600,7 @@
      <br>
        <br>
          <br>
-	   <br>
-    <br>
-     <br>
+	 
         
  
 	 <!--img src="../img/wf1_jz2.png" style="width:100%; height:100px;"-->  
