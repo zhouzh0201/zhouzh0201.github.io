@@ -724,25 +724,7 @@
  <br>
   <br>
     <br>
-     <br>
-       <br>
-         <br>
-	   <br>
-      <br>
-        <br>
-	  <br>
-     <br>
-       <br>
-         <br>
-     <br>
-       <br>
-         <br>
-	   <br>
-      <br>
-        <br>
-	  <br>
-     <br>
-       <br>
+   
 <footer style="background-color:#0000ff;width:100%; height:300px;">
 <div class="bot"><!-- ****** -->
   <div class="container">
@@ -782,26 +764,8 @@
 
  <br>
  <br>
-  <br>
-     <br>
-       <br>
-         <br>
-	   <br>
-      <br>
-        <br>
-	  <br>
-     <br>
-       <br>
-         <br>
-     <br>
-       <br>
-         <br>
-	   <br>
-      <br>
-        <br>
-	  <br>
-     <br>
-       <br>
+ 
+     
  <!--底部开始-->
     <div class="footer">
 
