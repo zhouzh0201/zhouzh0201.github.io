@@ -540,7 +540,7 @@
 <style>
    .container{width:90%;weight:500px}	<!--width90%能有20px 左右的边框-->
  </style>
-  <section style="image:width:120%; height:800px;"> 
+  <section style="image:width:120%; height:1000px;"> 
 	  
    <div class="index-research index-research1">
         <div class="container">
