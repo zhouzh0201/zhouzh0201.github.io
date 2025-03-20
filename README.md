@@ -357,7 +357,7 @@
 	<br>
         
 	<img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong" align="left">
-       <img class="profile-image img-responsive pull-right" src="img/xiaoxong10.gif" width:100;height:100;alt="ZhouZhonghong" align="right">
+       <!--img class="profile-image img-responsive pull-right" src="img/xiaoxong10.gif" width:100;height:100;alt="ZhouZhonghong" align="right"-->
   <div class="container">
 	 <!--div class="profile-content pull-center"--> 
         
