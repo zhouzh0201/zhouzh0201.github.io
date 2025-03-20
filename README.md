@@ -357,10 +357,12 @@
 	<br>
         
 	<img class="profile-image img-responsive pull-left" src="xiaohong2.png" alt="ZhouZhonghong" align="left">
+       <img class="profile-image img-responsive pull-left" src="img/xiaoxong10.gif" alt="ZhouZhonghong" align="right">
   <div class="container">
 	 <!--div class="profile-content pull-center"--> 
         
 	     <!--******多段动画字幕star*******-->  
+     
       
 	<div class="row">      
 	<marquee scrolldelay="1" height="80px" onMouseOver="this.stop()" onMouseOut="this.start()" style="font-size: 25px; color: rgba(255,0,0,1.00); text-transform: uppercase;">
