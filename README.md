@@ -558,16 +558,18 @@
                       <!--*********** 彩色背景宽大于容器-->
  
   <!--section style="image:width:120%; height:1000px;"--> 
-	 <aside style="background-image:width:120%; height:1000px;">    
-          <div class="index-research index-research1">
+      <aside style="background-image:width:120%; height:1000px;">   
+        <aside class="right-aside">
+          <!--div class="index-research index-research1"-->
            <div class="container">
             <div class="index-title  clearfix">  
  <!--***********高像数全页面图片背景star--快网速时能看到的背景图--> 
   <body>
           <style type="text/css">
 	  body{
-		background-image:url('../img/OIP5.png');
-		background-repeat:no-repeat;
+		background-image:url('../img/OIP5.png');		  
+		background-image:width:120%; height:1000px;
+	        background-repeat:no-repeat;
 		background-attachment:fixed;
                 background-position:center;
                 background-size:cover;
@@ -644,6 +646,7 @@
       </div>
      </div>
    </aside>
+ </aside> 
 <!--/section-->  
  </div>
 <!-- over -->
