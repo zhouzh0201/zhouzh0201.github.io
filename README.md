@@ -562,7 +562,7 @@
         <aside class="right-aside">
           <!--div class="index-research index-research1"-->
            <div class="container">
-            <div class="index-title  clearfix">  
+            <!--div class="index-title  clearfix"-->  
  <!--***********高像数全页面图片背景star--快网速时能看到的背景图--> 
   <body>
           <style type="text/css">
