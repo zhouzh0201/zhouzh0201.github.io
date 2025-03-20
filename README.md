@@ -551,7 +551,7 @@
 <!--****************************aside*************-->
  <!-- 科学动态 -->
 <style>
-   .container{width:90%;weight:500px}	<!--width90%能有20px 左右的边框-->
+   .container{width:100%;weight:500px}	<!--width90%能有20px 左右的边框-->
  </style>
                   <!--*********** 引用容器-->
                <div class="container">
