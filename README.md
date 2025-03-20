@@ -318,6 +318,11 @@
    <div class="banner">
         <div class="sliderContainer fullWidth clearfix">
            <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
+
+      <div class="rsContent">
+                <a href="" target="_blank">
+                  <img class="rsImg" src="img/yan1.png" alt="" /> </a>
+	      </div>   
                
               <div class="rsContent">
                 <a href="" target="_blank">
