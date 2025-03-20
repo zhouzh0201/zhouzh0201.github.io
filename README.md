@@ -399,7 +399,7 @@
 <!--****************************aside*************-->	
 <br>
  <br>
- 
+
   <!--*********** 定义容器，限制文档图片超域，兼顾手机浏览器宽，高不用定义，用错字骗电脑-->
  <style>
    .container{width:90%;weight:500px}	<!--width90%能有20px 左右的边框-->
@@ -423,7 +423,8 @@
  <br>                	 		  
 <br>
  <br>
- 
+  <br>
+ <br>
         
       <p>DeepSeek recommend:  <span>2025.03.11</span>  <br>          
 	      <a href="https://xjqi.github.io/ ">  k1:齐小娟/ Qixiao Jian</a> and  
@@ -552,10 +553,10 @@
 <style>
    .container{width:90%;weight:500px}	<!--width90%能有20px 左右的边框-->
  </style>
-  <section style="image:width:120%; height:1000px;"> 
-	  
-   <div class="index-research index-research1">
-        <div class="container">
+  <!--section style="image:width:120%; height:1000px;"--> 
+	 <aside style="image:width:120%; height:1000px">    
+          <div class="index-research index-research1">
+           <div class="container">
             <div class="index-title  clearfix">  
  <!--***********高像数全页面图片背景star--快网速时能看到的背景图--> 
   <body>
@@ -636,7 +637,8 @@
     </div>
    </div>
  </div>
-</section>  
+  </aside>
+<!--/section-->  
 <!-- over -->
       <br>
        
