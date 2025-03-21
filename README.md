@@ -558,7 +558,7 @@
                       <!--*********** 彩色背景宽大于容器-->
  
   <!--section style="image:width:120%; height:1050px;"--> 
-      <aside style="width:100%; height:1000px;">   
+      <aside style="width:100%; height:990px;">   
         <aside class="right-aside">
           <!--div class="index-research index-research1"-->
            <div class="container">
@@ -595,7 +595,7 @@
  <!--/head--> 
     <body>
       <div> 
-     <img src="../img/wf1_jz2.png" style="width:110%; height:1010px; margin:10px;"  alt=""/>
+     <img src="../img/wf1_jz2.png" style="width:110%; height:1000px; margin:10px;"  alt=""/>
         <h4> 
 		<a href="https://zhouzh0201.github.io/Kong%20five/">&nbsp; &nbsp;<img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a>
 <br>		
