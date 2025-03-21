@@ -595,7 +595,7 @@
  <!--/head--> 
     <body>
       <div> 
-     <img src="../img/wf1_jz2.png" style="width:110%; height:780px; margin:10px;"  alt=""/>
+     <img src="../img/wf1_jz2.png" style="width:120%; height:780px; margin:10px;"  alt=""/>
         <h4> 
 		<a href="https://zhouzh0201.github.io/Kong%20five/">&nbsp; &nbsp;<img src="icon-new.png"><img src=" https://zhouzh0201.github.io/k4/image024.gif"/><font color="blue">more</font></a>
 <br>		
