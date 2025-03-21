@@ -551,14 +551,14 @@
 <!--****************************aside*************-->
  <!-- 科学动态 -->
 <style>
-   .container{width:100%;weight:500px}	<!--width90%能有20px 左右的边框-->
+   .container{width:98%;weight:500px}	<!--width90%能有20px 左右的边框-->
  </style>
                   <!--*********** 引用容器-->
                <div class="container">
                       <!--*********** 彩色背景宽大于容器-->
  
   <!--section style="image:width:120%; height:1000px;"--> 
-      <aside style="background-image:width:120%; height:1000px;">   
+      <aside image="width:120%; height:1000px;">   
         <aside class="right-aside">
           <!--div class="index-research index-research1"-->
            <div class="container">
@@ -568,7 +568,6 @@
           <style type="text/css">
 	  body{
 		background-image:url('../img/OIP5.png');		  
-		background-image:width:120%; height:1000px;
 	        background-repeat:no-repeat;
 		background-attachment:fixed;
                 background-position:center;
