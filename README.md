@@ -558,7 +558,7 @@
                       <!--*********** 彩色背景宽大于容器-->
  
   <!--section style="image:width:120%; height:1000px;"--> 
-      <aside image="width:120%; height:1000px;">   
+      <aside style="width:120%; height:1000px;">   
         <aside class="right-aside">
           <!--div class="index-research index-research1"-->
            <div class="container">
