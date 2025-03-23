@@ -107,7 +107,7 @@
 
         </button>
         <span class="navbar-brand">
-          <font color="#fff0000">CGPWS</font>
+          <font  href="index.html" color="#fff0000">CGPWS</font>
         </span>
       </div>
       <div class="navbar-collapse collapse">
