@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)https://stevengrove.github.io/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q3NC80D2JD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-Q3NC80D2JD');
+  </script>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="google-site-verification" content="xBT4GhYoi5qRD5tr338pgPM5OWHHIDR6mNg1a3euekI">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Every failure is leading towards success.">
+    <meta name="keywords" content="Deep Learning, Computer Vision">
+    <meta name="theme-color" content="#101000">
+
+    <title>Lin Song</title>
+
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="./meta/manifest.json">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://stevengrove.github.io/">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="./meta/id.jpeg">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="./meta/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="./meta/hux-blog.min.css">
+
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="./meta/syntax.css">
+
+    <!-- Custom Fonts -->
+    <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
+    <!-- Hux change font-awesome CDN to qiniu -->
+    <link href="./meta/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+
+    <!-- Hux Delete, sad but pending in China
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/
+    css'>
+    -->
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- ga & ba script hoook -->
+    <script async="" src="./meta/analytics.js"></script><script src="./meta/fastclick.min.js"></script><script></script>
+</head>
+
+
+<!-- hack iOS CSS :active style -->
+<body ontouchstart="" data-new-gr-c-s-check-loaded="14.987.0" data-gr-ext-installed="">
+
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://stevengrove.github.io/">Lin Song | <font face="KaiTi_GB2312">宋林</font></a>
+        </div>
+
+</nav>
+
+<script>
+    // Drop Bootstarp low-performance Navbar
+    // Use customize navbar with high-quality material design animation
+    // in high-perf jank-free CSS3 implementation
+    var $body   = document.body;
+    var $toggle = document.querySelector('.navbar-toggle');
+    var $navbar = document.querySelector('#huxblog_navbar');
+    var $collapse = document.querySelector('.navbar-collapse');
+
+    var __HuxNav__ = {
+        close: function(){
+            $navbar.className = " ";
+            // wait until animation end.
+            setTimeout(function(){
+                // prevent frequently toggle
+                if($navbar.className.indexOf('in') < 0) {
+                    $collapse.style.height = "0px"
+                }
+            },400)
+        },
+        open: function(){
+            $collapse.style.height = "auto"
+            $navbar.className += " in";
+        }
+    }
+
+    // Bind Event
+    $toggle.addEventListener('click', function(e){
+        if ($navbar.className.indexOf('in') > 0) {
+            __HuxNav__.close()
+        }else{
+            __HuxNav__.open()
+        }
+    })
+
+    /**
+     * Since Fastclick is used to delegate 'touchstart' globally
+     * to hack 300ms delay in iOS by performing a fake 'click',
+     * Using 'e.stopPropagation' to stop 'touchstart' event from
+     * $toggle/$collapse will break global delegation.
+     *
+     * Instead, we use a 'e.target' filter to prevent handler
+     * added to document close HuxNav.
+     *
+     * Also, we use 'click' instead of 'touchstart' as compromise
+     */
+    document.addEventListener('click', function(e){
+        if(e.target == $toggle) return;
+        if(e.target.className == 'icon-bar') return;
+        __HuxNav__.close();
+    })
+</script>
+
+
+    <!-- Page Header -->
+<header class="intro-header" style="background-image: url(meta/background.jpeg)">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1 col-md-12 col-md-offset-1 ">
+                    <div class="post-heading">
+                            <h1>Lin Song's Homepage</h1>
+
+
+​
+                            <h2 class="subheading"></h2>
+
+                            <span class="meta"> Last update at 02/01/2024. </span>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+</header>
+
+<!-- Main Content -->
+<div class="container">
+	<div class="row">
+​
+<!-- Post Container -->
+        <div class="
+            col-lg-10 col-lg-offset-1
+            col-md-12 col-md-offset-1
+            post-container">
+
+<!-- USE SIDEBAR -->
+    <!-- PostList Container -->
+    		<!-- <div class="
+                col-lg-8 col-lg-offset-1
+                col-md-8 col-md-offset-1
+                col-sm-12
+                col-xs-12
+                postlist-container
+            ">
+    			<hr> -->
+
+<p style="line-height:100%">
+    <font size="4">
+        <span style="color:black">
+            </span></font></p><p style="text-align:justify; text-justify:inter-ideograph;"><font size="4">
+            Hello! My name is Lin Song (<font face="KaiTi_GB2312">宋林</font>). I am a Senior Researcher at Tencent AILab, Shenzhen, China. In July 2022, I received my PhD degree from College of Artificial Intelligence, Xi’an Jiaotong University, advised by <a href="http://www.jiansun.org/" style="color:rgb(51, 156, 255)">Jian Sun</a> and <a href="http://gr.xjtu.edu.cn/web/hsun" style="color:rgb(51, 156, 255)">Hongbin Sun</a>.
+            My research interest mainly focus on Computer Vision, Machine Learning and Integrated Circuit.
+        <br>
+        <a href="https://scholar.google.com/citations?user=6Ra2TgQAAAAJ" style="color:rgb(51, 156, 255)"><b>Google Scholar</b></a>/<a href="https://github.com/StevenGrove" style="color:rgb(51, 156, 255)"><b>GitHub</b></a>/<a href="mailto: stevengrove@stu.xjtu.edu.cn" style="color:rgb(51, 156, 255)"><b>Email</b></a>
+        <br>
+
+    </font>
+<p></p>
+
+<hr>
+<h2 id="news"> News <a class="anchorjs-link " href="https://stevengrove.github.io/publication/#publications" aria-label="Anchor link for: conference paper" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h2>
+<font style="font-family:monospace"><b>[02/2024]</b></font>
+  <i>Three papers were accepted by CVPR2024</i><br>
+<font style="font-family:monospace"><b>[02/2024]</b></font>
+  <i>We proposed YOLO-World, a real-time model for detecting everything</i><br>
+<font style="font-family:monospace"><b>[10/2023]</b></font>
+  <i>Four papers were accepted by ICCV2023, NeurIPS2023 and ICLR2024</i><br>
+<font style="font-family:monospace"><b>[05/2023]</b></font>
+  <i>We introduce and release the code of GPT4Tools and BoxSnake.</i><br>
+<font style="font-family:monospace"><b>[01/2023]</b></font>
+  <i>One paper was accepted by ICLR 2023.</i><br>
+<font style="font-family:monospace"><b>[04/2022]</b></font>
+  <i>We won the <b>2rd Place</b> on LVIS Challenges (Workshop at ICCV 2021).</i><br>
+<font style="font-family:monospace"><b>[09/2021]</b></font>
+  <i>One paper was accepted by NeurIPS 2021.</i><br>
+<font style="font-family:monospace"><b>[06/2021]</b></font>
+  <i>We won the <b>1st Place</b> on Streaming Perception Challenges (Workshop on Autonomous Driving at CVPR 2021).</i><br>
+<!-- <font style="font-family:monospace"><b>[03/2021]</b></font>
+  <i>One paper was accepted by <b>CVPR 2021</b>.</i><br> -->
+<!-- <font style="font-family:monospace"><b>[09/2020]</b></font>
+  <i>Two papers were accepted by <b>NeurIPS 2020</b>.</i><br> -->
+<!-- <font style="font-family:monospace"><b>[04/2020]</b></font> -->
+  <!-- <i>One paper was accepted by <b>CVPR 2020</b> as <b>Oral</b> presentation.</i><br> -->
+<!-- <font style="font-family:monospace"><b>[09/2019]</b></font>
+  <i>One paper is accepted by <b>NeurIPS 2019</b>, Vancouver.</i><br> -->
+
+<hr>
+<h2 id="publications"> Selected Publications <a class="anchorjs-link " href="https://stevengrove.github.io/publication/#publications" aria-label="Anchor link for: conference paper" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h2>
+<h3 id="conference-paper"> Conference <a class="anchorjs-link " href="https://stevengrove.github.io/publication/#conference-paper" aria-label="Anchor link for: conference paper" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h3>
+<i>* indicates equal contribution</i><br>
+<i>^ indicates corresponding author</i><br>
+<div class="table-responsive"><table frame="void" rules="none" class="table">
+    <tbody>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/yolo_world.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="dynamic-ball-query"><span style="color:black"> YOLO-World: Real-time Open-vocabulary Object Detection
+            </span><a class="anchorjs-link " data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            Tianheng Cheng*, <b>Lin Song*^</b>, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan<br>
+            <i>IEEE Conference on Computer Vision and Pattern Recognition <b>(CVPR)</b>, 2024 </i>
+            <br>[<a href="https://arxiv.org/abs/2401.17270" style="color:rgb(51, 156, 255)">paper</a>][<a href="https://github.com/AILab-CVC/YOLO-World" style="color:rgb(51, 156, 255)">code</a>]
+    </td></tr>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/lora_sparse.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="dynamic-ball-query"><span style="color:black"> LoRA-Sparse: Low-Rank Approximation for Sparse Large Language Models 
+            </span><a class="anchorjs-link " data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            <b>Lin Song*^</b>, Yukang Chen*, Shuai Yang, Xiaohan Ding, Yixiao Ge, Ying-Cong Chen, Ying Shan<br>
+            <i>IEEE Conference on Computer Vision and Pattern Recognition <b>(CVPR)</b>, 2024 </i>
+    </td></tr>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/meta-adapter.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="dynamic-ball-query"><span style="color:black"> Meta-Adapter: An Online Few-shot Learner for Vision-Language Model
+            </span><a class="anchorjs-link " data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            Cheng Cheng*, <b>Lin Song*</b>, Ruoyi Xue, Hang Wang, Hongbin Sun, Yixiao Ge, Ying Shan<br>
+            <i>Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2023 </i>
+            <br>[<a href="https://arxiv.org/pdf/2311.03774" style="color:rgb(51, 156, 255)">paper</a>][<a href="https://github.com/ArsenalCheng/Meta-Adapter" style="color:rgb(51, 156, 255)">code</a>]
+    </td></tr>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/gpt4tools.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="dynamic-ball-query"><span style="color:black">GPT4Tools: Teaching Large Language Model to Use
+                Tools via Self-instruction</span><a class="anchorjs-link " href="https://stevengrove.github.io/publication/#fully-convolutional-networks-for-panoptic-segmentation" aria-label="Anchor link for: fully convolutional networks for panoptic segmentation" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            Rui Yang*, <b>Lin Song*^</b>, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li, Ying Shan<br>
+            <i>Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2023 </i>
+            <br>[<a href="https://arxiv.org/abs/2207.10909" style="color:rgb(51, 156, 255)">paper</a>][<a href="https://github.com/StevenGrove/GPT4Tools" style="color:rgb(51, 156, 255)">code</a>]
+    </td></tr>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/boxsnake.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="boxsnake"><span style="color:black">BoxSnake: Polygonal Instance Segmentation with Box Supervision</span><a class="anchorjs-link " href="https://arxiv.org/pdf/2303.11630.pdf" aria-label="Anchor link for: fully convolutional networks for panoptic segmentation" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            Rui Yang*, <b>Lin Song*^</b>, Yixiao Ge, Xiu Li^<br>
+            <i>International Conference on Computer Vision <b>(ICCV)</b>, 2023 </i>
+            <br>[<a href="https://arxiv.org/abs/2303.11630" style="color:rgb(51, 156, 255)">paper</a>][<a href="https://github.com/Yangr116/BoxSnake" style="color:rgb(51, 156, 255)">code</a>]
+    </td></tr>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/DBQ.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="dynamic-ball-query"><span style="color:black">DBQ-SSD: Dynamic Ball Query for Efficient 3D Object Detection</span><a class="anchorjs-link " href="https://stevengrove.github.io/publication/#fully-convolutional-networks-for-panoptic-segmentation" aria-label="Anchor link for: fully convolutional networks for panoptic segmentation" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            Jinrong Yang*, <b>Lin Song*</b>, Songtao Liu, Zeming Li, Xiaoping Li, Hongbin Sun, Jian Sun, Nanning Zheng<br>
+            <i>International Conference on Learning Representations <b>(ICLR)</b>, 2023 </i>
+            <br>[<a href="https://arxiv.org/abs/2207.10909" style="color:rgb(51, 156, 255)">paper</a>][<a href="https://github.com/yancie-yjr/DBQ-SSD" style="color:rgb(51, 156, 255)">code</a>]
+    </td></tr>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/DGE.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="dynamic-grained-encoder"><span style="color:black">Dynamic Grained Encoder for Vision Transformer</span><a class="anchorjs-link " href="" aria-label="" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            <b>Lin Song*</b>, Songyang Zhang*, Songtao Liu, Zeming Li, Hongbin Sun, Jian Sun, Nanning Zheng<br>
+            <i>Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2021 </i>
+            <br>[<a href="https://arxiv.org/abs/2301.03831" style="color:rgb(51, 156, 255)">paper</a>] [<a href="https://github.com/StevenGrove/vtpack" style="color:rgb(51, 156, 255)">code</a>]
+    </td></tr>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/DeFCN.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="end-to-end-object-detection"><span style="color:black">End-to-End Object Detection with Fully Convolutional Network</span><a class="anchorjs-link " href="https://stevengrove.github.io/publication/#fully-convolutional-networks-for-panoptic-segmentation" aria-label="Anchor link for: fully convolutional networks for panoptic segmentation" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            Jianfeng Wang*, <b>Lin Song*</b>, Zeming Li, Hongbin Sun, Jian Sun, Nanning Zheng<br>
+            <i>IEEE Conference on Computer Vision and Pattern Recognition <b>(CVPR)</b>, 2021 </i>
+            <br>[<a href="https://arxiv.org/abs/2012.03544" style="color:rgb(51, 156, 255)">paper</a>] [<a href="https://github.com/Megvii-BaseDetection/DeFCN" style="color:rgb(51, 156, 255)">code</a>]
+    </td></tr>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/DynamicHead.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="fine-grained-dynamic-head-for-object-detection"><span style="color:black">Fine-Grained Dynamic Head for Object Detection</span><a class="anchorjs-link " href="https://stevengrove.github.io/publication/#fine-grained-dynamic-head-for-object-detection" aria-label="Anchor link for: fine grained dynamic head for object detection" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            <b>Lin Song</b>, Yanwei Li, Zhengkai Jiang, Zeming Li, Hongbin Sun, Jian Sun, Nanning Zheng<br>
+            <i>Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2020</i>
+            <br>[<a href="https://papers.nips.cc/paper/2020/file/7f6caf1f0ba788cd7953d817724c2b6e-Paper.pdf" style="color:rgb(51, 156, 255)">paper</a>] [<a href="https://github.com/StevenGrove/DynamicHead" style="color:rgb(51, 156, 255)">code</a>] [<a href="https://stuxjtueducn-my.sharepoint.com/:b:/g/personal/stevengrove_stu_xjtu_edu_cn/EXaATquoqxNJovxsDEtxU0gBQmlRPrDc47eSEe3bn48MTA?e=Lr3lkT" style="color:rgb(51, 156, 255)">slides</a>]
+    </td></tr>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/Tree_filterV2.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="rethinking-learnable-tree-filter-for-generic-feature-transform"><span style="color:black">Rethinking Learnable Tree Filter for Generic Feature Transform</span><a class="anchorjs-link " href="https://stevengrove.github.io/publication/#rethinking-learnable-tree-filter-for-generic-feature-transform" aria-label="Anchor link for: rethinking learnable tree filter for generic feature transform" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            <b>Lin Song</b>, Yanwei Li, Zhengkai Jiang, Zeming Li, Xiangyu Zhang, Hongbin Sun, Jian Sun, Nanning Zheng<br>
+            <i>Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2020</i>
+            <br>[<a href="https://papers.nips.cc/paper/2020/file/2952351097998ac1240cb2ab7333a3d2-Paper.pdf" style="color:rgb(51, 156, 255)">paper</a>] [<a href="https://github.com/StevenGrove/LearnableTreeFilterV2" style="color:rgb(51, 156, 255)">code</a>] [<a href="https://stuxjtueducn-my.sharepoint.com/:b:/g/personal/stevengrove_stu_xjtu_edu_cn/EWWj6zN1C_hDnxyPzZUH4AYBSJz_x2PeEKYBbp1SsrPnCA?e=9fdFLw" style="color:rgb(51, 156, 255)">slides</a>]
+    </td></tr>
+    <tr>
+    <td class="pub_td1" style="width: 200px;"><img src="./meta/DynamicRouting.png" class="papericon"></td>
+    <td class="pub_td2" style="width: 600px;">
+        <h5 id="learning-dynamic-routing-for-semantic-segmentation"><span style="color:black">Learning Dynamic Routing for Semantic Segmentation</span><a class="anchorjs-link " href="https://stevengrove.github.io/publication/#learning-dynamic-routing-for-semantic-segmentation" aria-label="Anchor link for: learning dynamic routing for semantic segmentation" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+        Yanwei Li, <b>Lin Song</b>, Yukang Chen, Zeming Li, Xiangyu Zhang, Xingang Wang, Jian Sun<br>
+        <i>IEEE Conference on Computer Vision and Pattern Recognition <b>(CVPR)</b>, 2020 <b><span style="color:red">(Oral)</span></b></i>
+        <br>[<a href="https://arxiv.org/abs/2003.10401" style="color:rgb(51, 156, 255)">paper</a>] [<a href="https://github.com/yanwei-li/DynamicRouting" style="color:rgb(51, 156, 255)">code</a>] [<a href="https://stevengrove.github.io/talk/cvpr2020-talk.pdf" style="color:rgb(51, 156, 255)">slides</a>]
+    </td></tr>
+    <tr>
+    <td class="pub_td1" style="width: 200px;"><img src="./meta/Tree_filter.png" class="papericon"></td>
+    <td class="pub_td2" style="width: 600px;">
+        <h5 id="learnable-tree-filter-for-structure-preserving-feature-transform"><span style="color:black">Learnable Tree Filter for Structure-preserving Feature Transform</span><a class="anchorjs-link " href="https://stevengrove.github.io/publication/#learnable-tree-filter-for-structure-preserving-feature-transform" aria-label="Anchor link for: learnable tree filter for structure preserving feature transform" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+        <b>Lin Song*</b>, Yanwei Li*, Zeming Li, Gang Yu, Hongbin Sun, Jian Sun, Nanning Zheng<br>
+        <i>Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2019</i>
+        <br>[<a href="https://arxiv.org/abs/1909.12513" style="color:rgb(51, 156, 255)">paper</a>] [<a href="https://github.com/StevenGrove/TreeFilter-Torch" style="color:rgb(51, 156, 255)">code</a>]
+    </td></tr>
+    <tr>
+    <td class="pub_td1" style="width: 200px;"><img src="./meta/TACNet.png" class="papericon"></td>
+    <td class="pub_td2" style="width: 600px;">
+        <h5 id="transition-aware-context-network-for-spatio-temporal-action-detection"> <span style="color:black">TACNet: Transition-aware Context Network for Spatio-temporal Action Detection</span> <a class="anchorjs-link " href="https://stevengrove.github.io/publication/#attention-guided-unified-network-for-panoptic-segmentation" aria-label="Anchor link for: attention guided unified network for panoptic segmentation" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+        <b>Lin Song*</b>, Shiwei Zhang*, Gang Yu, Hongbin Sun<br>
+        <i>IEEE Conference on Computer Vision and Pattern Recognition <b>(CVPR)</b>, 2019</i>
+        <br>[<a href="https://arxiv.org/abs/1905.13417" style="color:rgb(51, 156, 255)">paper</a>]
+    </td></tr>
+    <!-- <tr>
+    <td class="pub_td1" style="width: 200px;"><img src="./meta/AVA.png" class="papericon"></td>
+    <td class="pub_td2" style="width: 600px;">
+        <h5 id="human-centric-spatio-temporal-action-localization"> <span style="color:black">Human Centric Spatio-Temporal Action Localization</span> <a class="anchorjs-link " href="https://stevengrove.github.io/publication/#identity-enhanced-network-for-facial-expression-recognition" aria-label="Anchor link for: identity enhanced network for facial expression recognition" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+        Jianwen Jiang, Yu Cao, <b>Lin Song</b>, Shiwei Zhang, Yunkai Li, Ziyao Xu, Qian Wu, Chuang Gan, Chi Zhang, Gang Yu<br>
+        <i>ActivityNet Workshop on CVPR <b>(CVPRW)</b>, 2018</i>
+        <br>[<a href="https://www.skicyyu.org/AVA/AVA_report.pdf" style="color:rgb(51, 156, 255)">paper</a>]
+    </td></tr> -->
+</tbody></table></div>
+
+<h3 id="journal"> Journal <a class="anchorjs-link " href="https://stevengrove.github.io/publication/#preprint" aria-label="Anchor link for: journal" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h3>
+<div class="table-responsive"><table frame="void" rules="none" class="table">
+    <tbody><tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/GLNet.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="glnet-global-Local-network"><span style="color:black">GLNet: Global Local Network for Weakly Supervised Action Localization</span><a class="anchorjs-link " href="https://stevengrove.github.io/publication/#fully-convolutional-networks-for-panoptic-segmentation" aria-label="Anchor link for: fully convolutional networks for panoptic segmentation" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            Shiwei Zhang*, <b>Lin Song*</b>, Changxin Gao, Nong Sang<br>
+            <i>IEEE Transactions on Multimedia <b>(TMM)</b></i>
+            <br>[<a href="https://ieeexplore.ieee.org/abstract/document/8931624/" style="color:rgb(51, 156, 255)">paper</a>]
+    </td></tr>
+    <tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/NIPM.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="nipm-swmf-toward-efficient-fpga-design"><span style="color:black">NIPM-sWMF: Toward Efficient FPGA Design for High-Definition Large-Disparity Stereo Matching</span><a class="anchorjs-link " href="https://stevengrove.github.io/publication/#stitcher-feedback-driven-data-provider-for-object-detection" aria-label="Anchor link for: stitcher feedback driven data provider for object detection" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            Xuchong Zhang, Hongbin Sun, Shiqiang Chen, <b>Lin Song</b>, Nanning Zheng<br>
+            <i>IEEE Transactions on Circuits and Systems for Video Technology <b>(TCSVT)</b></i>
+            <br>[<a href="https://ieeexplore.ieee.org/abstract/document/8355677" style="color:rgb(51, 156, 255)">paper</a>]
+    </td></tr>
+</tbody></table></div>
+
+<!-- <h3 id="preprint"> Preprint <a class="anchorjs-link " href="https://stevengrove.github.io/publication/#preprint" aria-label="Anchor link for: preprint" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h3>
+<div class="table-responsive"><table frame="void" rules="none" class="table">
+    <tbody><tr>
+        <td class="pub_td1" style="width: 200px;"><img src="./meta/DeFCN.png" class="papericon"></td>
+        <td class="pub_td2" style="width: 600px;">
+            <h5 id="end-to-end-object-detection"><span style="color:black">End-to-End Object Detection with Fully Convolutional Network</span><a class="anchorjs-link " href="https://stevengrove.github.io/publication/#fully-convolutional-networks-for-panoptic-segmentation" aria-label="Anchor link for: fully convolutional networks for panoptic segmentation" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; padding-left: 0.375em;"></a></h5>
+            Jianfeng Wang*, <b>Lin Song*</b>, Zeming Li, Hongbin Sun, Jian Sun, Nanning Zheng<br>
+            <i>arXiv preprint</i>
+            <br>[<a href="https://arxiv.org/abs/2012.03544" style="color:rgb(51, 156, 255)">paper</a>] [<a href="https://github.com/Megvii-BaseDetection/DeFCN" style="color:rgb(51, 156, 255)">code</a>]
+    </td></tr>
+</tbody></table></div> -->
+<hr>
+
+<h2> Experience</h2>
+<p style="margin-top:15px">
+<font size="4">
+    <b><span style="color:black">Tencent AILab (Vision Computing Center)<span></b><br>
+</font>
+<b>Areas: Visual Preception</b><br>
+<i>Research Scientist, 2022.8 - Present</i><br>
+</p>
+<p style="margin-top:15px">
+<font size="4">
+    <b><span style="color:black">Megvii (Face++)</span></b><br>
+</font>
+<b>Areas: Object Detection, Image Segmentation and Action Localization</b><br>
+<i>Full Time Research Intern, 2019.5 - 2022.6</i><br>
+<i>Research Intern, 2017.11 - 2019.5</i><br>
+</p>
+
+
+<p style="margin-top:5px">
+<font size="4">
+    <b><span style="color:black">School of Microelectronics, Xidian University</span></b><br>
+</font>
+<b>Areas: Integrated Circuit</b><br>
+<i>Research Intern, 2017.07 - 2017.09</i><br>
+</p>
+
+<hr>
+<h2> Activity</h2>
+<p style="margin-top:15px">
+<font size="4">
+<span style="color:black">
+    <b>Reviewer:</b> CVPR 2021-2023, ICCV 2021-2023, NeurIPS 2021-2022, ICLR 2021-2023, AAAI 2022-2023, TPAMI, IJCV, TMM, TCSVT <br>
+    <b>Seminar talk:</b> "Rethinking Learnable Tree Filter for Generic Feature Transform", 2020 [<a href="https://stuxjtueducn-my.sharepoint.com/:b:/g/personal/stevengrove_stu_xjtu_edu_cn/EYWT5xXzdi5Ju0iqQ2Ye6z8B78PjSDzX85veRDY09_C0cw?e=LpY2ty" style="color:rgb(51, 156, 255)">slides</a>]<br>
+</span>
+</font>
+</p>
+<hr>
+
+<h2> Award</h2>
+<p style="margin-top:15px">
+<b><font size="4">
+<span style="color:black">
+LVIS Challenges (Workshop at ICCV 2021), 2022, 2rd<br>
+Streaming Perception Challenges (Workshop on Autonomous Driving at CVPR 2021), 2021, 1st<br>
+ActivityNet-AVA, 2018, 1st<br>
+OpenImage Object Detection, 2018, GOLD (solo)<br>
+National Undergraduate Electronics Design Contest, 2015, 1st<br>
+National Undergraduate Intelligent Car Competition, 2014, 1st<br>
+</span>
+</font></b>
+</p>
+
+<hr>
+
+    <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+
+                    <!-- add jianshu add target = "_blank" to <a> by BY -->
+
+
+​
+
+                    <!-- add Weibo, Zhihu by Hux, add target = "_blank" to <a> by Hux -->
+
+
+​
+
+
+​
+​
+​
+                </ul>
+                <!-- <p class="copyright text-muted">
+                    Copyright &copy; Lin Song 2020 -->
+                    <!-- <br>
+                    Theme on <a href="">GitHub</a> |
+                    <iframe
+                        style="margin-left: 2px; margin-bottom:-5px;"
+                        frameborder="0" scrolling="0" width="100px" height="20px"
+                        src="https://ghbtns.com/github-btn.html?user=&repo=.github.io&type=star&count=true" >
+                    </iframe> -->
+                <!-- </p> -->
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- jQuery -->
+
+<script src="./meta/jquery.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="./meta/bootstrap.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="./meta/hux-blog.min.js"></script>
+
+<!-- Service Worker -->
+
+<script type="text/javascript">
+    if(navigator.serviceWorker){
+        // For security reasons, a service worker can only control the pages that are in the same directory level or below it. That's why we put sw.js at ROOT level.
+        navigator.serviceWorker
+            .register('/sw.js')
+            .then((registration) => {console.log('Service Worker Registered. ', registration)})
+            .catch((error) => {console.log('ServiceWorker registration failed: ', error)})
+    }
+</script>
+
+
+
+<!-- async load function -->
+<script>
+    function async(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+
+<!--
+     Because of the native support for backtick-style fenced code blocks
+     right within the Markdown is landed in Github Pages,
+     From V1.6, There is no need for Highlight.js,
+     so Huxblog drops it officially.
+
+     - https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
+     - https://help.github.com/articles/creating-and-highlighting-code-blocks/
+     - https://github.com/jneen/rouge/wiki/list-of-supported-languages-and-lexers
+-->
+<!--
+    <script>
+        async("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function(){
+            hljs.initHighlightingOnLoad();
+        })
+    </script>
+    <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+-->
+
+
+<!-- jquery.tagcloud.js -->
+<script>
+    // only load tagcloud.js in tag.html
+    if($('#tag_cloud').length !== 0){
+        async('/js/jquery.tagcloud.js',function(){
+            $.fn.tagcloud.defaults = {
+                //size: {start: 1, end: 1, unit: 'em'},
+                color: {start: '#bbbbee', end: '#0085a1'},
+            };
+            $('#tag_cloud a').tagcloud();
+        })
+    }
+</script>
+
+<!--fastClick.js -->
+<script>
+    async("//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js", function(){
+        var $nav = document.querySelector("nav");
+        if($nav) FastClick.attach($nav);
+    })
+</script>
+
+
+<!-- Google Analytics -->
+
+<!-- <script>
+    // dynamic User by Hux
+    var _gaId = 'G-Q3NC80D2JD';
+    var _gaDomain = 'stevengrove.github.io';
+
+    // Originial
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', _gaId, _gaDomain);
+    ga('send', 'pageview');
+</script> -->
+
+
+<!-- Baidu Tongji -->
+
+
+
+<!-- Side Catalog -->
+
+
+
+
+
+<!-- Image to hack wechat -->
+<!-- Migrate from head to bottom, no longer block render and still work -->
+
+
+
+
+</body></html>
