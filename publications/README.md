@@ -158,16 +158,17 @@
        <font color="#3bdddd"> interns</font>
               
        <div>        
-    <ul>
+    <ul> 
+    <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
      <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
      <li><a href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a></li>
      <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html">旷视科技 </a></li>
      <li><a href="../text/关于华为 - 华为.html">华为</a></li>
      <li><a href="../text/百度校园招聘.html">百度校园招聘</a></li>
      <li><a href="../text/百度研究.html"> 百度研究</a></li>
-     <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
+    
       <li><a href="../text/Artificial Intelligence (AI) Software Provider _ SenseTime.html ">商汤科技 </a></li>
-       <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a>商汤科技</li>
+      <li><a href="../text/Wayne Zhang - 商汤科技 - 人工智能 （AI） _ 深度学习 （DL）.html">Wayne Zhang </a>商汤科技</li>
         <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a>商汤科技</li>
          <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
           <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
