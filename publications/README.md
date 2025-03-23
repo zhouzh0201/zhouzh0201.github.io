@@ -127,7 +127,7 @@
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
           <li><a href="../index.html">Homepage</a></li>
-          <li class="active"><a href="index.htm">publications</a>
+          <li class="active"><a href="index.htm">interns</a>
                     <ul class="submenu">
                         <li><a href="../p1">p1-1</a></li>
                         <li><a href="#">p1-2</a></li>
@@ -152,11 +152,11 @@
    
   <hr>
  <span class="navbar-brand">
-          <font color="#3bdddd">《茶港花苑》</font>
+          <font color="#3bdddd"> interns</font>
         </span>
-    
-   
-  
+    <ul>
+    <li><a href=" file:///D:/25-26%E7%94%B3%E5%8D%9A/%E6%9C%89%E5%85%B3/%E5%AE%9E%E4%B9%A0%EF%BC%88%E5%90%AB%E7%BD%91%E4%B8%8A%E8%BF%9C%E7%A8%8B%EF%BC%89%E8%80%81%E5%B8%88%E6%88%96%E5%8D%95%E4%BD%8D/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2/%E4%BE%AF%E9%82%A6%E7%92%BF%EF%BC%8C%E8%BE%BE%E6%91%A9%E9%99%A2.html"> </a></li>
+  </ul>
  <hr> 
  
 <div align="center">
