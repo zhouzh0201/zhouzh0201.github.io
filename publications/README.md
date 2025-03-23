@@ -155,7 +155,7 @@
           <font color="#3bdddd"> interns</font>
         </span>
     <ul>
-    <li><a href="../text/侯邦璿，达摩院.html"> </a></li>
+    <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
   </ul>
  <hr> 
  
