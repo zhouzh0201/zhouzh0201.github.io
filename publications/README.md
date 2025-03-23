@@ -152,10 +152,10 @@
         </span>
    
   <hr>
-        <span class="navbar-brand">
-          <font color="#3bdddd"> interns</font>
-        </span>
-      
+        <!--span class="navbar-brand"-->
+         
+        <!--/span-->
+       <font color="#3bdddd"> interns</font>
               
        <div>         
     <ul>
@@ -164,7 +164,7 @@
      <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html">旷视科技 </a></li>
      <li><a href="../text/关于华为 - 华为.html">华为</a></li>
      <li><a href="../text/百度校园招聘.html">百度校园招聘</a></li>
-     <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
+     <li><a href="../text/百度研究.html"> 百度研究</a></li>
      <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
     </ul>
        </div>
