@@ -169,7 +169,7 @@
     
       <li><a href="../text/Artificial Intelligence (AI) Software Provider _ SenseTime.html ">商汤科技 </a></li>
       <li><a href="../text/Wayne Zhang - 商汤科技 - 人工智能 （AI） _ 深度学习 （DL）.html">Wayne Zhang </a>商汤科技</li>
-        <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a>商汤科技</li>
+        <li><a href="../text/匡章辉's 主页.html"> 匡章辉</a>商汤科技</li>
          <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
           <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
            <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
