@@ -158,7 +158,7 @@
        <div> 
     <ul>
      <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
-     <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
+     <li><a href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a></li>
      <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
      <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
      <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
