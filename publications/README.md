@@ -129,7 +129,7 @@
           <li><a href="../index.html">Homepage</a></li>
           <li class="active"><a href="index.htm">interns</a>
                     <ul class="submenu">
-                         <li><a href="../p1">I0</a></li>
+                         <li><a href="../publications">I0</a></li>
                         <li><a href="../p1">p1-1</a></li>
                         <li><a href="#">p1-2</a></li>
                      </ul>
