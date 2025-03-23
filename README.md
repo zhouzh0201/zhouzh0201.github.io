@@ -245,7 +245,7 @@
     <a class="dropdown " href="javascript:;" title="CGPWS">interns</a>   	
            <!--a href="publications">Publications</a-->   
       <ul class="nav_item fadeInUp">
-	   <li><a href="xygk/xyjj.htm">p1</a></li>    
+	   <li><a href="publications ">I0</a></li>    
          <li><a href="xygk/xyjj.htm">p1</a></li>
          <li><a href="xygk/lsyg.htm">p2</a></li>
          <li><a href="xygk/xrld.htm">p3</a></li>
