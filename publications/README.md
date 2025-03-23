@@ -151,12 +151,15 @@
         </span>
    
   <hr>
- <span class="navbar-brand">
+        <span class="navbar-brand">
           <font color="#3bdddd"> interns</font>
         </span>
+       <div> 
     <ul>
     <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
-  </ul>
+  
+    </ul>
+       </div>
  <hr> 
  
 <div align="center">
