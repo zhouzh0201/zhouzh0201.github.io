@@ -19,8 +19,8 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebPage","headline":"周忠红","url":"https://zhouzh0201.github.io/servicepublications/"}</script>
 <!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=f89006dae06f22051e431643f1a8c588dd220829">
+<link rel="stylesheet" href="/assets/css/style.css?v=cb078cd31b6a9f93153a5f014c609cf275a46a03">
+    <!--link rel="stylesheet" href="/assets/css/style.css?v=f89006dae06f22051e431643f1a8c588dd220829"-->
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
