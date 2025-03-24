@@ -1,0 +1,467 @@
+<html><head>
+<title>Tao Kong</title>
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+
+<style type="text/css">
+ @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
+
+
+	body
+	{
+	font-family:"Roboto",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;font-weight:300;
+    	background-color : #CDCDCD;
+	}
+    	.content
+	{
+    		width : 900px;
+    		padding : 25px 30px;
+    		margin : 25px auto;
+    		background-color : #fff;
+    		box-shadow: 0px 0px 10px #999;
+    		border-radius: 15px; 
+	}	
+	table
+	{
+		padding: 5px;
+	}
+	
+	table.pub_table,td.pub_td1,td.pub_td2
+	{
+		padding: 8px;
+		width: 850px;
+        border-collapse: separate;
+        border-spacing: 15px;
+        margin-top: -5px;
+	}
+
+	td.pub_td1
+	{
+		width:50px;
+	}
+    td.pub_td1 img
+    {
+        height:120px;
+        width: 160px;
+    }
+	
+	div#container
+	{
+		margin-left: auto;
+		margin-right: auto;
+		width: 820px;
+		text-align: left;
+		position: relative;
+		background-color: #FFF;
+	}
+	div#DocInfo
+	{
+		color: #1367a7;
+		height: 158px;
+		margin-left: 20px;
+	}
+	h4,h3,h2,h1
+	{
+		color: #3B3B3B;
+	}
+	h2
+	{
+		font-size:130%;
+	}
+	p
+	{
+		color: #5B5B5B;
+		margin-bottom: 50px;
+	}
+	p.caption
+	{
+		color: #9B9B9B;
+		text-align: left;
+		width: 600px;
+	}
+	p.caption2
+	{
+		color: #9B9B9B;
+		text-align: left;
+		width: 800px;
+	}
+	#header_img
+	{
+		position: absolute;
+		top: 0px; right: 0px;
+    }
+	a:link,a:visited
+	{
+		color: #1367a7;
+		text-decoration: none;
+	}
+
+    #mit_logo {
+        position: absolute;
+        left: 646px;
+        top: 14px;
+        width: 200px;
+        height: 20px;
+    }
+   
+    table.pub_table tr {
+        outline: thin dotted #666666;
+    }
+    .papericon {
+        border-radius: 8px; 
+        -moz-box-shadow: 3px 3px 6px #888;
+        -webkit-box-shadow: 3px 3px 6px #888;
+        box-shadow: 3px 3px 6px #888;
+        width: 180px;
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+    }
+
+     .papericon_blank {
+
+        width: 160px;
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+    }
+
+    .media {
+	outline: thin dotted #666666;
+ 	margin-bottom: 15px;	
+	margin-left:10px;
+    }
+    .media-body {
+	margin-top:5px;
+	padding-left:20px;
+    }
+    .instructorphoto img {
+	  width: 170px;
+	  border-radius: 170px;
+	  margin-bottom: 10px;
+	}
+
+
+.papers-selected h5, .papers-selected h4 { display : none; }
+.papers-selected .publication { display : none; }
+.paperhi-only { display : none; }
+.papers-selected .paperhi { display : flex; }
+.papers-selected .paperlo { display : none; }
+
+.hidden>div {
+	display:none;
+}
+
+.visible>div {
+	display:block;
+}
+</style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23931362-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23931362-2');
+</script>
+
+<script type="text/javascript">
+    var myPix = new Array("profile.jpg")
+    function choosePic() {
+        var randomNum = Math.floor(Math.random() * myPix.length);
+        document.getElementById("myPicture").src = myPix[randomNum];
+    };
+</script>
+
+<script>
+$(document).ready(function() {
+  $('.paperlo button').click(function() {
+     $('.papers-container').addClass('papers-selected');
+  });
+  $('.paperhi button').click(function() {
+     $('.papers-container').removeClass('papers-selected');
+  });
+
+
+	$('.text_container').addClass("hidden");
+
+	$('.text_container').click(function() {
+		var $this = $(this);
+
+		if ($this.hasClass("hidden")) {
+			$(this).removeClass("hidden").addClass("visible");
+			$(this).removeClass("papericon");
+		} else {
+			$(this).removeClass("visible").addClass("hidden");
+		}
+	});
+
+
+});
+</script>
+
+</head>
+
+<body>
+<div class="content">
+	<div id="container">
+
+	<table>
+	<tbody><tr>
+	<td><div class="instructorphoto"><img id="myPicture" src="profile.jpg" style="float:left;"></div></td>
+	<script>choosePic();</script>
+	<td>
+	<div id="DocInfo">
+		<h1>Tao Kong</h1><br>
+        ByteDance Research<br><br>
+        Email: <a href="mailto:taokongcn@gmail.com">kongtao@bytedance.com</a><br><br>
+        <a href="https://scholar.google.com/citations?user=kSUXLPkAAAAJ&hl=en">Google Scholar</a> &bull; 
+		<a href="https://arxiv.org/find/cs/1/au:+Kong_Tao/0/1/0/all/0/1">arXiv</a> &bull; 
+		<a href="https://github.com/taokong">Github</a> &bull; 
+		<a href="https://www.zhihu.com/people/kong-tao-72">Zhihu</a><br>
+	</div><br>
+    <!--
+    <div id="mit_logo">
+        <a href="http://www.mit.edu"><img src="image/mit.gif" height="170px" class="papericon" /></a>
+    </div>
+    -->
+	</td>
+	</tr>
+	</tbody></table>
+	<br>
+	
+
+<h2>Intro</h2>
+<ul>
+<li>I am a Director of Robotics Research, ByteDance Research. </li>
+<li>At ByteDance Research, I lead research programs on developing next-generation robot techniques and systems to perform intelligent perception, action, and interaction in the real world. 
+    I received my Ph.D. from Tsinghua University, advised by <a href="https://scholar.google.com/citations?user=DbviELoAAAAJ&hl=en">Fuchun Sun</a>. 
+    I visited the University of Pennsylvania, working with <a href="https://www.cis.upenn.edu/~jshi">Jianbo Shi</a>. 
+    I also spent great internship time at Intel Labs, Microsoft Research Asia and ByteDance.
+    I am the recipient of the CAAI Excellent Doctoral Dissertation Nomination Award 2020, 
+	IROS Robotic Grasping and Manipulation Competition Winner Award 2016, and Habitat ObjectNav Challenge Winner Award 2022. </li>
+<li><font color="#800000">We are recruiting interns / full-time researchers and engineers in robotics.</font> 
+	If you are interested in these positions, please drop me an email.</a></li>
+
+</ul> 
+
+<h2>News</h2>	
+    <ul>
+	<li>[06/2023] We have two papers accepted by IROS 2023. Congratulations! </li>
+	<li>[03/2023] We have two papers accepted by ICRA 2023. Congratulations! </li>
+	<li>[11/2022] We won the <font color="#800000">first place</font> in Habitat ObjectNav Challenge 2022. Congratulations!</li>
+	<li>[10/2022] One paper about reference expression generation and comprehension got accepted by EMNLP 2022. </li>
+	<li>[09/2022] One paper about category-level shape and pose estimation got accepted by CoRL 2022. </li>
+	<li>[06/2022] We have two papers accepted by IROS 2022, and one paper accepted by RAL. Congratulations! </li>
+	<li>[04/2022] Our journal extention of <a href="https://arxiv.org/abs/2103.17220">SA-AutoAug</a> got accepted by TPAMI! </li>
+	<li>[01/2022] <a href="https://arxiv.org/abs/2111.07832">iBOT</a> got accepted by ICLR 2022, setting new SOTAs on ImageNet linear acc (82.3%), fine-tuning acc (87.8%), as well as unsupervised ARI (32.8%)! </li>
+</ul> 
+
+<h2>Some Publications (<a href="https://scholar.google.com/citations?hl=en&user=kSUXLPkAAAAJ&view_op=list_works&sortby=pubdate">Full List</a>)</h2>
+<ul> 
+      <li>
+      <b>Visual-Force Imitation for Real-World Mobile Manipulation</b><br>
+	     <font size=3px>
+		     Taozheng Yang, Ya Jing, Hongtao Wu, Jiafeng Xu, Kuankuan Sima, Guangzeng Chen, Qie Sima, Tao Kong<br>
+	     	     <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2023 </i><br>
+		     [<a href="https://visual-force-imitation.github.io">Project</a>][<a href="https://visual-force-imitation.github.io/static/paper/moma-force.pdf">Paper</a>]<br>
+	     </font>
+	</li>
+	      
+      <li>
+      <b>Exploring Visual Pre-training for Robot Manipulation: Datasets, Models and Methods</b><br>
+	     <font size=3px>
+		     Ya Jing, Xuelin Zhu, Xingbin Liu, Qie Sima, Taozheng Yang, Yunhai Feng, Tao Kong<br>
+	     	     <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2023 </i> <br>
+		     [<a href="https://explore-pretrain-robot.github.io">Project</a>][<a href="https://explore-pretrain-robot.github.io">Paper</a>]<br>
+	     </font>
+	</li>
+
+	<li>
+      <b>Learning to Explore Informative Trajectories and Samples for Embodied Perception</b><br>
+	     <font size=3px>
+		     Ya Jing, Tao Kong<br>
+	     	     <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>), 2023 </i> <br>
+		     [<a href="https://arxiv.org/abs/2303.10936">Paper</a>][<a href="https://www.taokong.org">Project</a>]<br>
+	     </font>
+	</li>
+	
+      <li>
+      <b>Towards Open-World Interactive Disambiguation for Robotic Grasping</b><br>
+	     <font size=3px>
+		     Yuchen Mo, Hanbo Zhang, Tao Kong<br>
+	     	     <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>), 2023 </i> <br>
+		     [<a href="https://ieeexplore.ieee.org/abstract/document/10161333">Paper</a>][<a href="https://www.taokong.org">Project</a>]<br>
+	     </font>
+	</li>
+	
+      <li>
+      <b>Self-Supervised Learning by Estimating Twin Class Distribution</b><br>
+	     <font size=3px>
+		     Feng Wang, Tao Kong, Rufeng Zhang, Huaping Liu, Hang Li<br>
+	     	     <i>IEEE Trans. on Image Processing (<b>TIP</b>), 2023 </i> <br>
+		     [<a href="https://ieeexplore.ieee.org/abstract/document/10102765/">Paper</a>][<a href="https://github.com/bytedance/TWIST">Code</a>]<img alt="GitHub stars" src="https://img.shields.io/github/stars/bytedance/TWIST?label=Stars&style=social"><br>
+	     </font>
+	</li>
+
+	<li>
+      <b>Learning Design and Construction with Varying-Sized Materials via Prioritized Memory Resets</b><br>
+             <font size=3px>
+		     Yunfei Li, Tao Kong, Lei Li, Yi Wu<br>
+      		    <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>), 2022 </i> <br>
+		     [<a href="https://ieeexplore.ieee.org/abstract/document/9811624">Paper</a>][<a href="https://sites.google.com/view/bridge-pmr">Project</a>]<br>
+	     </font>
+       </li>
+	
+	<li>
+      <b>Navigating to Objects in Unseen Environments by Distance Prediction</b><br>
+             <font size=3px>
+		     Minzhao Zhu, Binglei Zhao, Tao Kong<br>
+		     <b><i><font color="#800000"><font size=2px>Our base method to win the Habitat ObjectNav Challenge 2022.</font></font></i></b> <br>
+      		    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2022 (Oral) </i> <br>
+		     [<a href="https://arxiv.org/abs/2202.03735">Paper</a>]<br>
+	     </font>
+       </li>
+	
+	<li>
+      <b>iBOT: Image BERT Pre-Training with Online Tokenizer</b><br>
+	     <font size=3px>
+		     Jinghao Zhou, Chen Wei, Huiyu Wang, Wei Shen, Cihang Xie, Alan Yuille and Tao Kong<br>
+		     <b><font size=2px><font color="#800000"><i>Among the Most Influential ICLR Papers in Google Scholar Metrics 2023</i></font></font></b> <br>
+		     <i>International Conference on Learning Representations (<b>ICLR</b>), 2022 </i> <br>
+		     [<a href="https://arxiv.org/abs/2111.07832">Paper</a>][<a href="https://github.com/bytedance/ibot">Code</a>]<img alt="GitHub stars" src="https://img.shields.io/github/stars/bytedance/ibot?label=Stars&style=social"><br>
+		</font> 
+      </li>
+
+      <li>
+      <b>SOLOv2: Dynamic and Fast Instance Segmentation</b><br>
+	     <font size=3px>
+		     Xinlong Wang, Rufeng Zhang, Tao Kong, Lei Li and Chunhua Shen<br>
+		      <b><font size=2px><font color="#800000"><i>Among the Most Influential NeurIPS Papers in Google Scholar Metrics 2023</i></font></font></b> <br>
+		     <i>Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2020 </i> <br>
+		     [<a href="https://arxiv.org/abs/2003.10152">Paper</a>][<a href="https://github.com/WXinlong/SOLO">Code</a>]<img alt="GitHub stars" src="https://img.shields.io/github/stars/WXinlong/SOLO?label=Stars&style=social"><br>
+	     </font>
+	</li>
+
+      <li>
+      <b>SOLO: Segmenting Objects by Locations</b><br>
+	     <font size=3px>
+		     Xinlong Wang, Tao Kong, Chunhua Shen, Yuning Jiang and Lei Li<br>
+		     <b><font size=2px><font color="#800000"><i>Among the Most Influential ECCV Papers in Google Scholar Metrics 2022/2023</i></font></font></b> <br>
+		     <i>European Conference on Computer Vision (<b>ECCV</b>), 2020 </i> <br>
+		     [<a href="projects/solo">Project</a>][<a href="https://arxiv.org/abs/1912.04488">Paper</a>][<a href="https://github.com/WXinlong/SOLO">Code</a>]<img alt="GitHub stars" src="https://img.shields.io/github/stars/WXinlong/SOLO?label=Stars&style=social"><br>
+	      </font>
+      </li>
+	
+      <li>
+      <b>FoveaBox: Beyond Anchor-based Object Detector</b><br>
+	     <font size=3px>
+		     Tao Kong, Fuchun Sun, Huaping Liu, Yuning Jiang, Lei Li, Jianbo Shi<br>
+		     <b><font size=2px><font color="#800000"><i>ESI Highly Cited Paper (Top 1%). </i></font></font></b> <br>
+	      	     <b><font size=2px><font color="#800000"><i>Among the Most Influential TIP Papers in Google Scholar Metrics 2023 </i></font></font></b> <br>
+	     	     <i>IEEE Trans. on Image Processing (<b>TIP</b>), 2020 </i> <br>
+		     [<a href="projects/FoveaBox">Project</a>][<a href="https://arxiv.org/abs/1904.03797">Paper</a>][<a href="https://github.com/taokong/FoveaBox">Code</a>]<img alt="GitHub stars" src="https://img.shields.io/github/stars/taokong/FoveaBox?label=Stars&style=social"><br>
+	     </font>
+	</li>
+
+     <li>
+      <b>RON: Reverse Connection with Objectness Prior Networks for Object Detection</b><br>
+        <font size=3px>
+		Tao Kong, Fuchun Sun, Anbang Yao, Huaping Liu, Yurong Chen, Ming Lu<br>
+		<i>IEEE / CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), 2017 </i> <br>
+		[<a href="https://arxiv.org/abs/1707.01691">Paper</a>][<a href="https://github.com/taokong/RON">Code</a>]<img alt="GitHub stars" src="https://img.shields.io/github/stars/taokong/RON?label=Stars&style=social"><br>
+	</font>
+    </li>
+	
+    <li>
+      <b>HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection</b><br>
+        <font size=3px>
+		Tao Kong, Anbang Yao, Yurong Chen, Fuchun Sun<br>
+		<b><font size=2px><font color="#800000"><i>Among the Most Influential CVPR Papers in Google Scholar Metrics 2021</i></font></font></b> <br>
+		<i>IEEE / CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), 2016 (Spotlight)</i> <br>
+		[<a href="https://arxiv.org/abs/1604.00600">Paper</a>] <br>
+	</font>
+    </li>
+	
+</ul>
+
+
+
+		
+<h2>Honors & Awards</h2>
+<ul> 
+    <li>
+    Habitat ObjectNav Challenge Winner Award 2022
+    </li>
+    <li>
+    <a href="papers/CAAI-Tao.pdf">CAAI Excellent Doctoral Dissertation Nomination Award</a>, 2020
+    </li>
+    <li>
+    IROS Robotic Grasping and Manipulation Competition Winner Award 2016
+    </li>
+    <li>
+    The CCF Outstanding Undergraduate Award, 2013
+    </li>
+    <li>
+    University Young Science Award, 2013
+    </li>
+    <li>
+    National Scholarship, 2012/2013
+    </li>
+</ul>
+	
+<!-- 
+<h2>Alumni</h2>
+<ul> 
+    <li>
+    Feng Wang, intern at ByteDance, Tsinghua
+    </li>
+    <li>
+    Jinghao Zhou, intern at ByteDance, CMU
+    </li>
+    <li>
+    Yunfei Li, intern at ByteDance, Tsinghua
+    </li>
+    <li>
+    Yiming Li, intern at ByteDance, CAS -> EPFL
+    </li>
+    <li>
+    Ya Jing, intern at ByteDance, CAS -> ByteDance
+    </li>
+    <li>
+    Ruihang Chu, intern at ByteDance, CUHK
+    </li>
+    <li>
+    Yukang Chen, intern at ByteDance, CUHK
+    </li>
+    <li>
+    Rufeng Zhang, intern at ByteDance, Tongji -> Baidu
+    </li>
+    <li>
+    Mingxuan Jing, intern at ByteDance, Tsinghua -> CAS
+    </li>
+    <li>
+    Xiaojian Ma, intern at ByteDance, Tsinghua -> UCLA
+    </li>
+    <li>
+    Xinlong Wang, intern at ByteDance, Adelaide -> BAAI
+    </li>
+</ul> -->
+
+
+<!-- <h2>Academic Service</h2>
+<ul>    
+    <li>
+    Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR, etc.
+    </li>
+    <li>
+    Journal Reviewer: TPAMI, IJCV, TIP, PR, etc.
+    </li>
+</ul> -->
+
+<p></p>
+<p align="left"><i>Last update: July, 2023</i> </p>
+</body></html>

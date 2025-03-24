@@ -1,0 +1,780 @@
+
+<!DOCTYPE html>
+<html lang="US-en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="author" content="上海雍熙信息技术有限公司提供技术支持,https://www.yongsy.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no, email=no" />
+    <meta name="renderer" content="webkit">
+    <meta name="description" content="期智" />
+    <meta name="keywords" content="期智" />
+    <title>上海期智研究院</title>
+    <link href="/Apps/Api/Ueditor/themes/iframe.css" type="text/css" rel="stylesheet" />
+    <link href="/Public/En/css/bootstrap.min-v3.3.5.css" type="text/css" rel="stylesheet"/>
+    <link href="/Public/En/css/base-v1.4.css" type="text/css" rel="stylesheet"/>
+    <link href="/Public/En/css/base-v2.0.css" type="text/css" rel="stylesheet"/>
+    <link href="/Public/En/css/slick.css" type="text/css" rel="stylesheet"/>
+    <link href="/Public/En/css/slick-theme.css" type="text/css" rel="stylesheet"/>
+    <link href="/Public/En/css/jquery.mCustomScrollbar.min.css" rel="stylesheet"/>
+    <link href="/Public/En/css/animate.min.css" type="text/css" rel="stylesheet"/>
+    <link href="/Public/En/css/common.css" type="text/css" rel="stylesheet"/>
+    <link href="/Public/En/css/main.css" type="text/css" rel="stylesheet"/>
+    <link href="/Public/En/css/media.css" type="text/css" rel="stylesheet"/>
+</head><body class="home-main">
+<!-- head-ph -->
+<!-- ph导航 -->
+<!-- head-ph -->
+<!-- ph导航 -->
+<div class="ys_navph2_header">
+    <!-- 导航条 -->
+    <nav class="ys_navph2_navbar clearfix">
+        <div class="ys_navph2_navfl fl">
+            <!-- logo -->
+            <div class="ys_navph2_logo">
+                <a href="/en" class="ys_navph2_logo_btn">
+                    <img src="/Public/Uploads/uploadfile/images/20211207/qizhilogo.svg" alt="qizhilogo.svg">
+                </a>
+            </div>
+        </div>
+        <div class="ys_navph2_navfr fr clearfix">
+            <!-- 搜索按钮 -->
+            <div class="ys_navph2_search fl">
+                <div class="ys_navph2_search_btn">
+                    <img src="/Public/En/images/a1_icon12.svg" alt="">
+                </div>
+                <!-- 搜索弹窗 -->
+                <div class="ys_navph2_modal">
+                    <div class="ys_navph2_modalmbox">
+                        <div class="ys_navph2_modalm">
+                            <div class="ys_navph2_msc_box clearfix">
+                                <div class="ys_navph2_msc_boxl fl">
+                                    <input type="text" placeholder="Please enter keywords" id="phkeywords" class="ys_navph2_msc_input">
+                                </div>
+                                <div class="ys_navph2_msc_boxr fr">
+                                    <button onclick="phsearch()">
+                                        <img src="/Public/En/images/a1_icon12.svg" alt="">
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 菜单 -->
+            <div class="ys_navph2_menu fl">
+                <div class="ys_navph2_menu_btn">
+                    <span class="ys_navph2_menu_line"></span>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- 下拉 -->
+    <div class="ys_navph2_list">
+        <!-- oA登录 -->
+        <div class="ys_navph3_loginb">
+            <div class="ys_navph3_login">
+                <a href="https://oa.sqz.ac.cn/" target="_blank">OA登录</a>
+            </div>
+        </div>
+        <ul class="ys_navph2_subnav">
+            <!-- 一级 -->
+            <li class="ys_navph2_subnav_li">
+                <div class="ys_navph2_subnav_lisbox">
+                    <a href="/en" target="_self" class="ys_navph2_subnav_a yxnav_active1">Home</a>
+                                    </div>
+                <!-- 三级 -->
+                            </li><li class="ys_navph2_subnav_li">
+                <div class="ys_navph2_subnav_lisbox">
+                    <a href="/en/introduction" target="_self" class="ys_navph2_subnav_a ">About Us</a>
+                                    </div>
+                <!-- 三级 -->
+                            </li><li class="ys_navph2_subnav_li">
+                <div class="ys_navph2_subnav_lisbox">
+                    <a href="/en/artificial" target="_self" class="ys_navph2_subnav_a ">Research Direction</a>
+                    <div class="ys_navph2_nav_icon"></div>                </div>
+                <!-- 三级 -->
+                <ul class="ys_navph2_thirnav">
+                    <li class="ys_navph2_thirnav_li">
+                        <div class="ys_navph2_thirnav_lisbox">
+                            <a href="/en/artificial" target="_self" class="ys_navph2_thirnav_a ">AI</a>
+                        </div>
+                    </li><li class="ys_navph2_thirnav_li">
+                        <div class="ys_navph2_thirnav_lisbox">
+                            <a href="/en/password" target="_self" class="ys_navph2_thirnav_a ">Modern Cryptography</a>
+                        </div>
+                    </li><li class="ys_navph2_thirnav_li">
+                        <div class="ys_navph2_thirnav_lisbox">
+                            <a href="/en/quantum" target="_self" class="ys_navph2_thirnav_a ">Quantum Computing and Quantum Artificial Intelligence</a>
+                        </div>
+                    </li><li class="ys_navph2_thirnav_li">
+                        <div class="ys_navph2_thirnav_lisbox">
+                            <a href="/en/performance" target="_self" class="ys_navph2_thirnav_a ">High-Performance Computing Systems</a>
+                        </div>
+                    </li><li class="ys_navph2_thirnav_li">
+                        <div class="ys_navph2_thirnav_lisbox">
+                            <a href="/en/cross" target="_self" class="ys_navph2_thirnav_a ">Interdisciplinary Research</a>
+                        </div>
+                    </li><li class="ys_navph2_thirnav_li">
+                        <div class="ys_navph2_thirnav_lisbox">
+                            <a href="/en/completed-projects" target="_self" class="ys_navph2_thirnav_a ">Completed Projects</a>
+                        </div>
+                    </li>                </ul>            </li><li class="ys_navph2_subnav_li">
+                <div class="ys_navph2_subnav_lisbox">
+                    <a href="/en/2024-11test" target="_self" class="ys_navph2_subnav_a ">Academic Activities</a>
+                                    </div>
+                <!-- 三级 -->
+                            </li><li class="ys_navph2_subnav_li">
+                <div class="ys_navph2_subnav_lisbox">
+                    <a href="/en/news" target="_self" class="ys_navph2_subnav_a ">News</a>
+                                    </div>
+                <!-- 三级 -->
+                            </li><li class="ys_navph2_subnav_li">
+                <div class="ys_navph2_subnav_lisbox">
+                    <a href="/en/join-us" target="_self" class="ys_navph2_subnav_a ">Join Us</a>
+                    <div class="ys_navph2_nav_icon"></div>                </div>
+                <!-- 三级 -->
+                <ul class="ys_navph2_thirnav">
+                    <li class="ys_navph2_thirnav_li">
+                        <div class="ys_navph2_thirnav_lisbox">
+                            <a href="/en/new-pi" target="_self" class="ys_navph2_thirnav_a ">PI</a>
+                        </div>
+                    </li><li class="ys_navph2_thirnav_li">
+                        <div class="ys_navph2_thirnav_lisbox">
+                            <a href="/en/boshi" target="_self" class="ys_navph2_thirnav_a ">Postdoc</a>
+                        </div>
+                    </li>                </ul>            </li>        </ul>
+
+        <!-- 语言选择 -->
+        <div class="ys_navph2_lang">
+            <div class="ys_navph2_lang_btn">
+                <img src="/Public/En/images/lang.png" alt="">
+                <span>Select language</span>
+            </div>
+        </div>
+        <!-- 语言选择弹窗 -->
+        <div class="ys_navph2_lang_modal">
+            <div class="ys_navph2_lang_back">&lt; Return to main menu</div>
+            <ul class="ys_navph2_subnav">
+                <li class="ys_navph2_subnav_li">
+                    <div class="ys_navph2_subnav_lisbox">
+                        <a href="/" class="ys_navph2_subnav_a">Cn</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- head-pc -->
+<div class="l_pchead">
+    <div class="l_syhead clearfix">
+        <div class="l_headle fl">
+            <!-- logo -->
+            <div class="l_logo">
+                <a href="/en">
+                    <div class="l_logoimg_box l_listimg">
+                        <img src="/Public/Uploads/uploadfile/images/20211207/qizhilogo.svg" alt="qizhilogo.svg" class="l_logodef">
+                        <img src="/Public/Uploads/uploadfile/images/20211207/qizhilogo1.svg" alt="qizhilogo1.svg" class="l_logofixed">
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="l_headri fr">
+            <div class="l_headris clearfix">
+                <!-- 导航 -->
+                <div class="l_headnav fl">
+                    <div class="l_headul clearfix">
+                        <div class="l_headli yxnav_active1  fl">
+                            <a href="/en" target="_self" class="l_headlia1">Home</a>
+                            <!--二级下拉-->
+                            <!---->
+                            <!---->
+                            <!---->
+                        </div><div class="l_headli   fl">
+                            <a href="/en/introduction" target="_self" class="l_headlia1">About Us</a>
+                            <!--二级下拉-->
+                            <!---->
+                            <!---->
+                            <!---->
+                        </div><div class="l_headli   fl">
+                            <a href="/en/artificial" target="_self" class="l_headlia1">Research Direction</a>
+                            <!--二级下拉-->
+                            <!---->
+                        </div><div class="l_headli   fl">
+                            <a href="/en/2024-11test" target="_self" class="l_headlia1">Academic Activities</a>
+                            <!--二级下拉-->
+                            <!---->
+                            <!---->
+                            <!---->
+                        </div><div class="l_headli   fl">
+                            <a href="/en/news" target="_self" class="l_headlia1">News</a>
+                            <!--二级下拉-->
+                            <!---->
+                            <!---->
+                            <!---->
+                        </div><div class="l_headli   fl">
+                            <a href="/en/join-us" target="_self" class="l_headlia1">Join Us</a>
+                            <!--二级下拉-->
+                            <!---->
+                            <!---->
+                            <!--<div class="l_navxl">-->
+                            <!--    <div class="l_navxl_container l_con1360">-->
+                            <!--        <div class="l_navxluls clearfix">-->
+                            <!--            -->
+                            <!--            <div class="l_subnavli  fl">-->
+                            <!--                <a href="/en/new-pi" target="_self" class="l_navxla2">PI</a>-->
+                            <!--            </div>-->
+                            <!---->
+                            <!--            <div class="l_subnavli  fl">-->
+                            <!--                <a href="/en/boshi" target="_self" class="l_navxla2">Postdoc</a>-->
+                            <!--            </div>-->
+                            <!---->
+                            <!--        </div>-->
+                            <!--    </div>-->
+                            <!--</div>-->
+                            <!---->
+                            <!---->
+                        </div>                    </div>
+                </div>
+                <!-- 搜索、语言、登录 -->
+                <div class="l_headothbox fl clearfix">
+                    <!-- 搜索 -->
+                    <div class="l_searchbox l_searchs fl">
+                        <!-- 搜索按钮 -->
+                        <div class="l_search_icon">
+                            <div class="l_search_icons">
+                                <img src="/Public/En/images/a1_icon4.svg" alt="" class="l_logodef">
+                                <img src="/Public/En/images/a1_icon9.svg" alt="" class="l_logofixed">
+                            </div>
+                        </div>
+                        <!-- 搜索弹窗 -->
+                        <div class="ma_modal">
+                            <div class="ma_modalmbox">
+                                <div class="ma_modalm">
+                                    <div class="mc_msc_box clearfix">
+                                        <div class="mc_msc_boxl fl">
+                                            <input type="text" placeholder="Please enter keywords" class="ma_msc_input" id="keywordss">
+                                        </div>
+                                        <div class="mc_msc_boxr fr">
+                                            <button onclick="searchs()">
+                                                <img src="/Public/En/images/a1_icon9.svg" alt="">
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 语言 -->
+                    <div class="l_searchbox l_languages fl">
+                        <a href="/">
+                            <div class="l_search_icon">
+                                <img src="/Public/En/images/a1_icon5.svg" alt="" class="l_logodef">
+                                <img src="/Public/En/images/a1_icon10.svg" alt="" class="l_logofixed">
+                            </div>
+                        </a>
+                    </div>
+                    <!-- 登录 -->
+                    <div class="l_loginbox fl">
+                        <a href="https://oa.sqz.ac.cn/" target="_blank">OA登录</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- banner -->
+<div class="g_syban">
+    <div class="g_sybansk">
+        <div class="g_sybannr on">
+                <div class="g_sybantu">
+                    <img class="g_sybantupc" src="/Public/Uploads/uploadfile2/images/20240710/a1_bannerpc.jpg" alt="a1_bannerpc.jpg">
+                    <img class="g_sybantuph" src="" alt="">
+                                    </div>
+                <div class="g_sybanwz l_con1360">
+                    <div class="l_sybanp">
+                        <a href="Array">
+                            <p>AI</p>
+                        </a>
+                    </div>
+                    <h2>Lead the world in the interdisciplinary development of artificial intelligence</h2>
+                </div>
+            </div>    </div>
+</div>
+<!-- center -->
+<div class="l_ny home-page">
+    <section class="l_sect1 l_e1sect">
+        <!-- 内容区 -->
+        <div class="home-page-main"> 
+            <div class="ys_cont1360 home-page-cont1306">
+                <div class="home-page-top">
+                    <div class="home-page-sec-top wow l_fadeup1">
+                        <a class="hpst-link" href="/en/comprehensive-news">
+                            <div class="hpst-link-cont">
+                                <div class="hpst-tit">News</div>
+                                <div class="hpst-more">
+                                    <div class="hpst-more-tit">Learn more</div>
+                                    <div class="hpst-more-arrow">
+                                        <img src="/Public/En/images/a1_arrow01.svg">
+                                        <img src="/Public/En/images/a1_arrow01_1.svg">
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="home-page-sec-btm">
+                        <ul class="hpst-ul-top">
+                            <li class="hpst-ul-list wow l_fadeup2">
+                                    <a href="/en/comprehensive-news-88" class="hpst-ul-list-link" title>
+                                        <div class="hull-cont">              
+                                            <div class="ys_imgbox_cover">
+                                                <img src="/Public/En/images/0bg670.png" alt="">
+                                                <img src="/Public/Uploads/uploadfile2/images/20240801/1722477297553.jpg" alt="1722477297553.jpg">
+                                            </div>
+                                            <div class="hull-cont-btm">
+                                                <div class="hull-cont-date">2024-06-12</div>
+                                                <div class="hull-cont-tit">Xi replies to Tsinghua professor, urging more contributions to education, science</div>
+                                                <div class="hull-cont-text"><p>BEIJING,June12(Xinhua)--ChinesePresidentXiJinpinghasencouragedAndrewChi-ChihYao,aprofessorofTsinghua...</p></div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li><li class="hpst-ul-list wow l_fadeup2">
+                                    <a href="/en/comprehensive-news-95" class="hpst-ul-list-link" title>
+                                        <div class="hull-cont">              
+                                            <div class="ys_imgbox_cover">
+                                                <img src="/Public/En/images/0bg670.png" alt="">
+                                                <img src="/Public/Uploads/uploadfile2/images/20240806/weixintupian_20240805144229.jpg" alt="weixintupian_20240805144229.jpg">
+                                            </div>
+                                            <div class="hull-cont-btm">
+                                                <div class="hull-cont-date">2024-07-15</div>
+                                                <div class="hull-cont-tit">Dean Yao Wins the 2024 Basic Science Lifetime Award</div>
+                                                <div class="hull-cont-text"><p>On July 14, 2024, the opening ceremony and the award ceremony of the 2024 International Congress of Basic Science were held at Tsinghua University, where the Basic Science Lifetime Award for the year 2024 was presented during the opening ceremony. Andrew </p></div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li><li class="hpst-ul-list wow l_fadeup2">
+                                    <a href="/en/comprehensive-news-42" class="hpst-ul-list-link" title>
+                                        <div class="hull-cont">              
+                                            <div class="ys_imgbox_cover">
+                                                <img src="/Public/En/images/0bg670.png" alt="">
+                                                <img src="/Public/Uploads/uploadfile2/images/20240401/1.png" alt="1.png">
+                                            </div>
+                                            <div class="hull-cont-btm">
+                                                <div class="hull-cont-date">2024-04-01</div>
+                                                <div class="hull-cont-tit">SQZ is Recruiting Top Talents from around the World</div>
+                                                <div class="hull-cont-text"><p>SQZ is recruiting top talents in Artificial intelligence, Information Security,Quantum Computing and related fields</p></div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>                            
+                        </ul>
+                        <ul class="hpst-ul-btm">
+                            <li class="hpst-ul-top-list wow l_fadeup1">
+                                    <a class="hutl-link" href="/en/comprehensive-news-96" title>
+                                        <div class="hutl-link-cont">
+                                            <div class="ys_imgbox_cover">
+                                                <img src="/Public/En/images/0bg325.png" alt="">
+                                                <img src="/Public/Uploads/uploadfile2/images/20240822/weimingming(3)(3).jpg" alt="weimingming(3)(3).jpg">
+                                            </div>
+                                            <div class="hutl-link-cont-btm">
+                                                <div class="hlcb-date">2024-07-30</div>
+                                                <div class="hlcb-tit">2024 Shanghai Workshop on Robustness Meets Causality: Theory and Applications was successfully held</div>
+                                                <div class="hlcb-text"><p>FromJuly22to25,2024,2024ShanghaiWorkshoponRobustnessMeetsCausality:TheoryandApplicationswassuccessfu...</p></div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li><li class="hpst-ul-top-list wow l_fadeup1">
+                                    <a class="hutl-link" href="/en/comprehensive-news-97" title>
+                                        <div class="hutl-link-cont">
+                                            <div class="ys_imgbox_cover">
+                                                <img src="/Public/En/images/0bg325.png" alt="">
+                                                <img src="/Public/Uploads/uploadfile2/images/20240822/heying(2).jpg" alt="heying(2).jpg">
+                                            </div>
+                                            <div class="hutl-link-cont-btm">
+                                                <div class="hlcb-date">2024-07-28</div>
+                                                <div class="hlcb-tit">Tsinghua Yao Class Students visit our institute</div>
+                                                <div class="hlcb-text"><p>OnJuly26th,YaoClassstudentsoftheInstituteforInterdisciplinaryInformationSciencesatTsinghuaUniversity...</p></div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li><li class="hpst-ul-top-list wow l_fadeup1">
+                                    <a class="hutl-link" href="/en/comprehensive-news-94" title>
+                                        <div class="hutl-link-cont">
+                                            <div class="ys_imgbox_cover">
+                                                <img src="/Public/En/images/0bg325.png" alt="">
+                                                <img src="/Public/Uploads/uploadfile2/images/20240806/1722842361756.jpg" alt="1722842361756.jpg">
+                                            </div>
+                                            <div class="hutl-link-cont-btm">
+                                                <div class="hlcb-date">2024-07-24</div>
+                                                <div class="hlcb-tit">Congratulations to the team of Chen Jianyu for being a finalist for the Outstanding Paper Award at RSS 2024</div>
+                                                <div class="hlcb-text"><p>Recently, the team of  Jianyu Chen in collaboration with Robotera completed the paper titled "Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning（DWL）</p></div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li><li class="hpst-ul-top-list wow l_fadeup1">
+                                    <a class="hutl-link" href="/en/comprehensive-news-93" title>
+                                        <div class="hutl-link-cont">
+                                            <div class="ys_imgbox_cover">
+                                                <img src="/Public/En/images/0bg325.png" alt="">
+                                                <img src="/Public/Uploads/uploadfile2/images/20240806/1722913181275-995.jpg" alt="1722913181275-995.jpg">
+                                            </div>
+                                            <div class="hutl-link-cont-btm">
+                                                <div class="hlcb-date">2024-07-28</div>
+                                                <div class="hlcb-tit">The 2024 Cryptography Summer Camp was successfully held</div>
+                                                <div class="hlcb-text"><p>From July 17th to 21st, 2024, the Cryptography Summer Camp, co-hosted by the Shanghai Qi Zhi Institute and the John Hopcroft Center for Computer, Shanghai Jiao Tong University, was successfully held. This event gathered over 70 outstanding undergr</p></div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="home-page-btm">
+                    <div class="home-page-sec-top wow l_fadeup1">
+                        <a class="hpst-link" href="/en/2024-11test" target="_self">
+                            <div class="hpst-link-cont">
+                                <div class="hpst-tit">Academic Activities</div>
+                                <div class="hpst-more">
+                                    <div class="hpst-more-tit">Learn more</div>
+                                    <div class="hpst-more-arrow">
+                                        <img src="/Public/En/images/a1_arrow01.svg">
+                                        <img src="/Public/En/images/a1_arrow01_1.svg">
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <ul class="home-page-main-science wow l_fadeup2">
+                        <li class="hpms-li">
+                                <a class="hpms-li-link" href="/en/x2024-10-3" title>
+                                    <div class="hpms-li-link-cont">
+                                        <div class="ys_imgbox_cover">
+                                            <img src="/Public/En/images/0bg325.png" alt="">
+                                            <img src="/Public/Uploads/uploadfile/images/20240710/lixiaopeng3.png" alt="lixiaopeng3.png">
+                                        </div>
+                                        <div class="hllc-btm">
+                                            <div class="hllc-btm-date">2024-07-03</div>
+                                            <div class="hllc-btm-tit">Machine Learning and Quantum Data Mining</div>
+                                            <div class="hllc-btm-text"><p>Xiaopeng Li  The results are published in Phys. Rev. Letter</p></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li><li class="hpms-li">
+                                <a class="hpms-li-link" href="/en/x2024-10-2" title>
+                                    <div class="hpms-li-link-cont">
+                                        <div class="ys_imgbox_cover">
+                                            <img src="/Public/En/images/0bg325.png" alt="">
+                                            <img src="/Public/Uploads/uploadfile/images/20240710/lixiaopeng1.png" alt="lixiaopeng1.png">
+                                        </div>
+                                        <div class="hllc-btm">
+                                            <div class="hllc-btm-date">2024-07-03</div>
+                                            <div class="hllc-btm-tit">New Quantum Neural Network Structure</div>
+                                            <div class="hllc-btm-text"><p>Xiaopeng Li  The results are published in Communication Physics</p></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li><li class="hpms-li">
+                                <a class="hpms-li-link" href="/en/x2024-1111-9" title>
+                                    <div class="hpms-li-link-cont">
+                                        <div class="ys_imgbox_cover">
+                                            <img src="/Public/En/images/0bg325.png" alt="">
+                                            <img src="/Public/Uploads/uploadfile/images/20240823/tupian1.png" alt="tupian1.png">
+                                        </div>
+                                        <div class="hllc-btm">
+                                            <div class="hllc-btm-date">2024-08-23</div>
+                                            <div class="hllc-btm-tit">The Yu Yu team has proposed an efficient and secure communication and computation protocol</div>
+                                            <div class="hllc-btm-text"><p>Yu Yu The results are published in USENIX Security 2024</p></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li><li class="hpms-li">
+                                <a class="hpms-li-link" href="/en/2024-11test-6" title>
+                                    <div class="hpms-li-link-cont">
+                                        <div class="ys_imgbox_cover">
+                                            <img src="/Public/En/images/0bg325.png" alt="">
+                                            <img src="/Public/Uploads/uploadfile/images/20240710/3.png" alt="3.png">
+                                        </div>
+                                        <div class="hllc-btm">
+                                            <div class="hllc-btm-date">2024-08-23</div>
+                                            <div class="hllc-btm-tit">Tsinghua Scientists Simulate Non-Abelian Fibonacci Anyons on a Quantum Processor for the First Time</div>
+                                            <div class="hllc-btm-text"><p>Dongling Deng The results are published in Nature Physics</p></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>                      
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<!-- foot -->
+<footer>
+    <div class="l_foot">
+        <div class="l_footnr">
+            <div class="l_ftnrtp">
+                <div class="l_fttpnr g_content clearfix">
+                    <div class="l_fttple fl">
+                        <!-- 搜索 -->
+                        <div class="l_ftsearch clearfix">
+                            <div class="l_ftsechwz fl">
+                                <input type="text" placeholder="Please enter the content you want to search" id="keywords">
+                            </div>
+                            <div class="l_ftsechic fl" onclick="search()">
+                                <img src="/Public/En/images/a1_icon4.svg" alt="">
+                            </div>
+                        </div>
+                        <!-- 电话以及地址 -->
+                        <div class="l_ftinfobox clearfix">
+                            <div class="l_ftinfo1 fl clearfix">
+                                <div class="l_ftinfo1s fl clearfix">
+                                    <div class="l_ftifp fl">
+                                        <p>Tel   </p>
+                                    </div>
+                                    <div class="l_ftifa fl">
+                                        <p>
+                                            <a href="tel:021-54652653； ">021-54652653； </a>
+                                        </p>
+                                    </div>
+                                </div><div class="l_ftinfo1s fl clearfix">
+                                    <div class="l_ftifp fl">
+                                        <p></p>
+                                    </div>
+                                    <div class="l_ftifa fl">
+                                        <p>
+                                            <a href="tel:021-54652657">021-54652657</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="l_ftinfo2 fl clearfix">
+                                <div class="l_ftifp fl">
+                                    <p>ADDRESS</p>
+                                </div>
+                                <div class="l_ftifa fl">
+                                    <p>40-41 Floor, No.701 Yunjin Road, Xuhui District, Shanghai</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="l_fttpri fr">
+                        <div class="l_fttpcode">
+                            <div class="l_ftcodebg">
+                                <img src="/Public/En/images/codebg.png" alt="">
+                            </div>
+                            <img src="/Public/Uploads/uploadfile/images/20211207/a1_erweima.jpg" alt="a1_erweima.jpg" class="l_codeimg">
+
+                        </div>
+                        <div class="l_ftcodep">
+                            <p>CONTACT US</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="l_ftnrbt">
+                <div class="l_ftbtnr g_content clearfix">
+                    <div class="l_ftbtle fl clearfix">
+                        <div class="l_ftbtlep fl">
+                            <p>Copyright @ 2021 期智研究院<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopenner noreferrer" textvalue="沪ICP备08108526号">沪ICP备08108526号</a>  <a target="_blank" href="https://sqz.ac.cn">sqz.ac.cn</a><script type="text/javascript" src="https://s4.cnzz.com/z_stat.php?id=1280658711&web_id=1280658711"></script></p>
+                        </div>
+                        <!--<div class="l_ftbtimg fl">-->
+                        <!--    <img src="/Public/En/images/pic.gif" alt="">-->
+                        <!--</div>-->
+                    </div>
+                    <div class="l_ftbtshare fr clearfix">
+                        <!-- <div class="l_ftshare1 fl">
+                                <a href="" target="_self" rel="noopenner noreferrer">
+                                    <img src="/Public/Uploads/uploadfile/images/20211207/a1_icon1.svg" alt="a1_icon1.svg">
+                                </a>
+                            </div><div class="l_ftshare1 fl">
+                                <a href="" target="_self" rel="noopenner noreferrer">
+                                    <img src="/Public/Uploads/uploadfile/images/20211207/a1_icon2.svg" alt="a1_icon2.svg">
+                                </a>
+                            </div><div class="l_ftshare1 fl">
+                                <a href="" target="_self" rel="noopenner noreferrer">
+                                    <img src="/Public/Uploads/uploadfile/images/20211207/a1_icon3.svg" alt="a1_icon3.svg">
+                                </a>
+                            </div> -->
+                        <div class="l_ftshare1 bshare-custom fl">
+                            <div class="l_ftshare_wx">
+                                <a title="Share to wechat" class="bshare-weixin" href="javascript:;"></a>
+                                <img src="/Public/En/images/a1_icon1.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="l_ftshare1 bshare-custom fl">
+                            <div class="l_ftshare_wb">
+                                <a title="Share with sina Weibo" class="bshare-sinaminiblog" href="javascript:;"></a>
+                                <img src="/Public/En/images/a1_icon2.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="l_ftshare1 bshare-custom fl">
+                            <div class="l_ftshare_qq">
+                                <a title="Share with QQ friends" class="bshare-qqim" href="javascript:;"></a>
+                                <img src="/Public/En/images/a1_icon3.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer><script src="/Public/En/js/jquery-3.6.0.min.js"></script>
+<script src="/Public/En/js/slick.min.js"></script>
+<script src="/Public/En/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="/Public/En/js/appear.js"></script>
+<script src="/Public/En/js/common.js" charset="utf-8"></script>
+<script src="/Public/En/js/wow.min.js"></script>
+<script src="/Public/En/js/base-v1.0.js"></script>
+<script type="text/javascript" src="/Public/jqueryui/layer/layer.js"></script>
+<script src="/Public/En/Yongsy/Yongsy.js"></script>
+<!-- 分享插件 -->
+<script src="/Public/En/js/buttonLite.js"></script>
+<script src="/Public/En/js/bshareC0.js"></script>
+<script>
+    function search() {
+        var wd = $("#keywords").val();
+        var url= "/En/Index/search";
+        if (wd.length == 0) {
+            alert("Please enter keyword！");
+        } else {
+            queryData.query(url,wd);
+        }
+    }
+    function searchs() {
+        var wd = $("#keywordss").val();
+        var url= "/En/Index/search";
+        if (wd.length == 0) {
+            alert("Please enter keyword！");
+        } else {
+            queryData.query(url,wd);
+        }
+    }
+    function phsearch() {
+        var wd = $("#phkeywords").val();
+        var url= "/En/Index/search";
+        if (wd.length == 0) {
+            alert("Please enter keyword！");
+        } else {
+            queryData.query(url,wd);
+        }
+    }
+    $("#keywords").keyup(function (event) {
+        if (event.keyCode == 13) {
+            var wd = $("#keywords").val();
+            var url= "/En/Index/search";
+            if (wd.length == 0) {
+                alert("Please enter keyword！");
+            } else {
+                queryData.query(url,wd);
+            }
+        }
+    });
+    $("#keywordss").keyup(function (event) {
+        if (event.keyCode == 13) {
+            var wd = $("#keywordss").val();
+            var url= "/En/Index/search";
+            if (wd.length == 0) {
+                alert("Please enter keyword！");
+            } else {
+                queryData.query(url,wd);
+            }
+        }
+    });
+</script><script>new WOW().init();</script>
+<script>
+   // banner
+    $(function () {
+        bannerInit();
+    });
+    function bannerInit() {
+        $('.g_sybansk').slick({
+            dots: true,
+            arrows: true,
+            speed:1000,
+            fade:true,
+        });
+        // 轮播箭头
+        $('.g_arrowtops').click(function(){
+            $('.g_sybansk').slick('prev');
+        });
+        $('.g_arrowtopx').click(function(){
+            $('.g_sybansk').slick('next');
+        });
+        // 轮播点
+        $(".g_arrowbot li").click(function () {
+            var index = $(this).index();
+            $(this).addClass("on").siblings().removeClass("on");
+            $(".g_sybansk").slick("slickGoTo", index)
+        })
+        $('.g_sybansk').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
+            var index = nextSlide;
+            $(".g_arrowbot li").eq(index).addClass("on").siblings().removeClass("on");
+        });
+        // 视频播完轮播
+        (function ($obj) {
+            if ($(window).width() > 1200 && $obj.find("video").length > 0) {
+                // autoplay自动播放
+                $(window).on('load', function () {
+                    setTimeout(function () {
+                        $obj.find("video").get(0).play();
+                    }, 100)
+                })
+                $obj.find("video").each(function () {
+                    var video = $(this).get(0); //获取视频js对象
+                    var videoIndex = $(video).parents(".slick-slide").attr(
+                        "data-slick-index") //获取视频对象所在的页数;
+                    // 播放结束切换到下一张
+                    video.onended = function () {
+                        $obj.slick("next");
+                        $obj.slick('slickPlay');
+                    }
+                    // 切换后转为自动轮播
+                    $obj.on('afterChange', function (event, slick, currentSlide) {
+                        if (currentSlide == videoIndex) {
+                            $obj.slick('slickPause');
+                            video.currentTime = 0;
+                            video.play();
+                        }
+                    });
+                })
+            } else {
+                $obj.slick('slickPlay');
+            }
+        })($(".g_sybansk"));
+    }
+    $(".home-page-main-science").slick({
+        infinite: false,
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        dots: false,
+        arrows: true,
+        responsive: [
+            {
+                breakpoint: 1201,
+                settings: {
+                    slidesToShow: 3,
+                    arrows: false,
+                    dots: true,
+                }
+            },
+            {
+                breakpoint: 992,
+                settings: {
+                    slidesToShow: 2,
+                    arrows: false,
+                    dots: true,
+                }
+            },
+            {
+                breakpoint: 500,
+                settings: {
+                    slidesToShow: 1,
+                    arrows: false,
+                    dots: true,
+                }
+            }
+        ]
+    });
+</script>
+</body>
+</html><script>console.log('%c','color:green')</script>

@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Lei Li" />
+  <meta name="keywords"
+    content="machine learning deep learning natural language processing machine translation probabilistic programming" />
+  <meta name="author" content="Lei Li" />
+  <link href="style/style.css" rel="stylesheet" type="text/css" />
+  <script src="script/jquery-3.7.0.min.js"></script>
+  <script src="script/mobile.js"></script>
+  <script type="application/javascript">
+    function geoip(json) {
+
+      // Get country code based on IP
+      // var country_code = json.country_code;
+      var city = json.city;
+
+      // Check country code
+      // if(country_code == 'CN') {
+      if (city == 'Shanghai') {
+        document.getElementById("intro-sec") = "";
+      }
+    }
+  </script>
+  <script async="" src="https://get.geojs.io/v1/ip/geo.js"></script>
+  <title>Lei LI</title>
+</head>
+
+<body class="page-template-template-home page-id-1">
+  <header class="site-header--mobile" role="banner">
+    <div class="mobile-header-right">
+      <button type="button" class="js-toggle-nav menu-button" aria-controls="mobile-nav-tray" aria-expanded="false">
+        <span class="vh">Menu</span>
+        <svg class="menu-icon" width="48" height="33" focusable="false">
+          <use href="#menu-icon" />
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <div id="mobile-nav-tray" class="mobile-nav-tray" aria-hidden="true">
+    <div class="mobile-nav-header">
+      <div class="site-branding">
+        <a href="https://www.cmu.edu/" target="_blank" rel="home">
+          <span class="vh">Lei Li</span>
+        </a>
+      </div>
+      <button type="button" class="js-toggle-nav close-button" aria-controls="mobile-nav-tray" aria-expanded="false">
+        <span class="vh">Close</span>
+        <svg class="menu-icon-svg" width="33" height="33" focusable="false">
+          <use href="#close-icon" />
+        </svg>
+      </button>
+    </div>
+    <nav class="navigation--mobile">
+      <ul class="mobile-nav mobile-nav--main">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="https://leililab.github.io">Group</a></li>
+        <li><a href="teaching.html">Teaching</a></li>
+        <li><a href="resource.html">Resource</a></li>
+        <li class="current-menu-item"><a href="leili-bio.html">Bio</a></li>
+        <!-- <li> <a href="pubs.html">Publications</a> </li> -->
+        <!-- <li><a href="https://lileicc.github.io/blog/">Blog</a></li> -->
+      </ul>
+    </nav>
+  </div>
+  <div>
+    <header id="masthead" class="site-header" role="banner">
+      <div class="wrap">
+
+        <div class="l-header">
+          <div class="l-header-col-2">
+
+            <div class="site-navigation">
+              <nav class="js-accessible-menu navigation--main" aria-label="Main Navigation" role="navigation">
+                <ul class="nav-list">
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="https://leililab.github.io">Group</a></li>
+                  <li><a href="teaching.html">Teaching</a></li>
+                  <li><a href="resource.html">Resource</a></li>
+                  <li class="current-menu-item"><a href="leili-bio.html">Bio</a></li>
+                  <!-- <li> <a href="pubs.html">Publications</a> </li> -->
+                  <!-- <li><a href="https://lileicc.github.io/blog/">Blog</a></li> -->
+                </ul>
+              </nav>
+
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </header>
+    <main id="main" class="site-main" role="main">
+      <header class="banner">
+        <div class="wrap">
+          <div class="banner-title">
+            <span class="h1">
+              Short Bio </span>
+          </div>
+        </div>
+      </header>
+      <section id="intro-sec" class="section">
+        <div class="wrap">
+          Lei Li is an Assistant Professor in Language Technologies Institute at Carnegie Mellon University. 
+          His research interests are machine translation, trustworthy generative AI, agentic LLM, and AI-powered drug discovery. 
+          He received his B.S. from Shanghai Jiao Tong University and Ph.D. from Carnegie Mellon University. 
+          He is a recipient of ACL 2021 Best Paper Award, CCF Young Elite Award in 2019, CCF distinguished speaker in 2017, Wu Wen-tsün AI prize in 2017, and 2012 ACM SIGKDD dissertation award (runner-up), and is recognized as Notable Area Chair of ICLR 2023. 
+          His team won first places for five language translation directions and the best in corpus filtering challenge in WMT 2020. 
+          Previously, he was an associate professor (tenured) at University of California Santa Barbara, the Founding Director of ByteDance AI Lab, a Principal Scientist at Baidu, and a postdoc researcher at UC Berkeley. 
+          He is an Associate Editor of IEEE TPAMI and TMLR, and has served as organizers and area chair/senior PC for multiple conferences including ACL, EMNLP, NAACL, NeurIPS, ICML, ICLR, KDD, AAAI, IJCAI, WSDM, and CIKM. 
+          He led and developed ByteDance's machine translation system (VolcTrans) and Xiaomingbot automatic writing system, and many of his algorithms have transformed into products (Toutiao, Douyin, Tiktok, Lark), serving over a billion users. 
+          He has delivered eight tutorials at ACL 2024, NAACL 2024, CCF ADL 2022, ACL 2021, EMNLP 2019, NLPCC 2019, NLPCC 2016, and KDD 2010. 
+          He was a lecturer for 2014 Probabilistic Programming for Advancing Machine Learning summer school at Portland, OR, USA. 
+ <br>
+          <br>
+          <a href="lilei-cv.pdf">CV</a>
+        </div>
+      </section>
+    </main>
+  </div>
+  <!-- render the html for mobile display -->
+  <script type='text/javascript' src='script/mobile.js' id='site-js'></script>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+  var sc_project = 3806228;
+  var sc_invisible = 1;
+  var sc_security = "eb912185";
+</script>
+  <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js">
+  <noscript><div class="statcounter"><a title="click tracking" href="http://statcounter.com/"
+    target="_blank"><img
+      class="statcounter"
+      src="http://c.statcounter.com/3806228/0/eb912185/1/"
+      alt="click tracking" /></a></div></noscript>
+    <!-- End of StatCounter Code for Default Guide -->
+</script>
+</body>
+
+</html>
