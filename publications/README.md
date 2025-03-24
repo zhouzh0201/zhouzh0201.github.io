@@ -63,7 +63,7 @@
  <!-- ******HEADER****** -->
 
 
-   <title>Publications</title>
+   <title>interns</title>
 
   
 
@@ -134,7 +134,21 @@
     </div>
   </nav>
  </nav>
-  <body>
+ </body>
+ 
+<style>
+      #mybox{
+	   border: 5px solid red; 
+      }
+
+	.container{
+		width:90%;
+		 
+		padding:5px;
+	}
+</style>
+
+ 
   <div class="container" style="margin-top: 50px;">
         <span class="navbar-brand">
           <font color="#ff0000">publications</font>
@@ -144,11 +158,14 @@
         <!--span class="navbar-brand"-->
          
         <!--/span-->
-       <font color="#3bdddd"> interns</font>
-              
-       <div>        
-    <ul> 
-    <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
+
+<body>
+<div id="mybox">
+	<div class="container">
+        
+       <font color="#3bdddd"> interns</font>       
+         <ul> 
+     <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
      <li><a href="../text/侯邦璿，达摩院.html">达摩院侯邦璿 </a></li>
      <li><a href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a></li>
      <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html">旷视科技 </a></li>
@@ -158,15 +175,21 @@
     
       <li><a href="../text/Artificial Intelligence (AI) Software Provider _ SenseTime.html ">商汤科技 </a></li>
       <li><a href="../text/Wayne Zhang - 商汤科技 - 人工智能 （AI） _ 深度学习 （DL）.html">Wayne Zhang </a>商汤科技</li>
-        <li><a href="../text/匡章辉's 主页.html"> 匡章辉</a>商汤科技</li>
+         <li><a href="../text/匡章辉's 主页.html"> 匡章辉</a>商汤科技</li>
          <li><a href="../text/Zhiyong Wu （吴志勇） - 主页.html">吴志勇/上海人工智能实验室 </a></li>
-          <li><a href="../text/孙秋诗 - 主页.mhtml">孙秋诗 </a>上海人工智能实验室</li>
-           <li><a href="../text/林松.html">腾讯 AILab</a></li>
-            <li><a href="../text/阿里巴巴集团官方网站.html">腾讯 AILab </a></li>
-             <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
-    </ul>
-       </div>
+         <li><a href="../text/孙秋诗 - 主页.mhtml">孙秋诗 </a>上海人工智能实验室</li>
+         <li><a href="../text/林松.html">腾讯 AILab</a></li>
+         <li><a href="../text/阿里巴巴集团官方网站.html">腾讯 AILab </a></li>
+         <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
+          </ul>
+        </div>     
+      </div>
+     </div>                  
+  </body>
+ 
+ 
  <hr> 
+ 
  </body> 
 <div align="center">
       <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/"> personal homepage</a></small>
