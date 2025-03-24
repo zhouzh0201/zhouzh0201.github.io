@@ -182,22 +182,18 @@
 	  <li><a href="../text/Yanpei Cao (曹炎培).html">曹炎培/ </a>腾讯PCG Lab</li>
          <li><a href="../text/AI Frameworks & Tools.html">英特尔亚太 </a></li>
          <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
-	   <li><a href="../text/SmartMore 智能更多.html">智能更多 </a></li>
-     
-        <li><a href="../text/俞涛 - Amazon Science.html">俞涛</a>/ Amazon </li>
-	  <li><a href="../text/在世界各地工作的 Microsoft 研究人员和工程师.html"> Microsoft</a></li>
-   
-     <li><a href="../text/字节跳动.html">字节跳动 </a></li>
-       <li><a href="../text/李磊.html">李磊</a>字节跳动</li>
+	 <li><a href="../text/SmartMore 智能更多.html">智能更多 </a></li>     
+         <li><a href="../text/俞涛 - Amazon Science.html">俞涛</a>/ Amazon </li>
+	 <li><a href="../text/在世界各地工作的 Microsoft 研究人员和工程师.html"> Microsoft</a></li>
+         <li><a href="../text/字节跳动.html">字节跳动 </a></li>
+         <li><a href="../text/李磊.html">李磊</a>字节跳动</li>
          <li><a href="../text/孔涛.html">孔涛</a>字节跳动</li>
-	   <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
-    
-   <li><a href="../text/www.cs.hku.hk.html">hku</a></li>
-   
-   <li><a href="../text/Adobe 研究院.html">Adobe 研究院</a></li>
-   
-   <li><a href="../text/九香谷.html">九香谷</a>Adobe 研究院</li>
-     <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
+	 <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
+         <li><a href="../text/www.cs.hku.hk.html">hku</a></li> 
+         <li><a href="../text/Adobe 研究院.html">Adobe 研究院</a></li>
+         <li><a href="../text/九香谷.html">九香谷</a>Adobe 研究院</li>
+         <li><a href="../text/Mistral 人工智能 _Frontier AI 尽在掌握.html">Mistral 人工智能</a></li>
+     
         <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
           </ul>
         </div>     
