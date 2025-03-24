@@ -179,7 +179,7 @@
          <li><a href="../text/Zhiyong Wu （吴志勇） - 主页.html">吴志勇/上海人工智能实验室 </a></li>
          <li><a href="../text/孙秋诗 - 主页.mhtml">孙秋诗 </a>上海人工智能实验室</li>
          <li><a href="../text/林松.html">腾讯 AILab</a></li>
-         <li><a href="../text/阿里巴巴集团官方网站.html">腾讯 AILab </a></li>
+         <li><a href="../text/AI Frameworks & Tools.html">英特尔亚太 </a></li>
          <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a></li>
           </ul>
         </div>     
