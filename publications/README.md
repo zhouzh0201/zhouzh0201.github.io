@@ -192,9 +192,10 @@
          <li><a href="../text/孔涛.html">孔涛</a>字节跳动</li>
 	   <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
     
-   <li><a href="../text/www.cs.hku.hk.html">cs.hku</a></li>
+   <li><a href="../text/www.cs.hku.hk.html">hku</a></li>
    
-   <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
+   <li><a href="../text/Adobe 研究院.html">Adobe 研究院</a></li>
+   
    <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
      <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
         <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
