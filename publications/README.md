@@ -196,7 +196,7 @@
    
    <li><a href="../text/Adobe 研究院.html">Adobe 研究院</a></li>
    
-   <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
+   <li><a href="../text/九香谷.html">九香谷</a>Adobe 研究院</li>
      <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
         <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
           </ul>
