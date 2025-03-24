@@ -36,7 +36,7 @@
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
            <li><a href="../index.html">Homepage</a></li>
-           <li><a href="../publications">Publications</a></li>
+           <li><a href="../publications">interns</a></li>
            <li><a href="../Projects">Projects</a></li>
            <li><a href="../team">Team</a></li>
            <!--li><a href="../teaching">Teaching</a></li-->
