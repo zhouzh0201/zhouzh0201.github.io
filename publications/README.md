@@ -190,7 +190,12 @@
      <li><a href="../text/字节跳动.html">字节跳动 </a></li>
        <li><a href="../text/李磊.html">李磊</a>字节跳动</li>
          <li><a href="../text/孔涛.html">孔涛</a>字节跳动</li>
-	   <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
+	   <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
+   <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
+   <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
+   <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
+     <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
+        <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
           </ul>
         </div>     
       </div>
