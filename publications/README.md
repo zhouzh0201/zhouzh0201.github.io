@@ -113,8 +113,9 @@
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
           <li><a href="../index.html">Homepage</a></li>
-          <li class="active"><a href="index.htm">interns</a>
-                    <ul class="submenu">
+          <li class="active"><a href="publications">interns</a>
+                    <ul class="nav_item fadeInUp">
+                    <!--ul class="submenu"-->
                          <li><a href="../publications">I0</a></li>
                         <li><a href="../p1">p1-1</a></li>
                         <li><a href="#">p1-2</a></li>
@@ -132,9 +133,9 @@
     </div>
   </nav>
  </nav>
-  
+  <body>
   <div class="container" style="margin-top: 50px;">
- <span class="navbar-brand">
+        <span class="navbar-brand">
           <font color="#ff0000">publications</font>
         </span>
    
@@ -165,7 +166,7 @@
     </ul>
        </div>
  <hr> 
- 
+ </body> 
 <div align="center">
       <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/"> personal homepage</a></small>
       <br />
