@@ -181,7 +181,7 @@
          <li><a href="../text/林松.html">腾讯 AILab</a></li>
          <li><a href="../text/AI Frameworks & Tools.html">英特尔亚太 </a></li>
          <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
-	   <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
+	   <li><a href="../text/SmartMore 智能更多.html">智能更多 </a></li>
       <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
         <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
 	  <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
