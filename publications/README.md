@@ -185,7 +185,7 @@
 	   <li><a href="../text/SmartMore 智能更多.html">智能更多 </a></li>
      
         <li><a href="../text/俞涛 - Amazon Science.html"> Amazon </a></li>
-	  <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
+	  <li><a href="../text/在世界各地工作的 Microsoft 研究人员和工程师.html"> Microsoft</a></li>
      <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
        <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
          <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a></li>
