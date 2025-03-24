@@ -194,7 +194,15 @@
          <li><a href="../text/九香谷.html">九香谷</a>Adobe 研究院</li>
          <li><a href="../text/Mistral 人工智能 _Frontier AI 尽在掌握.html">Mistral 人工智能</a></li>
      
-        <li><a href="../text/上海期智研究院.html">上海期智研究院</a></li>
+        <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a></li>
+    
+  <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a></li>
+  <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a></li>
+  <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a></li>
+  <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a></li>
+
+
+ 
           </ul>
         </div>     
       </div>
