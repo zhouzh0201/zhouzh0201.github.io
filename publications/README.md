@@ -164,7 +164,7 @@
 		body {font-sixe:11pt}
 		p.riqi{text-align:right}
 	        </style>
-	
+<script>_showDynClickBatch(['dynclicks_u7_52021'],[52021],"wbnews", 1852176512)</script>	
 <div id="mybox">
 	<div class="container">
         
