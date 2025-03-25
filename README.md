@@ -242,7 +242,7 @@
 </li>    
            <!--li class="active"><a href="index.html"> CGPWS</a></li-->
 <li>
-    <a class="dropdown " href="javascript:;" title="CGPWS">interns</a>   	
+    <a class="dropdown " href="javascript:;" title="CGPWS">internship</a>   	
            <!--a href="publications">Publications</a-->   
       <ul class="nav_item fadeInUp">
 	   <li><a href="publications ">I0</a></li>    
