@@ -170,7 +170,7 @@
         
        <font color="#3bdddd"> interns</font>       
          <ul> 
-<li><p href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴; class="riqi">2025.03.24</p></li>
+<li><p href="../text/阿里巴巴集团官方网站.html" 阿里巴巴; class="riqi">2025.03.24</p></li>
      <li><a href="../text/侯邦璿，达摩院.html">侯邦璿 </a>达摩院.........<span>2025.03.24</span></li>  
 <li><a  href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a>.....<span>2025.03.24</span></li>            
 <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html">旷视科技 </a>.......<span>2025.03.24</span></li>
