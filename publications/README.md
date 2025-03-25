@@ -167,7 +167,7 @@
          <ul> 
      <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a>......<span>2025.03.24</span></li>
      <li><a href="../text/侯邦璿，达摩院.html">侯邦璿 </a>达摩院......<span>2025.03.24</span></li>
-     <li><a href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a><span>2025.03.24</span></li>
+     <li><a href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a>.........<span>2025.03.24</span></li>
      <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html">旷视科技 </a>......<span>2025.03.24</span></li>
      <li><a href="../text/关于华为 - 华为.html">华为</a>...........<span>2025.03.24</span></li>
      <li><a href="../text/百度校园招聘.html">百度校园招聘</a>.......<span>2025.03.24</span></li>
@@ -193,11 +193,10 @@
          <li><a href="../text/Adobe 研究院.html">Adobe 研究院</a>.....<span>2025.03.24</span></li>
          <li><a href="../text/九香谷.html">九香谷</a>Adobe 研究院......<span>2025.03.24</span></li>
          <li><a href="../text/Mistral 人工智能 _Frontier AI 尽在掌握.html">Mistral 人工智能</a>.......<span>2025.03.24</span></li>
-     
         <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a>.......<span>2025.03.24</span></li>
-    
-        <li><a href="../text/曲良琼.html"> hku </a> ...........<span>2025.03.24</span></li>
-  <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a></li>
+        <li><a href="../text/曲良琼.html"> 曲良琼 </a>hku ...........<span>2025.03.24</span></li>
+        <li><a href="../ text/李佳阳.html"> 李佳阳</a>hku  .........<span>2025.03.24</span></li>
+  
   <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a></li>
   <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a></li>
 
@@ -206,13 +205,13 @@
           </ul>
         </div>     
       </div>
-     </div>                  
+        
   </body>
  
  
  <hr> 
  
- </body> 
+ 
 <div align="center">
       <small>Copyright &amp;copy 2025 <a href="https://zhouzh0201.github.io/"> personal homepage</a></small>
       <br />
