@@ -181,7 +181,7 @@
  <li><a href="../text/AI Frameworks & Tools.html">英特尔亚太 </a>.......<span>2025.03.24</span></li>
 li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a>...<span>2025.03.24</span></li>
 	  <li><a href="../text/SmartMore 智能更多.html">智能更多 </a>....<span>2025.03.24</span></li>     
-   <li><a href="../text/俞涛 - Amazon Science.html">俞涛</a>/ Amazon ....<span>2025.03.24</span></li
+   <li><a href="../text/俞涛 - Amazon Science.html">俞涛</a>/ Amazon ....<span>2025.03.24</span></li>
 													      
 		   <li><a href="../text/在世界各地工作的 Microsoft 研究人员和工程师.html"> Microsoft</a>.......<span>2025.03.24</span></li>
                   <li><a href="../text/字节跳动.html">字节跳动 </a>......<span>2025.03.24</span></li>
