@@ -151,7 +151,7 @@
  
   <div class="container" style="margin-top: 50px;">
         <span class="navbar-brand">
-          <font color="#ff0000">publications</font>
+          <font color="#ff0000">internship</font>
         </span>
    
   <hr>
