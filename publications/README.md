@@ -165,12 +165,12 @@
         
        <font color="#3bdddd"> interns</font>       
          <ul> 
-     <li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a>.....<span>2025.03.24</span></li>
-   <li><a href="../text/侯邦璿，达摩院.html">侯邦璿 </a>达摩院.........<span>2025.03.24</span></li>  <li><a 
- href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a>.....<span>2025.03.24</span></li>            <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html">旷视科技 </a>.......<span>2025.03.24</span></li>
-               <li><a href="../text/关于华为 - 华为.html">华为</a>.....<span>2025.03.24</span></li>
-           <li><a href="../text/百度校园招聘.html">百度校园招聘</a>.....<span>2025.03.24</span></li>
-                 <li><a href="../text/百度研究.html"> 百度研究</a>......<span>2025.03.24</span></li>
+<li><a href="../text/阿里巴巴集团官方网站.html"> 阿里巴巴</a>.....<span>2025.03.24</span></li>
+     <li><a href="../text/侯邦璿，达摩院.html">侯邦璿 </a>达摩院.........<span>2025.03.24</span></li>  
+<li><a  href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a>.....<span>2025.03.24</span></li>            <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html">旷视科技 </a>.......<span>2025.03.24</span></li>
+                <li><a href="../text/关于华为 - 华为.html">华为</a>.....<span>2025.03.24</span></li>
+                   <li><a href="../text/百度校园招聘.html">百度校园招聘</a>.....<span>2025.03.24</span></li>
+                     <li><a href="../text/百度研究.html"> 百度研究</a>......<span>2025.03.24</span></li>
         <li><a href="../text/Artificial Intelligence (AI) Software Provider _ SenseTime.html ">商汤科技 </a>........<span>2025.03.24</span></li> 
         <li><a href="../text/Wayne Zhang - 商汤科技 - 人工智能 （AI） _ 深度学习 （DL）.html">Wayne Zhang </a>商汤科技...<span>2025.03.24</span></li>
     <li><a href="../text/匡章辉's 主页.html"> 匡章辉</a>商汤科技.........<span>2025.03.24</span></li>. 
@@ -179,7 +179,7 @@
         <li><a href="../text/林松.html">林松</a>/腾讯 AILab.............<span>2025.03.24</span></li>
 <li><a href="../text/Yanpei Cao (曹炎培).html">曹炎培/ </a>腾讯PCG Lab...<span>2025.03.24</span></li>
  <li><a href="../text/AI Frameworks & Tools.html">英特尔亚太 </a>.......<span>2025.03.24</span></li>
-li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a>...<span>2025.03.24</span></li>
+<li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a>...<span>2025.03.24</span></li>
 	  <li><a href="../text/SmartMore 智能更多.html">智能更多 </a>....<span>2025.03.24</span></li>     
    <li><a href="../text/俞涛 - Amazon Science.html">俞涛</a>/ Amazon ....<span>2025.03.24</span></li>
 													      
