@@ -114,7 +114,7 @@
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
           <li><a href="../index.html">Homepage</a></li>
-          <li class="active"><a href="publications">interns</a>
+          <li class="active"><a href="publications">internship</a>
                     <ul class="nav_item fadeInUp">
                     <!--ul class="submenu"-->
                          <li><a href="../publications">I0</a></li>
