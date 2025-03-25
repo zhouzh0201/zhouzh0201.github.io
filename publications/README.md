@@ -194,8 +194,8 @@
          <li><a href="../text/九香谷.html">九香谷</a>Adobe 研究院......<span>2025.03.24</span></li>
          <li><a href="../text/Mistral 人工智能 _Frontier AI 尽在掌握.html">Mistral 人工智能</a>.......<span>2025.03.24</span></li>
         <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a>.......<span>2025.03.24</span></li>
-        <li><a href="../text/曲良琼.html"> 曲良琼 </a>hku ...........<span>2025.03.24</span></li>
-        <li><a href="../ text/李佳阳.html"> 李佳阳</a>hku  .........<span>2025.03.24</span></li>
+        <li><a href="../text/曲良琼.html"> 曲良琼 </a>hku ...........<span>2025.03.25</span></li>
+        <li><a href="../ text/李佳阳.html"> 李佳阳</a>hku  .........<span>2025.03.25</span></li>
   
   <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a></li>
   <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a></li>
