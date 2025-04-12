@@ -198,7 +198,7 @@
 	<div class="container">
         
        <font color="#3bdddd"> interns</font>       
-         <ul class="inern_list"> 
+         <ul class="intern_list"> 
 <li><a href="../text/阿里巴巴集团官方网站.html"><p>阿里巴巴</p><span>2025.03.24</span></a></li>
      <li><a href="../text/侯邦璿，达摩院.html">侯邦璿 </a>达摩院.........<span>2025.03.24</span></li>  
 <li><a  href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a>.....<span>2025.03.24</span></li>            
