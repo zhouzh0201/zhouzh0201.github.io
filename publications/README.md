@@ -165,11 +165,40 @@
 		p.riqi{text-align:right}
 	        </style>
 <script>_showDynClickBatch(['dynclicks_u7_52021'],[52021],"wbnews", 1852176512)</script>	
+	<!--###############################-->
+      .intern_list*{
+	margin:0;
+	padding:0;
+	list_style:none;
+	text_decoration:one;
+	}
+       .intern_list li {
+        float:left;
+	padding_left:20px;
+        width:300px;
+	height:20px;
+        overflow:hidden;
+	}
+      .intern_list li a {
+       width:200px;
+        float:left;
+	}
+       .intern_list li a:hover {
+       text_decoration:one;
+       color:#00ffff;
+       }
+        .intern_list li span {
+	 float:right;
+         width:70px;
+	 color:#00ffff;
+        } 
+	
+         <!--###############################-->
 <div id="mybox">
 	<div class="container">
         
        <font color="#3bdddd"> interns</font>       
-         <ul> 
+         <ul class="inern_list"> 
 <li><a href="../text/阿里巴巴集团官方网站.html"><p>阿里巴巴</p><span>2025.03.24</span></a></li>
      <li><a href="../text/侯邦璿，达摩院.html">侯邦璿 </a>达摩院.........<span>2025.03.24</span></li>  
 <li><a  href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a>.....<span>2025.03.24</span></li>            
