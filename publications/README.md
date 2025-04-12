@@ -165,14 +165,15 @@
 		p.riqi{text-align:right}
 	        </style>
 <script>_showDynClickBatch(['dynclicks_u7_52021'],[52021],"wbnews", 1852176512)</script>	
-	<!--###############################-->
+	<--###############################-->
+	<style>
       .intern_list*{
 	margin:0;
 	padding:0;
 	list_style:none;
-	text_decoration:one;
+	text_decoration:none;
 	}
-       .intern_list li {
+       .intern_list li{
         float:left;
 	padding_left:20px;
         width:300px;
@@ -184,7 +185,7 @@
         float:left;
 	}
        .intern_list li a:hover {
-       text_decoration:one;
+       text_decoration:none;
        color:#00ffff;
        }
         .intern_list li span {
@@ -192,8 +193,8 @@
          width:70px;
 	 color:#00ffff;
         } 
-	
-         <!--###############################-->
+	</style>
+         <--###############################-->
 <div id="mybox">
 	<div class="container">
         
