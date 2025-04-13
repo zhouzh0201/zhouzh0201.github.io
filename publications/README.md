@@ -161,7 +161,7 @@
 
 <body>
 	<style type="text/css">
-		body {font-sixe:11pt}
+		body {font-sixe:10pt}
 		p.riqi{text-align:right}
 	        </style>
 <script>_showDynClickBatch(['dynclicks_u7_52021'],[52021],"wbnews", 1852176512)</script>	
@@ -175,13 +175,13 @@
 	}
        .intern_list li{
         float:left;
-	padding_left:20px;
+	padding_left:10px;
         width:500px;
 	height:20px;
         overflow:hidden;
 	}
       .intern_list li a {
-       width:150px;
+       width:100px;
         float:left;
 	 overflow:hidden;      
 	}
