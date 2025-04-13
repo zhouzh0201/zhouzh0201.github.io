@@ -150,7 +150,8 @@
 
  
   <div class="container_list" style="margin-top: 10px;">
-        <span class="navbar-brand">
+        <!--span class="navbar-brand"-->
+	 <span>
           <font color="#ff0000">internship</font>
         </span>
    
