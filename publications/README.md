@@ -190,7 +190,7 @@
        }
         .intern_list li span {
 	 float:right;
-         width:70px;
+         width:100px;
 	 color:#00ffff;
         } 
 	</style>
