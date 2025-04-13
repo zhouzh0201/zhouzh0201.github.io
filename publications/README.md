@@ -149,7 +149,7 @@
 </style>
 
  
-  <div class="container" style="margin-top: 50px;">
+  <div class="container" style="margin-top: 10px;">
         <span class="navbar-brand">
           <font color="#ff0000">internship</font>
         </span>
