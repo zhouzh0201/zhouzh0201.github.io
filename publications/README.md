@@ -189,7 +189,7 @@
        color:#00ffff;
        }
         .intern_list li span {
-	 float:right;
+	 float:left;
          width:100px;
 	 color:#00ffff;
         } 
