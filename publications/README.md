@@ -176,12 +176,12 @@
        .intern_list li{
         float:left;
 	padding_left:20px;
-        width:400px;
+        width:500px;
 	height:20px;
         overflow:hidden;
 	}
       .intern_list li a {
-       width:200px;
+       width:150px;
         float:left;
 	 overflow:hidden;      
 	}
