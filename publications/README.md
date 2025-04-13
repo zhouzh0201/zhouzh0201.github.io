@@ -141,7 +141,7 @@
 	   border: 5px solid red; 
       }
 
-	.container_intern{
+	.container{
 		width:450px;
 		 
 		padding:5px;
@@ -197,7 +197,7 @@
 	</style>
          <!--###############################-->
 <div id="mybox">
-	<div class="container_intern">
+	<div class="container">
         
        <font color="#3bdddd"> interns</font>       
          <ul class="intern_list"> 
