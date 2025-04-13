@@ -176,7 +176,7 @@
        .intern_list li{
         float:left;
 	padding_left:10px;
-        width:320px;
+        width:300px;
 	height:20px;
         overflow:hidden;
 	}
