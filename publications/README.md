@@ -141,7 +141,7 @@
 	   border: 5px solid red; 
       }
 
-	.container{
+	.container_list{
 		width:350px;
 		 
 		padding:5px;
@@ -149,7 +149,7 @@
 </style>
 
  
-  <div class="container" style="margin-top: 10px;">
+  <div class="container_list" style="margin-top: 10px;">
         <span class="navbar-brand">
           <font color="#ff0000">internship</font>
         </span>
@@ -197,7 +197,7 @@
 	</style>
          <!--###############################-->
 <div id="mybox">
-	<div class="container">
+	<div class="container_list">
         
        <font color="#3bdddd"> interns</font>       
          <ul class="intern_list"> 
