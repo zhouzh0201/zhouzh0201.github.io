@@ -181,7 +181,7 @@
         overflow:hidden;
 	}
       .intern_list li a {
-       width:100px;
+       width:300px;
         float:left;
 	 overflow:hidden;      
 	}
@@ -191,7 +191,7 @@
        }
         .intern_list li span {
 	 float:left;
-         width:100px;
+         width:300px;
 	 color:#00ffff;
         } 
 	</style>
@@ -211,10 +211,10 @@
      <li><a href="../text/Artificial Intelligence (AI) Software Provider _ SenseTime.html ">商汤科技 </a> <span>2025.03.24</span></li> 
      <li><a href="../text/Wayne Zhang - 商汤科技 - 人工智能 （AI） _ 深度学习 （DL）.html">Wayne Zhang 商汤科技 </a><span>2025.03.24</span></li>
     <li><a href="../text/匡章辉's 主页.html"> 商汤科技 匡章辉</a><span>2025.03.24</span></li>. 
-    <li><a href="../text/Zhiyong Wu （吴志勇） - 主页.html">吴志勇上海人工智能实验室 </a>/ <span>2025.03.24</span></li>
+    <li><a href="../text/Zhiyong Wu （吴志勇） - 主页.html">吴志勇上海人工智能实验室 </a><span>2025.03.24</span></li>
     <li><a href="../text/孙秋诗 - 主页.mhtml">孙秋诗 上海人工智能实验室</a> <span>2025.03.24</span></li>
     <li><a href="../text/林松.html">腾讯 AILab 林松</a><span>2025.03.24</span></li>
-    <li><a href="../text/Yanpei Cao (曹炎培).html">腾讯PCG Lab曹炎培/ </a> <span>2025.03.24</span></li>
+    <li><a href="../text/Yanpei Cao (曹炎培).html">腾讯PCG Lab曹炎培</a> <span>2025.03.24</span></li>
     <li><a href="../text/AI Frameworks & Tools.html">英特尔亚太 </a> <span>2025.03.24</span></li>
      <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a> <span>2025.03.24</span></li>
      <li><a href="../text/SmartMore 智能更多.html">智能更多 </a> <span>2025.03.24</span></li>     
