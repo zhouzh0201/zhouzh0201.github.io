@@ -142,7 +142,7 @@
       }
 
 	.container{
-		width:450px;
+		width:400px;
 		 
 		padding:5px;
 	}
@@ -176,12 +176,12 @@
        .intern_list li{
         float:left;
 	padding_left:10px;
-        width:450px;
+        width:400px;
 	height:20px;
         overflow:hidden;
 	}
       .intern_list li a {
-       width:250px;
+       width:230px;
         float:left;
 	 overflow:hidden;      
 	}
@@ -191,7 +191,7 @@
        }
         .intern_list li span {
 	 float:left;
-         width:150px;
+         width:120px;
 	 color:#00ffff;
         } 
 	</style>
