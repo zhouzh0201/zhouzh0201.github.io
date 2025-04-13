@@ -142,7 +142,7 @@
       }
 
 	.container{
-		width:90%;
+		width:100%;
 		 
 		padding:5px;
 	}
@@ -196,7 +196,7 @@
 	</style>
          <!--###############################-->
 <div id="mybox">
-	<!--div class="container"-->
+	<div class="container">
         
        <font color="#3bdddd"> interns</font>       
          <ul class="intern_list"> 
@@ -239,7 +239,7 @@
 
  
           </ul>
-        <!--/div-->     
+        </div>     
       </div>
         
   </body>
