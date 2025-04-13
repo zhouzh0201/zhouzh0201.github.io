@@ -142,7 +142,7 @@
       }
 
 	.container{
-		width:500%;
+		width:200%;
 		 
 		padding:5px;
 	}
