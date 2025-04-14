@@ -235,7 +235,7 @@
      <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a> <span>2025.03.24</span></li>
        
   
-  <li><a href="../text/超参数科技——打造有生命的AI.html"># </a></li>
+  <li><a href="../text/上海 太保科技.html">太保科技上海 </a><span>2025.04.14</span></li>
   <li><a href="../text/超参数科技——打造有生命的AI.html"># </a></li>
 
 
