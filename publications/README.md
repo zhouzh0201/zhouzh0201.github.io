@@ -140,10 +140,13 @@
       #mybox{
 	   border: 5px solid red; 
       }
-
 	.container{
+		width:90%;	 
+		padding:5px;
+	}
+	.mainbox{
+		floal:left;
 		width:350px;
-		 
 		padding:5px;
 	}
 </style>
@@ -199,7 +202,7 @@
          <!--###############################-->
 <div id="mybox">
 	<div class="container">
-        
+          <div class="mainbox">
        <font color="#3bdddd"> interns</font>       
          <ul class="intern_list"> 
      <li><a href="../text/阿里巴巴集团官方网站.html">阿里巴巴 </a><span>2025.03.24</span></li>
@@ -250,7 +253,7 @@
           </ul>
         </div>     
       </div>
-        
+    </div>    
   </body>
  
  
