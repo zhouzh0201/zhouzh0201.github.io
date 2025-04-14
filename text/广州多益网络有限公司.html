@@ -1,0 +1,557 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>  
+   	<meta charset="UTF-8">
+<meta name=renderer  content=webkit>
+<meta http-equiv="pragma" CONTENT="no-cache">
+<meta http-equiv="Cache-Control" CONTENT="no-cache, must-revalidate">
+<meta http-equiv="expires" CONTENT="0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="Copyright" content="zfsoft" />	
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+<title>武汉大学学生就业指导与服务中心</title>
+<script type="text/javascript">
+	//全局变量
+	var _path = "/jyxt";
+	var _systemPath = "/jyxt";
+	var _stylePath = "/zftal-ui-v5-1.1.1";
+    //给hmd登录提示做判断
+    var modalFlag =false;
+</script>
+
+<!--jQuery核心框架库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/jquery-1.11.3-min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/jquery-migrate-1.4.1.min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<!--jQuery浏览器检测 -->
+<script type="text/javascript" src="/jyxt/js/browse/browse-judge.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<script type="text/javascript">
+	//\u6d4f\u89c8\u5668\u7248\u672c\u9a8c\u8bc1
+	/*var broswer = broswer();
+	if(broswer.msie==true||broswer.safari==true||broswer.mozilla==true||broswer.chrome==true){
+		if(broswer.msie==true&&broswer.version<9){
+		   window.location.href = _path+"/xtgl/init_cxBrowser.html";
+		}
+	}else{
+		 window.location.href = _path+"/xtgl/init_cxBrowser.html";
+	}*/
+</script><!--
+jquery.ui 需要在bootstrap之前加载，解决冲突问题
+http://blog.csdn.net/remote_roamer/article/details/14105999
+-->
+<script src="/zftal-ui-v5-1.1.1/assets/js/jquery-ui-custom.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" type="text/javascript" charset="utf-8"></script>
+<!--Bootstrap布局框架-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap/css/bootstrap.min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap/js/bootstrap.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--zftal-ui样式-->
+<!--jQuery常用工具扩展库：基础工具,资源加载工具,元素尺寸相关工具 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.utils.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery基础工具库：$.browser,$.cookie,$.actual等 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.plugins.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery自定义event事件库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.events.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--JavaScript对象扩展库：Array,Date,Number,String -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.extends.contact-2.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--国际化js库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/i18n/jquery.i18n-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--业务框架前端脚本国际化库-->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.zftal_zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<!--Bootbox弹窗插件-->
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/bootbox.concat-min.js?ver=002f3afba8a0d6a0088112033c65f70b" type="text/javascript" charset="utf-8"></script>
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/lang/zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/css/bootbox-min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<!--jQuery单选框美化-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/iCheck/skins/all.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/iCheck/icheck.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery.chosen下拉框美化插件-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/chosen/css/chosen-min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<link rel="stylesheet" type="text/css" href="/jyxt/assets/plugins/select/bigselect.css?ver=002f3afba8a0d6a0088112033c65f70b"></link>
+<script type="text/javascript" src="/jyxt/assets/plugins/select/bigselect.js"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/utils/jquery.utils.pinyin.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/jquery.choosen.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/jquery.chosen-additional.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/lang/zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!-- Tagsinput 插件 -->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap-tagsinput/css/bootstrap-tagsinput.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap-tagsinput/js/bootstrap-tagsinput.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script><!--IE浏览器html5、CSS3兼容插件-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/html5shiv.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/respond.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<![endif]-->
+<!--业务框架jQuery全局设置和通用函数库-->
+<script type="text/javascript" src="/jyxt/js/jquery.zftal.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<!--基于Nifty样式库的新版界面前端依赖-->
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/nifty/js/nifty.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<link href="/zftal-ui-v5-1.1.1/assets/plugins/nifty/css/nifty.min.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<!--皮肤+字体-->
+<link href="/zftal-ui-v5-1.1.1/assets/css/theme/zftal-ui-nifty-icons.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/theme/theme-ocean.min.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/zftal-ui-base.css?ver=002f3afba8a0d6a0088112033c65f70b"  rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/zftal-ui-index.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<link href="/jyxt/css/zftal-ui-app.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+
+
+<!--laydate日期控件1111-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/laydate/need/laydate.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/laydate/skins/zfcolor/laydate.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/laydate/laydate.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+	<style type="text/css">
+	.bootbox.modal{overflow-y: hidden !important;text-align: justify;}
+	.tooltips.top.in {z-index: 1015 !important;}
+	</style>
+	<!--v5公用代码调用-->
+	<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/v5/zftal-ui-page.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery.validation校验插件 -->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/validation/css/jquery.validate-min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/js/jquery.validate-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/js/jquery.validate.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/jyxt/js/plugins/validation/jquery.validate.methods.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/lang/zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript">
+	jQuery(function($){
+		$('[data-toggle*="validation"]').trigger("validation");
+	});
+</script>	
+<link rel="stylesheet" href="/jyxt/assets/plugins/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/jyxt/assets/css/reset.css">
+<link rel="stylesheet" href="/jyxt/assets/css/zdstyle.css">
+<link rel="stylesheet" href="/jyxt/assets/css/kzzph.css">
+<script>
+    function checkGwsc(zpxxbh){
+    	var yhlx = $("#yhlx").val();
+		if ("student" != yhlx && "stu" != yhlx){
+			$.alert("该功能仅向登录学生开放，您无权访问！");
+			return;
+		}
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSfyscsq.zf',{lx:"sc",zpxxbh:zpxxbh},function(data){
+			if(data=="1"){
+				$.alert("您已经收藏过该岗位！");
+				return;
+			}else{
+				jQuery.post(_path+'/jyweb/xsgwsc/xsScOrSqjl.zf',{lx:"sc",zpxxbh:zpxxbh},function(responseData){
+					if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+						$.success(responseData["message"]);
+					}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+						$.error(responseData["message"]);
+					}else{
+						$.alert(responseData["message"]);
+					}
+				}, "json"); 
+			}
+		}, "json");
+	};
+	
+	//检测是否填写简历
+	function checkSftxjl(){
+		var flag="0";
+		jQuery.ajaxSetup({async:false});
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSftxjl.zf',{},function(data){
+			if(data != "0"){
+				flag="1";
+			}
+		}, "json");
+		jQuery.ajaxSetup({async:true});
+		return flag;
+	}
+	function checkSfsh(xh){
+		debugger
+		//判斷是否有该需求
+		let flag = false;
+		jQuery.ajaxSetup({async:false});
+		jQuery.post(_path + "/sczp/xsjlgl/getXsjlsfxysh.zf", {xh}, function(data) {
+			if(data["xsjlsfxysh"] == 'kq'){
+				console.log(data["shzt"])
+				if(data["shzt"] == '1') {
+					flag = true;
+				}
+			}else {
+				flag = true;
+			}
+
+		}, 'json');
+		jQuery.ajaxSetup({async:true});
+		return flag;
+	}
+	//岗位申请
+	function checkGwsq(zpxxbh,tdjzrq){
+		//是否审核通过
+		if(!checkSfsh($("#xh").val())){
+			$.alert("简历审核通过后方可投递，请等待老师审核！");
+			return ;
+		}
+    	var yhlx = $("#yhlx").val();
+		if ("student" != yhlx && "stu" != yhlx){
+			$.alert("该功能仅向登录学生开放，您无权访问！");
+			return;
+		}
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSftxjl.zf',{},function(data){
+			var jlzt = data;
+			if(jlzt == "0"){
+				/*$.alert("您还未上传简历,不能投简历。请先到个人中心上传简历!");
+				return;*/
+				$.alert("您还未维护系统简历,不能投简历。请先到个人中心维护系统简历!");
+				return;
+			}else{
+				jQuery.post(_path+'/jyweb/xsgwsc/checkSfyscsq.zf',{lx:"sq",zpxxbh:zpxxbh},function(data){
+					if(data=="1"){
+						$.alert("您已经向该岗位投递过简历！");
+						return;
+					}else{
+						var now = new Date();
+						if( null!=tdjzrq && '' != tdjzrq ){
+							var arr1 = 	tdjzrq.split("-");
+							var oldtime = new Date(arr1[0],arr1[1],arr1[2]);
+							var newtime = new Date(now.getFullYear(),now.getMonth()+1,now.getDate());	
+							if(newtime.getTime()>oldtime.getTime()){
+								$.alert("当前日期已经超过投递截止日期，不能投简历！");
+								return ;
+							}else{
+								if(jlzt == 1){
+									$.showDialog(_path+'/jyweb/xsgwsc/showJltdPage.zf', '个人简历', {
+										url:"",
+										width		: "700px",
+										modalName	: "modifyModal",
+										offAtOnce	: true,
+										data		: {"zpxxbh":zpxxbh},
+										buttons		: {
+											success : {
+												label : "投递",
+												className : "btn-primary",
+												callback : function() {
+													var len = $("input[name='jlmc']:checked").length;
+													if(len != 1){
+														$.alert("请选择一份简历投递！");
+														return false;
+													}
+													
+													var $this = this;
+													var opts = $this["options"]||{};
+													submitForm(opts["formName"]||"ajaxForm",function(responseData,statusText){
+														if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+															$.success(responseData["message"],function() {
+																if(opts.offAtOnce){
+																	$.closeModal(opts["modalName"]||"modifyModal");
+																}
+															});
+														}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+															$.error(responseData["message"]);
+														}else{
+															$.alert(responseData["message"]);
+														}
+													});
+													return false;
+											  	}
+											},
+											cancel : {
+													label : "关 闭",
+													className : "btn-default"
+											}
+										}
+									});
+								}else{
+									jQuery.post(_path+'/jyweb/xsgwsc/xsScOrSqjl.zf',{lx:"sq",zpxxbh:zpxxbh},function(responseData){
+										if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+											$.success(responseData["message"]);
+										}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+											$.error(responseData["message"]);
+										}else{
+											$.alert(responseData["message"]);
+										}
+									}, "json");
+								}
+							}
+						}else{
+							$.alert("该岗位投递截止日期未明确！");
+							return;
+						}
+					}
+				}, "json");
+			}
+		},"json");
+	};
+	
+	$(".tog").click(function(){
+		$(this).parents('.post').find(".com-hid").slideToggle();
+	});
+	
+	function qr(xjhbh){
+		jQuery.post(_path+'/jyweb/kzxjh/bmKzxjh.zf',{xjhbh:xjhbh},function(data){
+			if(data.status =="success"){
+				$.success(data.message);
+				setTimeout(function(){
+					location.reload()
+				},100);
+				return;
+			}else{
+				$.alert(data.message);
+			}
+		}, "json");
+	};
+	
+	jQuery(function(){
+		$(".con-bmch").click(function(){
+			var yhlx = $("#yhlx").val();
+			if ("student" != yhlx && "stu" != yhlx){
+				$.alert("该功能仅向登录学生开放，您无权访问！");
+				return;
+			}else{
+				jQuery.post(_path+'/jyweb/kzxjh/checkSfjs.zf',{xjhbh:$("#xjhbh").val()},function(data){
+					if(data){
+						$.alert("该宣讲会已停止报名");
+					}else{
+						jQuery.post(_path+'/jyweb/kzxjh/checkSfbm.zf',{xjhbh:$("#xjhbh").val()},function(data){
+							if(data >= 1){
+								$.alert("您已报名成功，无需重复报名");
+							}else{
+								$('#myModal').modal('show');
+							}
+						}, "json");
+					}
+				}, "json");
+			
+				
+			}
+		});
+		
+		$(".con-jrzb").click(function(){
+			var yhlx = $("#yhlx").val();
+			jQuery.post(_path+'/jyweb/kzxjh/updateBfcs.zf',{xjhbh:$("#xjhbh").val(),bfcs:parseInt($("#bfcs").val())+1},function(data){
+				location.reload()
+			}, "json");
+			
+			if($("#zbfs").val() == '1'){
+				window.open($("#zbdz").val());
+			}else{
+				window.open($("#splj").val());
+			}
+			
+		});
+	});
+	
+	function setLink(dwxxid,zpxxbh,dwmc){
+		var url= _path+"/sczp/zpztgl/ckZpgwXq.zf?dwxxid="+dwxxid+"&zpxxbh="+zpxxbh+"&dwmc="+encodeURI(encodeURI(dwmc));
+		window.open(url);
+	}
+    </script>
+
+	<link type="text/css" rel="stylesheet" href="/jyxt/css/globalweb/wrapper.css"/>
+<script type="text/javascript" src="/jyxt/assets/plugins/toastr/toastr.js"></script>
+<link rel="stylesheet" href="/jyxt/assets/plugins/toastr/toastr.css" type="text/css"></head>  
+<body>  
+	<div style="width: 100%; padding: 0px; margin: 0px;overflow: hidden;" id="bodyContainer" class="bodyContainer">
+		<div class="container-fluid container-func" style="width:100%;padding: 0px; margin: 0px;">
+	   <!-- page content start -->
+	    
+<div class="xjyzdindex">
+	<input type="hidden" name="yhlx" id="yhlx" value=""/>
+	<input type="hidden" name="xjhbh" id="xjhbh" value="d216213e6c51626e177f3e32023473ef"/>
+	<input type="hidden" name="zbfs" id="zbfs" value=""/>
+	<input type="hidden" name="zbdz" id="zbdz" value="https://live.duoyi.com/dy/xz/"/>
+	<input type="hidden" name="splj" id="splj" value=""/>
+	<input type="hidden" name="bfcs" id="bfcs" value="0"/>
+	<input type="hidden" name="xh" id="xh" value=""/>
+	<div class="xsection xcontent">
+		<div class="container">
+			<div class="row">
+				<div class="con-sec">
+					<div class="con-tit">多益网络2025届校园招聘春招第二场在线宣讲会</div>
+
+					<div class="kzzph-subsec">
+						<div class="row">
+							<div class="col-md-5">
+									<div class="linebk subbmz">报名中</div>
+								<div class="linebk jbsj">举办时间： 2025-04-16&nbsp;19:30-21:00</div>
+							</div>
+							<div class="col-md-7">
+								<div class="zpnum-sec">
+									<div class="linebk zpnum bdrn">点击量<span>29</span></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="con-comk">
+						<div class="con-comtit"><h2>单位信息</h2></div>
+						<div class="post-dwxx">
+							<h3 class="dwxx-tit">
+								<div style="display:inline">多益网络有限公司</div>
+								<div class="con-jrzb">进入直播</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+								<span class="con-bmrs1">播放次数</span>
+								<span class="con-bmrs2">0人</span>
+							</h3>
+							<div class="dwxx-info">
+								<span>其他企业</span><span>信息传输、软件和信息技术服务业</span><span></span><span>广东省广东省广州市广东省广州市黄埔区</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="con-comk">
+						<div class="con-comtit"><h2>招聘公告(简章)</h2></div>
+						<div class="con-con">
+							<p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><img src="/jyxt/comm/common/preview.zf?filePath=/image/1744166091060/图片1.png" alt=""></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">多益网</strong><strong style="font-weight: bold;">络</strong><strong style="font-weight: bold;">2025届</strong><strong style="font-weight: bold;">校园招聘</strong><strong style="font-weight: bold;">春招第二场在线宣讲会</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">网申地址:&nbsp;<a href="https://xz.duoyi.com/rKa" _href="https://xz.duoyi.com/rKa" style="cursor: pointer;">https://xz.duoyi.com/rKa</a></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">坐标：广州、武汉、苏州 &nbsp;QQ交流群：（<strong style="font-weight: bold;">807670249</strong>）</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">【关于多益】</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">企业愿景：多益网络是一家专注于互联网科技领域的集团公司，坚持技术积累，走自主研发和自主运营之路。</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">多益网络是中国优秀的互联网游戏企业。成立十余年来，始终秉持“做真正有趣且有益的游戏”的信念，坚持自主研发、自主运营。 游戏产品涵盖回合制MMORPG、射击、策略、卡牌等多个领域。公司坚持精品战略，打造了“幻唐志系列”“梦想世界系列”“枪火重生”等知名游戏IP，为海内外玩家带去有趣的数字文化体验。电子邮箱、即时通讯等互联网产品亦有开发。</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">公司拥有大量专利、著作权和注册商标等核心知识产权，设有多益人才发展中心等支持平台，驱动创新及培养专业人才。同时已进驻武汉和苏州，建有多条互联网产品的在研生产线，为企业提供系统支持和技术服务。</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">【招聘对象】</strong>2025届应届毕业生（毕业时间为2024年8月-2025年7月之间的同学）</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">*&nbsp;若网申时系统提示切换投递渠道，请以系统指引为准。</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">【</strong><strong style="font-weight: bold;">宣讲</strong><strong style="font-weight: bold;">时间】</strong><strong style="font-weight: bold;">4月16日（周三）19:30</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">【宣讲剧透】</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">1、公司介绍：</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">-走进多益，了解公司发展、产品矩阵、核心优势</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">2、岗位解析</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">-技术、策划、艺术、市场各岗位解析</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">3、培训体系</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">-新人训练营学习内容与模式揭秘</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">4、流程答疑</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">-校招流程介绍与常见问题一站式答疑</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">【观看方式】</strong>①点击进入网址：<a href="https://live.duoyi.com/dy/xz/" _href="https://live.duoyi.com/dy/xz/" style="cursor: pointer;">https://live.duoyi.com/dy/xz/</a></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">②扫码预约&amp;观看：</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><img src="/jyxt/comm/common/preview.zf?filePath=/image/1744166100958/图片2.png" alt="">&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">【招聘岗位】</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">技术类</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">游戏客户端开发工程师 &nbsp;游戏服务端开发工程师 &nbsp;游戏引擎研发工程师 &nbsp;算法工程师</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">软件工程师 &nbsp;&nbsp;Web前端开发工程师 &nbsp;大数据研发工程师 &nbsp;运维工程师 &nbsp;开发工程师</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">策划类</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">游戏策划助理 &nbsp;&nbsp;&nbsp;&nbsp;产品策划 &nbsp;&nbsp;&nbsp;游戏测试 &nbsp;&nbsp;&nbsp;策划助理（通用类）</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">艺术类</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">原画设计师 &nbsp;&nbsp;技术美术/TA &nbsp;特效设计师 &nbsp;&nbsp;动作设计师 &nbsp;&nbsp;游戏声音设计师</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">三维模型设计师 &nbsp;&nbsp;游戏UI设计师 &nbsp;&nbsp;视频设计师 &nbsp;视觉设计师 &nbsp;美术PM助理 &nbsp;&nbsp;&nbsp;&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">市场类</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">游戏运营 &nbsp;&nbsp;&nbsp;游戏运营（海外方向）&nbsp;&nbsp;游戏编辑</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">职能类</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">读书员 &nbsp;&nbsp;综合文员&nbsp;&nbsp;战略分析师 &nbsp;预算专员 &nbsp;&nbsp;法务专员&nbsp;&nbsp;&nbsp;行政专员&nbsp;&nbsp;&nbsp;人事专员</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">* 具体招聘岗位、工作地点及薪资请以校招官网为准</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">【招聘流程】</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">在线</strong><strong style="font-weight: bold;">网申（</strong><strong style="font-weight: bold;">含</strong><strong style="font-weight: bold;">测评）→在线笔试</strong><strong style="font-weight: bold;">（</strong><strong style="font-weight: bold;">开放题&amp;专业笔试）</strong><strong style="font-weight: bold;">→</strong><strong style="font-weight: bold;">在线</strong><strong style="font-weight: bold;">面试（1-2轮）→</strong><strong style="font-weight: bold;">聘用意向</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">①登录多益校招官网<a href="https://xz.duoyi.com/rKa" _href="https://xz.duoyi.com/rKa" style="cursor: pointer;">https://xz.duoyi.com/rKa</a>，投递简历；</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">②按要求完成简历填写+在线测评，等待网申结果，根据提示进行后续环节！</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong style="font-weight: bold;">【</strong><strong style="font-weight: bold;">答疑通道</strong><strong style="font-weight: bold;">】</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">①进入【多益网络校招官网】-【招聘流程】查看【常见Q&amp;A】</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">②点击官网右侧【小欣】-【点我提问】输入关键词向小欣提问</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">&nbsp;<img src="/jyxt/comm/common/preview.zf?filePath=/image/1744166116016/图片3.png" alt="">&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><img src="/jyxt/comm/common/preview.zf?filePath=/image/1744166125302/图片4.png" alt=""></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">了解更多【关注招聘公众号&amp;加入交流群】</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all;"><br /></p>
+						</div>
+					</div>
+
+						<div class="con-comk">
+							<div class="con-comtit"><h2>招聘信息</h2></div>
+							<div class="post post-list">
+								<div class="row">
+									<div class="col-md-9">
+										<h3 class="tit tog"><a onclick="setLink('JG0007174','2EA4A6C1E25C2FACE065000000000001','多益网络有限公司');"  target="_blank">游戏策划</a></h3>
+										<div class="info">
+											<span>面议</span>
+											<span>广东省广州市黄埔区</span>
+											<span>全职</span>
+											<span>不限</span>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="tool">
+											<div class="collect-sec">
+												<div class="collect cancollect" onclick="checkGwsc('2EA4A6C1E25C2FACE065000000000001')">收藏</div>
+												<button type="button" class="deliver candeliver" onclick="checkGwsq('2EA4A6C1E25C2FACE065000000000001','2025-04-30')">投递简历</button>
+											</div>
+											<p class="time"></p>
+										</div>
+									</div>
+								</div>
+								<div class="clear"></div>
+								<div class="com-hid">
+									<div class="post-des">
+										<h3 class="tit">职位描述</h3>
+										<p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><img src="/jyxt/comm/common/preview.zf?filePath=/image/1740130404300/图片1.png" alt=""></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>多益网</strong><strong>络</strong><strong>2025届</strong><strong>校园招聘</strong><strong>春季正式批</strong><strong>启动！</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">网申地址:&nbsp;<a href="https://xz.duoyi.com/qKa" _href="https://xz.duoyi.com/qKa" style="cursor: pointer;">https://xz.duoyi.com/qKa</a>&nbsp;推荐口令：TKBNZ（选择推荐站点投递）</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">注意：简历一旦提交则无法修改或补充推荐码，请在投递时填写核对~</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">坐标：广州、武汉、苏州 &nbsp;QQ交流群：<strong>251145958</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><br /></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>【关于多益】</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">企业愿景：多益集团是一家专注于互联网科技领域的集团公司，坚持技术积累，走自主研发和自主运营之路。</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">多益网络是中国优秀的互联网游戏企业。成立十余年来，始终秉持“做真正有趣且有益的游戏”的信念，坚持自主研发、自主运营。 游戏产品涵盖回合制MMORPG、射击、策略、卡牌等多个领域。公司坚持精品战略，打造了“幻唐志系列”“梦想世界系列”“枪火重生”等知名游戏IP，为海内外玩家带去有趣的数字文化体验。电子邮箱、即时通讯等互联网产品亦有开发。</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">公司拥有大量专利、著作权和注册商标等核心知识产权，设有多益人才发展中心等支持平台，驱动创新及培养专业人才。同时已进驻武汉和苏州，建有多条互联网产品的在研生产线，为企业提供系统支持和技术服务。</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>【招聘时间】</strong>即日-2025年4月30日</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>【招聘对象】</strong>2025届应届毕业生（毕业时间为2024年8月-2025年7月之间的同学）</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">*&nbsp;若网申时系统提示切换投递渠道，请以系统指引为准。</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>【招聘岗位】</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>技术类</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">游戏客户端开发工程师 &nbsp;游戏服务端开发工程师 &nbsp;游戏引擎研发工程师 &nbsp;算法工程师</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">软件工程师 &nbsp;&nbsp;Web前端开发工程师 &nbsp;大数据研发工程师 &nbsp;运维工程师 &nbsp;开发工程师</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>策划类</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">游戏策划 游戏交互设计师 &nbsp;产品策划&nbsp;&nbsp;&nbsp;美术资源策划 &nbsp;游戏文案策划 &nbsp;游戏测试</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">策划助理（通用类）</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>艺术类</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">原画设计师 &nbsp;&nbsp;技术美术/TA &nbsp;&nbsp;特效设计师 &nbsp;&nbsp;动作设计师 &nbsp;&nbsp;&nbsp;&nbsp;游戏声音设计师</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">三维模型设计师 &nbsp;游戏UI设计师 视频设计师 &nbsp;视觉设计师 &nbsp;美术PM助理 &nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>市场类</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">游戏运营&nbsp;&nbsp;&nbsp;&nbsp;游戏运营（海外方向）&nbsp;&nbsp;游戏编辑</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>职能类</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">读书员 &nbsp;&nbsp;综合文员&nbsp;&nbsp;战略分析师 &nbsp;&nbsp;预算专员 &nbsp;法务专员&nbsp;&nbsp;&nbsp;行政专员&nbsp;&nbsp;&nbsp;人事专员</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><br /></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">* 具体招聘岗位、工作地点及薪资请以校招官网为准</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>【招聘流程】</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>在线</strong><strong>网申（</strong><strong>含</strong><strong>测评）→在线笔试</strong><strong>（</strong><strong>开放题&amp;专业笔试）</strong><strong>→</strong><strong>在线</strong><strong>面试（1-2轮）→</strong><strong>聘用意向</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">①登录多益校招官网&nbsp;<a href="https://xz.duoyi.com/qKa" _href="https://xz.duoyi.com/qKa" style="cursor: pointer;">https://xz.duoyi.com/qKa</a>&nbsp;，投递简历；</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">②按要求完成简历填写+在线测评，等待网申结果，根据提示进行后续环节！</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>【</strong><strong>宣讲行程</strong><strong>】</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">①<strong>在线宣讲会</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">25届春招第一场在线宣讲会：3月12日 19：30，手机扫码预约观看！</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong><img src="/jyxt/comm/common/preview.zf?filePath=/image/1740130418596/图片2.png" alt="">&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>②线下活动</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">请关注校招官网-招聘流程-宣讲行程页面。</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><img src="/jyxt/comm/common/preview.zf?filePath=/image/1740130430129/图片3.png" alt="" width="200" height="200" title="" align="">&nbsp;</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>&nbsp;</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><strong>【</strong><strong>答疑通道</strong><strong>】</strong></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">①进入【多益网络校招官网】-【招聘流程】常见Q&amp;A</p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">②点击官网右侧【小欣】-【点我提问】输入关键词向小欣提问</p><p style="text-align: center; color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all;"><br /></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><img src="/attachment/www/ueditor/images/20250221/1740129253442740.png" title="1740129253442740.png" width="234" height="234" _src="/attachment/www/ueditor/images/20250221/1740129253442740.png" style="max-width: 100%; width: 234px; height: 234px;"></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;"><img src="/jyxt/comm/common/preview.zf?filePath=/image/1740130487451/图片5.png" alt=""></p><p style="text-align: center; color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all;"><br /></p><p style="color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all; text-align: center;">了解更多【关注招聘公众号&amp;加入交流群】</p><p style="text-align: center; color: rgb(85, 85, 85); line-height: 1.5em; font-size: 14px; font-family: 宋体; word-break: break-all;">审核人：程凯</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+					<div class="con-comk">
+						<div class="con-comtit"><h2>企业简介</h2></div>
+						<div class="con-con">
+							<p style="margin-left:0pt;text-indent:21pt;"><p class="MsoNormal"><b><span style="color:#E53333;">【关于多益】</span></b><b><span style="color:#E53333;">历年中国</span></b><b><font face="微软雅黑"><span style="color:#E53333;">互联网百强</span></font><font face="微软雅黑"><span style="color:#E53333;">/自主研发、自主运营/中国</span></font></b><b><span style="color:#E53333;">领先的</span></b><b><span style="color:#E53333;">游戏研发商与运营商</span></b><b><o:p></o:p></b></p><p class="MsoNormal" style="text-indent: 21pt;"><font face="微软雅黑">多益网络成立于</font><font face="微软雅黑">2006年，是中国优秀的自主研发和自主运营的互联网游戏企业，旗下业务涵盖网络游戏、电子邮箱、即时通讯等互联网产品，已推出包括“梦想世界”系列和“神武”系列在内的多款精品游戏。</font><o:p></o:p></p><p class="MsoNormal" style="text-indent: 21pt;"><font face="微软雅黑">多益网络是国家科技部认定的高新技术企业、广州市认定的总部企业。公司拥有大量专利、著作权和注册商标等核心知识产权，为</font><font face="微软雅黑">“广东省版权兴业示范基地</font>”<font face="微软雅黑">。目前，公司拥有员工近三千人，研发占比</font><font face="微软雅黑">70%以上。设有多益人才中心、多益技术研究院等支持平台，驱动创新以及培养专业人才。</font><span style="text-indent: 21pt;"></span></p></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="xfooter">
+		<div class="xfooter-height"></div>
+		<div class="xfooter-content">
+			<div class="down">
+				<div class="container">
+					未经同意 任何单位和个人不得擅自引用与转载本网站任何信息<br>
+					<a href="http://www.zfsoft.com" target="_blank">技术支持:正方软件股份有限公司</a>&nbsp;&nbsp;&nbsp;Ver V5.10.93<br>
+				</div>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+	$(function(){
+		$('.xfooter > .xfooter-height').height($('.xfooter > .xfooter-content').height());
+	})
+</script></div>
+
+
+	   <!-- page content end -->  
+	   <!-- 	<div class="xfooter">
+		<div class="xfooter-height"></div>
+		<div class="xfooter-content">
+			<div class="down">
+				<div class="container">
+					未经同意 任何单位和个人不得擅自引用与转载本网站任何信息<br>
+					<a href="http://www.zfsoft.com" target="_blank">技术支持:正方软件股份有限公司</a>&nbsp;&nbsp;&nbsp;Ver V5.10.93<br>
+				</div>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+	$(function(){
+		$('.xfooter > .xfooter-height').height($('.xfooter > .xfooter-content').height());
+	})
+</script> -->
+	   </div>
+	</div>
+	<div id="progressbarweb-box">
+		<div class="progressbar">
+			<div class="load-bar">
+				<div class="load-bar-inner" data-loading="0"> <span id="counter"></span> </div>
+			</div>
+			<p id="text-msg">请稍候... </p>
+		</div>
+	</div>
+</body>  
+<script type="text/javascript">
+jQuery(function($) {
+	let h1 = $('#navbar_container').outerHeight(true) ? $('#navbar_container').outerHeight(true) : 0
+	let h2 = $('#footerID').outerHeight(true) ? $('#footerID').outerHeight(true) : 0
+	var pageHeight = $(window).height() - h1 - h2;
+	$('.bodyContainer').css("min-height",pageHeight);
+	toastr.options = {
+		"closeButton": false,
+		"debug": false,
+		"positionClass": "toast-top-center",
+		"showDuration": "300",
+		"hideDuration": "1000",
+		"timeOut": "5000",
+		"extendedTimeOut": "1000",
+		"showEasing": "swing",
+		"hideEasing": "linear",
+		"showMethod": "fadeIn",
+		"hideMethod": "fadeOut"
+	}
+
+	//调整学生单位端日期鼠标移动到日期上，最外层框消失
+	$(document).off('click', '.cond-bar-selected .tag-list-cond a').on('click', '.cond-bar-selected .tag-list-cond a', function () {
+		var $this = $(this);
+		var condTimer;
+		$clps = $($(this).data('href'))
+		$clps.unbind('hover');
+		$clps.hover(function (e) {//鼠标移动进入clps
+			clearTimeout(condTimer);
+		},function (e) {//鼠标移动离开clps的区域范围
+			//clps的区域范围
+			var $new_clps = $($this.data('href'));
+
+			var offset = $new_clps.offset();
+
+			var width = $new_clps.width();
+			var height = $new_clps.height();
+
+			var left = offset.left;
+			var top = offset.top;
+
+			var minX = left;
+			var maxX = left + width;
+			var minY = top;
+			var maxY = top + height;
+
+			var x = e.pageX;
+			var y = e.pageY;
+			if(minX <= x && x <= maxX && minY <= y && y <= maxY){
+				//在范围内，忽略
+			}else{
+				condTimer = setTimeout(function () {
+					$this.parents('.tag-list-cond').find('a[data-href="' + $this.data('href') + '"]').parent('li').removeClass('in');
+					$clps.slideUp(150);
+				},150);
+			}
+		});
+	})
+});
+function showwrapperbox(){
+	$('#progressbarweb-box').show();
+}
+function hidewrapperbox(){
+	$('#progressbarweb-box').hide()
+}
+function wrapperbox(bl,msg){
+	$('#progressbarweb-box .progressbar #counter').html(bl+'%');
+	$('#progressbarweb-box .progressbar #counter').css('left',(3.5*bl-25)+'px');
+	$('#progressbarweb-box .progressbar .load-bar-inner').css('width',bl+'%');
+	$('#progressbarweb-box .progressbar #text-msg').html(msg);
+}
+</script>
+</html>

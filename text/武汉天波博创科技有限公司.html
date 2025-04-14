@@ -1,0 +1,454 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>  
+   	<meta charset="UTF-8">
+<meta name=renderer  content=webkit>
+<meta http-equiv="pragma" CONTENT="no-cache">
+<meta http-equiv="Cache-Control" CONTENT="no-cache, must-revalidate">
+<meta http-equiv="expires" CONTENT="0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="Copyright" content="zfsoft" />	
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+<title>武汉大学学生就业指导与服务中心</title>
+<script type="text/javascript">
+	//全局变量
+	var _path = "/jyxt";
+	var _systemPath = "/jyxt";
+	var _stylePath = "/zftal-ui-v5-1.1.1";
+    //给hmd登录提示做判断
+    var modalFlag =false;
+</script>
+
+<!--jQuery核心框架库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/jquery-1.11.3-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/jquery-migrate-1.4.1.min.js?ver=d359730fbd62bb45ddf4ce7005e81eef"></script>
+<!--jQuery浏览器检测 -->
+<script type="text/javascript" src="/jyxt/js/browse/browse-judge.js?ver=d359730fbd62bb45ddf4ce7005e81eef"></script>
+<script type="text/javascript">
+	//\u6d4f\u89c8\u5668\u7248\u672c\u9a8c\u8bc1
+	/*var broswer = broswer();
+	if(broswer.msie==true||broswer.safari==true||broswer.mozilla==true||broswer.chrome==true){
+		if(broswer.msie==true&&broswer.version<9){
+		   window.location.href = _path+"/xtgl/init_cxBrowser.html";
+		}
+	}else{
+		 window.location.href = _path+"/xtgl/init_cxBrowser.html";
+	}*/
+</script><!--
+jquery.ui 需要在bootstrap之前加载，解决冲突问题
+http://blog.csdn.net/remote_roamer/article/details/14105999
+-->
+<script src="/zftal-ui-v5-1.1.1/assets/js/jquery-ui-custom.contact-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" type="text/javascript" charset="utf-8"></script>
+<!--Bootstrap布局框架-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap/css/bootstrap.min.css?ver=d359730fbd62bb45ddf4ce7005e81eef" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap/js/bootstrap.min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<!--zftal-ui样式-->
+<!--jQuery常用工具扩展库：基础工具,资源加载工具,元素尺寸相关工具 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.utils.contact-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<!--jQuery基础工具库：$.browser,$.cookie,$.actual等 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.plugins.contact-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<!--jQuery自定义event事件库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.events.contact-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<!--JavaScript对象扩展库：Array,Date,Number,String -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.extends.contact-2.min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<!--国际化js库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/i18n/jquery.i18n-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<!--业务框架前端脚本国际化库-->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.zftal_zh_CN-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef"></script>
+<!--Bootbox弹窗插件-->
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/bootbox.concat-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" type="text/javascript" charset="utf-8"></script>
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/lang/zh_CN-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/css/bootbox-min.css?ver=d359730fbd62bb45ddf4ce7005e81eef" />
+<!--jQuery单选框美化-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/iCheck/skins/all.css?ver=d359730fbd62bb45ddf4ce7005e81eef" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/iCheck/icheck.min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<!--jQuery.chosen下拉框美化插件-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/chosen/css/chosen-min.css?ver=d359730fbd62bb45ddf4ce7005e81eef" />
+<link rel="stylesheet" type="text/css" href="/jyxt/assets/plugins/select/bigselect.css?ver=d359730fbd62bb45ddf4ce7005e81eef"></link>
+<script type="text/javascript" src="/jyxt/assets/plugins/select/bigselect.js"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/utils/jquery.utils.pinyin.min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/jquery.choosen.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/jquery.chosen-additional.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/lang/zh_CN-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<!-- Tagsinput 插件 -->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap-tagsinput/css/bootstrap-tagsinput.css?ver=d359730fbd62bb45ddf4ce7005e81eef" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap-tagsinput/js/bootstrap-tagsinput.min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script><!--IE浏览器html5、CSS3兼容插件-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/html5shiv.min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/respond.min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<![endif]-->
+<!--业务框架jQuery全局设置和通用函数库-->
+<script type="text/javascript" src="/jyxt/js/jquery.zftal.contact-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef"></script>
+<!--基于Nifty样式库的新版界面前端依赖-->
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/nifty/js/nifty.js?ver=d359730fbd62bb45ddf4ce7005e81eef"></script>
+<link href="/zftal-ui-v5-1.1.1/assets/plugins/nifty/css/nifty.min.css?ver=d359730fbd62bb45ddf4ce7005e81eef" rel="stylesheet" type="text/css"/>
+<!--皮肤+字体-->
+<link href="/zftal-ui-v5-1.1.1/assets/css/theme/zftal-ui-nifty-icons.css?ver=d359730fbd62bb45ddf4ce7005e81eef" rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/theme/theme-ocean.min.css?ver=d359730fbd62bb45ddf4ce7005e81eef" rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/zftal-ui-base.css?ver=d359730fbd62bb45ddf4ce7005e81eef"  rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/zftal-ui-index.css?ver=d359730fbd62bb45ddf4ce7005e81eef" rel="stylesheet" type="text/css"/>
+<link href="/jyxt/css/zftal-ui-app.css?ver=d359730fbd62bb45ddf4ce7005e81eef" rel="stylesheet" type="text/css"/>
+
+
+<!--laydate日期控件1111-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/laydate/need/laydate.css?ver=d359730fbd62bb45ddf4ce7005e81eef" />
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/laydate/skins/zfcolor/laydate.css?ver=d359730fbd62bb45ddf4ce7005e81eef" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/laydate/laydate.min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+	<style type="text/css">
+	.bootbox.modal{overflow-y: hidden !important;text-align: justify;}
+	.tooltips.top.in {z-index: 1015 !important;}
+	</style>
+	<!--v5公用代码调用-->
+	<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/v5/zftal-ui-page.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<!--jQuery.validation校验插件 -->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/validation/css/jquery.validate-min.css?ver=d359730fbd62bb45ddf4ce7005e81eef" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/js/jquery.validate-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/js/jquery.validate.contact-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<script type="text/javascript" src="/jyxt/js/plugins/validation/jquery.validate.methods.contact-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/lang/zh_CN-min.js?ver=d359730fbd62bb45ddf4ce7005e81eef" charset="utf-8"></script>
+<script type="text/javascript">
+	jQuery(function($){
+		$('[data-toggle*="validation"]').trigger("validation");
+	});
+</script>	
+<link rel="stylesheet" href="/jyxt/assets/plugins/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/jyxt/assets/css/reset.css">
+<link rel="stylesheet" href="/jyxt/assets/css/zdstyle.css">
+<script>
+    function checkGwsc(zpxxbh){
+    	var yhlx = $("#yhlx").val();
+		if ("student" != yhlx && "stu" != yhlx){
+			$.alert("该功能仅向登录学生开放，您无权访问！");
+			return;
+		}
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSfyscsq.zf',{lx:"sc",zpxxbh:zpxxbh},function(data){
+			if(data=="1"){
+				$.alert("您已经收藏过该岗位！");
+				return;
+			}else{
+				 jQuery.post(_path+'/jyweb/xsgwsc/xsScOrSqjl.zf',{lx:"sc",zpxxbh:zpxxbh},function(responseData){
+					if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+						$.success(responseData["message"]);
+					}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+						$.error(responseData["message"]);
+					}else{
+						$.alert(responseData["message"]);
+					}
+				}, "json"); 
+			}
+		}, "json");
+	};
+
+   function xsbm(xjhbh){
+		var yhlx = $("#yhlx").val();
+		if ("student" != yhlx && "stu" != yhlx){
+			$.alert("该功能仅向登录学生开放，请先登录！");
+			return;
+		}else{
+			var xjhrq = $("#hdsj").val();
+			var xjhsjdmc = $("#xjhsjdmc").val();
+			var hdsj = xjhrq + " " + xjhsjdmc.substr(xjhsjdmc.indexOf("-")+1,xjhsjdmc.lastIndex);
+			var hdsj = new Date(hdsj.replaceAll("-","/"));
+			if(hdsj < new Date()){
+				$.alert("宣讲会时间已过期，无法再报名");
+			}else{
+				$.confirm('确认报名该宣讲会吗？', function (result) {
+					if(result){
+						jQuery.post(_path+'/jyweb/xsbm/xsbm.zf',{ywlx:"xjh",ywbh:xjhbh},function(responseData){
+							if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+								$.success(responseData["message"]);
+							}else{
+								$.alert(responseData["message"]);
+							}
+						}, "json");
+					}
+				});
+				return;
+			}
+
+		}
+	}
+
+	
+	//检测是否填写简历
+	function checkSftxjl(){
+		var isjl=false;
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSftxjl.zf',{},function(data){
+			if(data == "0"){
+				isjl=true;
+			}
+		},"json");
+		return isjl;
+	}
+	
+	//岗位申请
+	function checkGwsq(zpxxbh,tdjzrq){
+    	var yhlx = $("#yhlx").val();
+		if ("student" != yhlx && "stu" != yhlx){
+			$.alert("该功能仅向登录学生开放，您无权访问！");
+			return;
+		}
+		
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSftxjl.zf',{},function(data){
+			var jlzt = data;
+			if(jlzt == "0"){
+				/*$.alert("您还未上传简历,不能投简历。请先到个人中心上传简历!");
+				return;*/
+				$.alert("您还未维护系统简历,不能投简历。请先到个人中心维护系统简历!");
+				return;
+			}else{
+				jQuery.post(_path+'/jyweb/xsgwsc/checkSfyscsq.zf',{lx:"sq",zpxxbh:zpxxbh},function(data){
+					if(data=="1"){
+						$.alert("您已经向该岗位投递过简历！");
+						return;
+					}else{
+						var now = new Date();
+						if( null!=tdjzrq && '' != tdjzrq ){
+							var arr1 = 	tdjzrq.split("-");
+							var oldtime = new Date(arr1[0],arr1[1],arr1[2]);
+							var newtime = new Date(now.getFullYear(),now.getMonth()+1,now.getDate());	
+							if(newtime.getTime()>oldtime.getTime()){
+								$.alert("当前日期已经超过投递截止日期，不能投简历！");
+								return ;
+							}else{
+								if(jlzt == "1"){
+									$.showDialog(_path+'/jyweb/xsgwsc/showJltdPage.zf', '个人简历', {
+										url:"",
+										width		: "700px",
+										modalName	: "modifyModal",
+										offAtOnce	: true,
+										data		: {"zpxxbh":zpxxbh},
+										buttons		: {
+											success : {
+												label : "投递",
+												className : "btn-primary",
+												callback : function() {
+													var len = $("input[name='jlmc']:checked").length;
+													if(len != 1){
+														$.alert("请选择一份简历投递！");
+														return false;
+													}
+													
+													var $this = this;
+													var opts = $this["options"]||{};
+													submitForm(opts["formName"]||"ajaxForm",function(responseData,statusText){
+														if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+															$.success(responseData["message"],function() {
+																if(opts.offAtOnce){
+																	$.closeModal(opts["modalName"]||"modifyModal");
+																}
+															});
+														}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+															$.error(responseData["message"]);
+														}else{
+															$.alert(responseData["message"]);
+														}
+													});
+													return false;
+											  	}
+											},
+											cancel : {
+													label : "关 闭",
+													className : "btn-default"
+											}
+										}
+									});
+								}else{
+									$.confirm('确定投递系统简历？',function(data){
+										jQuery.post(_path+'/jyweb/xsgwsc/xsScOrSqjl.zf',{lx:"sq",zpxxbh:zpxxbh},function(responseData){
+											if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+												$.success(responseData["message"]);
+											}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+												$.error(responseData["message"]);
+											}else{
+												$.alert(responseData["message"]);
+											}
+										}, "json");
+									})
+								}
+							}
+						}else{
+							$.alert("该岗位投递截止日期未明确！");
+							return;
+						}
+					}
+				}, "json");
+			}
+		}, "json");
+	};
+	
+	$(".tog").click(function(){
+		$(this).parents('.post').find(".com-hid").slideToggle();
+	});
+    </script>
+
+	<link type="text/css" rel="stylesheet" href="/jyxt/css/globalweb/wrapper.css"/>
+<script type="text/javascript" src="/jyxt/assets/plugins/toastr/toastr.js"></script>
+<link rel="stylesheet" href="/jyxt/assets/plugins/toastr/toastr.css" type="text/css"></head>  
+<body>  
+	<div style="width: 100%; padding: 0px; margin: 0px;overflow: hidden;" id="bodyContainer" class="bodyContainer">
+		<div class="container-fluid container-func" style="width:100%;padding: 0px; margin: 0px;">
+	   <!-- page content start -->
+	    
+<div class="xjyzdindex">
+	<input type="hidden" name="yhlx" id="yhlx" value=""/>
+	<input type="hidden" name="hdsj" id="hdsj" value="2025-04-12"/>
+	<input type="hidden" name="xjhsjdmc" id="xjhsjdmc" value="14:30-17:00"/>
+	<div class="xsection xcontent">
+		<div class="container">
+			<div class="row">
+				<div class="con-sec">
+					<div class="con-tit">天波博创2025届校园招聘</div>
+					<div class="con-info">
+						<span>电子信息科学报告厅（信息学部网安学院大楼五楼）</span>
+						<span>2025-04-12&nbsp;&nbsp;15:00</span>
+						<span class="dif">发布时间：2025-03-26 22:19:52  点击数量：368</span>
+
+					</div>
+					<div class="con-comk">
+						<div class="con-comtit"><h2>单位信息</h2></div>
+						<div class="post-dwxx">
+							<h3 class="dwxx-tit">武汉天波博创科技有限公司</h3>
+							<div class="dwxx-info">
+								<span>其他企业</span><span>制造业</span><span></span><span>湖北省湖北省武汉市湖北省武汉市江夏区</span>
+							</div>
+						</div>
+					</div>
+					<div class="con-comk">
+						<div class="con-comtit"><h2>招聘公告(简章)</h2></div>
+						<div class="con-con">
+							<p class="MsoNormal" style="text-indent:30.0000pt;mso-layout-grid-align:none;text-autospace:none; mso-pagination:widow-orphan;"><span style="text-indent: 30pt;"><strong>一、公司简介</strong></span></p><p class="MsoNormal" style="text-indent:30.0000pt;mso-layout-grid-align:none;text-autospace:none; mso-pagination:widow-orphan;"><span style="text-indent: 30pt;">武汉天波博创科技有限公司是专业无线电系统及解决方案提供商，公司位于东湖高新区国家大学科技园，是国家级高新技术企业，省级专精特新企业。主营业务为无线电通信、无线电探测、雷达等系统的研发、生产和销售，同时为用户提供专业的系统级解决方案。<span style="text-wrap-mode: wrap;">公司近三年平均增速50%以上，产品覆盖多个国家和地区。</span></span></p><p class="MsoNormal" style="text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;">公司在无线电侦测及雷达领域深耕多年，具备被动式无线电监测、无人机无线数据链协议解析等多种无人机侦测、跟踪手段，通过定向（全向）干扰、导航诱骗和干扰枪的方式对入侵无人机实现全方位反制。可依据客户需求，定制高效可靠的无人机管控解决方案。</p><p class="MsoNormal">针对日趋严峻的无人机威胁，公司自主研发了多款反无人机设备，不仅能提供反无人机侦测、测向、诱骗和压制等全套解决方案，而且可以根据用户需求深度定制。</p><p class="MsoNormal">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong> 二、招聘岗位及工作地点</strong></p><p class="MsoNormal"><strong>&nbsp; &nbsp; &nbsp; &nbsp;</strong>&nbsp; &nbsp;岗位：FPGA工程师、嵌入式软件开发工程师、驱动开发工程师、硬件工程师、射频工程师、通信算法工程师、销售工程师、测试工程师、会计、实习生</p><p class="MsoNormal">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;地点：武汉东湖新技术开发区汤逊湖北路武汉长城创新科技园1栋A座4楼404。联系电话：027-86635358</p><p class="MsoNormal"><br /></p><p class="MsoNormal">审核人：程凯</p><p class="MsoNormal"><br /></p><p class="MsoNormal"><br /></p><p class="MsoNormal"><br /></p><p class="MsoNormal"><br /></p>
+						</div>
+					</div>
+
+					<div class="con-comk">
+						<div class="con-comtit"><h2>企业简介</h2></div>
+						<div class="con-con">
+							<span style="white-space: normal; box-sizing: border-box; font-size: 14px; text-indent: 28px; background-color: rgb(255, 255, 255); font-family: FangSong;"><span style="box-sizing: border-box; font-size: 19px;">武汉天波博创科技有限公司</span></span><span style="white-space: normal; box-sizing: border-box; color: rgb(51, 51, 51); text-indent: 28px; background-color: rgb(255, 255, 255); font-size: 19px; font-family: 仿宋;">是专业无线电系统及解决方案提供商，公司位于东湖高新区国家大学科技园，是国家级高新技术企业，具备武器装备科研生产三级保密资质。主营业务为无线电通信、无线电探测、雷达等系统的研发、生产和销售，同时为用户提供专业的系统级解决方案。</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="xfooter">
+		<div class="xfooter-height"></div>
+		<div class="xfooter-content">
+			<div class="down">
+				<div class="container">
+					未经同意 任何单位和个人不得擅自引用与转载本网站任何信息<br>
+					<a href="http://www.zfsoft.com" target="_blank">技术支持:正方软件股份有限公司</a>&nbsp;&nbsp;&nbsp;Ver V5.10.93<br>
+				</div>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+	$(function(){
+		$('.xfooter > .xfooter-height').height($('.xfooter > .xfooter-content').height());
+	})
+</script></div>
+
+
+	   <!-- page content end -->  
+	   <!-- 	<div class="xfooter">
+		<div class="xfooter-height"></div>
+		<div class="xfooter-content">
+			<div class="down">
+				<div class="container">
+					未经同意 任何单位和个人不得擅自引用与转载本网站任何信息<br>
+					<a href="http://www.zfsoft.com" target="_blank">技术支持:正方软件股份有限公司</a>&nbsp;&nbsp;&nbsp;Ver V5.10.93<br>
+				</div>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+	$(function(){
+		$('.xfooter > .xfooter-height').height($('.xfooter > .xfooter-content').height());
+	})
+</script> -->
+	   </div>
+	</div>
+	<div id="progressbarweb-box">
+		<div class="progressbar">
+			<div class="load-bar">
+				<div class="load-bar-inner" data-loading="0"> <span id="counter"></span> </div>
+			</div>
+			<p id="text-msg">请稍候... </p>
+		</div>
+	</div>
+</body>  
+<script type="text/javascript">
+jQuery(function($) {
+	let h1 = $('#navbar_container').outerHeight(true) ? $('#navbar_container').outerHeight(true) : 0
+	let h2 = $('#footerID').outerHeight(true) ? $('#footerID').outerHeight(true) : 0
+	var pageHeight = $(window).height() - h1 - h2;
+	$('.bodyContainer').css("min-height",pageHeight);
+	toastr.options = {
+		"closeButton": false,
+		"debug": false,
+		"positionClass": "toast-top-center",
+		"showDuration": "300",
+		"hideDuration": "1000",
+		"timeOut": "5000",
+		"extendedTimeOut": "1000",
+		"showEasing": "swing",
+		"hideEasing": "linear",
+		"showMethod": "fadeIn",
+		"hideMethod": "fadeOut"
+	}
+
+	//调整学生单位端日期鼠标移动到日期上，最外层框消失
+	$(document).off('click', '.cond-bar-selected .tag-list-cond a').on('click', '.cond-bar-selected .tag-list-cond a', function () {
+		var $this = $(this);
+		var condTimer;
+		$clps = $($(this).data('href'))
+		$clps.unbind('hover');
+		$clps.hover(function (e) {//鼠标移动进入clps
+			clearTimeout(condTimer);
+		},function (e) {//鼠标移动离开clps的区域范围
+			//clps的区域范围
+			var $new_clps = $($this.data('href'));
+
+			var offset = $new_clps.offset();
+
+			var width = $new_clps.width();
+			var height = $new_clps.height();
+
+			var left = offset.left;
+			var top = offset.top;
+
+			var minX = left;
+			var maxX = left + width;
+			var minY = top;
+			var maxY = top + height;
+
+			var x = e.pageX;
+			var y = e.pageY;
+			if(minX <= x && x <= maxX && minY <= y && y <= maxY){
+				//在范围内，忽略
+			}else{
+				condTimer = setTimeout(function () {
+					$this.parents('.tag-list-cond').find('a[data-href="' + $this.data('href') + '"]').parent('li').removeClass('in');
+					$clps.slideUp(150);
+				},150);
+			}
+		});
+	})
+});
+function showwrapperbox(){
+	$('#progressbarweb-box').show();
+}
+function hidewrapperbox(){
+	$('#progressbarweb-box').hide()
+}
+function wrapperbox(bl,msg){
+	$('#progressbarweb-box .progressbar #counter').html(bl+'%');
+	$('#progressbarweb-box .progressbar #counter').css('left',(3.5*bl-25)+'px');
+	$('#progressbarweb-box .progressbar .load-bar-inner').css('width',bl+'%');
+	$('#progressbarweb-box .progressbar #text-msg').html(msg);
+}
+</script>
+</html>

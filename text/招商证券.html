@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="renderer" content="webkit">
+    <link data-rh="true" rel="apple-touch-icon" href="data:image/ico;base64,aWNv">
+    <link rel="shortcut icon" href="data:image/ico;base64,aWNv">
+    <title></title>
+    <style>
+      #ietips{
+        position: fixed;top: 120px;font-size: 16px;width: 100%;color: #000;line-height: 40px;display: none;text-align: center;z-index: 1000;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+      }
+      #ietips span {display: inline-block;width: 16px;height: 16px;background: #00D26A;line-height: 16px;text-align: center;color: #fff;border-radius: 4px;font-size: 12px;margin: 0 4px;}
+      body, #ietips, #ietips p, #ietips span {margin: 0;font-variant: tabular-nums;font-feature-settings: 'tnum';}
+    </style>
+  <link href="/pb/css/vendor.css?f8e41514c60d594db72f" rel="stylesheet"><link href="/pb/css/posDetail.css?f8e41514c60d594db72f" rel="stylesheet"></head>
+  <body>
+    <div id="ietips">
+      <p>【温馨提示】检测到您正在使用兼容模式/旧版IE浏览器，功能可能无法正常使用。请使用以下极速模式浏览器获得最佳体验：</p>
+      <p>✅ Chrome | ✅ Firefox | ✅ Edge | ✅ Safari</p>
+    </div>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="root"></div>
+    <script>
+    /* ie浏览器提示 */
+    function isIeBrowser() {
+      const ua = window.navigator.userAgent;
+      const msie = ua.indexOf('MSIE '); // IE 10 或更早
+      const trident = ua.indexOf('Trident/'); // IE 11
+      const documentMode = document.documentMode; // 可用于确定文档模式
+
+      return msie > 0 || trident > 0 || documentMode;
+    }
+
+    if (isIeBrowser()) {
+      document.getElementById("ietips").style.display = 'block'
+    }
+    
+    /* 兼容ie  scrollTo  nodeList的forEach方法*/
+    if (!window.scrollTo) {
+      window.scrollTo = function (x, y) {
+        window.pageXOffset = x;
+        window.pageYOffset = y;
+      };
+    }
+    if (!window.scrollBy) {
+      window.scrollBy = function (x, y) {
+        window.pageXOffset += x;
+        window.pageYOffset += y;
+      };
+    }
+    if (!document.body.scrollTo) {
+      Element.prototype.scrollTo = function (x, y) {
+        this.scrollLeft = x;
+        this.scrollTop = y;
+      };
+    }
+    if (!document.body.scrollBy) {
+      Element.prototype.scrollBy = function (x, y) {
+        this.scrollLeft += x;
+        this.scrollTop += y;
+      };
+    }
+    if (window.NodeList && !NodeList.prototype.forEach) {
+        NodeList.prototype.forEach = function (callback, thisArg) {
+            thisArg = thisArg || window
+            for (var i = 0; i < this.length; i++) {
+                callback.call(thisArg, this[i], i, this)
+            }
+        }
+    }
+    // window.addEventListener('resize', setHtmlFont, false);
+    // window.addEventListener('load', setHtmlFont, false);
+
+    //   function setHtmlFont() {
+    //     var designSize = 1920; // 设计图尺寸
+
+    //     var html = document.documentElement;
+
+    //     var wW = html.clientWidth;// 窗口宽度
+    //     var rem = wW * 100 / designSize; 
+
+    //     document.documentElement.style.fontSize = rem + 'px';
+    //   }
+    </script>
+  <script type="text/javascript" src="/pb/js/vendor.js?f8e41514c60d594db72f"></script><script type="text/javascript" src="/pb/js/posDetail.js?f8e41514c60d594db72f"></script></body>
+</html>

@@ -1,0 +1,644 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>  
+   	<meta charset="UTF-8">
+<meta name=renderer  content=webkit>
+<meta http-equiv="pragma" CONTENT="no-cache">
+<meta http-equiv="Cache-Control" CONTENT="no-cache, must-revalidate">
+<meta http-equiv="expires" CONTENT="0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="Copyright" content="zfsoft" />	
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+<title>武汉大学学生就业指导与服务中心</title>
+<script type="text/javascript">
+	//全局变量
+	var _path = "/jyxt";
+	var _systemPath = "/jyxt";
+	var _stylePath = "/zftal-ui-v5-1.1.1";
+    //给hmd登录提示做判断
+    var modalFlag =false;
+</script>
+
+<!--jQuery核心框架库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/jquery-1.11.3-min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/jquery-migrate-1.4.1.min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<!--jQuery浏览器检测 -->
+<script type="text/javascript" src="/jyxt/js/browse/browse-judge.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<script type="text/javascript">
+	//\u6d4f\u89c8\u5668\u7248\u672c\u9a8c\u8bc1
+	/*var broswer = broswer();
+	if(broswer.msie==true||broswer.safari==true||broswer.mozilla==true||broswer.chrome==true){
+		if(broswer.msie==true&&broswer.version<9){
+		   window.location.href = _path+"/xtgl/init_cxBrowser.html";
+		}
+	}else{
+		 window.location.href = _path+"/xtgl/init_cxBrowser.html";
+	}*/
+</script><!--
+jquery.ui 需要在bootstrap之前加载，解决冲突问题
+http://blog.csdn.net/remote_roamer/article/details/14105999
+-->
+<script src="/zftal-ui-v5-1.1.1/assets/js/jquery-ui-custom.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" type="text/javascript" charset="utf-8"></script>
+<!--Bootstrap布局框架-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap/css/bootstrap.min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap/js/bootstrap.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--zftal-ui样式-->
+<!--jQuery常用工具扩展库：基础工具,资源加载工具,元素尺寸相关工具 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.utils.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery基础工具库：$.browser,$.cookie,$.actual等 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.plugins.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery自定义event事件库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.events.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--JavaScript对象扩展库：Array,Date,Number,String -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.extends.contact-2.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--国际化js库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/i18n/jquery.i18n-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--业务框架前端脚本国际化库-->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.zftal_zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<!--Bootbox弹窗插件-->
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/bootbox.concat-min.js?ver=002f3afba8a0d6a0088112033c65f70b" type="text/javascript" charset="utf-8"></script>
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/lang/zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/css/bootbox-min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<!--jQuery单选框美化-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/iCheck/skins/all.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/iCheck/icheck.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery.chosen下拉框美化插件-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/chosen/css/chosen-min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<link rel="stylesheet" type="text/css" href="/jyxt/assets/plugins/select/bigselect.css?ver=002f3afba8a0d6a0088112033c65f70b"></link>
+<script type="text/javascript" src="/jyxt/assets/plugins/select/bigselect.js"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/utils/jquery.utils.pinyin.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/jquery.choosen.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/jquery.chosen-additional.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/lang/zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!-- Tagsinput 插件 -->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap-tagsinput/css/bootstrap-tagsinput.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap-tagsinput/js/bootstrap-tagsinput.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script><!--IE浏览器html5、CSS3兼容插件-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/html5shiv.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/respond.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<![endif]-->
+<!--业务框架jQuery全局设置和通用函数库-->
+<script type="text/javascript" src="/jyxt/js/jquery.zftal.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<!--基于Nifty样式库的新版界面前端依赖-->
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/nifty/js/nifty.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<link href="/zftal-ui-v5-1.1.1/assets/plugins/nifty/css/nifty.min.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<!--皮肤+字体-->
+<link href="/zftal-ui-v5-1.1.1/assets/css/theme/zftal-ui-nifty-icons.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/theme/theme-ocean.min.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/zftal-ui-base.css?ver=002f3afba8a0d6a0088112033c65f70b"  rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/zftal-ui-index.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<link href="/jyxt/css/zftal-ui-app.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+
+
+<!--laydate日期控件1111-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/laydate/need/laydate.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/laydate/skins/zfcolor/laydate.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/laydate/laydate.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+	<style type="text/css">
+	.bootbox.modal{overflow-y: hidden !important;text-align: justify;}
+	.tooltips.top.in {z-index: 1015 !important;}
+	</style>
+	<!--v5公用代码调用-->
+	<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/v5/zftal-ui-page.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery.validation校验插件 -->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/validation/css/jquery.validate-min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/js/jquery.validate-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/js/jquery.validate.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/jyxt/js/plugins/validation/jquery.validate.methods.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/lang/zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript">
+	jQuery(function($){
+		$('[data-toggle*="validation"]').trigger("validation");
+	});
+</script>	
+<link rel="stylesheet" href="/jyxt/assets/plugins/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/jyxt/assets/css/reset.css">
+<link rel="stylesheet" href="/jyxt/assets/css/zdstyle.css">
+<link rel="stylesheet" href="/jyxt/assets/css/kzzph.css">
+<script>
+    function checkGwsc(zpxxbh){
+    	var yhlx = $("#yhlx").val();
+		if ("student" != yhlx && "stu" != yhlx){
+			$.alert("该功能仅向登录学生开放，您无权访问！");
+			return;
+		}
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSfyscsq.zf',{lx:"sc",zpxxbh:zpxxbh},function(data){
+			if(data=="1"){
+				$.alert("您已经收藏过该岗位！");
+				return;
+			}else{
+				jQuery.post(_path+'/jyweb/xsgwsc/xsScOrSqjl.zf',{lx:"sc",zpxxbh:zpxxbh},function(responseData){
+					if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+						$.success(responseData["message"]);
+					}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+						$.error(responseData["message"]);
+					}else{
+						$.alert(responseData["message"]);
+					}
+				}, "json"); 
+			}
+		}, "json");
+	};
+	
+	//检测是否填写简历
+	function checkSftxjl(){
+		var flag="0";
+		jQuery.ajaxSetup({async:false});
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSftxjl.zf',{},function(data){
+			if(data != "0"){
+				flag="1";
+			}
+		}, "json");
+		jQuery.ajaxSetup({async:true});
+		return flag;
+	}
+	function checkSfsh(xh){
+		debugger
+		//判斷是否有该需求
+		let flag = false;
+		jQuery.ajaxSetup({async:false});
+		jQuery.post(_path + "/sczp/xsjlgl/getXsjlsfxysh.zf", {xh}, function(data) {
+			if(data["xsjlsfxysh"] == 'kq'){
+				console.log(data["shzt"])
+				if(data["shzt"] == '1') {
+					flag = true;
+				}
+			}else {
+				flag = true;
+			}
+
+		}, 'json');
+		jQuery.ajaxSetup({async:true});
+		return flag;
+	}
+	//岗位申请
+	function checkGwsq(zpxxbh,tdjzrq){
+		//是否审核通过
+		if(!checkSfsh($("#xh").val())){
+			$.alert("简历审核通过后方可投递，请等待老师审核！");
+			return ;
+		}
+    	var yhlx = $("#yhlx").val();
+		if ("student" != yhlx && "stu" != yhlx){
+			$.alert("该功能仅向登录学生开放，您无权访问！");
+			return;
+		}
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSftxjl.zf',{},function(data){
+			var jlzt = data;
+			if(jlzt == "0"){
+				/*$.alert("您还未上传简历,不能投简历。请先到个人中心上传简历!");
+				return;*/
+				$.alert("您还未维护系统简历,不能投简历。请先到个人中心维护系统简历!");
+				return;
+			}else{
+				jQuery.post(_path+'/jyweb/xsgwsc/checkSfyscsq.zf',{lx:"sq",zpxxbh:zpxxbh},function(data){
+					if(data=="1"){
+						$.alert("您已经向该岗位投递过简历！");
+						return;
+					}else{
+						var now = new Date();
+						if( null!=tdjzrq && '' != tdjzrq ){
+							var arr1 = 	tdjzrq.split("-");
+							var oldtime = new Date(arr1[0],arr1[1],arr1[2]);
+							var newtime = new Date(now.getFullYear(),now.getMonth()+1,now.getDate());	
+							if(newtime.getTime()>oldtime.getTime()){
+								$.alert("当前日期已经超过投递截止日期，不能投简历！");
+								return ;
+							}else{
+								if(jlzt == 1){
+									$.showDialog(_path+'/jyweb/xsgwsc/showJltdPage.zf', '个人简历', {
+										url:"",
+										width		: "700px",
+										modalName	: "modifyModal",
+										offAtOnce	: true,
+										data		: {"zpxxbh":zpxxbh},
+										buttons		: {
+											success : {
+												label : "投递",
+												className : "btn-primary",
+												callback : function() {
+													var len = $("input[name='jlmc']:checked").length;
+													if(len != 1){
+														$.alert("请选择一份简历投递！");
+														return false;
+													}
+													
+													var $this = this;
+													var opts = $this["options"]||{};
+													submitForm(opts["formName"]||"ajaxForm",function(responseData,statusText){
+														if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+															$.success(responseData["message"],function() {
+																if(opts.offAtOnce){
+																	$.closeModal(opts["modalName"]||"modifyModal");
+																}
+															});
+														}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+															$.error(responseData["message"]);
+														}else{
+															$.alert(responseData["message"]);
+														}
+													});
+													return false;
+											  	}
+											},
+											cancel : {
+													label : "关 闭",
+													className : "btn-default"
+											}
+										}
+									});
+								}else{
+									jQuery.post(_path+'/jyweb/xsgwsc/xsScOrSqjl.zf',{lx:"sq",zpxxbh:zpxxbh},function(responseData){
+										if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+											$.success(responseData["message"]);
+										}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+											$.error(responseData["message"]);
+										}else{
+											$.alert(responseData["message"]);
+										}
+									}, "json");
+								}
+							}
+						}else{
+							$.alert("该岗位投递截止日期未明确！");
+							return;
+						}
+					}
+				}, "json");
+			}
+		},"json");
+	};
+	
+	$(".tog").click(function(){
+		$(this).parents('.post').find(".com-hid").slideToggle();
+	});
+	
+	function qr(xjhbh){
+		jQuery.post(_path+'/jyweb/kzxjh/bmKzxjh.zf',{xjhbh:xjhbh},function(data){
+			if(data.status =="success"){
+				$.success(data.message);
+				setTimeout(function(){
+					location.reload()
+				},100);
+				return;
+			}else{
+				$.alert(data.message);
+			}
+		}, "json");
+	};
+	
+	jQuery(function(){
+		$(".con-bmch").click(function(){
+			var yhlx = $("#yhlx").val();
+			if ("student" != yhlx && "stu" != yhlx){
+				$.alert("该功能仅向登录学生开放，您无权访问！");
+				return;
+			}else{
+				jQuery.post(_path+'/jyweb/kzxjh/checkSfjs.zf',{xjhbh:$("#xjhbh").val()},function(data){
+					if(data){
+						$.alert("该宣讲会已停止报名");
+					}else{
+						jQuery.post(_path+'/jyweb/kzxjh/checkSfbm.zf',{xjhbh:$("#xjhbh").val()},function(data){
+							if(data >= 1){
+								$.alert("您已报名成功，无需重复报名");
+							}else{
+								$('#myModal').modal('show');
+							}
+						}, "json");
+					}
+				}, "json");
+			
+				
+			}
+		});
+		
+		$(".con-jrzb").click(function(){
+			var yhlx = $("#yhlx").val();
+			jQuery.post(_path+'/jyweb/kzxjh/updateBfcs.zf',{xjhbh:$("#xjhbh").val(),bfcs:parseInt($("#bfcs").val())+1},function(data){
+				location.reload()
+			}, "json");
+			
+			if($("#zbfs").val() == '1'){
+				window.open($("#zbdz").val());
+			}else{
+				window.open($("#splj").val());
+			}
+			
+		});
+	});
+	
+	function setLink(dwxxid,zpxxbh,dwmc){
+		var url= _path+"/sczp/zpztgl/ckZpgwXq.zf?dwxxid="+dwxxid+"&zpxxbh="+zpxxbh+"&dwmc="+encodeURI(encodeURI(dwmc));
+		window.open(url);
+	}
+    </script>
+
+	<link type="text/css" rel="stylesheet" href="/jyxt/css/globalweb/wrapper.css"/>
+<script type="text/javascript" src="/jyxt/assets/plugins/toastr/toastr.js"></script>
+<link rel="stylesheet" href="/jyxt/assets/plugins/toastr/toastr.css" type="text/css"></head>  
+<body>  
+	<div style="width: 100%; padding: 0px; margin: 0px;overflow: hidden;" id="bodyContainer" class="bodyContainer">
+		<div class="container-fluid container-func" style="width:100%;padding: 0px; margin: 0px;">
+	   <!-- page content start -->
+	    
+<div class="xjyzdindex">
+	<input type="hidden" name="yhlx" id="yhlx" value=""/>
+	<input type="hidden" name="xjhbh" id="xjhbh" value="296d3212f951417e94ba28696a4fd9f3"/>
+	<input type="hidden" name="zbfs" id="zbfs" value=""/>
+	<input type="hidden" name="zbdz" id="zbdz" value="vc.feishu.cn/j/231051287；腾讯会议号:456432574"/>
+	<input type="hidden" name="splj" id="splj" value=""/>
+	<input type="hidden" name="bfcs" id="bfcs" value="2"/>
+	<input type="hidden" name="xh" id="xh" value=""/>
+	<div class="xsection xcontent">
+		<div class="container">
+			<div class="row">
+				<div class="con-sec">
+					<div class="con-tit">上海海曦技术有限公司宣讲会</div>
+
+					<div class="kzzph-subsec">
+						<div class="row">
+							<div class="col-md-5">
+									<div class="linebk subbmz">报名中</div>
+								<div class="linebk jbsj">举办时间： 2025-04-16&nbsp;14:00-16:00</div>
+							</div>
+							<div class="col-md-7">
+								<div class="zpnum-sec">
+									<div class="linebk zpnum bdrn">点击量<span>86</span></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="con-comk">
+						<div class="con-comtit"><h2>单位信息</h2></div>
+						<div class="post-dwxx">
+							<h3 class="dwxx-tit">
+								<div style="display:inline">上海海曦技术有限公司</div>
+								<div class="con-jrzb">进入直播</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+								<span class="con-bmrs1">播放次数</span>
+								<span class="con-bmrs2">2人</span>
+							</h3>
+							<div class="dwxx-info">
+								<span>其他企业</span><span>信息传输、软件和信息技术服务业</span><span>50-200人</span><span>上海市上海市浦东新区</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="con-comk">
+						<div class="con-comtit"><h2>招聘公告(简章)</h2></div>
+						<div class="con-con">
+							<p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; margin-left: 0pt; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-indent: 0pt; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;"></span></p><p class="MsoNormal" style="margin-top: 0px; margin-bottom: 0px; text-wrap-mode: wrap; box-sizing: border-box; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun;">直播地址:vc.feishu.cn/j/231051287；</span></font></p><p class="MsoNormal" style="margin-top: 0px; margin-bottom: 0px; text-wrap-mode: wrap; box-sizing: border-box; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun;">腾讯会议号:456432574</span></font></p>一、<span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700;"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">算法工程师</span></font><span style="font-family: SimSun; font-size: 14px;">&nbsp;</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">（</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">上海</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">）</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700;"></span><p><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">岗位职责：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1、根据业务场景和需求，设计和开发构建底层NLP算法平台；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2、根据业务场景和需求，负责知识图谱和知识库体系的构建，应用于解决实际的业务问题；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3、负责自研多模态大模型调研、训练、微调与Prompt Engineering工作；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4、负责大模型压缩、量化、数据优化，提升大模型训练与推理性能；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">5、对接产业数字化系统和业务系统，工程化落地；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">6、探索与跟进AGI前沿技术，增强组织创新活力。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">任职要求：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1、研究生学历，计算机、电子信息工程、软件工程、通信工程等相关专业；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">精通至少一种深度学习框架，如</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">TensorFlow、PyTorch、MXNet等；</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2、熟悉图像处理和计算机视觉相关算法，如分类、检测、跟踪、分割、识别等；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3、了解并能够使用部署框架，如TensorRT、MNN等？</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4、具备数据处理与分析能力，包括数据清洗、特征工程、数据可视化等；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">5、熟悉大数据相关技术，如Hadoop、Spark等；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">6、具备AI绘图、AI数字人、内容理解、实体识别、知识图谱、内容推荐等工作经验的优先。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">二、</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700;"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">大模型算法工程师</span></font><span style="font-family: SimSun; font-size: 14px;">&nbsp;</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">（</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">上海</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">）</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700;"></span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">岗位职责：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1. 大模型研发与优化：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o&nbsp;</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">负责百亿</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">/千亿级参数大语言模型（LLM）的算法设计、训练、调优及部署，涵盖预训练、指令微调、强化学习等全流程。</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o&nbsp;</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">精通</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">GPT-3、BERT、T5、DeepSeek等主流模型架构</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2. 国产芯片适配与性能加速：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o&nbsp;</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">基于国产芯片（华为昇腾、海思、平头哥等）及配套框架（如</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">MindSpore、TensorFlow Lite for Huawei），实现大模型的高效移植与部署。</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o 解决芯片兼容性问题，优化算子性能、内存占用及分布式通信效率。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3. 行业场景落地：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o 结合金融、政务、工业等垂直领域需求，设计领域专用大模型解决方案，支持国产芯片环境下的端到端落地。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4. 技术攻坚与创新：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o 探索大模型稀疏化、量化、蒸馏等轻量化技术，适配国产芯片算力约束。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o 跟踪国内外大模型与芯片协同优化技术趋势，推动自主可控技术落地。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">任职要求：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1. 基础要求：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o 硕士及以上学历，计算机科学、人工智能、数学等相关专业。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o 3年以上NLP/大模型算法经验，熟悉Transformer、MoE等架构，精通PyTorch/TensorFlow框架。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2. 国产芯片经验：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o&nbsp;</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">熟悉至少一种国产芯片（昇腾</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">910/920、寒武纪MLU、海光DCU等）的硬件特性及开发工具链。</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o&nbsp;</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">有国产芯片上的大模型训练</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">/推理实战经验，了解常见性能瓶颈与调优方法。</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3. 技术能力：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o&nbsp;</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">熟悉大模型分布式训练技术（数据并行、模型并行、流水线并行），掌握</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">DeepSpeed、Megatron-LM等框架。</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o&nbsp;</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">熟悉</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">CUDA/OpenCL编程，具备算子优化经验者优先。</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4. 加分项：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o 参与过国产芯片生态建设（如昇腾应用迁移、模型适配工具开发）。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o&nbsp;</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">熟悉国产芯片与国产服务器（如华为</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">Atlas、曙光等）的协同优化。</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o&nbsp;</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">发表过</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">AI顶会论文或开源项目贡献者。</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">o&nbsp;</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">熟悉</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">AIGC相关项目开源项目。</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">三、</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700;"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">前端开发工程师</span></font><span style="font-family: SimSun; font-size: 14px;">&nbsp;</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">（</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">上海</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">）</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700;"></span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">岗位职责：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1.参与和负责项目的前端app或者web的设计开发和实施;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2.与产品经理、设计师、后端工程师紧密协作，共同进行产品开发;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3.参与项目需求分析拆解，完成高质量的编码和单元测试;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4.负责前端技术选型前端架构设计和构建;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">5.Web前沿技术研究和新技术调研</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">6.执行并确保项目工作遵守内部流程与规范，提高研发效率的效果;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">7.同团队一起，面向最新的前端技术和趋势，进行技术研究和分享。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">任职要求</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">:</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1.研究生学历，计算机、电子信息工程、软件工程、通信工程等相关专业；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2、基础技术：应聘者需熟练掌握HTML5、CSS3、JavaScript等基础技术，熟悉W3C标准及规范，具备良好的代码编写习惯；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3、前端框架：熟悉React或Vue等主流前端框架，有实际开发经验，了解ES6等现代JavaScript特性；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4、其他技术：了解前后端分离、模块化、前端工程化构架（如gulp、webpack）、移动端开发（如React Native或Vue Native）等；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">5、数据库和后端语言：熟悉MySQL等关系型数据库管理系统，了解数据库设计和优化；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">6、有Java或Node.js等后端语言开发经验者优先。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">四、后端开发工程师</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">（</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">上海</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">）</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">&nbsp;</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700;"></span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">岗位职责：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1.参与软件的设计、开发、维护等工作；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2.参与友商产品竞争分析、制定产品优化策略方案等；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3.负责服务器端程序开发；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4.负责制定开发规范并实行；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">5.负责搭建装配生产或开发使用的环境；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">6.负责相关开发文档的编写；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">7.承担多个模块或子系统的软件需求分析、模块的构造设计、代码编写、单元测试、静态检查、问题定位等工作；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">8.熟悉企业协作组网和业务，主导技术方案设计和关键模块开发。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">任职要求</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">:</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1、计算机、软件、通信等相关专业统招研究生学历；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2、热爱编程，基础扎实，熟悉掌握但不限于JAVA/C++/C/Python/JS/HTML/GO等编程语言中的一种或数种，有良好的编程习惯;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3、具备独立工作能力和解决问题的能力、善于沟通乐于合作，热衷新技术，善于总结分享；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4、喜欢动手实践精通spring全家桶如security、getaway、mongodb等组件；有较强的二次开发能力，能高效的利用轮子完成任务；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">5、有数据库设计及建模能力，对复杂业务逻辑能快速理解。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">&nbsp;</span></span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">五、</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">售前工程师</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">-西安</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">（</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">人工智能</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">）</span></span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">岗位职责：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1、对服务器、存储、交换机、网络、安全、云计算、超融合、高性能计算、大数据、信创等方向中的两个或以上方向有一定理解和经验，能够进行客户交流和方案引导；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2、有较强的销售和客户本位意识，可配合销售及营销完成与用户前期的技术交流、需求挖掘、方案设计、方案讲解、方案演示等工作;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3、有投标经验，可独立完成投标项目技术方案的制作编写、产品选型、产品询价和相关资料准备，并可熟练的对所投方案进行讲解及现场答疑等工作:</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4、对工作富有热情，工作责任心强，富于团队精神和敬业精神，较强的独立解决问题能力，能够按时完成上级交办的其它临时任务。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">任职要求</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">:</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1、研究生学历，计算机相关专业；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2、配合区域销售人员,负责介绍产品、技术咨询、客户交流、解决方案编写、项目跟踪，协助销售人员开展售前技术支持工作:包括了解、挖掘和引导客户业务与需求，提供解决方案及技术建议方案:参与编写项目投标书、方案设计报告、实施方案报告和其它技术方案等;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3、与团队一起，承担在所属领域行技术水平竞争力提升;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4、建立和维护所在领域行业的售前技术资料库；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">5、承担支持项目的项目经理角色，组织、协调、管理项目有序完成。工具，熟悉方案撰写、方案讲解、产品演示工作汇场等工作；</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">6、有较强的理解力、执行力、学习能力，并具备快速整理方案的能力。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">六、</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700;"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">售后工程师</span></font><span style="font-family: SimSun; font-size: 14px;">&nbsp;</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">（</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">上海</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700; font-family: SimSun; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">）</span></span><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 700;"></span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">岗位职责：</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1、协助市场部门调研相关应用的技术方案、趋势等;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2、针对不同的应用场景，开发并拓展系统级应用方案;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3、结合客户应用需求，针对公司产品定义及规划提出适当的建议和意见，并给出应用可行性方案;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4、客户现场技术支持，解决和协助客户生产中遇到的问题;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">5.负责行业研究，掌握行业发展态势，调研行业竞争格局，深入了解客户的需求，向研发部门反馈市场和客户的需求，提出务实创新的方案;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">6.与客户建立良好的互动关系，积极影响客户评判标准，保持并加深合作关系。</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><br /></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">任职要求</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">:</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">1、研究生</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">学历，通信、计算机、电子类相关专业毕业</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">;</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">2、具备较强的沟通表达能力，较强的服务意识及市场意识;</span></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">3、</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">熟悉传统数通和数据中心常用网络技术</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">stp/ospf/bgp/mpls/vxlan/evpn等相关技术;</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">4</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">、有高度的责任心、耐心、能够承受较大的工作压力</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">;</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">5</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">、具有较强的学习能力、能快速学习和掌握新产品</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">;</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">6</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">、有大型网络项目实施经验、</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">sdn或云计算者优先;</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">7</span><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">、有</span></font><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">H3CIE/HCIE/CCIE证书</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun;"><br></span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">投递简历邮箱:hr@hyxino.com</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;"><br></span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">直播地址:vc.feishu.cn/j/231051287；</span></font></p><p class="MsoNormal" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-size: 14px; text-size-adjust: none; font-family: 微软雅黑, Arial, sans-serif; color: rgb(100, 100, 100); text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><font face="宋体" style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; text-size-adjust: none; font-family: SimSun; font-size: 14px;">腾讯会议号:456432574<br></span></font></p>
+						</div>
+					</div>
+
+						<div class="con-comk">
+							<div class="con-comtit"><h2>招聘信息</h2></div>
+							<div class="post post-list">
+								<div class="row">
+									<div class="col-md-9">
+										<h3 class="tit tog"><a onclick="setLink('JG1273531','3148D207E8CE1398E065000000000001','上海海曦技术有限公司');"  target="_blank">前端开发</a></h3>
+										<div class="info">
+											<span>面议</span>
+											<span>上海市浦东新区</span>
+											<span>实习</span>
+											<span>硕士</span>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="tool">
+											<div class="collect-sec">
+												<div class="collect cancollect" onclick="checkGwsc('3148D207E8CE1398E065000000000001')">收藏</div>
+												<button type="button" class="deliver candeliver" onclick="checkGwsq('3148D207E8CE1398E065000000000001','2025-06-30')">投递简历</button>
+											</div>
+											<p class="time"></p>
+										</div>
+									</div>
+								</div>
+								<div class="clear"></div>
+								<div class="com-hid">
+									<div class="post-des">
+										<h3 class="tit">职位描述</h3>
+										<p class="MsoNormal"><span style="font-family:SimSun;">岗位职责：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">1.参与和负责项目的前端app或者web的设计开发和实施;</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">2.与产品经理、设计师、后端工程师紧密协作，共同进行产品开发;</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">3.参与项目需求分析拆解，完成高质量的编码和单元测试;</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">4.负责前端技术选型前端架构设计和构建;</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">5.Web前沿技术研究和新技术调研</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">6.执行并确保项目工作遵守内部流程与规范，提高研发效率的效果;</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">7.同团队一起，面向最新的前端技术和趋势，进行技术研究和分享。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;"><br></span></p><p class="MsoNormal"><span style="font-family:SimSun;">&nbsp;</span></p><p class="MsoNormal"><font face="宋体"><span style="font-family:SimSun;">任职要求</span></font><font face="宋体"><span style="font-family:SimSun;">:</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">1.研究生学历，计算机、电子信息工程、软件工程、通信工程等相关专业；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">2、基础技术：应聘者需熟练掌握HTML5、CSS3、JavaScript等基础技术，熟悉W3C标准及规范，具备良好的代码编写习惯；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">3、前端框架：熟悉React或Vue等主流前端框架，有实际开发经验，了解ES6等现代JavaScript特性；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">4、其他技术：了解前后端分离、模块化、前端工程化构架（如gulp、webpack）、移动端开发（如React Native或Vue Native）等；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">5、数据库和后端语言：熟悉MySQL等关系型数据库管理系统，了解数据库设计和优化；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">6、有Java或Node.js等后端语言开发经验者优先。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;"><br></span></p><p class="MsoNormal"><span style="font-family:SimSun;">投递简历邮箱:hr@hyxino.com</span></p><p class="MsoNormal"><span style="font-family:SimSun;">【审核人：程凯】<br></span></p><p class="MsoNormal"><span style="font-family:SimSun;">&nbsp;</span></p>
+									</div>
+								</div>
+							</div>
+							<div class="post post-list">
+								<div class="row">
+									<div class="col-md-9">
+										<h3 class="tit tog"><a onclick="setLink('JG1273531','3149DB36FCC47003E065000000000001','上海海曦技术有限公司');"  target="_blank">算法工程师</a></h3>
+										<div class="info">
+											<span>面议</span>
+											<span>上海市浦东新区</span>
+											<span>实习</span>
+											<span>硕士</span>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="tool">
+											<div class="collect-sec">
+												<div class="collect cancollect" onclick="checkGwsc('3149DB36FCC47003E065000000000001')">收藏</div>
+												<button type="button" class="deliver candeliver" onclick="checkGwsq('3149DB36FCC47003E065000000000001','2025-06-30')">投递简历</button>
+											</div>
+											<p class="time"></p>
+										</div>
+									</div>
+								</div>
+								<div class="clear"></div>
+								<div class="com-hid">
+									<div class="post-des">
+										<h3 class="tit">职位描述</h3>
+										<p class="MsoNormal"><span style="font-family:SimSun;">岗位职责：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">1、根据业务场景和需求，设计和开发构建底层NLP算法平台；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">2、根据业务场景和需求，负责知识图谱和知识库体系的构建，应用于解决实际的业务问题；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">3、负责自研多模态大模型调研、训练、微调与Prompt Engineering工作；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">4、负责大模型压缩、量化、数据优化，提升大模型训练与推理性能；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">5、对接产业数字化系统和业务系统，工程化落地；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">6、探索与跟进AGI前沿技术，增强组织创新活力。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">&nbsp;</span></p><p class="MsoNormal"><span style="font-family:SimSun;">任职要求：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">1、研究生学历，计算机、电子信息工程、软件工程、通信工程等相关专业；</span><o:p></o:p></p><p class="MsoNormal"><font face="宋体"><span style="font-family:SimSun;">精通至少一种深度学习框架，如</span></font><font face="宋体"><span style="font-family:SimSun;">TensorFlow、PyTorch、MXNet等；</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">2、熟悉图像处理和计算机视觉相关算法，如分类、检测、跟踪、分割、识别等；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">3、了解并能够使用部署框架，如TensorRT、MNN等？</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">4、具备数据处理与分析能力，包括数据清洗、特征工程、数据可视化等；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">5、熟悉大数据相关技术，如Hadoop、Spark等；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">6、具备AI绘图、AI数字人、内容理解、实体识别、知识图谱、内容推荐等工作经验的优先。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;"><br></span></p><p class="MsoNormal"><font face="SimSun">投递简历邮箱:hr@hyxino.com</font></p>
+									</div>
+								</div>
+							</div>
+							<div class="post post-list">
+								<div class="row">
+									<div class="col-md-9">
+										<h3 class="tit tog"><a onclick="setLink('JG1273531','314B54EF2A491945E065000000000001','上海海曦技术有限公司');"  target="_blank">前端开发</a></h3>
+										<div class="info">
+											<span>面议</span>
+											<span>上海市浦东新区</span>
+											<span>全职</span>
+											<span>硕士</span>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="tool">
+											<div class="collect-sec">
+												<div class="collect cancollect" onclick="checkGwsc('314B54EF2A491945E065000000000001')">收藏</div>
+												<button type="button" class="deliver candeliver" onclick="checkGwsq('314B54EF2A491945E065000000000001','2025-06-30')">投递简历</button>
+											</div>
+											<p class="time"></p>
+										</div>
+									</div>
+								</div>
+								<div class="clear"></div>
+								<div class="com-hid">
+									<div class="post-des">
+										<h3 class="tit">职位描述</h3>
+										<p class="MsoNormal"><span style="font-family:SimSun;">岗位职责：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">1.参与和负责项目的前端app或者web的设计开发和实施;</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">2.与产品经理、设计师、后端工程师紧密协作，共同进行产品开发;</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">3.参与项目需求分析拆解，完成高质量的编码和单元测试;</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">4.负责前端技术选型前端架构设计和构建;</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">5.Web前沿技术研究和新技术调研</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">6.执行并确保项目工作遵守内部流程与规范，提高研发效率的效果;</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">7.同团队一起，面向最新的前端技术和趋势，进行技术研究和分享。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">&nbsp;</span></p><p class="MsoNormal"><font face="宋体"><span style="font-family:SimSun;">任职要求</span></font><font face="宋体"><span style="font-family:SimSun;">:</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">1.研究生学历，计算机、电子信息工程、软件工程、通信工程等相关专业；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">2、基础技术：应聘者需熟练掌握HTML5、CSS3、JavaScript等基础技术，熟悉W3C标准及规范，具备良好的代码编写习惯；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">3、前端框架：熟悉React或Vue等主流前端框架，有实际开发经验，了解ES6等现代JavaScript特性；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">4、其他技术：了解前后端分离、模块化、前端工程化构架（如gulp、webpack）、移动端开发（如React Native或Vue Native）等；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">5、数据库和后端语言：熟悉MySQL等关系型数据库管理系统，了解数据库设计和优化；</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">6、有Java或Node.js等后端语言开发经验者优先。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">&nbsp;</span></p><p class="MsoNormal"><span style="font-family:SimSun;">投递简历邮箱:hr@hyxino.com</span></p><p class="MsoNormal"><span style="font-family:SimSun;">审核人：程凯</span></p>
+									</div>
+								</div>
+							</div>
+							<div class="post post-list">
+								<div class="row">
+									<div class="col-md-9">
+										<h3 class="tit tog"><a onclick="setLink('JG1273531','314CC5B8A61C4600E065000000000001','上海海曦技术有限公司');"  target="_blank">大模型算法工程师</a></h3>
+										<div class="info">
+											<span>面议</span>
+											<span>上海市浦东新区</span>
+											<span>全职</span>
+											<span>硕士</span>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="tool">
+											<div class="collect-sec">
+												<div class="collect cancollect" onclick="checkGwsc('314CC5B8A61C4600E065000000000001')">收藏</div>
+												<button type="button" class="deliver candeliver" onclick="checkGwsq('314CC5B8A61C4600E065000000000001','2025-06-30')">投递简历</button>
+											</div>
+											<p class="time"></p>
+										</div>
+									</div>
+								</div>
+								<div class="clear"></div>
+								<div class="com-hid">
+									<div class="post-des">
+										<h3 class="tit">职位描述</h3>
+										<p class="MsoNormal"><span style="font-family:SimSun;">岗位职责：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">1.	大模型研发与优化：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	</span><font face="宋体"><span style="font-family:SimSun;">负责百亿</span></font><font face="宋体"><span style="font-family:SimSun;">/千亿级参数大语言模型（LLM）的算法设计、训练、调优及部署，涵盖预训练、指令微调、强化学习等全流程。</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	</span><font face="宋体"><span style="font-family:SimSun;">精通</span></font><font face="宋体"><span style="font-family:SimSun;">GPT-3、BERT、T5、DeepSeek等主流模型架构</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">2.	国产芯片适配与性能加速：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	</span><font face="宋体"><span style="font-family:SimSun;">基于国产芯片（华为昇腾、海思、平头哥等）及配套框架（如</span></font><font face="宋体"><span style="font-family:SimSun;">MindSpore、TensorFlow Lite for Huawei），实现大模型的高效移植与部署。</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	解决芯片兼容性问题，优化算子性能、内存占用及分布式通信效率。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">3.	行业场景落地：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	结合金融、政务、工业等垂直领域需求，设计领域专用大模型解决方案，支持国产芯片环境下的端到端落地。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">4.	技术攻坚与创新：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	探索大模型稀疏化、量化、蒸馏等轻量化技术，适配国产芯片算力约束。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	跟踪国内外大模型与芯片协同优化技术趋势，推动自主可控技术落地。</span><o:p></o:p></p><p class="MsoNormal"><br /></p><p class="MsoNormal"><span style="font-family:SimSun;">任职要求：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">1.	基础要求：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	硕士及以上学历，计算机科学、人工智能、数学等相关专业。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	3年以上NLP/大模型算法经验，熟悉Transformer、MoE等架构，精通PyTorch/TensorFlow框架。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">2.	国产芯片经验：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	</span><font face="宋体"><span style="font-family:SimSun;">熟悉至少一种国产芯片（昇腾</span></font><font face="宋体"><span style="font-family:SimSun;">910/920、寒武纪MLU、海光DCU等）的硬件特性及开发工具链。</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	</span><font face="宋体"><span style="font-family:SimSun;">有国产芯片上的大模型训练</span></font><font face="宋体"><span style="font-family:SimSun;">/推理实战经验，了解常见性能瓶颈与调优方法。</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">3.	技术能力：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	</span><font face="宋体"><span style="font-family:SimSun;">熟悉大模型分布式训练技术（数据并行、模型并行、流水线并行），掌握</span></font><font face="宋体"><span style="font-family:SimSun;">DeepSpeed、Megatron-LM等框架。</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	</span><font face="宋体"><span style="font-family:SimSun;">熟悉</span></font><font face="宋体"><span style="font-family:SimSun;">CUDA/OpenCL编程，具备算子优化经验者优先。</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">4.	加分项：</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	参与过国产芯片生态建设（如昇腾应用迁移、模型适配工具开发）。</span><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	</span><font face="宋体"><span style="font-family:SimSun;">熟悉国产芯片与国产服务器（如华为</span></font><font face="宋体"><span style="font-family:SimSun;">Atlas、曙光等）的协同优化。</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	</span><font face="宋体"><span style="font-family:SimSun;">发表过</span></font><font face="宋体"><span style="font-family:SimSun;">AI顶会论文或开源项目贡献者。</span></font><o:p></o:p></p><p class="MsoNormal"><span style="font-family:SimSun;">o	</span><font face="宋体"><span style="font-family:SimSun;">熟悉</span></font><font face="宋体"><span style="font-family:SimSun;">AIGC相关项目开源项目。</span></font><o:p></o:p></p><p class="MsoNormal"><font face="宋体"><span style="font-family:SimSun;"><br></span></font></p><p class="MsoNormal"><font face="宋体"><span style="font-family:SimSun;">投递简历邮箱:hr@hyxino.com</span></font></p><p class="MsoNormal"><font face="宋体"><span style="font-family:SimSun;">审核人：程凯</span></font></p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+					<div class="con-comk">
+						<div class="con-comtit"><h2>企业简介</h2></div>
+						<div class="con-con">
+							<p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:24.0000pt; mso-char-indent-count:2.0000;"><font face="宋体"></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:24.0000pt; mso-char-indent-count:2.0000;"><font face="宋体"><font face="宋体">上海海曦技术有限公司</font><font face="宋体">（下称</font><font face="宋体">“海曦技术”）</font><font face="宋体">是由上市公司苏州禾盛新型材料股份有限公司（股票代码：</font>002290.SZ<font face="宋体">）投资控股的子公司，公司总部位于上海浦东新区，在北京、西安、温州设有全资子公司或办事处。海曦技术专注于人工智能整体解决方案设计、研发、销售，以及</font><font face="Calibri">AIDC</font><font face="宋体">相关硬件的研发、销售与和运维等业务。</font></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:0.0000pt; mso-char-indent-count:0.0000;"><font face="宋体"><font face="宋体">一、公司基本信息</font></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:24.0000pt; mso-char-indent-count:2.0000;"><font face="宋体"><font face="宋体">成立时间与地点</font><font face="宋体">：</font>海曦技术<font face="宋体">成立于</font>2024<font face="宋体">年</font><font face="Calibri">3</font><font face="宋体">月</font><font face="Calibri">14</font><font face="宋体">日，总部位于上海市浦东新区张江</font>高科<font face="宋体">盛夏路</font>61<font face="宋体">弄张润大厦</font><font face="Calibri">1</font><font face="宋体">号楼</font><font face="Calibri">5</font><font face="宋体">层</font><font face="Calibri">501</font><font face="宋体">室</font><font face="宋体">。</font></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:24.0000pt; mso-char-indent-count:2.0000;"><font face="宋体"><font face="宋体">注册资本</font><font face="宋体">：</font><font face="Calibri">2000</font><font face="宋体">万元人民币。</font></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:0.0000pt; mso-char-indent-count:0.0000;"><font face="宋体"><font face="宋体">二、公司人员构成</font></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:24.0000pt; mso-char-indent-count:2.0000;"><font face="宋体"><font face="宋体">公司</font>员工<font face="宋体">中研究生及以上占比超过</font>40%<font face="宋体">，本科及以上占比超过</font><font face="Calibri">98%</font><font face="宋体">。员工来自微软、</font><font face="Calibri">AMD</font><font face="宋体">、</font>华为、展讯、<font face="宋体">寒武纪、中科曙光、上海仪电等知名企业，具有强大的技术背景和实力。</font></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:0.0000pt; mso-char-indent-count:0.0000;"><font face="宋体"><font face="宋体">三、公司业务与产品</font></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:24.0000pt; mso-char-indent-count:2.0000;"><font face="宋体"><font face="宋体">海曦技术以国产化人工智能芯片为基础，专注于人工智能领域的软硬件设计、研发、销售和运维业务。公司产品线丰富，涵盖了面向智算中心的高性能服务器、功能强大的人工智能一体机，以及具备先进技术的大模型数据中台等一系列产品</font>,<font face="宋体">产品主要面向政府、医疗、教育、交通、工业、电力等行业。在技术研发与业务拓展的过程中，海曦技术积极开展与国内众多知名大模型公司如商汤、无问芯穹等的合作；在硬件上， 海曦技术和兆芯集成电路、中科曙光、熠知电子、浪潮信息等多家硬件提供商</font>有着<font face="宋体">深度合作；在产学研合作方面，与清华大学、南京师范大学和上海工程技术大学等高校建立了良好的合作关系</font><font face="宋体">。</font></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:0.0000pt; mso-char-indent-count:0.0000;"><font face="宋体">四、公司成果</font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:24.0000pt; mso-char-indent-count:2.0000;"><font face="宋体"><font face="宋体">公司在知识产权方面取得了显著成果，拥有多项有效专利、商标和著作权</font>，<font face="宋体">公司</font>于2024<font face="宋体">年</font><font face="Calibri">12</font><font face="宋体">月通过了</font><font face="Calibri">ISO9001</font><font face="宋体">认证。公司</font>自<font face="宋体">开业以来，推出</font>了5<font face="宋体">款大模型一体机，</font><font face="Calibri">2</font><font face="宋体">款自研硬件，并成功中标多个央企和政府项目。 </font></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:0.0000pt; mso-char-indent-count:0.0000;"><font face="宋体">五、公司使命与愿景</font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:0.0000pt; mso-char-indent-count:0.0000;"><font face="宋体"><font face="宋体" style="font-family: 宋体; text-indent: 32px; text-wrap-mode: wrap;">使命</font><font face="宋体" style="font-family: 宋体; text-indent: 32px; text-wrap-mode: wrap;">：为千行百业</font><span style="font-family: 宋体; text-indent: 32px; text-wrap-mode: wrap;">提供</span><font face="宋体" style="font-family: 宋体; text-indent: 32px; text-wrap-mode: wrap;">好用、易用的</font><span style="font-family: 宋体; text-indent: 32px; text-wrap-mode: wrap;">人工智能解决方案。</span></font></p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:0.0000pt; mso-char-indent-count:0.0000;"><font face="宋体" style="font-family: 宋体;">愿景</font><font face="宋体" style="font-family: 宋体;">：成为</font><span style="font-family: 宋体;">国内领先的人工智能整体解决方案提供商。</span></p><p><br /></p><p>&nbsp; &nbsp; &nbsp; 投递简历邮箱：hr@hyxino.com</p><p class="15" style="margin-left:17.5500pt;mso-para-margin-left:1.6700gd;text-indent:24.0000pt; mso-char-indent-count:2.0000;"><font face="Calibri"></font><font face="宋体"></font><font face="Calibri"></font><font face="宋体"></font></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="xfooter">
+		<div class="xfooter-height"></div>
+		<div class="xfooter-content">
+			<div class="down">
+				<div class="container">
+					未经同意 任何单位和个人不得擅自引用与转载本网站任何信息<br>
+					<a href="http://www.zfsoft.com" target="_blank">技术支持:正方软件股份有限公司</a>&nbsp;&nbsp;&nbsp;Ver V5.10.93<br>
+				</div>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+	$(function(){
+		$('.xfooter > .xfooter-height').height($('.xfooter > .xfooter-content').height());
+	})
+</script></div>
+
+
+	   <!-- page content end -->  
+	   <!-- 	<div class="xfooter">
+		<div class="xfooter-height"></div>
+		<div class="xfooter-content">
+			<div class="down">
+				<div class="container">
+					未经同意 任何单位和个人不得擅自引用与转载本网站任何信息<br>
+					<a href="http://www.zfsoft.com" target="_blank">技术支持:正方软件股份有限公司</a>&nbsp;&nbsp;&nbsp;Ver V5.10.93<br>
+				</div>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+	$(function(){
+		$('.xfooter > .xfooter-height').height($('.xfooter > .xfooter-content').height());
+	})
+</script> -->
+	   </div>
+	</div>
+	<div id="progressbarweb-box">
+		<div class="progressbar">
+			<div class="load-bar">
+				<div class="load-bar-inner" data-loading="0"> <span id="counter"></span> </div>
+			</div>
+			<p id="text-msg">请稍候... </p>
+		</div>
+	</div>
+</body>  
+<script type="text/javascript">
+jQuery(function($) {
+	let h1 = $('#navbar_container').outerHeight(true) ? $('#navbar_container').outerHeight(true) : 0
+	let h2 = $('#footerID').outerHeight(true) ? $('#footerID').outerHeight(true) : 0
+	var pageHeight = $(window).height() - h1 - h2;
+	$('.bodyContainer').css("min-height",pageHeight);
+	toastr.options = {
+		"closeButton": false,
+		"debug": false,
+		"positionClass": "toast-top-center",
+		"showDuration": "300",
+		"hideDuration": "1000",
+		"timeOut": "5000",
+		"extendedTimeOut": "1000",
+		"showEasing": "swing",
+		"hideEasing": "linear",
+		"showMethod": "fadeIn",
+		"hideMethod": "fadeOut"
+	}
+
+	//调整学生单位端日期鼠标移动到日期上，最外层框消失
+	$(document).off('click', '.cond-bar-selected .tag-list-cond a').on('click', '.cond-bar-selected .tag-list-cond a', function () {
+		var $this = $(this);
+		var condTimer;
+		$clps = $($(this).data('href'))
+		$clps.unbind('hover');
+		$clps.hover(function (e) {//鼠标移动进入clps
+			clearTimeout(condTimer);
+		},function (e) {//鼠标移动离开clps的区域范围
+			//clps的区域范围
+			var $new_clps = $($this.data('href'));
+
+			var offset = $new_clps.offset();
+
+			var width = $new_clps.width();
+			var height = $new_clps.height();
+
+			var left = offset.left;
+			var top = offset.top;
+
+			var minX = left;
+			var maxX = left + width;
+			var minY = top;
+			var maxY = top + height;
+
+			var x = e.pageX;
+			var y = e.pageY;
+			if(minX <= x && x <= maxX && minY <= y && y <= maxY){
+				//在范围内，忽略
+			}else{
+				condTimer = setTimeout(function () {
+					$this.parents('.tag-list-cond').find('a[data-href="' + $this.data('href') + '"]').parent('li').removeClass('in');
+					$clps.slideUp(150);
+				},150);
+			}
+		});
+	})
+});
+function showwrapperbox(){
+	$('#progressbarweb-box').show();
+}
+function hidewrapperbox(){
+	$('#progressbarweb-box').hide()
+}
+function wrapperbox(bl,msg){
+	$('#progressbarweb-box .progressbar #counter').html(bl+'%');
+	$('#progressbarweb-box .progressbar #counter').css('left',(3.5*bl-25)+'px');
+	$('#progressbarweb-box .progressbar .load-bar-inner').css('width',bl+'%');
+	$('#progressbarweb-box .progressbar #text-msg').html(msg);
+}
+</script>
+</html>

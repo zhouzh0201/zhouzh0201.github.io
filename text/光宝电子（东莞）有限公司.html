@@ -1,0 +1,835 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>  
+   	<meta charset="UTF-8">
+<meta name=renderer  content=webkit>
+<meta http-equiv="pragma" CONTENT="no-cache">
+<meta http-equiv="Cache-Control" CONTENT="no-cache, must-revalidate">
+<meta http-equiv="expires" CONTENT="0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="Copyright" content="zfsoft" />	
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+<title>武汉大学学生就业指导与服务中心</title>
+<script type="text/javascript">
+	//全局变量
+	var _path = "/jyxt";
+	var _systemPath = "/jyxt";
+	var _stylePath = "/zftal-ui-v5-1.1.1";
+    //给hmd登录提示做判断
+    var modalFlag =false;
+</script>
+
+<!--jQuery核心框架库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/jquery-1.11.3-min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/jquery-migrate-1.4.1.min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<!--jQuery浏览器检测 -->
+<script type="text/javascript" src="/jyxt/js/browse/browse-judge.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<script type="text/javascript">
+	//\u6d4f\u89c8\u5668\u7248\u672c\u9a8c\u8bc1
+	/*var broswer = broswer();
+	if(broswer.msie==true||broswer.safari==true||broswer.mozilla==true||broswer.chrome==true){
+		if(broswer.msie==true&&broswer.version<9){
+		   window.location.href = _path+"/xtgl/init_cxBrowser.html";
+		}
+	}else{
+		 window.location.href = _path+"/xtgl/init_cxBrowser.html";
+	}*/
+</script><!--
+jquery.ui 需要在bootstrap之前加载，解决冲突问题
+http://blog.csdn.net/remote_roamer/article/details/14105999
+-->
+<script src="/zftal-ui-v5-1.1.1/assets/js/jquery-ui-custom.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" type="text/javascript" charset="utf-8"></script>
+<!--Bootstrap布局框架-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap/css/bootstrap.min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap/js/bootstrap.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--zftal-ui样式-->
+<!--jQuery常用工具扩展库：基础工具,资源加载工具,元素尺寸相关工具 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.utils.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery基础工具库：$.browser,$.cookie,$.actual等 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.plugins.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery自定义event事件库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.events.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--JavaScript对象扩展库：Array,Date,Number,String -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.extends.contact-2.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--国际化js库 -->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/i18n/jquery.i18n-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--业务框架前端脚本国际化库-->
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/jquery.zftal_zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<!--Bootbox弹窗插件-->
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/bootbox.concat-min.js?ver=002f3afba8a0d6a0088112033c65f70b" type="text/javascript" charset="utf-8"></script>
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/lang/zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootbox/css/bootbox-min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<!--jQuery单选框美化-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/iCheck/skins/all.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/iCheck/icheck.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery.chosen下拉框美化插件-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/chosen/css/chosen-min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<link rel="stylesheet" type="text/css" href="/jyxt/assets/plugins/select/bigselect.css?ver=002f3afba8a0d6a0088112033c65f70b"></link>
+<script type="text/javascript" src="/jyxt/assets/plugins/select/bigselect.js"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/utils/jquery.utils.pinyin.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/jquery.choosen.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/jquery.chosen-additional.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/chosen/lang/zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!-- Tagsinput 插件 -->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap-tagsinput/css/bootstrap-tagsinput.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/bootstrap-tagsinput/js/bootstrap-tagsinput.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script><!--IE浏览器html5、CSS3兼容插件-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/html5shiv.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/respond.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<![endif]-->
+<!--业务框架jQuery全局设置和通用函数库-->
+<script type="text/javascript" src="/jyxt/js/jquery.zftal.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<!--基于Nifty样式库的新版界面前端依赖-->
+<script src="/zftal-ui-v5-1.1.1/assets/plugins/nifty/js/nifty.js?ver=002f3afba8a0d6a0088112033c65f70b"></script>
+<link href="/zftal-ui-v5-1.1.1/assets/plugins/nifty/css/nifty.min.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<!--皮肤+字体-->
+<link href="/zftal-ui-v5-1.1.1/assets/css/theme/zftal-ui-nifty-icons.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/theme/theme-ocean.min.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/zftal-ui-base.css?ver=002f3afba8a0d6a0088112033c65f70b"  rel="stylesheet" type="text/css"/>
+<link href="/zftal-ui-v5-1.1.1/assets/css/zftal-ui-index.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+<link href="/jyxt/css/zftal-ui-app.css?ver=002f3afba8a0d6a0088112033c65f70b" rel="stylesheet" type="text/css"/>
+
+
+<!--laydate日期控件1111-->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/laydate/need/laydate.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/laydate/skins/zfcolor/laydate.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/laydate/laydate.min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+	<style type="text/css">
+	.bootbox.modal{overflow-y: hidden !important;text-align: justify;}
+	.tooltips.top.in {z-index: 1015 !important;}
+	</style>
+	<!--v5公用代码调用-->
+	<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/js/zftal/v5/zftal-ui-page.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<!--jQuery.validation校验插件 -->
+<link rel="stylesheet" type="text/css" href="/zftal-ui-v5-1.1.1/assets/plugins/validation/css/jquery.validate-min.css?ver=002f3afba8a0d6a0088112033c65f70b" />
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/js/jquery.validate-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/js/jquery.validate.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/jyxt/js/plugins/validation/jquery.validate.methods.contact-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript" src="/zftal-ui-v5-1.1.1/assets/plugins/validation/lang/zh_CN-min.js?ver=002f3afba8a0d6a0088112033c65f70b" charset="utf-8"></script>
+<script type="text/javascript">
+	jQuery(function($){
+		$('[data-toggle*="validation"]').trigger("validation");
+	});
+</script>	
+<link rel="stylesheet" href="/jyxt/assets/plugins/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/jyxt/assets/css/reset.css">
+<link rel="stylesheet" href="/jyxt/assets/css/zdstyle.css">
+<script>
+    function checkGwsc(zpxxbh){
+    	var yhlx = $("#yhlx").val();
+		if ("student" != yhlx && "stu" != yhlx){
+			$.alert("该功能仅向登录学生开放，您无权访问！");
+			return;
+		}
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSfyscsq.zf',{lx:"sc",zpxxbh:zpxxbh},function(data){
+			if(data=="1"){
+				$.alert("您已经收藏过该岗位！");
+				return;
+			}else{
+				 jQuery.post(_path+'/jyweb/xsgwsc/xsScOrSqjl.zf',{lx:"sc",zpxxbh:zpxxbh},function(responseData){
+					if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+						$.success(responseData["message"]);
+					}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+						$.error(responseData["message"]);
+					}else{
+						$.alert(responseData["message"]);
+					}
+				}, "json"); 
+			}
+		}, "json");
+	};
+
+   function xsbm(xjhbh){
+		var yhlx = $("#yhlx").val();
+		if ("student" != yhlx && "stu" != yhlx){
+			$.alert("该功能仅向登录学生开放，请先登录！");
+			return;
+		}else{
+			var xjhrq = $("#hdsj").val();
+			var xjhsjdmc = $("#xjhsjdmc").val();
+			var hdsj = xjhrq + " " + xjhsjdmc.substr(xjhsjdmc.indexOf("-")+1,xjhsjdmc.lastIndex);
+			var hdsj = new Date(hdsj.replaceAll("-","/"));
+			if(hdsj < new Date()){
+				$.alert("宣讲会时间已过期，无法再报名");
+			}else{
+				$.confirm('确认报名该宣讲会吗？', function (result) {
+					if(result){
+						jQuery.post(_path+'/jyweb/xsbm/xsbm.zf',{ywlx:"xjh",ywbh:xjhbh},function(responseData){
+							if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+								$.success(responseData["message"]);
+							}else{
+								$.alert(responseData["message"]);
+							}
+						}, "json");
+					}
+				});
+				return;
+			}
+
+		}
+	}
+
+	
+	//检测是否填写简历
+	function checkSftxjl(){
+		var isjl=false;
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSftxjl.zf',{},function(data){
+			if(data == "0"){
+				isjl=true;
+			}
+		},"json");
+		return isjl;
+	}
+	
+	//岗位申请
+	function checkGwsq(zpxxbh,tdjzrq){
+    	var yhlx = $("#yhlx").val();
+		if ("student" != yhlx && "stu" != yhlx){
+			$.alert("该功能仅向登录学生开放，您无权访问！");
+			return;
+		}
+		
+		jQuery.post(_path+'/jyweb/xsgwsc/checkSftxjl.zf',{},function(data){
+			var jlzt = data;
+			if(jlzt == "0"){
+				/*$.alert("您还未上传简历,不能投简历。请先到个人中心上传简历!");
+				return;*/
+				$.alert("您还未维护系统简历,不能投简历。请先到个人中心维护系统简历!");
+				return;
+			}else{
+				jQuery.post(_path+'/jyweb/xsgwsc/checkSfyscsq.zf',{lx:"sq",zpxxbh:zpxxbh},function(data){
+					if(data=="1"){
+						$.alert("您已经向该岗位投递过简历！");
+						return;
+					}else{
+						var now = new Date();
+						if( null!=tdjzrq && '' != tdjzrq ){
+							var arr1 = 	tdjzrq.split("-");
+							var oldtime = new Date(arr1[0],arr1[1],arr1[2]);
+							var newtime = new Date(now.getFullYear(),now.getMonth()+1,now.getDate());	
+							if(newtime.getTime()>oldtime.getTime()){
+								$.alert("当前日期已经超过投递截止日期，不能投简历！");
+								return ;
+							}else{
+								if(jlzt == "1"){
+									$.showDialog(_path+'/jyweb/xsgwsc/showJltdPage.zf', '个人简历', {
+										url:"",
+										width		: "700px",
+										modalName	: "modifyModal",
+										offAtOnce	: true,
+										data		: {"zpxxbh":zpxxbh},
+										buttons		: {
+											success : {
+												label : "投递",
+												className : "btn-primary",
+												callback : function() {
+													var len = $("input[name='jlmc']:checked").length;
+													if(len != 1){
+														$.alert("请选择一份简历投递！");
+														return false;
+													}
+													
+													var $this = this;
+													var opts = $this["options"]||{};
+													submitForm(opts["formName"]||"ajaxForm",function(responseData,statusText){
+														if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+															$.success(responseData["message"],function() {
+																if(opts.offAtOnce){
+																	$.closeModal(opts["modalName"]||"modifyModal");
+																}
+															});
+														}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+															$.error(responseData["message"]);
+														}else{
+															$.alert(responseData["message"]);
+														}
+													});
+													return false;
+											  	}
+											},
+											cancel : {
+													label : "关 闭",
+													className : "btn-default"
+											}
+										}
+									});
+								}else{
+									$.confirm('确定投递系统简历？',function(data){
+										jQuery.post(_path+'/jyweb/xsgwsc/xsScOrSqjl.zf',{lx:"sq",zpxxbh:zpxxbh},function(responseData){
+											if(responseData["status"] == "SUCCESS"||responseData["status"] == "success"){
+												$.success(responseData["message"]);
+											}else if(responseData["status"] == "ERROR"||responseData["status"] == "error"){
+												$.error(responseData["message"]);
+											}else{
+												$.alert(responseData["message"]);
+											}
+										}, "json");
+									})
+								}
+							}
+						}else{
+							$.alert("该岗位投递截止日期未明确！");
+							return;
+						}
+					}
+				}, "json");
+			}
+		}, "json");
+	};
+	
+	$(".tog").click(function(){
+		$(this).parents('.post').find(".com-hid").slideToggle();
+	});
+    </script>
+
+	<link type="text/css" rel="stylesheet" href="/jyxt/css/globalweb/wrapper.css"/>
+<script type="text/javascript" src="/jyxt/assets/plugins/toastr/toastr.js"></script>
+<link rel="stylesheet" href="/jyxt/assets/plugins/toastr/toastr.css" type="text/css"></head>  
+<body>  
+	<div style="width: 100%; padding: 0px; margin: 0px;overflow: hidden;" id="bodyContainer" class="bodyContainer">
+		<div class="container-fluid container-func" style="width:100%;padding: 0px; margin: 0px;">
+	   <!-- page content start -->
+	    
+<div class="xjyzdindex">
+	<input type="hidden" name="yhlx" id="yhlx" value=""/>
+	<input type="hidden" name="hdsj" id="hdsj" value="2025-04-24"/>
+	<input type="hidden" name="xjhsjdmc" id="xjhsjdmc" value="19:00-21:30"/>
+	<div class="xsection xcontent">
+		<div class="container">
+			<div class="row">
+				<div class="con-sec">
+					<div class="con-tit">光宝科技2025 LIGHT SEEKER寻光者硕士实习计划正式启动</div>
+					<div class="con-info">
+						<span>就业中心第一报告厅</span>
+						<span>2025-04-24&nbsp;&nbsp;19:00</span>
+						<span class="dif">发布时间：2025-04-12 06:10:42  点击数量：29</span>
+
+					</div>
+					<div class="con-comk">
+						<div class="con-comtit"><h2>单位信息</h2></div>
+						<div class="post-dwxx">
+							<h3 class="dwxx-tit">光宝电子（东莞）有限公司</h3>
+							<div class="dwxx-info">
+								<span>三资企业</span><span>信息传输、软件和信息技术服务业</span><span>500人以上</span><span>广东省广东省东莞市</span>
+							</div>
+						</div>
+					</div>
+					<div class="con-comk">
+						<div class="con-comtit"><h2>招聘公告(简章)</h2></div>
+						<div class="con-con">
+							<p class="MsoNormal" align="center" style="text-align:center"><b>光宝科技</b><b>2025
+LIGHT SEEKER</b><b>寻光者硕士实习计划正式启动</b><o:p></o:p></p>
+<p class="MsoNormal" align="center" style="text-align:center"><b>光宝科技</b><b>2025 LIGHT SEEKER</b><b>寻光者已来袭</b><o:p></o:p></p>
+<p class="MsoNormal" align="center" style="text-align:center"><b>您，会抓住这个机会，成为下一个寻光者吗？</b><o:p></o:p></p>
+<p class="MsoNormal" align="center" style="text-align:center"><b>高额实习薪资</b><b>|</b><b>毕业即就业</b><b>|</b><b>全英文交流等您来战</b><o:p></o:p></p>
+<p class="MsoNormal" align="center" style="text-align:center"><b>Lite-On Technology 2025 LIGHT SEEKER
+Master Internship Program officially launched</b><o:p></o:p></p>
+<p class="MsoNormal" align="center" style="text-align:center"><b>Lite-On Technology 2025 LIGHT SEEKER
+is here</b><o:p></o:p></p>
+<p class="MsoNormal" align="center" style="text-align:center"><b>Will you seize this opportunity to
+become the next seeker of light?</b><o:p></o:p></p>
+<p class="MsoNormal" align="center" style="text-align:center"><b>High internship salary | Employment
+upon graduation | All-English communication waiting for you to challenge</b><o:p></o:p></p>
+<p class="MsoNormal"><b>一：公司简介</b><o:p></o:p></p>
+<p class="MsoNormal">光宝集团（Liteon-on Group）是一家跨国性的大型企业，成立于1975年9月，为台湾第一家上市电子公司，目前在大陆有40多家工厂，员工6万多人。公司成立以来，除了致力于光电零组件，更持续拓展电脑与数位家庭、消费性电子通讯产品、关键零组件与次系统、并逐步跨足车用电子等4C领域，成为国际大厂ODM/OEM合作供应商首选。光宝电子（东莞）有限公司是其中一家以生产交换式电源供应器为主的公司，产品广泛用于电脑、服务器、游戏机、手机以及大型通讯设备交换机等领域。<o:p></o:p></p>
+<p class="MsoNormal"><b>更多资讯点击链接进行了解：</b><b><a href="https://www.liteon.com/zh-tw">光寶科技&nbsp;| LITEON</a></b><o:p></o:p></p>
+<p class="MsoNormal"><b>I:
+Company Introduction</b><o:p></o:p></p>
+<p class="MsoNormal">Liteon-on
+Group is a large multinational corporation founded in September 1975. It was
+the first publicly listed electronics company in Taiwan and currently has over
+40 factories in Mainland China with more than 60,000 employees. Since its
+establishment, the company has been committed to optoelectronic components
+while continuously expanding into computer and digital home products, consumer
+electronics communication products, key components and subsystems, and
+gradually venturing into automotive electronics, becoming the preferred choice
+for international major manufacturers as an ODM/OEM cooperative supplier.
+Liteon Electronics (Dongguan) Co., Ltd. is one of the companies primarily
+engaged in the production of switching power supplies, with products widely
+used in computers, servers, gaming consoles, mobile phones, and large
+communication equipment switches.<o:p></o:p></p>
+<p class="MsoNormal"><b>For
+more information, click the link to learn more:</b><a href="https://www.liteon.com/zh-tw"><b><span lang="EN-US">光寶科技</span>&nbsp;|
+LITEON</b></a><o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><b>二：招募对象</b><o:p></o:p></p>
+<p class="MsoNormal"><b>2026</b><b>年</b><b>&amp;2027</b><b>年毕业硕士在读生（陆籍及外籍均可）</b><o:p></o:p></p>
+<p class="MsoNormal"><b>Section
+2: Recruitment Targets</b><o:p></o:p></p>
+<p class="MsoNormal"><b>2026
+and 2027 graduating master's students (both mainland and foreign nationality)</b><o:p></o:p></p>
+<p class="MsoNormal"><b>三：招募岗位</b><o:p></o:p></p>
+<p class="MsoNormal"><b>LIGHT SEEKER</b><b>专案将在</b><b>7-8</b><b>月进行，期间将由专案主管</b><b>+</b><b>实习生</b><b>+</b><b>学长姐依如下</b><b>10</b><b>个专案结合</b><b>AI</b><b>，实现智能化管理。</b><o:p></o:p></p>
+<p class="MsoNormal"><b>3:
+Recruitment Position</b><o:p></o:p></p>
+<p class="MsoNormal"><b>The
+LIGHT SEEKER project will take place from July to August, during which the
+project supervisor, interns, and senior students will integrate AI into the
+following 10 projects to achieve intelligent management.</b><o:p></o:p></p>
+<p class="MsoNormal"><b>专案一主题：生产力</b><b>AI</b><b>智慧管理</b><br>
+专案介绍：透过数字广告牌管理系统，AI实时监控生产数据，运用AI智能模型数据库分析数据，进行智能生产排程管理，提升生产效率。<br>
+1.&nbsp;数字广告牌管理系统结合AI人工智能进行数据分析，取代人工数据收集、分析与判断，转换到由AI智能实时收集数据&amp;问题分析，提供异常分析判断资料，提升人员效率。<br>
+2.&nbsp;应用生产力数据数据库数据，提供给AI智能生产排程模型，自动创建生产工单规划，实现自动化最佳排程，节省人力与提升生产效率。<br>
+3.&nbsp;整合数字广告牌管理系统，增加生产力仪表板与可视化工具，实时提供生产信息&amp;生产异常分析数据，提供管理决策者快速有效信息。<br>
+需求岗位：IE工程师、项目管理<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,工业工程/自动化/机械类专业优先考虑；<o:p></o:p></p>
+<p class="MsoNormal"><b>Project
+1 Theme: Productivity AI Intelligent Management<br>
+Project Introduction: Through the digital billboard management system, AI
+monitors production data in real-time, using the AI intelligent model database
+to analyze data for intelligent production scheduling management, enhancing
+production efficiency.<br>
+1. The digital billboard management system integrates AI intelligence for data
+analysis, replacing manual data collection, analysis, and judgment,
+transitioning to AI intelligent real-time data collection &amp; problem
+analysis, providing anomaly analysis judgment data, and improving personnel
+efficiency.<br>
+2. Utilizing the productivity data database, providing data to the AI
+intelligent production scheduling model, automatically creates production order
+planning for optimal automation scheduling, saving manpower and enhancing
+production efficiency.<br>
+3. Integrate the digital billboard management system, adding productivity
+dashboards and visualization tools to provide real-time production information
+&amp; production anomaly analysis data, offering fast and effective information
+for management decision-making.<br>
+Job Requirements: IE Engineer, Project Management<br>
+Preferred Majors: Master's students (graduating in '26/'27), English CET-6,
+preferably in Industrial Engineering/Automation/Mechanical fields;<br>
+</b><br>
+<br>
+<b>专案二主题：智能制造流程优化</b><br>
+专案内容：通过数字孪生技术仿真生产流程，减少物料搬运路径和等待时间，提升设备利用率<br>
+1.&nbsp;价值流分析---&nbsp;透过VSM图，对生产流程中的等待/搬运/加工时间的AI优化潜力点;<br>
+2.&nbsp;物料搬运优化：采用AI算法，做数字孪生仿真验证，缩短路径。<br>
+3.&nbsp;能力提升：在相关部门分层培养，并开展培训课程，建立跨部门数字孪生运行团队<br>
+需求岗位：IE工程师、设备工程师，品质工程师<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,工业工程/自动化/机械/电子类专业优先考虑；<o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><b>Project 2 Theme: Intelligent
+Manufacturing Process Optimization<br>
+Project Content: Simulate production processes through digital twin technology
+to reduce material handling paths and waiting times, enhancing equipment
+utilization.<br>
+1. Value Stream Analysis--- Through VSM diagram, identify AI optimization
+potential points in waiting/handling/processing times in the production
+process;<br>
+2. Material Handling Optimization: Utilize AI algorithms for digital twin
+simulation verification to shorten paths.<br>
+3. Capability Enhancement: Develop layered training in relevant departments and
+conduct training courses to establish cross-department digital twin operation
+teams.<br>
+Job Requirements: IE Engineer, Equipment Engineer, Quality Engineer<br>
+Preferred Majors: Master's students (graduating in '26/'27), English CET-6,
+preferably in Industrial Engineering/Automation/Mechanical/Electronic fields;<br>
+</b><br>
+<b>专案三主题：智能化品质搜索暨模型应用系统</b><br>
+专案内容：1.搜索数据库平台建立&nbsp;2 .智能搜索&nbsp;3.工程模型展开NPI/PFMEA执行<br>
+需求岗位：品质工程师、供应商管理<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,自动化/智能制造/电子类专业优先考虑；<o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><b>Project 3 Theme: Intelligent Quality
+Search and Model Application System<br>
+Project Content: 1. Build a search database platform 2. Intelligent search 3.
+Engineering model deployment NPI/PFMEA execution<br>
+Job Requirements: Quality Engineer, Supplier Management<br>
+Preferred Majors: Master's students (graduating in '26/'27), English CET-6,
+preferably in Automation/Intelligent Manufacturing/Electronic fields;</b><br>
+<br>
+<b>专案四主题：智能化产线</b><b>FAI</b><b>执行系统</b><br>
+专案内容：<br>
+1.和生产部门、工程部门，品质部门深入沟通，确定系统要达到的功能及效率<br>
+2.构建系统的整体架构，含盖硬件设备及软件设备，并与现有的MES系统集成<br>
+3.硬件设备选型与安装以及各项数据的采集<br>
+4.编写自动化+AI检验证和序，设定检验标准和规则，让系统能自主对比首件产品数据与标准数据<br>
+5.创建数据库来存储首件检验数据，开发数据查询，分析，报表生成等功能<br>
+6.将FAI执行系统与现有的MES系统集成实际数据共享。<br>
+需求岗位：自动化设备工程师<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,自动化/智能制造/机械类专业优先考虑；<o:p></o:p></p>
+<p class="MsoNormal"><b>Project
+4 Theme: Intelligent Production Line FAI Execution System<br>
+Project Content:<br>
+1. Communicate deeply with production, engineering, and quality departments to
+determine the system's intended functions and efficiency.<br>
+2. Construct the overall system architecture, covering hardware and software
+equipment, and integrate with the existing MES system.<br>
+3. Select and install hardware equipment and collect various data.<br>
+4. Write automation + AI verification programs, set inspection standards and
+rules, allowing the system to independently compare initial product data with
+standard data.<br>
+5. Create a database to store initial inspection data and develop functions for
+data query, analysis, and report generation.<br>
+6. Integrate the FAI execution system with the existing MES system for
+real-time data sharing.<br>
+Job Requirements: Automation Equipment Engineer<br>
+Preferred Majors: Master's students (graduating in '26/'27), English CET-6,
+preferably in Automation/Intelligent Manufacturing/Mechanical fields;<br>
+<br>
+</b><b>专案五主题：机动线单位产能提升</b><br>
+专案内容：<br>
+1.通过物流设计，工位排布，防呆治具的使用提升线平衡率<br>
+2.通过材料，制程品质改善，减少报废与维修提升良率及单位产出<br>
+3.通过改善设备良率及稼动率提升单位产出<br>
+4.通过测试程序的优化，减少测试时间<br>
+需求岗位：设备工程师&nbsp;，硬件测试工程师，品质工程师<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,自动化/智能制造/电子类专业优先考虑；<br>
+<b>Project 5 Theme: Mobile Line Unit Capacity Enhancement<br>
+Project Content:<br>
+1. Improve line balance rate through logistics design, workstation arrangement,
+and dummy proofing fixtures.<br>
+2. Improve material, process quality to reduce scrap and repair, enhancing
+yield rate and unit output.<br>
+3. Improve device yield and operational rate to increase unit output.<br>
+4. Optimize testing programs to reduce testing time.<br>
+Job Requirements: Equipment Engineer, Hardware Test Engineer, Quality Engineer<br>
+Preferred Majors: Master's students (graduating in '26/'27), English CET-6,
+preferably in Automation/Intelligent Manufacturing/Electronic fields;</b><o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><br>
+<b>专案六主题：</b><b>SMT AOI&nbsp;</b><b>人工智能缺陷识别攻坚计划</b><br>
+专案内容：<br>
+1.&nbsp;数据收集与整理：广泛采集生产线上不同批次、不同型号产品的AOI检测图像数据，涵盖正常产品与各类缺陷产品图像。对收集到的数据进行标注，明确缺陷类型、位置、尺寸等信息，构建高质量的缺陷图像数据集，为AI模型训练提供数据基础。<br>
+2. AI算法选型与优化：评估多种适合图像识别的AI算法，如卷积神经网络（CNN）及其变体，结合SMT缺陷识别特点，选择最适配的算法框架。针对SMT检测场景，对算法进行针对性优化，调整网络结构、参数设置等，提升算法对SMT缺陷的识别性能。<br>
+3.&nbsp;模型训练与验证：使用整理好的数据集对选定的AI模型进行训练，通过大量样本学习，让模型掌握不同缺陷的特征。训练过程中采用交叉验证、数据增强等技术，防止模型过拟合，提高模型的泛化能力。利用独立的测试数据集对训练好的模型进行验证，评估模型的准确率，误报率等关键指标，根据验证结果进一步优化模型。<br>
+4.&nbsp;系统集成与测试：将优化后的AI模型集成到现有的AOI设备中，对集成后的系统进行全面测试，确保AI模型与AOI硬件设备稳定协同工作。在生产线上进行小批量试生产测试，收集实际生产中的检测数据，验证系统在真实生产环境下的性能表现，及时解决出现的问题。<br>
+需求岗位：AI算法工程师<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,自动化/计算机科学与技术/人工智能/软件工程专业优先考虑；<o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><b>Project 6 Theme: SMT AOI Artificial
+Intelligence Defect Recognition Tackling Plan<br>
+Project Content:<br>
+1. Data Collection and Organization: Collect extensive AOI detection image data
+of different batches and models on the production line, covering images of
+normal and various defective products. Annotate collected data to specify
+defect type, location, and size information, constructing a high-quality defect
+image dataset to provide data foundation for AI model training.<br>
+2. AI Algorithm Selection and Optimization: Evaluate various AI algorithms
+suitable for image recognition, such as convolutional neural networks (CNN) and
+their variants, combined with SMT defect recognition characteristics to choose
+the most suitable algorithm framework. Target the SMT detection scenario to
+optimize the algorithm, adjust network structure, parameters, etc., to boost
+the algorithm's SMT defect recognition performance.<br>
+3. Model Training and Validation: Train the selected AI model using the
+organized dataset. Use numerous samples to teach the model to grasp various
+defect characteristics. Apply techniques like cross-validation and data
+augmentation during training to prevent model overfitting and improve the
+model's generalization ability. Validate the trained model using an independent
+test dataset and assess key indicators like accuracy and false alarm rate.
+Further optimize the model based on validation results.<br>
+4. System Integration and Testing: Integrate the optimized AI model into
+existing AOI equipment. Conduct comprehensive testing of the integrated system
+to ensure stable collaboration between the AI model and AOI hardware. Conduct
+small-batch pilot production tests on the production line, collecting detection
+data from real production environments to evaluate system performance and
+ly resolve issues.<br>
+Job Requirements: AI Algorithm Engineer<br>
+Preferred Majors: Master's students (graduating in '26/'27), English CET-6,
+preferably in Automation/Computer Science and Technology/Artificial
+Intelligence/Software Engineering fields;<br>
+<br>
+</b><b>专案七主题：智能月度產能規劃</b><b>-</b><b>促進產銷平衡</b><br>
+专案内容：<br>
+1.数据源：SAP&amp;MES上可以获取的各厂区库存及需求数据；<br>
+2.流程优化：结合库存数量、需求时间及调拨转售时间，通过明确、合理的逻辑推算出各个厂区的转售建议及明细；<br>
+3.工作简化：通过程序设置或者外包文件导入数据、输出结果，计算机自动计算最优选择建议作业人员，简化工作内容；<br>
+4.管理完善：结合现有报表和转售流程，完善、优化共享料的调拨转售管理；<br>
+5.拓展延申：充分利用现有资源，尝试开发、实现更多功能。<br>
+需求岗位：采购工程师，生管管理师&nbsp;<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,工商管理/供应链管理等专业优先考虑；<o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><b>Project 7 Theme: Intelligent Monthly
+Capacity Planning - Promoting Production and Sales Balance<br>
+Project Content:<br>
+1. Data Source: Obtain inventory and demand data of each plant area from SAP
+&amp; MES;<br>
+2. Process Optimization: Combine inventory quantity, demand time, and transfer
+resale time to calculate resale suggestions and details for each plant area
+through clear and logical reasoning;<br>
+3. Work Simplification: Use program settings or import data from external files
+to output results, allowing the computer to automatically calculate optimal
+choices to simplify work content;<br>
+4. Management Improvement: Combine with existing reports and resale processes
+to improve and optimize the management of shared material allocation and
+resale;<br>
+5. Extended Development: Fully leverage existing resources to explore and
+achieve more functions.<br>
+Job Requirements: Procurement Engineer , Production Management Specialist <br>
+Preferred Majors: Master's students (graduating in '26/'27), English CET-6,
+preferably in Business Administration/Supply Chain Management fields;<br>
+<br>
+</b><b>专案八主题：</b><b>1.</b><b>透过自动化导入减少生产人力</b><b>,</b><b>提升生产效率</b><b>2.</b><b>透过测试设备及程序标准化</b><b>,</b><b>提升测试效率和生产质量</b><br>
+专案内容：<br>
+1.&nbsp;现状调研与分析<br>
+调研现有生产流程，识别效率瓶颈和人工操作环节。<br>
+分析生产数据，评估生产效率、人工成本、产品品质等现状。<br>
+收集行业自动化解决方案案例，进行可行性分析。<br>
+2.&nbsp;自动化方案设计与评估**<br>
+根据调研结果，设计自动化导入方案，包括：<br>
+自动化设备选型：根据生产需求选择合适的自动化设备，如机械手臂、自动检测设备、AGV小车等。<br>
+自动化流程设计：优化生产流程，将人工操作环节替换为自动化设备操作。<br>
+信息系统集成：将自动化设备与现有信息系统集成，实现数据互联互通。<br>
+评估方案可行性、成本效益和风险，选择最优方案。<br>
+3.&nbsp;自动化设备采购与安装<br>
+采购选定的自动化设备，并进行安装调试。<br>
+对现有生产线进行改造，以适应自动化设备运行。<br>
+4.&nbsp;人员培训与系统试运行<br>
+对操作人员进行自动化设备操作和维护培训。<br>
+进行系统试运行，测试自动化设备的运行稳定性和生产效率。<br>
+5.&nbsp;正式运行与持续优化<br>
+正式运行自动化生产线，并持续监控运行数据。<br>
+根据运行数据，持续优化自动化流程和设备参数，以进一步提升生产效率。<br>
+需求岗位：自动化工程师，测试工程师<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,电子、电气、自动化、通信等相关专业优先考虑；<o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><b>Project 8 Theme: 1. Reduce production
+labor through automation introduction, improving production efficiency 2.
+Enhance test efficiency and production quality through standardized testing
+equipment and procedures<br>
+Project Content:<br>
+1. Current Status Investigation and Analysis<br>
+Investigate current production processes to identify efficiency bottlenecks and
+manual operation sections.<br>
+Analyze production data to assess current production efficiency, labor costs,
+and product quality.<br>
+Collect industry automation solution cases for feasibility analysis.<br>
+2. Automation Solution Design and Evaluation**<br>
+Design automation introduction solutions based on investigation results,
+including:<br>
+Automation Equipment Selection: Choose suitable automation equipment based on
+production requirements, such as robotic arms, automatic testing equipment, AGV
+trolleys, etc.<br>
+Automation Process Design: Optimize production processes to replace manual
+operation sections with automation equipment operations.<br>
+Information System Integration: Integrate automation equipment with existing
+information systems to enable data interconnectivity.<br>
+Evaluate the feasibility, cost-effectiveness, and risks of the solutions to
+choose the optimal one.<br>
+3. Automation Equipment Procurement and Installation<br>
+Procure selected automation equipment and conduct installation and debugging.<br>
+Modify existing production lines to accommodate automation equipment operation.<br>
+4. Personnel Training and System Trial Run<br>
+Provide training for operating automation equipment and maintenance to
+operation personnel.<br>
+Conduct system trial run to test stability and production efficiency of
+automation equipment operation.<br>
+5. Official Operation and Continuous Optimization<br>
+Officially operate the automated production line and continuously monitor
+operational data.<br>
+Continuously optimize automation processes and equipment parameters based on
+operational data to further enhance production efficiency.<br>
+Job Requirements: Automation Engineer, Test Engineer<br>
+Preferred Majors: Master's students (graduating in '26/'27), English CET-6,
+preferably in Electronics/Electrical/Automation/Communication fields;<br>
+<br>
+</b><b>专案九主题：环境设备中央智能管理系统</b><br>
+专案内容：<br>
+部署中央控制管理系统,&nbsp;实时自动收集设备数据,&nbsp;自动化测试排程管理,&nbsp;智能数据管理,&nbsp;智能维护&amp;保养系统<br>
+1.&nbsp;结合AI人工智能优化工作流,&nbsp;测试数据实现由人工收集处理转换到实时自动化收集及自动分析处理,&nbsp;提升人员/设备效率<br>
+2.&nbsp;结合设备技术能力数据库,&nbsp;测试计划等数据,&nbsp;创建自动化排程模型，实现自动化测试排程，节省人力.<br>
+3.&nbsp;设备维护保养AI&nbsp;模型开发,&nbsp;基于设备校验数据,&nbsp;设备运行参数，环境数据，技术规格参数，及设备维修日志等,&nbsp;创建可预测模型.&nbsp;以发现维护/保养趋势,&nbsp;及发生不良风险预测，及时提醒保养和维护，降低设备故障率<br>
+4.&nbsp;以使用者为中心建立可视化驾驶舱(仪表板,可视化工具...),为管理者决策提供有效信息;&nbsp;驾驶舱直观掌握所有设备状态及健康状况(设备运行状态,&nbsp;设备排程，设备稼动率,&nbsp;妥善率）;&nbsp;也可透过驾驶舱控制所有设备；<br>
+需求岗位：全栈开发工程师，数据&amp;测试工程师，设备通信工程师<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,电子、电气、自动化、通信/计算机等相关专业优先考虑；<o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><b>Project 9 Theme: Environmental
+Equipment Central Intelligent Management System<br>
+Project Content:<br>
+Deploy a central control management system to automatically collect equipment
+data in real-time, manage automated test scheduling, intelligent data
+management, and intelligent maintenance &amp; repair systems.<br>
+1. Combine AI intelligence to optimize workflow, transitioning test data from
+manual collection and processing to real-time automated collection and
+automated analysis processing, improving personnel/equipment efficiency.<br>
+2. Combine equipment technical capability database and test plan data to create
+an automated scheduling model for automated test scheduling, saving manpower.<br>
+3. Develop AI models for equipment maintenance and repair, creating predictive
+models based on equipment calibration data, equipment operation parameters,
+environmental data, technical specification parameters, and equipment
+maintenance logs. To predict maintenance/repair trends and risks, ly
+remind maintenance and repair and reduce equipment failure rates.<br>
+4. Establish a user-centered visual cockpit (dashboard, visualization tools...)
+to provide effective information for managerial decision-making; the cockpit
+provides an intuitive view of all equipment statuses and health conditions
+(equipment operation status, equipment scheduling, equipment operation rate,
+and integrity); it also allows control over all equipment via the cockpit.<br>
+Job Requirements: Full Stack Development Engineer, Data &amp; Test Engineer,
+Equipment Communication Engineer<br>
+Preferred Majors: Master's students (graduating in '26/'27), English CET-6,
+preferably in Electronics/Electrical/Automation/Communication/Computer fields;<br>
+<br>
+</b><b>专案十主题：回焊炉</b><b>AI</b><b>调温</b><br>
+专案内容：<br>
+1.&nbsp;实现数据库自动收录温度数据，能快速调取历<br>
+史数据并且通过历史数据创建AI模型。<br>
+2.&nbsp;通过AI模型软件的预测功能，可以仿真出重测的<br>
+结果，减少试错的机率，大幅减少设备调温的<br>
+时间。<br>
+需求岗位：AI软件工程师2人呢，软件开发工程师2人<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,电子/电气计算机/软件等相关专业优先考虑；专案一主题：生产力AI智慧管理<br>
+专案介绍：透过数字广告牌管理系统，AI实时监控生产数据，运用AI智能模型数据库分析数据，进行智能生产排程管理，提升生产效率。<br>
+1.&nbsp;数字广告牌管理系统结合AI人工智能进行数据分析，取代人工数据收集、分析与判断，转换到由AI智能实时收集数据&amp;问题分析，提供异常分析判断资料，提升人员效率。<br>
+2.&nbsp;应用生产力数据数据库数据，提供给AI智能生产排程模型，自动创建生产工单规划，实现自动化最佳排程，节省人力与提升生产效率。<br>
+3.&nbsp;整合数字广告牌管理系统，增加生产力仪表板与可视化工具，实时提供生产信息&amp;生产异常分析数据，提供管理决策者快速有效信息。<br>
+需求岗位：IE工程师、项目管理<br>
+需求专业：硕士在读生(26年/27年毕业)，英语CET-6,工业工程/自动化/机械类专业优先考虑；<o:p></o:p></p>
+<p class="MsoNormal"><b>Project
+10 Theme: Reflow Oven AI Temperature Adjustment<br>
+Project Content:<br>
+1. Automatically record temperature data into the database and quickly retrieve
+historical data to create AI models using historical data.<br>
+2. Use the predictive function of the AI model software to simulate retesting
+results, reducing trial and error chances and significantly reducing device
+temperature adjustment time.<br>
+Job Requirements: AI Software Engineer , Software Development Engineer <br>
+Preferred Majors: Master's students (graduating in '26/'27), English CET-6,
+preferably in Electronics/Electrical/Computer/Software fields;</b><o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><b>四：招募流程</b><o:p></o:p></p>
+<p class="MsoNormal">网申投递&nbsp;&gt;HR初面&gt;笔试&nbsp;&gt;专业初面&gt;专业复面&nbsp;&gt;&nbsp;录用Offer<o:p></o:p></p>
+<p class="MsoNormal"><b>4:
+Recruitment process and presentation time<o:p></o:p></b></p>
+<p class="MsoNormal"><b>Online
+application submission &gt; HR initial interview &gt; Written test &gt;
+Professional initial interview &gt; Professional second interview &gt;
+Employment Offer<o:p></o:p></b></p>
+<p class="MsoNormal"><b>五：联系方式</b><o:p></o:p></p>
+<p class="MsoNormal">邮箱：<a href="mailto:Shier.Deng@liteon.com">Shier.Deng@liteon.com</a><o:p></o:p></p>
+<p class="MsoNormal">微信：xiushier57<o:p></o:p></p>
+<p class="MsoNormal">更多招募信息可登入Boss直聘搜索“光宝电子（东莞）有限公司”进行了解<o:p></o:p></p>
+<p class="MsoNormal"><b>5:
+Contact Information</b><o:p></o:p></p>
+<p class="MsoNormal"><b>Email:
+<a href="mailto:Shier.Deng@liteon.com">Shier.Deng@liteon.com</a><o:p></o:p></b></p>
+<p class="MsoNormal"><b>WeChat:
+xiushier57<o:p></o:p></b></p>
+<p class="MsoNormal"><b>More
+recruitment information can be accessed by logging into Boss Zhipin and
+searching "Lite-On Electronics (Dongguan) Co., Ltd." for further
+details.<o:p></o:p></b></p>
+						</div>
+					</div>
+
+					<div class="con-comk">
+						<div class="con-comtit"><h2>企业简介</h2></div>
+						<div class="con-con">
+							<p class="MsoNormal" style="margin-top:0cm;margin-right:12.95pt;margin-bottom: 6.0pt;margin-left:21.25pt;mso-para-margin-top:0cm;mso-para-margin-right:1.08gd; mso-para-margin-bottom:.5gd;mso-para-margin-left:1.77gd;text-indent:21.25pt; mso-char-indent-count:1.77;line-height:16.0pt;mso-line-height-rule:exactly"><b>光宝科技股份有限公司成立于</b><b>1975</b><b>年</b><b>9</b><b>月，是台湾第一家上市的电子公司。多年发展，不仅成功实现全球运作，还以每年</b><b>25%</b><b>成长率的傲人成绩挤身全球十大光电半导体及电源供应器供应商，成为光宝集团的核心企业。</b><b></b></p>
+<p class="MsoNormal" style="margin-top:0cm;margin-right:12.95pt;margin-bottom: 6.0pt;margin-left:21.25pt;mso-para-margin-top:0cm;mso-para-margin-right:1.08gd; mso-para-margin-bottom:.5gd;mso-para-margin-left:1.77gd;text-indent:21.25pt; mso-char-indent-count:1.77;line-height:16.0pt;mso-line-height-rule:exactly"><b>光宝电子</b><b>(</b><b>东莞</b><b>)</b><b>有限公司是光宝科技股份有限公司在大陆投资的独资企业</b><b>,</b><b>位于交通便利</b><b>，</b><b>环境宜人的长安镇上角工业区</b><b>,</b><b>占地</b><b>87,500</b><b>平方米</b><b>；</b><b>主要产品为开关电源供应器</b><b>(SPS),</b><b>其中</b><b>ADP Power</b><b>全球占有率</b><b>50%</b><b>以上，成为全球前三大</b><b>server power </b><b>和</b><b> PC power</b><b>制造供应商之一，主要客户有</b><b>Apple/OPPO/Dell/Cisco/ Microsoft/Nintendo/Sony</b><b>。</b><b></b></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="xfooter">
+		<div class="xfooter-height"></div>
+		<div class="xfooter-content">
+			<div class="down">
+				<div class="container">
+					未经同意 任何单位和个人不得擅自引用与转载本网站任何信息<br>
+					<a href="http://www.zfsoft.com" target="_blank">技术支持:正方软件股份有限公司</a>&nbsp;&nbsp;&nbsp;Ver V5.10.93<br>
+				</div>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+	$(function(){
+		$('.xfooter > .xfooter-height').height($('.xfooter > .xfooter-content').height());
+	})
+</script></div>
+
+
+	   <!-- page content end -->  
+	   <!-- 	<div class="xfooter">
+		<div class="xfooter-height"></div>
+		<div class="xfooter-content">
+			<div class="down">
+				<div class="container">
+					未经同意 任何单位和个人不得擅自引用与转载本网站任何信息<br>
+					<a href="http://www.zfsoft.com" target="_blank">技术支持:正方软件股份有限公司</a>&nbsp;&nbsp;&nbsp;Ver V5.10.93<br>
+				</div>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+	$(function(){
+		$('.xfooter > .xfooter-height').height($('.xfooter > .xfooter-content').height());
+	})
+</script> -->
+	   </div>
+	</div>
+	<div id="progressbarweb-box">
+		<div class="progressbar">
+			<div class="load-bar">
+				<div class="load-bar-inner" data-loading="0"> <span id="counter"></span> </div>
+			</div>
+			<p id="text-msg">请稍候... </p>
+		</div>
+	</div>
+</body>  
+<script type="text/javascript">
+jQuery(function($) {
+	let h1 = $('#navbar_container').outerHeight(true) ? $('#navbar_container').outerHeight(true) : 0
+	let h2 = $('#footerID').outerHeight(true) ? $('#footerID').outerHeight(true) : 0
+	var pageHeight = $(window).height() - h1 - h2;
+	$('.bodyContainer').css("min-height",pageHeight);
+	toastr.options = {
+		"closeButton": false,
+		"debug": false,
+		"positionClass": "toast-top-center",
+		"showDuration": "300",
+		"hideDuration": "1000",
+		"timeOut": "5000",
+		"extendedTimeOut": "1000",
+		"showEasing": "swing",
+		"hideEasing": "linear",
+		"showMethod": "fadeIn",
+		"hideMethod": "fadeOut"
+	}
+
+	//调整学生单位端日期鼠标移动到日期上，最外层框消失
+	$(document).off('click', '.cond-bar-selected .tag-list-cond a').on('click', '.cond-bar-selected .tag-list-cond a', function () {
+		var $this = $(this);
+		var condTimer;
+		$clps = $($(this).data('href'))
+		$clps.unbind('hover');
+		$clps.hover(function (e) {//鼠标移动进入clps
+			clearTimeout(condTimer);
+		},function (e) {//鼠标移动离开clps的区域范围
+			//clps的区域范围
+			var $new_clps = $($this.data('href'));
+
+			var offset = $new_clps.offset();
+
+			var width = $new_clps.width();
+			var height = $new_clps.height();
+
+			var left = offset.left;
+			var top = offset.top;
+
+			var minX = left;
+			var maxX = left + width;
+			var minY = top;
+			var maxY = top + height;
+
+			var x = e.pageX;
+			var y = e.pageY;
+			if(minX <= x && x <= maxX && minY <= y && y <= maxY){
+				//在范围内，忽略
+			}else{
+				condTimer = setTimeout(function () {
+					$this.parents('.tag-list-cond').find('a[data-href="' + $this.data('href') + '"]').parent('li').removeClass('in');
+					$clps.slideUp(150);
+				},150);
+			}
+		});
+	})
+});
+function showwrapperbox(){
+	$('#progressbarweb-box').show();
+}
+function hidewrapperbox(){
+	$('#progressbarweb-box').hide()
+}
+function wrapperbox(bl,msg){
+	$('#progressbarweb-box .progressbar #counter').html(bl+'%');
+	$('#progressbarweb-box .progressbar #counter').css('left',(3.5*bl-25)+'px');
+	$('#progressbarweb-box .progressbar .load-bar-inner').css('width',bl+'%');
+	$('#progressbarweb-box .progressbar #text-msg').html(msg);
+}
+</script>
+</html>
