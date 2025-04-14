@@ -146,7 +146,7 @@
 	}
 	.mainbox{
 		floal:left;
-		width:350px;
+		width:400px;
 		padding:5px;
 	}
 </style>
@@ -180,7 +180,7 @@
        .intern_list li{
         float:left;
 	padding_left:10px;
-        width:300px;
+        width:350px;
 	height:20px;
         overflow:hidden;
 	}
