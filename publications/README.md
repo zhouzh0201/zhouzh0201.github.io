@@ -200,8 +200,9 @@
         } 
 	</style>
          <!--###############################-->
-<div id="mybox">
-	<div class="container">
+
+<div class="container">
+      <div id="mybox">
           <div class="mainbox">
        <font color="#3bdddd"> interns</font>       
          <ul class="intern_list"> 
