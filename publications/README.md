@@ -249,8 +249,14 @@
   <li><a href="../text/灿芯半导体（上海）股份有限公司.html ">灿芯半导体（上海）</a><span>2025.04.14</span></li>
   <li><a href="../text/百度在线网络技术（北京）有限公司.html">百度在线网络技术（北京）</a><span>2025.04.14</span></li>
   <li><a href="../text/腾讯科技（深圳）有限公司.html ">腾讯科技（深圳）</a><span>2025.04.14</span></li>
-  <li><a href="../text/超参数科技——打造有生命的AI.html"># </a></li>
-  <li><a href="../text/超参数科技——打造有生命的AI.html"># </a></li>    
+  
+  <li><a href="https://whu.applyoffer.com/#/ ">武汉大学校园招聘系列活动招</a><span>2025.04.15</span></li>
+  <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>  
+ <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>  
+ <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>  
+ <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>  
+ <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>  
+ <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>    
           </ul>
         </div>     
       </div>
