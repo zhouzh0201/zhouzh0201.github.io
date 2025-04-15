@@ -1,0 +1,12 @@
+    #mybox{
+	   border: 5px solid red; 
+      }
+	.container{
+		width:90%;	 
+		padding:5px;
+	}
+	.mainbox{
+		floal:left;
+		width:400px;
+		padding:5px;
+	}

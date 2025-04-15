@@ -1,0 +1,27 @@
+       .intern_list*{
+	margin:0;
+	padding:0;
+	list_style:none;
+	text_decoration:none;
+	}
+       .intern_list li{
+        float:left;
+	padding_left:10px;
+        width:350px;
+	height:20px;
+        overflow:hidden;
+	}
+      .intern_list li a {
+       width:200px;
+        float:left;
+	 overflow:hidden;      
+	}
+       .intern_list li a:hover {
+       text_decoration:none;
+       color:#00ffff;
+       }
+        .intern_list li span {
+	 float:left;
+         width:100px;
+	 color:#00ffff;
+        } 
