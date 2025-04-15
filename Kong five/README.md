@@ -286,7 +286,7 @@
  
 <li> <a href="https://xjqi.github.io/ ">齐小娟,
 	  Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab, </a><span>2025.03.05</span> </li>  
-	<li> <a href="https://www.dvlab.ai/ ">Deep Vision Lab （DVLab)</a><font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>	 </a><span>2025.03.05</span> </li>  
+	<li> <a href="https://www.dvlab.ai/ ">Deep Vision Lab （DVLab) <font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>	 </a><span>2025.03.05</span> </li>  
 <li> <a href="https://xjqi.github.io/ ">齐小娟 DeepSeek recommend</a>,<span>2025.03.05</span> </li>   
 	<li> <a href="https://xjqi.github.io/cvmi.html ">Computer Vision and Machine Intelligence Lab (CVMI Lab)</a> ,<span>2025.03.05</span> </li>  
 	<li> <a href="https://www.dvlab.ai/ ">Deep Vision Lab</a>. <span>2025.03.05</span> </li>  
@@ -296,10 +296,9 @@
 	
  <li><a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 
 	 <font color="#ff0000">Ph.D. students, postdocs and interns, We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</font>.
-	 <p>Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction.</p></a> 
-	 <a href="https://yanchaoyang.github.io/ ">Click here</a> 
-	 <span>2025.03.05</span>
- </li>  
+	 <p>Research Interests:Computer Vision, Machine Learning, Representation Learning, Self-Supervised Learning, Geometric Processing, Robotics, and Human-Machine Interaction.</p></a> <span>2025.03.05</span> </li> 
+<li> <a href="https://yanchaoyang.github.io/ ">Click here</a>  <span>2025.03.05</span> </li>  
+
 <!--li><a href="https://datascience.hku.hk/people/ping-luo/"> 罗平</a> 
 	<font color="#ff0000">We are actively recrui Joint Laboratory</font>
          Research Interests:Computer Vision, Machine Learning, Deep Learning.
