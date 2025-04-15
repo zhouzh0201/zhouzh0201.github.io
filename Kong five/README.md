@@ -254,18 +254,21 @@
                         <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>        
 		       <h3>computer vision,齐小娟 DeepSeek recommend</h3>
 		       <!--ul class="clearfix"-->
+	 
 	  <ul class="intern_list">
+   
        <li> <a href="https://www.eee.hku.hk/~ycwu"> 吴一钟Yik-Chung Wu, <font color="#ff0000">To prospective students:    I am actively recruiting Ph.D. students</font> for topics on machine learning, signal processing, and communications.  I am looking for students who are self-motivated, with background in one or more of the following areas: mathematics, statistics, physics, machine learning or signal processing.  Due to the large amount of requesting email, I can only reply to students who can articulate their suitability in my group.  Thank you very much for your interest.</a><span>2025.03.07</span> </li>  
 
 <li>    
     <a href="https://xh-liu.github.io/" target="_blank" title="CGPWB">   刘锡辉/Prof. Xihui Liu 
 	<font color="#ff0000">actively looking for self-motivated Ph.D. students </font>,
 	and visiting students to join my group.
-    <a href="https://mmlab.ie.cuhk.edu.hk/people.html"> HKU-MMLab, </a>
+   
 	      Research Interests：Computer Vision; Machine Learning; Artificial Intelligence . </a> 
            <span>2025.03.08</span> 
       
 </li> 
+<li> <a href="https://mmlab.ie.cuhk.edu.hk/people.html"> HKU-MMLab, </a>  <span>2025.03.08</span> </li> 
 <!--li>    
     <a href="https://www.eee.hku.hk/~elam/ " target="_blank" title="CGPWB">
       <p> Prof. E.Y.M. Lam,<font color="#ff0000">Positions Available </font>,Department of Electrical and Electronic Engineering,Imaging Systems Laboratory,<font color="#ff0000"> Graduate Student Openings </font>,We invite applications from Master and PhD candidates for the next academic year.<span>2025.02.15</span> 
@@ -274,10 +277,10 @@
 </li-->                        
 <!--li>    
     <a href="https://www.eee.hku.hk/~evanpeng/" target="_blank" title="CGPWB">
-      <p> Evan Peng,Yifan (Evan) Peng，彭一帆 Electrical &amp; Electronic Engineering, 
+       Evan Peng,Yifan (Evan) Peng，彭一帆 Electrical &amp; Electronic Engineering, 
          <a href="https://hku.welight.fun/"> WeLight Lab </a>, 
          <font color="#ff0000">We are looking for PhD students and Postdocs (see openings) </font>.  <span>2025.02.15</span>
-        </p>   
+        
       </a>
    </li--> 
  
