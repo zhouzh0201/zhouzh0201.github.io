@@ -340,8 +340,8 @@
 <h3> DeepSeek Recommend: HONORARY PROFESSORS:
 Dr Mia M BENNETT BA (UCLA); MPhil (Cambridge); PhD (UCLA)
 Honorary Assistant Professor, Department of Geography, HKU </h3>
-    
-                        <ul class="clearfix">
+     <ul class="intern_list"> 
+                        <!--ul class="clearfix"-->
     <li><a href="https://geog.hku.hk/p-gong">龚鹏教授/Peng GONG,Vice-President and Pro-Vice-Chancellor
       <font color="#ff0000">Research Interests/Remote Sensing Image Processing, Analysis and Application/GIS Theory, Techniques and Application</font> </a> <span>2025.03.06</span> </li> 
      <li><a href="https://geog.hku.hk/b-huang">黄波教授/Bo HUANG <font color="#ff0000">Research Interests/Spatiotemporal /data analytics</font> </a> <span>2025.03.06</span></li> 
