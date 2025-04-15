@@ -231,7 +231,9 @@
        </div>  
              <!--1.2.%%%%%%%%%-->
 	      
-     
+     <div id="mybox">
+       <div class="container">
+          <div class="mainbox">
         <div class="region"> <h5><img src="icon-new.png"><a href="https://www.eee.hku.hk/">Department of Electrical and Electronic Engineering</a> </h5> </div>
         <div class="index-second">
            <div class="container">
@@ -251,7 +253,8 @@
                      <div class="cont-box latest" style="display: block;">
                         <a href="https://zhouzh0201.github.io/k1/" target="_blank" class="more">more</a>        
 		       <h3>computer vision,齐小娟 DeepSeek recommend</h3>
-		       <ul class="clearfix">
+		       <!--ul class="clearfix"-->
+	  <ul class="intern-list">
        <li> <a href="https://www.eee.hku.hk/~ycwu"> 吴一钟Yik-Chung Wu,</a>. <font color="#ff0000">To prospective students:    I am actively recruiting Ph.D. students</font> for topics on machine learning, signal processing, and communications.  I am looking for students who are self-motivated, with background in one or more of the following areas: mathematics, statistics, physics, machine learning or signal processing.  Due to the large amount of requesting email, I can only reply to students who can articulate their suitability in my group.  Thank you very much for your interest.<span>2025.03.07</span> </li>  
 
 <li>    
@@ -307,7 +310,9 @@
                     </div>       
                 </div>
              </div>              
-        
+        </div>       
+      </div>
+    </div>         
 <!--hr noshade="" /-->
 
  <!--1.3.%%%%%h%%%%-->
