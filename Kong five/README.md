@@ -285,15 +285,14 @@
    </li--> 
  
 <li> <a href="https://xjqi.github.io/ ">齐小娟,
-	  Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab,
-	<a href="https://www.dvlab.ai/ ">Deep Vision Lab （DVLab)</a><font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>	
-<a href="https://xjqi.github.io/ ">齐小娟 DeepSeek recommend</a>, 
-	<a href="https://xjqi.github.io/cvmi.html ">Computer Vision and Machine Intelligence Lab (CVMI Lab)</a> ,
-	<a href="https://www.dvlab.ai/ ">Deep Vision Lab</a>. 
+	  Dept. of Electrical and Electronic Engineering,Please email me if you are interested in joining my lab, </a><span>2025.03.05</span> </li>  
+	<li> <a href="https://www.dvlab.ai/ ">Deep Vision Lab （DVLab)</a><font color="#ff0000"> We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant. </font>	 </a><span>2025.03.05</span> </li>  
+<li> <a href="https://xjqi.github.io/ ">齐小娟 DeepSeek recommend</a>,<span>2025.03.05</span> </li>   
+	<li> <a href="https://xjqi.github.io/cvmi.html ">Computer Vision and Machine Intelligence Lab (CVMI Lab)</a> ,<span>2025.03.05</span> </li>  
+	<li> <a href="https://www.dvlab.ai/ ">Deep Vision Lab</a>. <span>2025.03.05</span> </li>  
 	The Deep Vision Lab (DVLab) is a top-tier research institute on computer vision and machine learning established by Prof. Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.
-	<font color="#ff0000">Join DV Lab in 2022 or later working on exciting and innovative computer vision + machine learning projects! We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.</font>   </a>
-	<span>2025.03.05</span> 
-</li>  
+	<font color="#ff0000">Join DV Lab in 2022 or later working on exciting and innovative computer vision + machine learning projects! We are recruiting Ph.D. and MPhil students, postdoc researchers, and research assistant.</font>  
+	 
 	
  <li><a href="https://datascience.hku.hk/people/yanchao-yang/">杨燕超 
 	 <font color="#ff0000">Ph.D. students, postdocs and interns, We are also considering applications in the 1st Clearing Round for 2025/26, deadline is April 30, 2025.</font>.
