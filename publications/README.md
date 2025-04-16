@@ -257,9 +257,16 @@
  <li><a href="http://www.cese2.com/xyal/index.htm">中国电子系统工程第二建设有限公司</a><span>2025.04.16</span></li>  
  <li><a href="https://cn.zpmc.com/gsjies.aspx">上海振华重工（集团）股份有限公司</a><span>2025.04.16</span></li>  
  <li><a href="https://zjql.cscec.com/">中建桥梁有限公司</a><span>2025.04.16</span></li>  
- <li><a href="http://yichip.com/sztd ">易兆微电子(杭州)股份有限公司</a><span>2025.04.16</span></li>    
-          </ul>
-        </div>     
+ <li><a href="http://yichip.com/sztd ">易兆微电子(杭州)股份有限公司</a><span>2025.04.16</span></li>  
+ <li><a href="https://www.smartsenstech.com/ ">思特威（上海）电子科技股份有限公司 </a><span>2025.04.16</span></li>    
+ <li><a href="https://www.cet-electric.com/">深圳市中电电力技术股份有限公司</a><span>2025.04.16</span></li>    
+ <li><a href="http://photonteck.com/"> 富泰科技（香港）有限公司</a><span>2025.04.16</span></li>    
+ <li><a href="https://reolink.com/">深圳市睿联技术股份有限公司 </a><span>2025.04.16</span></li>  
+ 
+  <li><a href=" "># </a><span>2025.04.16</span></li>    
+  <li><a href=""> # </a><span>2025.04.16</span></li>  
+             </ul>        
+         </div>     
       </div>
     </div>    
   </body>
