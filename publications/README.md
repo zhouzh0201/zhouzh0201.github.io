@@ -139,7 +139,7 @@
 <style>
       #mybox{
 	   border: 5px solid red; 
-	   width:400px;    
+	   width:380px;    
       }
 	.container{
 		width:90%;	 
