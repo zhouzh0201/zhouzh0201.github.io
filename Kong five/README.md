@@ -188,6 +188,11 @@
 		 
 		padding:5px;
 	}
+	 .mainbox{
+		floal:left;
+		width:400px;
+		padding:5px;
+	}
 </style>
  <body>
 <div id="hisbox">
