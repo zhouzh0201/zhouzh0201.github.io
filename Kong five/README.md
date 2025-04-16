@@ -89,11 +89,15 @@
 <style>
       #mybox{
 	   border: 5px solid red; 
+	   width:400px;    
       }
-
 	.container{
-		width:90%;
-		 
+		width:90%; 
+		padding:5px;
+	}
+	.mainbox{
+		floal:left;
+		width:350px;
 		padding:5px;
 	}
 </style>
@@ -180,17 +184,16 @@
   <!--1.1 %%%%%%%%%-->
  <style>
       #hisbox{
-	   border: 5px solid blue; 
+	   border: 5px solid blue;
+	     width:400px  
       }
-
 	.container{
-		width:90%;
-		 
+		width:90%;	 
 		padding:5px;
 	}
 	 .mainbox{
 		floal:left;
-		width:400px;
+		width:350px;
 		padding:5px;
 	}
 </style>
