@@ -256,7 +256,7 @@
  <li><a href="https://www.hundsun.com/">恒生电子股份有限公司</a><span>2025.04.16</span></li>  
  <li><a href="http://www.cese2.com/xyal/index.htm">中国电子系统工程第二建设有限公司</a><span>2025.04.16</span></li>  
  <li><a href="https://cn.zpmc.com/gsjies.aspx">上海振华重工（集团）股份有限公司</a><span>2025.04.16</span></li>  
- <li><a href="https://zjql.cscec.com/ " 中建桥梁有限公司</a><span>2025.04.16</span></li>  
+ <li><a href="https://zjql.cscec.com/">中建桥梁有限公司</a><span>2025.04.16</span></li>  
  <li><a href="http://yichip.com/sztd ">易兆微电子(杭州)股份有限公司</a><span>2025.04.16</span></li>    
           </ul>
         </div>     
