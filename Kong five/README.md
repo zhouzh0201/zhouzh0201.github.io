@@ -9,8 +9,8 @@
   <title>zhouzhonghong - Wuhan University</title>
    <link href="../css/bootstrap.css " rel="stylesheet" />
    <link href="../css/xin.css" rel="stylesheet" />
-   <link href="../css/mybox.css" rel="stylesheet" /> 
-   <link href="../css/intern.css" rel="stylesheet" /> 
+   <!--link href="../css/mybox.css" rel="stylesheet" /--> 
+   <!--link href="../css/intern.css" rel="stylesheet" /--> 
 </head>  
 <body>
   <title>Kong Five</title>
