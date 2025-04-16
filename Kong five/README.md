@@ -192,7 +192,7 @@
 		width:90%;	 
 		padding:5px;
 	}
-	 .mainbox{
+	 .main-box{
 		floal:left;
 		width:350px;
 		padding:5px;
@@ -201,7 +201,7 @@
  <body>
 <div id="hisbox">
 	<div class="container">
-	  <div class="mainbox">	
+	  <div class="main-box">	
 <div class="index-title  clearfix">
                     <h5><img src="icon-new.png" /><a href="https://www.cs.hku.hk/"> Department of Computer Science </a> </h5>
 		    </div> 
@@ -211,16 +211,22 @@
    
   <li>
      <a href="http://www.cs.hku.hk/~yzyu/" target="_blank" title="CGPWB"> 
-         <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font> <span>2025.02.17</span> 
+         <p>  于义洲/Yu, Yizhou,<font color="#ff0000"> Group Leade ,Research Interests： Artificial Intelligence (AI)  </font> Machine Learning, Computer Vision, Visual Media, VR/AR <font color="#ff0000"> the director of AI Lab</font>
          </p>
-     </a>  
+     </a>   <span>2025.02.17</span> 
   </li>        
      
-     <li> <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB"> 马毅/Ma, Yi </a> <font color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,Inaugural Director of Institute of Data Science (IDS), the University of Hong Kong.</font> <span>2025.02.15 </span>         </li>  
-      <li> <a href="https://datascience.hku.hk/" target="_blank" title="CGPWB">  马毅/Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS),  </a> <font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>. <span>2025.02.15 </span>       </li>          
-      <li><a href="https://datascience.hku.hk/ "> HKU Institute of Data Science (HKU-IDS) </a> <font color="#ff0000">HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision, </font>.Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision   <span>2025.03.05  </span>  </li> 
-     <li><a href="https://www.dvlab.ai/ "> Deep Vision Lab (DVLab) </a> <font color="#ff0000">Deep Vision Lab （DVLab） </font>.is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.   <span>2025.03.05  </span> </li>
-     <li><a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a> . <a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab</a>,<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:<a href="https://aiot.hku.hk/openings/"><i class="fa fa-hand-point-right"></i> Prospective Students</a></font>.  <span>2025.03.05 </span>  </li> 
+     <li> <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi/" target="_blank" title="CGPWB"> 马毅/Ma, Yi  <font color="#ff0000">Director, HKU School of Computing and Data Science,Professor, Chair of Artificial Intelligence,Inaugural Director of Institute of Data Science (IDS), the University of Hong Kong.</font></a> <span>2025.02.15 </span>         </li>  
+     
+      <li> <a href="https://datascience.hku.hk/" target="_blank" title="CGPWB">  马毅/Ma, Yi Chair of HKU Musketeers Foundation Institute of Data Science (HKU-IDS),<font color="#ff0000">Join HKU IDS via the Summer Research Programme 2025!</font>.   </a> <span>2025.02.15 </span>       </li>    
+      
+      <li><a href="https://datascience.hku.hk/ "> HKU Institute of Data Science (HKU-IDS) <font color="#ff0000">HKU-IDS: Research Area : Robotics,Embodied AI, Multimodal Foundation Model , Machine Learning, Computer Vision, </font>.Robot Learning, Embodied AI,Medicinal Artificial Intellgience, Robotics,omputer Vision </a>   <span>2025.03.05  </span>  </li> 
+      
+     <li><a href="https://www.dvlab.ai/ "> Deep Vision Lab (DVLab)<font color="#ff0000">Deep Vision Lab （DVLab） </font>.is a top-tier research institute on computer vision and machine learning established by Professor at CUHK Prof Jiaya Jia. DV Lab now has six faculty members and more than 40 graduate students pursuing cutting-edge research in areas like image/video/3D point cloud understanding, image editing and enhancement, generation and reconstruction, multi-modal artificial intelligence, feature learning, network architecture search, and automated machine learning.  </a>   <span>2025.03.05  </span> </li>
+     
+     <li><a href="https://www.cs.hku.hk/~chenshu/">吴晨曙</a><span>2025.03.05  </span> </li> .
+     <li> <a href="https://aiot.hku.hk/"> HKU AIoT (Artificial Intelligence of Things) Lab<font color="#ff0000"> I am actively looking for highly self-motivated PhD students to work on AIoT systems, with potential HKPF and HKU-PS scholarships. If you are interested, please drop me an email. Multiple PhD, postdoc, and RA positions are available. Check out more details here:</font>.</a><span>2025.03.05  </span> </li>,
+     <li> <a href="https://aiot.hku.hk/openings/"><font color="#ff0000">Check out more details here:<i class="fa fa-hand-point-right"></i> Prospective Students</font>.  </a><span>2025.03.05 </span>  </li> 
 
      
   
