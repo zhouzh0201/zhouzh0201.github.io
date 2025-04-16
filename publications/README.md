@@ -139,7 +139,7 @@
 <style>
       #mybox{
 	   border: 5px solid red; 
-	   width:380px;    
+	   width:90%;    
       }
 	.container{
 		width:90%;	 
@@ -147,7 +147,7 @@
 	}
 	.mainbox{
 		floal:left;
-		width:380px;
+		width:400px;
 		padding:5px;
 	}
 </style>
