@@ -1,5 +1,6 @@
     #mybox{
 	   border: 5px solid red; 
+                   width:380px;
       }
 	.container{
 		width:90%;	 
@@ -7,6 +8,6 @@
 	}
 	.mainbox{
 		floal:left;
-		width:400px;
+		width:380px;
 		padding:5px;
 	}
