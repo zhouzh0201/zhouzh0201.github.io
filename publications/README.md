@@ -252,12 +252,12 @@
   <li><a href="../text/腾讯科技（深圳）有限公司.html ">腾讯科技（深圳）</a><span>2025.04.14</span></li>
   
   <li><a href="https://whu.applyoffer.com/#/ ">武汉大学校园招聘系列活动招</a><span>2025.04.15</span></li>
-  <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>  
- <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>  
- <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>  
- <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>  
- <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>  
- <li><a href="../text/超参数科技——打造有生命的AI.html"># </a><span>2025.04.14</span></li>    
+  <li><a href="https://www.fiberhome.com/ ">烽火通信</a><span>2025.04.16</span></li>  
+ <li><a href="https://www.hundsun.com/">恒生电子股份有限公司</a><span>2025.04.16</span></li>  
+ <li><a href="http://www.cese2.com/xyal/index.htm">中国电子系统工程第二建设有限公司</a><span>2025.04.16</span></li>  
+ <li><a href="https://cn.zpmc.com/gsjies.aspx">上海振华重工（集团）股份有限公司</a><span>2025.04.16</span></li>  
+ <li><a href="https://zjql.cscec.com/ " 中建桥梁有限公司</a><span>2025.04.16</span></li>  
+ <li><a href="http://yichip.com/sztd ">易兆微电子(杭州)股份有限公司</a><span>2025.04.16</span></li>    
           </ul>
         </div>     
       </div>
