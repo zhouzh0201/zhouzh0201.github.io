@@ -197,6 +197,7 @@
  <body>
 <div id="hisbox">
 	<div class="container">
+	  <div class="mainbox">	
 <div class="index-title  clearfix">
                     <h5><img src="icon-new.png" /><a href="https://www.cs.hku.hk/"> Department of Computer Science </a> </h5>
 		    </div> 
@@ -222,7 +223,8 @@
 <script>_showDynClickBatch(['dynclicks_u8_50421','dynclicks_u8_50381','dynclicks_u8_50361','dynclicks_u8_50201','dynclicks_u8_50261','dynclicks_u8_50171','dynclicks_u8_49971','dynclicks_u8_49911'],[50421,50381,50361,50201,50261,50171,49971,49911],"wbnews", 1852176512)</script>
 </ul>                       
                       </div>
-                   </div>                   
+                   </div>  
+	      </div>      
   </body>
   
   <!--1.2.%%%%%%%%%-->
