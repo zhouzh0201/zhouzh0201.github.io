@@ -147,7 +147,7 @@
 	}
 	.mainbox{
 		floal:left;
-		width:400px;
+		width:380px;
 		padding:5px;
 	}
 </style>
