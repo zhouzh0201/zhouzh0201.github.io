@@ -207,9 +207,13 @@
           <div class="mainbox">
        <font color="#3bdddd"> interns</font>       
          <ul class="intern_list"> 
-		 
-  <li><a href=" "># </a><span>2025.04.16</span></li>    
-  <li><a href=""> # </a><span>2025.04.16</span></li>  
+
+  <li><a href=" "># </a><span>2025.04.16</span></li>  
+<li><a href=" "># </a><span>2025.04.16</span></li> 
+<li><a href=" "># </a><span>2025.04.16</span></li> 		 
+<li><a href=" "># </a><span>2025.04.16</span></li> 		 
+  <li><a href="https://career.huawei.com/reccampportal/portal5/campus-recruitment.html">华为技术有限公司</a><span>2025.04.17</span></li>    
+  <li><a href="https://job.zte.com.cn/cn/">中兴通讯股份有限公司</a><span>2025.04.17</span></li>  
 		 
   <li><a href="https://www.fiberhome.com/ ">烽火通信（武汉）</a><span>2025.04.16</span></li>  
  <li><a href="https://www.hundsun.com/">恒生电子股份有限公司（杭州市）</a><span>2025.04.16</span></li>  
