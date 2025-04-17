@@ -242,7 +242,7 @@
   
   <li><a href="../text/上海 太保科技.html">太保科技上海 </a><span>2025.04.14</span></li>
   <li><a href="../text/上海海曦技术有限公司.html">上海海曦技术有限公司</a><span>2025.04.14</span></li>
-  <li><a href="../text/中国长江三峡集团招聘.html">中国长江三峡集团</a><span>2025.04.14</span></li>
+  <li><a href="https://chrcmp.chinahr.com/pages/sanxia/#/">中国长江三峡集团</a><span>2025.04.14</span></li>
   <li><a href="../text/光宝电子（东莞）有限公司.html">光宝电子（东莞）有限公司</a><span>2025.04.14</span></li>
   <li><a href="../text/广州多益网络有限公司.html">广州多益网络有限公司</a><span>2025.04.14</span></li>
   <li><a href="../text/招商证券.html">招商证券 </a><span>2025.04.14</span></li>
