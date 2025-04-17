@@ -207,6 +207,31 @@
           <div class="mainbox">
        <font color="#3bdddd"> interns</font>       
          <ul class="intern_list"> 
+		 
+  <li><a href=" "># </a><span>2025.04.16</span></li>    
+  <li><a href=""> # </a><span>2025.04.16</span></li>  
+		 
+  <li><a href="https://www.fiberhome.com/ ">烽火通信（武汉）</a><span>2025.04.16</span></li>  
+ <li><a href="https://www.hundsun.com/">恒生电子股份有限公司（杭州市）</a><span>2025.04.16</span></li>  
+ <li><a href="http://www.cese2.com/xyal/index.htm">中国电子系统工程第二建设有限公司（无锡市）</a><span>2025.04.16</span></li>  
+ <li><a href="https://cn.zpmc.com/gsjies.aspx">上海振华重工（集团）股份有限公司</a><span>2025.04.16</span></li>  
+ <li><a href="https://zjql.cscec.com/">中建桥梁有限公司（北京）</a><span>2025.04.16</span></li>  
+ <li><a href="http://photonteck.com/"> 富泰科技（香港）有限公司（香港&武汉）</a><span>2025.04.16</span></li>    
+ 
+  <li><a href="https://whu.applyoffer.com/#/ ">武汉大学校园招聘系列活动招</a><span>2025.04.15</span></li>
+   
+ <li><a href="../text/上海 太保科技.html">太保科技上海 </a><span>2025.04.14</span></li>
+  <li><a href="../text/上海海曦技术有限公司.html">上海海曦技术有限公司</a><span>2025.04.14</span></li>
+  <li><a href="https://chrcmp.chinahr.com/pages/sanxia/#/">中国长江三峡集团</a><span>2025.04.14</span></li> 
+  <li><a href="../text/招商证券.html">招商证券 </a><span>2025.04.14</span></li>
+ 
+  <li><a href="../text/百度在线网络技术（北京）有限公司.html">百度在线网络技术（北京）</a><span>2025.04.14</span></li>
+  <li><a href="../text/腾讯科技（深圳）有限公司.html ">腾讯科技（深圳）</a><span>2025.04.14</span></li>
+  
+     <li><a href="../text/www.cs.hku.hk.html">hku</a> <span>2025.03.25</span></li> 
+     <li><a href="../text/曲良琼.html">hku  曲良琼 </a> <span>2025.03.25</span></li>
+     <li><a href="../ text/李佳阳.html"> hku李佳阳</a> <span>2025.03.25</span></li>
+     
      <li><a href="../text/阿里巴巴集团官方网站.html">阿里巴巴 </a><span>2025.03.24</span></li>
      <li><a href="../text/侯邦璿，达摩院.html"> 达摩院侯邦璿</a> <span>2025.03.24</span></li>  
      <li><a  href="../text/NVIDIA英伟达/NVIDIA 学习和感知研究.html">英伟达</a> <span>2025.03.24</span></li>            
@@ -223,48 +248,16 @@
     <li><a href="../text/Yanpei Cao (曹炎培).html">腾讯PCG Lab曹炎培</a> <span>2025.03.24</span></li>
     <li><a href="../text/AI Frameworks & Tools.html">英特尔亚太 </a> <span>2025.03.24</span></li>
      <li><a href="../text/MEGVII旷视科技-让物理世界更美好.html"> 旷视科技</a> <span>2025.03.24</span></li>
-     <li><a href="../text/SmartMore 智能更多.html">智能更多 </a> <span>2025.03.24</span></li>     
-    <li><a href="../text/俞涛 - Amazon Science.html">Amazon俞涛</a> <span>2025.03.24</span></li>
-													      
+    <li><a href="../text/俞涛 - Amazon Science.html">Amazon俞涛</a> <span>2025.03.24</span></li>												      
      <li><a href="../text/在世界各地工作的 Microsoft 研究人员和工程师.html"> Microsoft</a> <span>2025.03.24</span></li>
      <li><a href="../text/字节跳动.html">字节跳动 </a> <span>2025.03.24</span></li>
      <li><a href="../text/李磊.html">字节跳动李磊</a> <span>2025.03.24</span></li>
      <li><a href="../text/孔涛.html">字节跳动孔涛</a> <span>2025.03.24</span></li>
      <li><a href="../text/上海期智研究院.html">上海期智研究院</a> <span>2025.03.24</span></li>
-     <li><a href="../text/www.cs.hku.hk.html">hku</a> <span>2025.03.24</span></li> 
-     <li><a href="../text/曲良琼.html">hku  曲良琼 </a> <span>2025.03.25</span></li>
-     <li><a href="../ text/李佳阳.html"> hku李佳阳</a> <span>2025.03.25</span></li>
      <li><a href="../text/Adobe 研究院.html">Adobe 研究院</a> <span>2025.03.24</span></li>
      <li><a href="../text/九香谷.html">Adobe 研究院九香谷</a> <span>2025.03.24</span></li>
-     <li><a href="../text/Mistral 人工智能 _Frontier AI 尽在掌握.html">Mistral 人工智能</a> <span>2025.03.24</span></li>
-     <li><a href="../text/超参数科技——打造有生命的AI.html">超参数科技 </a> <span>2025.03.24</span></li>
-       
-  
-  <li><a href="../text/上海 太保科技.html">太保科技上海 </a><span>2025.04.14</span></li>
-  <li><a href="../text/上海海曦技术有限公司.html">上海海曦技术有限公司</a><span>2025.04.14</span></li>
-  <li><a href="https://chrcmp.chinahr.com/pages/sanxia/#/">中国长江三峡集团</a><span>2025.04.14</span></li>
-  <li><a href="../text/光宝电子（东莞）有限公司.html">光宝电子（东莞）有限公司</a><span>2025.04.14</span></li>
-  <li><a href="../text/广州多益网络有限公司.html">广州多益网络有限公司</a><span>2025.04.14</span></li>
-  <li><a href="../text/招商证券.html">招商证券 </a><span>2025.04.14</span></li>
-  <li><a href="../text/武汉天波博创科技有限公司.html">武汉天波博创科技有限公司 </a><span>2025.04.14</span></li>
-  <li><a href="../text/灿芯半导体（上海）股份有限公司.html ">灿芯半导体（上海）</a><span>2025.04.14</span></li>
-  <li><a href="../text/百度在线网络技术（北京）有限公司.html">百度在线网络技术（北京）</a><span>2025.04.14</span></li>
-  <li><a href="../text/腾讯科技（深圳）有限公司.html ">腾讯科技（深圳）</a><span>2025.04.14</span></li>
-  
-  <li><a href="https://whu.applyoffer.com/#/ ">武汉大学校园招聘系列活动招</a><span>2025.04.15</span></li>
-  <li><a href="https://www.fiberhome.com/ ">烽火通信（武汉）</a><span>2025.04.16</span></li>  
- <li><a href="https://www.hundsun.com/">恒生电子股份有限公司（杭州市）</a><span>2025.04.16</span></li>  
- <li><a href="http://www.cese2.com/xyal/index.htm">中国电子系统工程第二建设有限公司（无锡市）</a><span>2025.04.16</span></li>  
- <li><a href="https://cn.zpmc.com/gsjies.aspx">上海振华重工（集团）股份有限公司</a><span>2025.04.16</span></li>  
- <li><a href="https://zjql.cscec.com/">中建桥梁有限公司（北京）</a><span>2025.04.16</span></li>  
- <li><a href="http://yichip.com/sztd ">易兆微电子(杭州)股份有限公司</a><span>2025.04.16</span></li>  
- <li><a href="https://www.smartsenstech.com/ ">思特威（上海）电子科技股份有限公司 </a><span>2025.04.16</span></li>    
- <li><a href="https://www.cet-electric.com/">深圳市中电电力技术股份有限公司</a><span>2025.04.16</span></li>    
- <li><a href="http://photonteck.com/"> 富泰科技（香港）有限公司（香港&武汉）</a><span>2025.04.16</span></li>    
- <li><a href="https://reolink.com/">深圳市睿联技术股份有限公司 </a><span>2025.04.16</span></li>  
  
-  <li><a href=" "># </a><span>2025.04.16</span></li>    
-  <li><a href=""> # </a><span>2025.04.16</span></li>  
+
              </ul>        
          </div>     
       </div>
