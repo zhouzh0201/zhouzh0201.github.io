@@ -209,18 +209,16 @@
          <ul class="intern_list"> 
 
   <li><a href=" "># </a><span>2025.04.16</span></li>  
-<li><a href=" "># </a><span>2025.04.16</span></li> 
-<li><a href=" "># </a><span>2025.04.16</span></li> 	
+  <li><a href=" "># </a><span>2025.04.16</span></li> 
+  <li><a href="https://www.boc.cn/index.html">中国银行股份有限公司</a><span>2025.04.18</span></li> 	
 
-  <li><a href="https://hr.xiaomi.com/">小米招聘</a> <span>2025.04.17</span></li> 		 
+  <li><a href="https://hr.xiaomi.com/">小米</a> <span>2025.04.17</span></li> 		 
   <li><a href="https://career.huawei.com/reccampportal/portal5/campus-recruitment.html">华为技术有限公司</a><span>2025.04.17</span></li>    
   <li><a href="https://job.zte.com.cn/cn/">中兴通讯股份有限公司</a><span>2025.04.17</span></li>  
 		 
   <li><a href="https://www.fiberhome.com/ ">烽火通信（武汉）</a><span>2025.04.16</span></li>  
- <li><a href="https://www.hundsun.com/">恒生电子股份有限公司（杭州市）</a><span>2025.04.16</span></li>  
+  <li><a href="https://www.hundsun.com/">恒生电子股份有限公司（杭州市）</a><span>2025.04.16</span></li>  
  <li><a href="http://www.cese2.com/xyal/index.htm">中国电子系统工程第二建设有限公司（无锡市）</a><span>2025.04.16</span></li>  
- <li><a href="https://cn.zpmc.com/gsjies.aspx">上海振华重工（集团）股份有限公司</a><span>2025.04.16</span></li>  
- <li><a href="https://zjql.cscec.com/">中建桥梁有限公司（北京）</a><span>2025.04.16</span></li>  
  <li><a href="http://photonteck.com/"> 富泰科技（香港）有限公司（香港&武汉）</a><span>2025.04.16</span></li>    
  
   <li><a href="https://whu.applyoffer.com/#/ ">武汉大学校园招聘系列活动招</a><span>2025.04.15</span></li>
