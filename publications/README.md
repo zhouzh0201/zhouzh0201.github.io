@@ -209,7 +209,7 @@
          <ul class="intern_list"> 
 
   <li><a href=" ">#</a><span>2025.04.16</span></li>  
-  <li><a href="https://job.10086.cn/"> 中国移动</a><span>2025.04.16</span></li> 
+  <li><a href="https://job.10086.cn/"> 中国移动</a><span>2025.04.18</span></li> 
   <li><a href="https://www.boc.cn/index.html">中国银行股份有限公司</a><span>2025.04.18</span></li> 	
 
   <li><a href="https://hr.xiaomi.com/">小米</a> <span>2025.04.17</span></li> 		 
