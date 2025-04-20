@@ -200,7 +200,7 @@
 	 color:#00ffff;
         } 
 	</style>
-         <!--###############################-->https://campushr.hikvision.com/home
+         <!--###############################--> 
 
    <div id="mybox">
       <div class="container">
@@ -212,9 +212,9 @@
    <li><a href="https://www.cambricon.com/ "> 寒武纪</a><span> 2025.04.20</span></li>	
    <li><a href="https://xverse.zhiye.com/intern/jobs ">元象科技</a><span> 2025.04.20</span></li> 	
    <li><a href="https://www.arcsoft.com.cn/job/CadetIntroduce.html">虹软科技 </a><span> 2025.04.20</span></li> 
-    <li><a href="https://www.yitutech.com/cn/join-us">  依图科技 </a><span> 2025.04.20</span></li>  
+    <li><a href="https://www.yitutech.com/cn/join-us">依图科技 </a><span> 2025.04.20</span></li>  
    <li><a href="https://intsig.zhiye.com/intern/jobs ">合合信息</a><span> 2025.04.20</span></li>  
-   <li><a href="https://mediatek.zhiye.com/campus/jobs"> 联发科技</a><span> 2025.04.20</span></li>   
+   <li><a href="https://mediatek.zhiye.com/campus/jobs">联发科技</a><span> 2025.04.20</span></li>   
    <li><a href="https://campushr.hikvision.com/home">海康威视 </a><span> 2025.04.20</span></li> 
  
   <li><a href="https://job.10086.cn/"> 中国移动</a><span>2025.04.18</span></li> 
