@@ -200,15 +200,23 @@
 	 color:#00ffff;
         } 
 	</style>
-         <!--###############################-->
+         <!--###############################-->https://campushr.hikvision.com/home
 
    <div id="mybox">
       <div class="container">
           <div class="mainbox">
        <font color="#3bdddd"> interns</font>       
          <ul class="intern_list"> 
-
-  <li><a href="https://www.hk.chinamobile.com/sc ">中国移动香港</a><span>2025.04.18</span></li>  
+ <li><a href=" "> #</a><span> 2025.04.20</span></li>  
+ 
+   <li><a href="https://www.cambricon.com/ "> 寒武纪</a><span> 2025.04.20</span></li>	
+   <li><a href="https://xverse.zhiye.com/intern/jobs ">元象科技</a><span> 2025.04.20</span></li> 	
+   <li><a href="https://www.arcsoft.com.cn/job/CadetIntroduce.html">虹软科技 </a><span> 2025.04.20</span></li> 
+    <li><a href="https://www.yitutech.com/cn/join-us">  依图科技 </a><span> 2025.04.20</span></li>  
+   <li><a href="https://intsig.zhiye.com/intern/jobs ">合合信息</a><span> 2025.04.20</span></li>  
+   <li><a href="https://mediatek.zhiye.com/campus/jobs"> 联发科技</a><span> 2025.04.20</span></li>   
+   <li><a href="https://campushr.hikvision.com/home">海康威视 </a><span> 2025.04.20</span></li> 
+ 
   <li><a href="https://job.10086.cn/"> 中国移动</a><span>2025.04.18</span></li> 
   <li><a href="https://www.boc.cn/index.html">中国银行股份有限公司</a><span>2025.04.18</span></li> 	
 
